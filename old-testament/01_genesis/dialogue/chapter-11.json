@@ -1,0 +1,33 @@
+{
+  "chapter": 11,
+  "dialogue": [
+    {
+      "verse": 3,
+      "speaker": "people-of-babel",
+      "startWord": 3,
+      "endWord": 7,
+      "englishText": "Come, let us make bricks and burn them thoroughly"
+    },
+    {
+      "verse": 4,
+      "speaker": "people-of-babel",
+      "startWord": 1,
+      "endWord": 10,
+      "englishText": "Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be scattered over the face of the whole earth"
+    },
+    {
+      "verse": 6,
+      "speaker": "yhwh",
+      "startWord": 2,
+      "endWord": 17,
+      "englishText": "Behold, they are one people and they all have one language, and this is only the beginning of what they will do; nothing they propose to do will now be impossible for them"
+    },
+    {
+      "verse": 7,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Come, let us go down and there confuse their language so that they may not understand one another's speech"
+    }
+  ]
+}

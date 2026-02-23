@@ -1,0 +1,30 @@
+38:1 [0]vayehiy [1]baeit [2]hahiv [3]vayeired [4]yehudah [5]meieit [6]echayv [7]vayeit [8]ad-iysh [9]adulamiy [10]ushemo [11]chiyrah
+38:2 [0]vayare-sham [1]yehudah [2]bat-iysh [3]kenaaniy [4]ushemo [5]shua [6]vayiqacheha [7]vayavo [8]eileyha
+38:3 [0]vatahar [1]vateiled [2]bein [3]vayiqera [4]et-shemo [5]eir
+38:4 [0]vatahar [1]od [2]vateiled [3]bein [4]vatiqera [5]et-shemo [6]onan
+38:5 [0]vatosef [1]od [2]vateiled [3]bein [4]vatiqera [5]et-shemo [6]sheilah [7]vehayah [8]vikheziyv [9]belidetah [10]oto
+38:6 [0]vayiqach [1]yehudah [2]ishah [3]leeir [4]bekhoro [5]ushemah [6]tamar
+38:7 [0]vayehiy [1]eir [2]bekhor [3]yehudah [4]ra [5]beeiyneiy [6]yehvah [7]vayemiteihu [8]yehvah
+38:8 [0]vayomer [1]yehudah [2]leonan [3]bo [4]el-eishet [5]achiykha [6]veyabeim [7]otah [8]vehaqeim [9]zera [10]leachiykha
+38:9 [0]vayeida [1]onan [2]kiy [3]lo [4]lo [5]yiheyeh [6]hazara [7]vehayah [8]im-ba [9]el-eishet [10]achiyv [11]veshicheit [12]aretsah [13]leviletiy [14]netan-zera [15]leachiyv
+38:10 [0]vayeira [1]beeiyneiy [2]yehvah [3]asher [4]asah [5]vayamet [6]gam-oto
+38:11 [0]vayomer [1]yehudah [2]letamar [3]kalato [4]sheviy [5]alemanah [6]veiyt-aviykhe [7]ad-yigedal [8]sheilah [9]veney [10]kiy [11]amar [12]pen-yamut [13]gam-hu [14]keechayv [15]vateilekhe [16]tamar [17]vateishev [18]beiyt [19]aviyha
+38:12 [0]vayirebu [1]hayamiym [2]vatamat [3]bat-shua [4]eishet-yehudah [5]vayinachem [6]yehudah [7]vayaal [8]al-gozazeiy [9]tsono [10]hu [11]vechiyrah [12]reieihu [13]haadulamiy [14]timenatah
+38:13 [0]vayugad [1]letamar [2]leimor [3]hineih [4]chamiykhe [5]oleh [6]timenatah [7]lagoz [8]tsono
+38:14 [0]vatasar [1]bigedeiy [2]alemenutah [3]meialeyha [4]vatekhas [5]batsaiyf [6]vatitealaf [7]vateishev [8]befetach [9]eiynayim [10]asher [11]al-derekhe [12]timenatah [13]kiy [14]raatah [15]kiy-gadal [16]sheilah [17]vehiv [18]lo-nitenah [19]lo [20]leishah
+38:15 [0]vayireeha [1]yehudah [2]vayachesheveha [3]lezonah [4]kiy [5]khisetah [6]paneyha
+38:16 [0]vayeit [1]eileyha [2]el-haderekhe [3]vayomer [4]havah-na [5]avo [6]eilayikhe [7]kiy [8]lo [9]yada [10]kiy [11]khalato [12]hiv [13]vatomer [14]mah-titen-liy [15]kiy [16]tavo [17]eilay
+38:17 [0]vayomer [1]anokhiy [2]ashalach [3]gediy-iziym [4]min-hatson [5]vatomer [6]im-titein [7]eiravon [8]ad [9]shalechekha
+38:18 [0]vayomer [1]mah [2]haeiravon [3]asher [4]eten-lakhe [5]vatomer [6]chotamekha [7]ufetiylekha [8]umatekha [9]asher [10]beyadekha [11]vayiten-lah [12]vayavo [13]eileyha [14]vatahar [15]lo
+38:19 [0]vataqam [1]vateilekhe [2]vatasar [3]tseiyfah [4]meialeyha [5]vatilebash [6]bigedeiy [7]alemenutah
+38:20 [0]vayishelach [1]yehudah [2]et-gediy [3]haiziym [4]beyad [5]reieihu [6]haadulamiy [7]laqachat [8]haeiravon [9]miyad [10]haishah [11]velo [12]metsaah
+38:21 [0]vayisheal [1]et-anesheiy [2]meqomah [3]leimor [4]ayeih [5]haqedeishah [6]hiv [7]vaeiynayim [8]al-hadarekhe [9]vayomeru [10]lo-hayetah [11]vazeh [12]qedeishah
+38:22 [0]vayashav [1]el-yehudah [2]vayomer [3]lo [4]metsatiyha [5]vegam [6]anesheiy [7]hamaqom [8]ameru [9]lo-hayetah [10]vazeh [11]qedeishah
+38:23 [0]vayomer [1]yehudah [2]tiqach-lah [3]pen [4]niheyeh [5]lavuz [6]hineih [7]shalachetiy [8]hagediy [9]hazeh [10]veatah [11]lo [12]metsatah
+38:24 [0]vayehiy [1]kemishelosh [2]chodashiym [3]vayugad [4]liyhudah [5]leimor [6]zanetah [7]tamar [8]kalatekha [9]vegam [10]hineih [11]harah [12]lizenuniym [13]vayomer [14]yehudah [15]hotsiyuha [16]vetisareif
+38:25 [0]hiv [1]mutseit [2]vehiy [3]shalechah [4]el-chamiyha [5]leimor [6]leiysh [7]asher-eileh [8]lo [9]anokhiy [10]harah [11]vatomer [12]haker-na [13]lemiy [14]hachotemet [15]vehapetiyliym [16]vehamateh [17]haeileh
+38:26 [0]vayakeir [1]yehudah [2]vayomer [3]tsadeqah [4]mimeniy [5]kiy-al-kein [6]lo-netatiyha [7]lesheilah [8]veniy [9]velo-yasaf [10]od [11]ledaetah
+38:27 [0]vayehiy [1]beeit [2]lidetah [3]vehineih [4]teomiym [5]bevitenah
+38:28 [0]vayehiy [1]velidetah [2]vayiten-yad [3]vatiqach [4]hameyaledet [5]vatiqeshor [6]al-yado [7]shaniy [8]leimor [9]zeh [10]yatsa [11]rishonah
+38:29 [0]vayehiy [1]kemeishiyv [2]yado [3]vehineih [4]yatsa [5]achiyv [6]vatomer [7]mah-paratseta [8]aleykha [9]parets [10]vayiqera [11]shemo [12]parets
+38:30 [0]veachar [1]yatsa [2]achiyv [3]asher [4]al-yado [5]hashaniy [6]vayiqera [7]shemo [8]zarach

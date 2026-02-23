@@ -1,0 +1,35 @@
+26:1 [0]vayehiy [1]raav [2]baarets [3]milevad [4]haraav [5]harishon [6]asher [7]hayah [8]biymeiy [9]averaham [10]vayeilekhe [11]yitsechaq [12]el-aviymelekhe [13]melekhe-pelishetiym [14]gerarah
+26:2 [0]vayeira [1]eilayv [2]yehvah [3]vayomer [4]al-teireid [5]mitserayemah [6]shekhon [7]baarets [8]asher [9]omar [10]eileykha
+26:3 [0]gur [1]baarets [2]hazot [3]veeheyeh [4]imekha [5]vaavarekheka [6]kiy-lekha [7]ulezareakha [8]etein [9]et-kal-haaratsot [10]haeil [11]vahaqimotiy [12]et-hashevuah [13]asher [14]nishebaetiy [15]leaveraham [16]aviykha
+26:4 [0]vehirebeiytiy [1]et-zareakha [2]kekhokheveiy [3]hashamayim [4]venatatiy [5]lezareakha [6]eit [7]kal-haaratsot [8]haeil [9]vehitebarakhu [10]vezareakha [11]kol [12]goyeiy [13]haarets
+26:5 [0]eiqev [1]asher-shama [2]averaham [3]beqoliy [4]vayishemor [5]mishemaretiy [6]mitseotay [7]chuqotay [8]vetorotay
+26:6 [0]vayeishev [1]yitsechaq [2]bigerar
+26:7 [0]vayishealu [1]anesheiy [2]hamaqom [3]leisheto [4]vayomer [5]achotiy [6]hiv [7]kiy [8]yarei [9]leimor [10]ishetiy [11]pen-yahareguniy [12]anesheiy [13]hamaqom [14]al-riveqah [15]kiy-tovat [16]mareeh [17]hiy
+26:8 [0]vayehiy [1]kiy [2]arekhu-lo [3]sham [4]hayamiym [5]vayasheqeif [6]aviymelekhe [7]melekhe [8]pelishetiym [9]bead [10]hachalon [11]vayare [12]vehineih [13]yitsechaq [14]metsacheiq [15]eit [16]riveqah [17]isheto
+26:9 [0]vayiqera [1]aviymelekhe [2]leyitsechaq [3]vayomer [4]akhe [5]hineih [6]ishetekha [7]hiv [8]veeiykhe [9]amareta [10]achotiy [11]hiv [12]vayomer [13]eilayv [14]yitsechaq [15]kiy [16]amaretiy [17]pen-amut [18]aleyha
+26:10 [0]vayomer [1]aviymelekhe [2]mah-zot [3]asiyta [4]lanu [5]kimeat [6]shakhav [7]achad [8]haam [9]et-ishetekha [10]veheiveita [11]aleiynu [12]asham
+26:11 [0]vayetsav [1]aviymelekhe [2]et-kal-haam [3]leimor [4]hanogeia [5]baiysh [6]hazeh [7]uveisheto [8]mot [9]yumat
+26:12 [0]vayizera [1]yitsechaq [2]baarets [3]hahiv [4]vayimetsa [5]bashanah [6]hahiv [7]meiah [8]sheariym [9]vayevarakheihu [10]yehvah
+26:13 [0]vayigedal [1]haiysh [2]vayeilekhe [3]halokhe [4]vegadeil [5]ad [6]kiy-gadal [7]meod
+26:14 [0]vayehiy-lo [1]miqeneih-tson [2]umiqeneih [3]vaqar [4]vaavudah [5]rabah [6]vayeqaneu [7]oto [8]pelishetiym
+26:15 [0]vekhal-habeeirot [1]asher [2]chaferu [3]avedeiy [4]aviyv [5]biymeiy [6]averaham [7]aviyv [8]sitemum [9]pelishetiym [10]vayemaleum [11]afar
+26:16 [0]vayomer [1]aviymelekhe [2]el-yitsechaq [3]leikhe [4]meiimanu [5]kiy-atsameta-mimenu [6]meod
+26:17 [0]vayeilekhe [1]misham [2]yitsechaq [3]vayichan [4]benachal-gerar [5]vayeishev [6]sham
+26:18 [0]vayashav [1]yitsechaq [2]vayachepor [3]et-beeirot [4]hamayim [5]asher [6]chaferu [7]biymeiy [8]averaham [9]aviyv [10]vayesatemum [11]pelishetiym [12]achareiy [13]mot [14]averaham [15]vayiqera [16]lahen [17]sheimot [18]kasheimot [19]asher-qara [20]lahen [21]aviyv
+26:19 [0]vayacheperu [1]avedeiy-yitsechaq [2]banachal [3]vayimetseu-sham [4]beeir [5]mayim [6]chayiym
+26:20 [0]vayariyvu [1]roeiy [2]gerar [3]im-roeiy [4]yitsechaq [5]leimor [6]lanu [7]hamayim [8]vayiqera [9]sheim-habeeir [10]eiseq [11]kiy [12]hiteasequ [13]imo
+26:21 [0]vayacheperu [1]beeir [2]acheret [3]vayariyvu [4]gam-aleyha [5]vayiqera [6]shemah [7]sitenah
+26:22 [0]vayaeteiq [1]misham [2]vayachepor [3]beeir [4]acheret [5]velo [6]ravu [7]aleyha [8]vayiqera [9]shemah [10]rechovot [11]vayomer [12]kiy-atah [13]hirechiyv [14]yehvah [15]lanu [16]ufariynu [17]vaarets
+26:23 [0]vayaal [1]misham [2]beeir [3]shava
+26:24 [0]vayeira [1]eilayv [2]yehvah [3]balayelah [4]hahu [5]vayomer [6]anokhiy [7]eloheiy [8]averaham [9]aviykha [10]al-tiyra [11]kiy-itekha [12]anokhiy [13]uveirakhetiykha [14]vehirebeiytiy [15]et-zareakha [16]baavur [17]averaham [18]avediy
+26:25 [0]vayiven [1]sham [2]mizebeicha [3]vayiqera [4]besheim [5]yehvah [6]vayet-sham [7]aholo [8]vayikheru-sham [9]avedeiy-yitsechaq [10]beeir
+26:26 [0]vaaviymelekhe [1]halakhe [2]eilayv [3]migerar [4]vaachuzat [5]meireieihu [6]ufiykhol [7]sar-tsevao
+26:27 [0]vayomer [1]aleihem [2]yitsechaq [3]madua [4]batem [5]eilay [6]veatem [7]seneitem [8]otiy [9]vateshalechuniy [10]meiitekhem
+26:28 [0]vayomeru [1]rao [2]raiynu [3]kiy-hayah [4]yehvah [5]imakhe [6]vanomer [7]tehiy [8]na [9]alah [10]beiynoteiynu [11]beiyneiynu [12]uveiynekha [13]venikheretah [14]veriyt [15]imakhe
+26:29 [0]im-taaseih [1]imanu [2]raah [3]kaasher [4]lo [5]negaanukha [6]vekhaasher [7]asiynu [8]imekha [9]raq-tov [10]vaneshaleichakha [11]beshalom [12]atah [13]atah [14]berukhe [15]yehvah
+26:30 [0]vayaas [1]lahem [2]misheteh [3]vayokhelu [4]vayishetu
+26:31 [0]vayashekiymu [1]vaboqer [2]vayishaveu [3]iysh [4]leachiyv [5]vayeshalecheim [6]yitsechaq [7]vayeilekhu [8]meiito [9]beshalom
+26:32 [0]vayehiy [1]bayom [2]hahu [3]vayavou [4]avedeiy [5]yitsechaq [6]vayagidu [7]lo [8]al-odot [9]habeeir [10]asher [11]chafaru [12]vayomeru [13]lo [14]matsanu [15]mayim
+26:33 [0]vayiqera [1]otah [2]shiveah [3]al-kein [4]sheim-haiyr [5]beeir [6]sheva [7]ad [8]hayom [9]hazeh
+26:34 [0]vayehiy [1]eisav [2]ben-arebaiym [3]shanah [4]vayiqach [5]ishah [6]et-yehudiyt [7]bat-beeiriy [8]hachitiy [9]veet-basemat [10]bat-eiylon [11]hachitiy
+26:35 [0]vatiheyeyna [1]morat [2]rucha [3]leyitsechaq [4]uleriveqah

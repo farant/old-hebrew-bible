@@ -1,0 +1,194 @@
+{
+  "chapter": 42,
+  "dialogue": [
+    {
+      "verse": 1,
+      "speaker": "jacob",
+      "startWord": 8,
+      "endWord": 9,
+      "englishText": "Why do you look at one another?"
+    },
+    {
+      "verse": 2,
+      "speaker": "jacob",
+      "startWord": 1,
+      "endWord": 11,
+      "englishText": "Behold, I have heard that there is grain in Egypt. Go down there and buy grain for us there, that we may live and not die"
+    },
+    {
+      "verse": 7,
+      "speaker": "joseph",
+      "startWord": 11,
+      "endWord": 12,
+      "englishText": "Where do you come from?"
+    },
+    {
+      "verse": 7,
+      "speaker": "jacobs-sons",
+      "startWord": 14,
+      "endWord": 16,
+      "englishText": "From the land of Canaan, to buy food"
+    },
+    {
+      "verse": 9,
+      "speaker": "joseph",
+      "startWord": 9,
+      "endWord": 14,
+      "englishText": "You are spies; you have come to see the nakedness of the land"
+    },
+    {
+      "verse": 10,
+      "speaker": "jacobs-sons",
+      "startWord": 2,
+      "endWord": 6,
+      "englishText": "No, my lord, your servants have come to buy food"
+    },
+    {
+      "verse": 11,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "We are all sons of one man. We are honest men; your servants have never been spies"
+    },
+    {
+      "verse": 12,
+      "speaker": "joseph",
+      "startWord": 2,
+      "endWord": 6,
+      "englishText": "No, it is the nakedness of the land that you have come to see"
+    },
+    {
+      "verse": 13,
+      "speaker": "jacobs-sons",
+      "startWord": 1,
+      "endWord": 15,
+      "englishText": "We, your servants, are twelve brothers, the sons of one man in the land of Canaan; and behold, the youngest is this day with our father, and one is no more"
+    },
+    {
+      "verse": 14,
+      "speaker": "joseph",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "It is as I said to you: you are spies"
+    },
+    {
+      "verse": 15,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "By this you shall be tested: by the life of Pharaoh, you shall not go from this place unless your youngest brother comes here"
+    },
+    {
+      "verse": 16,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "Send one of you, and let him bring your brother, while you remain confined, that your words may be tested, whether there is truth in you. Or else, by the life of Pharaoh, surely you are spies"
+    },
+    {
+      "verse": 18,
+      "speaker": "joseph",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "Do this and you will live, for I fear God"
+    },
+    {
+      "verse": 19,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "If you are honest men, let one of your brothers remain confined where you are in custody, and let the rest go and carry grain for the famine of your households"
+    },
+    {
+      "verse": 20,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "And bring your youngest brother to me, so your words will be verified, and you shall not die"
+    },
+    {
+      "verse": 21,
+      "speaker": "jacobs-sons",
+      "startWord": 3,
+      "endWord": 19,
+      "englishText": "In truth we are guilty concerning our brother, in that we saw the distress of his soul when he begged us and we did not listen. That is why this distress has come upon us"
+    },
+    {
+      "verse": 22,
+      "speaker": "reuben",
+      "startWord": 4,
+      "endWord": 14,
+      "englishText": "Did I not tell you not to sin against the boy? But you did not listen. So now there comes a reckoning for his blood"
+    },
+    {
+      "verse": 28,
+      "speaker": "jacobs-sons",
+      "startWord": 2,
+      "endWord": 6,
+      "englishText": "My money has been put back; here it is in my sack!"
+    },
+    {
+      "verse": 28,
+      "speaker": "jacobs-sons",
+      "startWord": 13,
+      "endWord": 16,
+      "englishText": "What is this that God has done to us?"
+    },
+    {
+      "verse": 30,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "The man, the lord of the land, spoke roughly to us and took us to be spies of the land"
+    },
+    {
+      "verse": 31,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 6,
+      "englishText": "But we said to him, 'We are honest men; we have never been spies'"
+    },
+    {
+      "verse": 32,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "We are twelve brothers, sons of our father; one is no more, and the youngest is this day with our father in the land of Canaan"
+    },
+    {
+      "verse": 33,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 17,
+      "englishText": "Then the man, the lord of the land, said to us, 'By this I shall know that you are honest men: leave one of your brothers here with me, and take grain for the famine of your households and go'"
+    },
+    {
+      "verse": 34,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 16,
+      "englishText": "And bring your youngest brother to me, then I shall know that you are not spies but honest men, and I will deliver your brother to you, and you shall trade in the land"
+    },
+    {
+      "verse": 36,
+      "speaker": "jacob",
+      "startWord": 4,
+      "endWord": 14,
+      "englishText": "You have bereaved me of my children: Joseph is no more, and Simeon is no more, and now you would take Benjamin. All this has come against me"
+    },
+    {
+      "verse": 37,
+      "speaker": "reuben",
+      "startWord": 4,
+      "endWord": 15,
+      "englishText": "Kill my two sons if I do not bring him back to you. Put him in my hands, and I will bring him back to you"
+    },
+    {
+      "verse": 38,
+      "speaker": "jacob",
+      "startWord": 1,
+      "endWord": 17,
+      "englishText": "My son shall not go down with you, for his brother is dead, and he is the only one left. If harm should happen to him on the journey that you are to make, you would bring down my gray hairs with sorrow to Sheol"
+    }
+  ]
+}

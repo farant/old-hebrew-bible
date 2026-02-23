@@ -1,0 +1,152 @@
+{
+  "chapter": 32,
+  "dialogue": [
+    {
+      "verse": 3,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 6,
+      "englishText": "This is God's camp!"
+    },
+    {
+      "verse": 5,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 13,
+      "englishText": "Thus you shall say to my lord Esau: Thus says your servant Jacob, I have sojourned with Laban and stayed until now"
+    },
+    {
+      "verse": 6,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "I have oxen, donkeys, flocks, male servants, and female servants; I have sent to tell my lord, in order to find favor in your sight"
+    },
+    {
+      "verse": 7,
+      "speaker": "jacobs-messengers",
+      "startWord": 4,
+      "endWord": 12,
+      "englishText": "We came to your brother Esau, and he is coming to meet you, and there are four hundred men with him"
+    },
+    {
+      "verse": 9,
+      "speaker": "jacob",
+      "startWord": 1,
+      "endWord": 9,
+      "englishText": "If Esau comes to the one camp and attacks it, then the camp that is left will escape"
+    },
+    {
+      "verse": 10,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 15,
+      "englishText": "O God of my father Abraham and God of my father Isaac, O LORD who said to me, Return to your country and to your kindred, that I may do you good"
+    },
+    {
+      "verse": 11,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "I am not worthy of the least of all the deeds of steadfast love and all the faithfulness that you have shown to your servant, for with only my staff I crossed this Jordan, and now I have become two camps"
+    },
+    {
+      "verse": 12,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "Please deliver me from the hand of my brother, from the hand of Esau, for I fear him, that he may come and attack me, mothers with children"
+    },
+    {
+      "verse": 13,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "But you said, I will surely do you good, and make your offspring as the sand of the sea, which cannot be numbered for multitude"
+    },
+    {
+      "verse": 17,
+      "speaker": "jacob",
+      "startWord": 7,
+      "endWord": 14,
+      "englishText": "Pass on ahead of me and put space between drove and drove"
+    },
+    {
+      "verse": 18,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 14,
+      "englishText": "When Esau my brother meets you and asks you, To whom do you belong? Where are you going? And whose are these ahead of you?"
+    },
+    {
+      "verse": 19,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Then you shall say, They belong to your servant Jacob. It is a present sent to my lord Esau; and moreover he is behind us"
+    },
+    {
+      "verse": 20,
+      "speaker": "jacob",
+      "startWord": 10,
+      "endWord": 15,
+      "englishText": "Speak in this manner to Esau when you find him"
+    },
+    {
+      "verse": 21,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 17,
+      "englishText": "And you shall say, Moreover your servant Jacob is behind us. For he thought, I will appease him with the present that goes ahead of me, and afterward I will see his face; perhaps he will accept me"
+    },
+    {
+      "verse": 27,
+      "speaker": "angel-of-yhwh",
+      "startWord": 1,
+      "endWord": 4,
+      "englishText": "Let me go, for the dawn has broken"
+    },
+    {
+      "verse": 27,
+      "speaker": "jacob",
+      "startWord": 6,
+      "endWord": 9,
+      "englishText": "I will not let you go unless you bless me"
+    },
+    {
+      "verse": 28,
+      "speaker": "angel-of-yhwh",
+      "startWord": 2,
+      "endWord": 2,
+      "englishText": "What is your name?"
+    },
+    {
+      "verse": 28,
+      "speaker": "jacob",
+      "startWord": 4,
+      "endWord": 4,
+      "englishText": "Jacob"
+    },
+    {
+      "verse": 29,
+      "speaker": "angel-of-yhwh",
+      "startWord": 2,
+      "endWord": 11,
+      "englishText": "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed"
+    },
+    {
+      "verse": 30,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 4,
+      "englishText": "Please tell me your name"
+    },
+    {
+      "verse": 30,
+      "speaker": "angel-of-yhwh",
+      "startWord": 6,
+      "endWord": 9,
+      "englishText": "Why is it that you ask my name?"
+    }
+  ]
+}

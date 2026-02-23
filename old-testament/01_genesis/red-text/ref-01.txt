@@ -1,0 +1,31 @@
+1:1 [0]bereishiyt [1]bara [2]elohiym [3]eit [4]hashamayim [5]veeit [6]haarets
+1:2 [0]vehaarets [1]hayetah [2]tohu [3]vavohu [4]vechoshekhe [5]al-peneiy [6]tehom [7]verucha [8]elohiym [9]merachefet [10]al-peneiy [11]hamayim
+1:3 [0]vayomer [1]elohiym [2]yehiy [3]or [4]vayehiy-or
+1:4 [0]vayare [1]elohiym [2]et-haor [3]kiy-tov [4]vayavedeil [5]elohiym [6]beiyn [7]haor [8]uveiyn [9]hachoshekhe
+1:5 [0]vayiqera [1]elohiym [2]laor [3]yom [4]velachoshekhe [5]qara [6]layelah [7]vayehiy-erev [8]vayehiy-voqer [9]yom [10]echad
+1:6 [0]vayomer [1]elohiym [2]yehiy [3]raqiya [4]betokhe [5]hamayim [6]viyhiy [7]mavediyl [8]beiyn [9]mayim [10]lamayim
+1:7 [0]vayaas [1]elohiym [2]et-haraqiya [3]vayavedeil [4]beiyn [5]hamayim [6]asher [7]mitachat [8]laraqiya [9]uveiyn [10]hamayim [11]asher [12]meial [13]laraqiya [14]vayehiy-khein
+1:8 [0]vayiqera [1]elohiym [2]laraqiya [3]shamayim [4]vayehiy-erev [5]vayehiy-voqer [6]yom [7]sheiniy
+1:9 [0]vayomer [1]elohiym [2]yiqavu [3]hamayim [4]mitachat [5]hashamayim [6]el-maqom [7]echad [8]veteiraeh [9]hayabashah [10]vayehiy-khein
+1:10 [0]vayiqera [1]elohiym [2]layabashah [3]erets [4]ulemiqeveih [5]hamayim [6]qara [7]yamiym [8]vayare [9]elohiym [10]kiy-tov
+1:11 [0]vayomer [1]elohiym [2]tadeshei [3]haarets [4]deshe [5]eisev [6]mazeriya [7]zera [8]eits [9]periy [10]oseh [11]periy [12]lemiyno [13]asher [14]zareo-vo [15]al-haarets [16]vayehiy-khein
+1:12 [0]vatotsei [1]haarets [2]deshe [3]eisev [4]mazeriya [5]zera [6]lemiyneihu [7]veeits [8]oseh-periy [9]asher [10]zareo-vo [11]lemiyneihu [12]vayare [13]elohiym [14]kiy-tov
+1:13 [0]vayehiy-erev [1]vayehiy-voqer [2]yom [3]sheliyshiy
+1:14 [0]vayomer [1]elohiym [2]yehiy [3]meorot [4]bireqiya [5]hashamayim [6]lehavediyl [7]beiyn [8]hayom [9]uveiyn [10]halayelah [11]vehayu [12]leotot [13]ulemoadiym [14]uleyamiym [15]veshaniym
+1:15 [0]vehayu [1]limeorot [2]bireqiya [3]hashamayim [4]lehaiyr [5]al-haarets [6]vayehiy-khein
+1:16 [0]vayaas [1]elohiym [2]et-sheneiy [3]hameorot [4]hagedoliym [5]et-hamaor [6]hagadol [7]lememeshelet [8]hayom [9]veet-hamaor [10]haqaton [11]lememeshelet [12]halayelah [13]veeit [14]hakokhaviym
+1:17 [0]vayitein [1]otam [2]elohiym [3]bireqiya [4]hashamayim [5]lehaiyr [6]al-haarets
+1:18 [0]velimeshol [1]bayom [2]uvalayelah [3]ulahavediyl [4]beiyn [5]haor [6]uveiyn [7]hachoshekhe [8]vayare [9]elohiym [10]kiy-tov
+1:19 [0]vayehiy-erev [1]vayehiy-voqer [2]yom [3]reviyiy
+1:20 [0]vayomer [1]elohiym [2]yisheretsu [3]hamayim [4]sherets [5]nefesh [6]chayah [7]veof [8]yeofeif [9]al-haarets [10]al-peneiy [11]reqiya [12]hashamayim
+1:21 [0]vayivera [1]elohiym [2]et-hataniynim [3]hagedoliym [4]veeit [5]kal-nefesh [6]hachayah [7]haromeset [8]asher [9]sharetsu [10]hamayim [11]lemiyneihem [12]veeit [13]kal-of [14]kanaf [15]lemiyneihu [16]vayare [17]elohiym [18]kiy-tov
+1:22 [0]vayevarekhe [1]otam [2]elohiym [3]leimor [4]peru [5]urevu [6]umileu [7]et-hamayim [8]bayamiym [9]vehaof [10]yirev [11]baarets
+1:23 [0]vayehiy-erev [1]vayehiy-voqer [2]yom [3]chamiyshiy
+1:24 [0]vayomer [1]elohiym [2]totsei [3]haarets [4]nefesh [5]chayah [6]lemiynah [7]beheimah [8]varemes [9]vechayeto-erets [10]lemiynah [11]vayehiy-khein
+1:25 [0]vayaas [1]elohiym [2]et-chayat [3]haarets [4]lemiynah [5]veet-habeheimah [6]lemiynah [7]veeit [8]kal-remes [9]haadamah [10]lemiyneihu [11]vayare [12]elohiym [13]kiy-tov
+1:26 [0]vayomer [1]elohiym [2]naaseh [3]adam [4]betsalemeinu [5]kidemuteinu [6]veyiredu [7]videgat [8]hayam [9]uveof [10]hashamayim [11]uvabeheimah [12]uvekhal-haarets [13]uvekhal-haremes [14]haromeis [15]al-haarets
+1:27 [0]vayivera [1]elohiym [2]et-haadam [3]betsalemo [4]betselem [5]elohiym [6]bara [7]oto [8]zakhar [9]uneqeivah [10]bara [11]otam
+1:28 [0]vayevarekhe [1]otam [2]elohiym [3]vayomer [4]lahem [5]elohiym [6]peru [7]urevu [8]umileu [9]et-haarets [10]vekhiveshuha [11]uredu [12]bidegat [13]hayam [14]uveof [15]hashamayim [16]uvekhal-chayah [17]haromeset [18]al-haarets
+1:29 [0]vayomer [1]elohiym [2]hineih [3]natatiy [4]lakhem [5]et-kal-eisev [6]zoreia [7]zera [8]asher [9]al-peneiy [10]khal-haarets [11]veet-kal-haeits [12]asher-bo [13]feriy-eits [14]zoreia [15]zara [16]lakhem [17]yiheyeh [18]leakhelah
+1:30 [0]ulekhal-chayat [1]haarets [2]ulekhal-of [3]hashamayim [4]ulekhol [5]romeis [6]al-haarets [7]asher-bo [8]nefesh [9]chayah [10]et-kal-yereq [11]eisev [12]leakhelah [13]vayehiy-khein
+1:31 [0]vayare [1]elohiym [2]et-kal-asher [3]asah [4]vehineih-tov [5]meod [6]vayehiy-erev [7]vayehiy-voqer [8]yom [9]hashishiy

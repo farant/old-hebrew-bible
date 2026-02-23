@@ -1,0 +1,103 @@
+{
+  "chapter": 4,
+  "dialogue": [
+    {
+      "verse": 1,
+      "speaker": "eve",
+      "startWord": 8,
+      "endWord": 10,
+      "englishText": "I have gotten a man with the help of YHWH"
+    },
+    {
+      "verse": 6,
+      "speaker": "yhwh",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "Why are you angry, and why has your face fallen?"
+    },
+    {
+      "verse": 7,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is for you, but you must rule over it"
+    },
+    {
+      "verse": 9,
+      "speaker": "yhwh",
+      "startWord": 3,
+      "endWord": 5,
+      "englishText": "Where is Abel your brother?"
+    },
+    {
+      "verse": 9,
+      "speaker": "cain",
+      "startWord": 8,
+      "endWord": 11,
+      "englishText": "I do not know; am I my brother's keeper?"
+    },
+    {
+      "verse": 10,
+      "speaker": "yhwh",
+      "startWord": 1,
+      "endWord": 8,
+      "englishText": "What have you done? The voice of your brother's blood is crying to me from the ground"
+    },
+    {
+      "verse": 11,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "And now you are cursed from the ground, which has opened its mouth to receive your brother's blood from your hand"
+    },
+    {
+      "verse": 12,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "When you work the ground, it shall no longer yield to you its strength. You shall be a fugitive and a wanderer on the earth"
+    },
+    {
+      "verse": 13,
+      "speaker": "cain",
+      "startWord": 3,
+      "endWord": 5,
+      "englishText": "My punishment is greater than I can bear"
+    },
+    {
+      "verse": 14,
+      "speaker": "cain",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "Behold, you have driven me today away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me"
+    },
+    {
+      "verse": 15,
+      "speaker": "yhwh",
+      "startWord": 3,
+      "endWord": 7,
+      "englishText": "Therefore, if anyone kills Cain, vengeance shall be taken on him sevenfold"
+    },
+    {
+      "verse": 23,
+      "speaker": "lamech-cainite",
+      "startWord": 3,
+      "endWord": 16,
+      "englishText": "Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say: I have killed a man for wounding me, a young man for striking me"
+    },
+    {
+      "verse": 24,
+      "speaker": "lamech-cainite",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "If Cain's revenge is sevenfold, then Lamech's is seventy-sevenfold"
+    },
+    {
+      "verse": 25,
+      "speaker": "eve",
+      "startWord": 10,
+      "endWord": 18,
+      "englishText": "God has appointed for me another offspring instead of Abel, for Cain killed him"
+    }
+  ]
+}

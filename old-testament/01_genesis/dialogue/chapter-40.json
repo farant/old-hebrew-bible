@@ -1,0 +1,103 @@
+{
+  "chapter": 40,
+  "dialogue": [
+    {
+      "verse": 7,
+      "speaker": "joseph",
+      "startWord": 9,
+      "endWord": 12,
+      "englishText": "Why are your faces downcast today?"
+    },
+    {
+      "verse": 8,
+      "speaker": "cupbearer",
+      "startWord": 2,
+      "endWord": 6,
+      "englishText": "We have dreamed a dream, and there is no one to interpret it"
+    },
+    {
+      "verse": 8,
+      "speaker": "joseph",
+      "startWord": 10,
+      "endWord": 14,
+      "englishText": "Do not interpretations belong to God? Tell it to me, please"
+    },
+    {
+      "verse": 9,
+      "speaker": "cupbearer",
+      "startWord": 6,
+      "endWord": 8,
+      "englishText": "In my dream, behold, a vine was before me"
+    },
+    {
+      "verse": 10,
+      "speaker": "cupbearer",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "And on the vine were three branches; as it was budding, its blossoms shot forth, and its clusters ripened into grapes"
+    },
+    {
+      "verse": 11,
+      "speaker": "cupbearer",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "And Pharaoh's cup was in my hand, and I took the grapes and pressed them into Pharaoh's cup and placed the cup in Pharaoh's hand"
+    },
+    {
+      "verse": 12,
+      "speaker": "joseph",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "This is its interpretation: the three branches are three days"
+    },
+    {
+      "verse": 13,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "In three more days Pharaoh will lift up your head and restore you to your position, and you will place Pharaoh's cup in his hand, as in the former manner when you were his cupbearer"
+    },
+    {
+      "verse": 14,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "Only remember me when it goes well with you, and please do me the kindness to mention me to Pharaoh, and so get me out of this house"
+    },
+    {
+      "verse": 15,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "For I was indeed stolen out of the land of the Hebrews, and here also I have done nothing that they should put me in the pit"
+    },
+    {
+      "verse": 16,
+      "speaker": "baker",
+      "startWord": 7,
+      "endWord": 13,
+      "englishText": "I also had a dream — behold, three cake baskets were on my head"
+    },
+    {
+      "verse": 17,
+      "speaker": "baker",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "And in the uppermost basket there were all sorts of baked food for Pharaoh, and the birds were eating them out of the basket from off my head"
+    },
+    {
+      "verse": 18,
+      "speaker": "joseph",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "This is its interpretation: the three baskets are three days"
+    },
+    {
+      "verse": 19,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "In three more days Pharaoh will lift off your head from you and hang you on a tree, and the birds will eat your flesh from off you"
+    }
+  ]
+}

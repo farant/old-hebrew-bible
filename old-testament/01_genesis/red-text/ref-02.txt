@@ -1,0 +1,25 @@
+2:1 [0]vayekhulu [1]hashamayim [2]vehaarets [3]vekhal-tsevaam
+2:2 [0]vayekhal [1]elohiym [2]bayom [3]hasheviyiy [4]melakheto [5]asher [6]asah [7]vayishebot [8]bayom [9]hasheviyiy [10]mikal-melakheto [11]asher [12]ashah
+2:3 [0]vayevarekhe [1]elohiym [2]et-yom [3]hasheviyiy [4]vayeqadeish [5]oto [6]kiy [7]vo [8]shavat [9]mikal-melakheto [10]asher-bara [11]elohiym [12]laashot
+2:4 [0]eileh [1]toledot [2]hashamayim [3]vehaarets [4]behibaream [5]beyom [6]asot [7]yehvah [8]elohiym [9]erets [10]veshamayim
+2:5 [0]vekhol [1]siycha [2]hasadeh [3]terem [4]yiheyeh [5]vaarets [6]vekhal-eisev [7]hasadeh [8]terem [9]yitsemach [10]kiy [11]lo [12]himetiyr [13]yehvah [14]elohiym [15]al-haarets [16]veadam [17]ayin [18]laavod [19]et-haadamah
+2:6 [0]veeid [1]yaaleh [2]min-haarets [3]vehisheqah [4]et-kal-peneiy-haadamah
+2:7 [0]vayiytser [1]yehvah [2]elohiym [3]et-haadam [4]afar [5]min-haadamah [6]vayipach [7]beapayv [8]nishemat [9]chayiym [10]vayehiy [11]haadam [12]lenefesh [13]chayah
+2:8 [0]vayita [1]yehvah [2]elohiym [3]gan-beeiden [4]miqedem [5]vayasem [6]sham [7]et-haadam [8]asher [9]yatsar
+2:9 [0]vayatsemach [1]yehvah [2]elohiym [3]min-haadamah [4]kal-eits [5]nechemad [6]lemareeh [7]vetov [8]lemaakhal [9]veeits [10]hachayiym [11]betokhe [12]hagan [13]veeits [14]hadaat [15]tov [16]vara
+2:10 [0]venahar [1]yotsei [2]meieiden [3]lehasheqot [4]et-hagan [5]umisham [6]yipareid [7]vehayah [8]learebaah [9]rashiym
+2:11 [0]sheim [1]haechad [2]piyshon [3]hu [4]hasoveiv [5]eit [6]kal-erets [7]hachaviylah [8]asher-sham [9]hazahav
+2:12 [0]uzahav [1]haarets [2]hahiv [3]tov [4]sham [5]habedolach [6]veeven [7]hashoham
+2:13 [0]vesheim-hanahar [1]hasheiniy [2]giychon [3]hu [4]hasoveiv [5]eit [6]kal-erets [7]kush
+2:14 [0]vesheim [1]hanahar [2]hasheliyshiy [3]chideqel [4]hu [5]haholeikhe [6]qidemat [7]ashur [8]vehanahar [9]hareviyiy [10]hu [11]ferat
+2:15 [0]vayiqach [1]yehvah [2]elohiym [3]et-haadam [4]vayanicheihu [5]vegan-eiden [6]leavedah [7]uleshamerah
+2:16 [0]vayetsav [1]yehvah [2]elohiym [3]al-haadam [4]leimor [5]mikol [6]eits-hagan [7]akhol [8]tokheil
+2:17 [0]umeieits [1]hadaat [2]tov [3]vara [4]lo [5]tokhal [6]mimenu [7]kiy [8]beyom [9]akhalekha [10]mimenu [11]mot [12]tamut
+2:18 [0]vayomer [1]yehvah [2]elohiym [3]lo-tov [4]heyot [5]haadam [6]levado [7]eeseh-lo [8]eizer [9]kenegedo
+2:19 [0]vayitser [1]yehvah [2]elohiym [3]min-haadamah [4]kal-chayat [5]hasadeh [6]veeit [7]kal-of [8]hashamayim [9]vayavei [10]el-haadam [11]lireot [12]mah-yiqera-lo [13]vekhol [14]asher [15]yiqera-lo [16]haadam [17]nefesh [18]chayah [19]hu [20]shemo
+2:20 [0]vayiqera [1]haadam [2]sheimot [3]lekhal-habeheimah [4]uleof [5]hashamayim [6]ulekhol [7]chayat [8]hasadeh [9]uleadam [10]lo-matsa [11]eizer [12]kenegedo
+2:21 [0]vayapeil [1]yehvah [2]elohiym [3]taredeimah [4]al-haadam [5]vayiyshan [6]vayiqach [7]achat [8]mitsaleotayv [9]vayisegor [10]basar [11]tachetenah
+2:22 [0]vayiven [1]yehvah [2]elohiym [3]et-hatseila [4]asher-laqach [5]min-haadam [6]leishah [7]vayevieha [8]el-haadam
+2:23 [0]vayomer [1]haadam [2]zot [3]hapaam [4]etsem [5]meiatsamay [6]uvasar [7]mibesariy [8]lezot [9]yiqarei [10]ishah [11]kiy [12]meiiysh [13]luqochah-zot
+2:24 [0]al-kein [1]yaazav-iysh [2]et-aviyv [3]veet-imo [4]vedavaq [5]beisheto [6]vehayu [7]levasar [8]echad
+2:25 [0]vayiheyu [1]sheneiyhem [2]arumiym [3]haadam [4]veisheto [5]velo [6]yiteboshashu

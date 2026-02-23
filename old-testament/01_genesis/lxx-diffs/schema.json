@@ -1,0 +1,33 @@
+{
+  "description": "Schema for LXX divergence diffs applicable to the Masoretic Old Hebrew text",
+  "version": 1,
+  "operations": {
+    "replace": {
+      "description": "Replace one or more words at target indices with new words",
+      "required_fields": ["target_words", "new_words"]
+    },
+    "insert": {
+      "description": "Insert new words after a given word index. Use after_word: -1 to insert at start of verse.",
+      "required_fields": ["after_word", "new_words"]
+    },
+    "remove": {
+      "description": "Remove words at target indices",
+      "required_fields": ["target_words"]
+    }
+  },
+  "diff_entry": {
+    "id": "Sequential integer",
+    "research_id": "ID from septuagint-notes-messy.txt divergences array",
+    "chapter": "Chapter number",
+    "verse": "Verse number",
+    "op": "replace | insert | remove",
+    "target_words": "Array of 0-based word indices to replace or remove",
+    "after_word": "0-based word index to insert after (-1 for start of verse)",
+    "new_words": "Array of { hebrew, transliteration, definition } objects. hebrew is square script (with or without nikkud). Old Hebrew (Phoenician) is derived automatically at application time.",
+    "lxx_greek": "The LXX Greek text for this divergence",
+    "lxx_english": "English translation of the LXX reading",
+    "source": "Scholarly source(s) supporting this reading",
+    "description": "Brief explanation of the divergence",
+    "note": "Optional additional context"
+  }
+}

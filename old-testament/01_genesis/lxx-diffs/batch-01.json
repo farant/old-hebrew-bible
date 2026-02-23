@@ -1,0 +1,171 @@
+{
+  "batch": 1,
+  "description": "First 10 divergences from septuagint-notes-messy.txt (research IDs 1-10), 11 diffs total",
+  "diffs": [
+    {
+      "id": 1,
+      "research_id": 1,
+      "chapter": 1,
+      "verse": 6,
+      "op": "insert",
+      "after_word": 10,
+      "new_words": [
+        { "hebrew": "ויהי־כן", "transliteration": "vayehiy-khein", "definition": "and it was so" }
+      ],
+      "lxx_greek": "adds καὶ ἐγένετο οὕτως at end of verse",
+      "lxx_english": "and it was so",
+      "source": "Steinmann; harmonization of phraseology",
+      "description": "Harmonizes with the formula used in 1:9, 1:11, 1:15, 1:24 where 'and it was so' follows God's creative command"
+    },
+    {
+      "id": 2,
+      "research_id": 2,
+      "chapter": 1,
+      "verse": 9,
+      "op": "insert",
+      "after_word": 10,
+      "new_words": [
+        { "hebrew": "ויקוו", "transliteration": "vayiqavu", "definition": "and were gathered" },
+        { "hebrew": "המים", "transliteration": "hamayim", "definition": "the waters" },
+        { "hebrew": "מתחת", "transliteration": "mitachat", "definition": "from under" },
+        { "hebrew": "השמים", "transliteration": "hashamayim", "definition": "the heavens" },
+        { "hebrew": "אל־מקויהם", "transliteration": "el-miqeveihem", "definition": "to their gathering places" },
+        { "hebrew": "ותראה", "transliteration": "veteiraeh", "definition": "and appeared" },
+        { "hebrew": "היבשה", "transliteration": "hayabashah", "definition": "the dry land" }
+      ],
+      "lxx_greek": "καὶ συνήχθη τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς τὰς συναγωγὰς αὐτῶν καὶ ὤφθη ἡ ξηρά",
+      "lxx_english": "and the water under the heaven was gathered into their gatherings and the dry land appeared",
+      "source": "Steinmann; LXX expands execution of God's command",
+      "description": "LXX adds narrative fulfillment after 'and it was so' describing the actual gathering of waters"
+    },
+    {
+      "id": 3,
+      "research_id": 3,
+      "chapter": 1,
+      "verse": 14,
+      "op": "insert",
+      "after_word": 15,
+      "new_words": [
+        { "hebrew": "להאיר", "transliteration": "lehaiyr", "definition": "to give light" },
+        { "hebrew": "על־הארץ", "transliteration": "al-haarets", "definition": "on the earth" }
+      ],
+      "lxx_greek": "adds εἰς φαῦσιν τῆς γῆς",
+      "lxx_english": "to give light on the earth",
+      "source": "Steinmann; SP also adds this",
+      "description": "Harmonizes v.14 with v.15 which says 'to give light on the earth'"
+    },
+    {
+      "id": 4,
+      "research_id": 4,
+      "chapter": 2,
+      "verse": 2,
+      "op": "replace",
+      "target_words": [3],
+      "new_words": [
+        { "hebrew": "הששי", "transliteration": "hashishiy", "definition": "the sixth" }
+      ],
+      "lxx_greek": "ἐν τῇ ἡμέρᾳ τῇ ἕκτῃ",
+      "lxx_english": "on the sixth day",
+      "source": "Steinmann; SP, Peshitta agree",
+      "description": "God finished his work on the sixth day (LXX) vs seventh day (MT). Only first occurrence in verse — v2:2b 'rested on the seventh' stays."
+    },
+    {
+      "id": 5,
+      "research_id": 5,
+      "chapter": 2,
+      "verse": 5,
+      "op": "remove",
+      "target_words": [13],
+      "lxx_greek": "ὁ θεός",
+      "lxx_english": "God",
+      "source": "Steinmann; 1 of 35 divine name deviations in LXX Genesis",
+      "description": "LXX has 'God' where MT has 'YHWH God'. Remove 'YHWH', retain 'God'."
+    },
+    {
+      "id": 6,
+      "research_id": 6,
+      "chapter": 2,
+      "verse": 7,
+      "op": "remove",
+      "target_words": [1],
+      "lxx_greek": "ὁ θεός",
+      "lxx_english": "God",
+      "source": "Steinmann; divine name deviation",
+      "description": "LXX has 'God' where MT has 'YHWH God'. Remove 'YHWH', retain 'God'."
+    },
+    {
+      "id": 7,
+      "research_id": 7,
+      "chapter": 2,
+      "verse": 9,
+      "op": "remove",
+      "target_words": [1],
+      "lxx_greek": "ὁ θεός",
+      "lxx_english": "God",
+      "source": "Steinmann; divine name deviation",
+      "description": "LXX has 'God' where MT has 'YHWH God'. Remove 'YHWH', retain 'God'."
+    },
+    {
+      "id": 8,
+      "research_id": 8,
+      "chapter": 2,
+      "verse": 24,
+      "op": "insert",
+      "after_word": 6,
+      "new_words": [
+        { "hebrew": "שניהם", "transliteration": "sheneiyhem", "definition": "the two of them" }
+      ],
+      "lxx_greek": "οἱ δύο εἰς σάρκα μίαν",
+      "lxx_english": "the two of them into one flesh",
+      "source": "Steinmann; SP agrees; Matt 19:5, Mark 10:8, 1 Cor 6:16, Eph 5:31 quote with 'the two'",
+      "description": "LXX adds 'the two' to clarify that man and wife become one flesh"
+    },
+    {
+      "id": 9,
+      "research_id": 9,
+      "chapter": 3,
+      "verse": 15,
+      "op": "replace",
+      "target_words": [10],
+      "new_words": [
+        { "hebrew": "ישמרך", "transliteration": "yishmerekha", "definition": "he shall watch/guard you" }
+      ],
+      "lxx_greek": "αὐτός σου τηρήσει κεφαλήν",
+      "lxx_english": "he shall watch/guard against your head",
+      "source": "Steinmann; Protoevangelium variant",
+      "description": "First verb: MT 'bruise/strike' (yeshufekha) vs LXX 'watch/guard' (yishmerekha). Both have masculine pronoun.",
+      "note": "Vulgate has 'ipsa' (she) in some editions creating Marian reading. LXX αὐτός is masculine."
+    },
+    {
+      "id": 11,
+      "research_id": 9,
+      "chapter": 3,
+      "verse": 15,
+      "op": "replace",
+      "target_words": [13],
+      "new_words": [
+        { "hebrew": "תשמרנו", "transliteration": "tishmerenu", "definition": "you shall watch/guard him" }
+      ],
+      "lxx_greek": "καὶ σὺ τηρήσεις αὐτοῦ πτέρναν",
+      "lxx_english": "and you shall watch/guard against his heel",
+      "source": "Steinmann; Protoevangelium variant — second verb",
+      "description": "Second verb: MT 'bruise/strike' (teshufenu) vs LXX 'watch/guard' (tishmerenu). Completes the pair with diff 9."
+    },
+    {
+      "id": 10,
+      "research_id": 10,
+      "chapter": 4,
+      "verse": 8,
+      "op": "insert",
+      "after_word": 3,
+      "new_words": [
+        { "hebrew": "נלכה", "transliteration": "nelkhah", "definition": "let us go" },
+        { "hebrew": "השדה", "transliteration": "hasadeh", "definition": "to the field" }
+      ],
+      "lxx_greek": "Διέλθωμεν εἰς τὸ πεδίον",
+      "lxx_english": "Let us go into the field",
+      "source": "Steinmann; SP, Peshitta, Vulgate (some MSS) agree",
+      "description": "MT has speech marker but no speech content. LXX preserves Cain's actual words to Abel."
+    }
+  ]
+}

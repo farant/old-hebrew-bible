@@ -1,0 +1,145 @@
+{
+  "chapter": 29,
+  "dialogue": [
+    {
+      "verse": 4,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 5,
+      "englishText": "My brothers, where are you from?"
+    },
+    {
+      "verse": 4,
+      "speaker": "shepherds",
+      "startWord": 7,
+      "endWord": 8,
+      "englishText": "We are from Haran"
+    },
+    {
+      "verse": 5,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 4,
+      "englishText": "Do you know Laban the son of Nahor?"
+    },
+    {
+      "verse": 5,
+      "speaker": "shepherds",
+      "startWord": 6,
+      "endWord": 6,
+      "englishText": "We know him"
+    },
+    {
+      "verse": 6,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 3,
+      "englishText": "Is it well with him?"
+    },
+    {
+      "verse": 6,
+      "speaker": "shepherds",
+      "startWord": 5,
+      "endWord": 10,
+      "englishText": "It is well; and behold, Rachel his daughter is coming with the sheep!"
+    },
+    {
+      "verse": 7,
+      "speaker": "jacob",
+      "startWord": 1,
+      "endWord": 10,
+      "englishText": "Behold, it is still high day; it is not time for the livestock to be gathered. Water the sheep and go, pasture them"
+    },
+    {
+      "verse": 8,
+      "speaker": "shepherds",
+      "startWord": 1,
+      "endWord": 13,
+      "englishText": "We cannot until all the flocks are gathered together and the stone is rolled from the mouth of the well; then we water the sheep"
+    },
+    {
+      "verse": 14,
+      "speaker": "laban",
+      "startWord": 3,
+      "endWord": 6,
+      "englishText": "Surely you are my bone and my flesh!"
+    },
+    {
+      "verse": 15,
+      "speaker": "laban",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "Because you are my kinsman, should you therefore serve me for nothing? Tell me, what shall your wages be?"
+    },
+    {
+      "verse": 18,
+      "speaker": "jacob",
+      "startWord": 4,
+      "endWord": 9,
+      "englishText": "I will serve you seven years for Rachel your younger daughter"
+    },
+    {
+      "verse": 19,
+      "speaker": "laban",
+      "startWord": 2,
+      "endWord": 11,
+      "englishText": "It is better that I give her to you than to any other man; stay with me"
+    },
+    {
+      "verse": 21,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "Give me my wife that I may go in to her, for my time is completed"
+    },
+    {
+      "verse": 25,
+      "speaker": "jacob",
+      "startWord": 6,
+      "endWord": 14,
+      "englishText": "What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?"
+    },
+    {
+      "verse": 26,
+      "speaker": "laban",
+      "startWord": 2,
+      "endWord": 8,
+      "englishText": "It is not so done in our place, to give the younger before the firstborn"
+    },
+    {
+      "verse": 27,
+      "speaker": "laban",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "Complete the week of this one, and we will give you the other also in return for serving me another seven years"
+    },
+    {
+      "verse": 32,
+      "speaker": "leah",
+      "startWord": 9,
+      "endWord": 15,
+      "englishText": "Because YHWH has looked upon my affliction; for now my husband will love me"
+    },
+    {
+      "verse": 33,
+      "speaker": "leah",
+      "startWord": 5,
+      "endWord": 10,
+      "englishText": "Because YHWH has heard that I am hated, he has given me this son also"
+    },
+    {
+      "verse": 34,
+      "speaker": "leah",
+      "startWord": 5,
+      "endWord": 13,
+      "englishText": "Now this time my husband will be attached to me, because I have borne him three sons"
+    },
+    {
+      "verse": 35,
+      "speaker": "leah",
+      "startWord": 5,
+      "endWord": 7,
+      "englishText": "This time I will praise YHWH"
+    }
+  ]
+}

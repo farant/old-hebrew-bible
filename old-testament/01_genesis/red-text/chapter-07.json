@@ -1,0 +1,33 @@
+{
+  "chapter": 7,
+  "speeches": [
+    {
+      "verse": 1,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 11,
+      "englishText": "Enter, you and all your household, into the ark; for you alone I have seen to be righteous before Me in this generation."
+    },
+    {
+      "verse": 2,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "You shall take with you of every clean animal by sevens, a male and his female; and of the animals that are not clean two, a male and his female."
+    },
+    {
+      "verse": 3,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Also of the birds of the sky, sevens, male and female, to keep offspring alive on the face of all the earth."
+    },
+    {
+      "verse": 4,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 17,
+      "englishText": "For after seven more days, I will send rain on the earth forty days and forty nights; and I will blot out from the face of the land every living thing that I have made."
+    }
+  ]
+}

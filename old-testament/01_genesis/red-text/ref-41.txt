@@ -1,0 +1,57 @@
+41:1 [0]vayehiy [1]miqeits [2]shenatayim [3]yamiym [4]ufareoh [5]choleim [6]vehineih [7]omeid [8]al-hayeor
+41:2 [0]vehineih [1]min-hayeor [2]olot [3]sheva [4]parot [5]yefot [6]mareeh [7]uveriyot [8]basar [9]vatireeynah [10]baachu
+41:3 [0]vehineih [1]sheva [2]parot [3]acheirot [4]olot [5]achareiyhen [6]min-hayeor [7]raot [8]mareeh [9]vedaqot [10]basar [11]vataamodenah [12]eitsel [13]haparot [14]al-sefat [15]hayeor
+41:4 [0]vatokhalenah [1]haparot [2]raot [3]hamareeh [4]vedaqot [5]habasar [6]eit [7]sheva [8]haparot [9]yefot [10]hamareeh [11]vehaberiyot [12]vayiyqats [13]pareoh
+41:5 [0]vayiyshan [1]vayachalom [2]sheiniyt [3]vehineih [4]sheva [5]shiboliym [6]olot [7]beqaneh [8]echad [9]beriyot [10]vetovot
+41:6 [0]vehineih [1]sheva [2]shiboliym [3]daqot [4]ushedufot [5]qadiym [6]tsomechot [7]achareiyhen
+41:7 [0]vativelaenah [1]hashiboliym [2]hadaqot [3]eit [4]sheva [5]hashiboliym [6]haberiyot [7]vehameleiot [8]vayiyqats [9]pareoh [10]vehineih [11]chalom
+41:8 [0]vayehiy [1]vaboqer [2]vatipaem [3]rucho [4]vayishelach [5]vayiqera [6]et-kal-charetumeiy [7]mitserayim [8]veet-kal-chakhameyha [9]vayesapeir [10]pareoh [11]lahem [12]et-chalomo [13]veeiyn-poteir [14]otam [15]lefareoh
+41:9 [0]vayedabeir [1]sar [2]hamasheqiym [3]et-pareoh [4]leimor [5]et-chataay [6]aniy [7]mazekiyr [8]hayom
+41:10 [0]pareoh [1]qatsaf [2]al-avadayv [3]vayitein [4]otiy [5]bemishemar [6]beiyt [7]sar [8]hatabachiym [9]otiy [10]veeit [11]sar [12]haofiym
+41:11 [0]vanachalemah [1]chalom [2]belayelah [3]echad [4]aniy [5]vahu [6]iysh [7]kefiteron [8]chalomo [9]chalamenu
+41:12 [0]vesham [1]itanu [2]naar [3]iveriy [4]eved [5]lesar [6]hatabachiym [7]vanesaper-lo [8]vayifetar-lanu [9]et-chalomoteiynu [10]iysh [11]kachalomo [12]patar
+41:13 [0]vayehiy [1]kaasher [2]patar-lanu [3]kein [4]hayah [5]otiy [6]heishiyv [7]al-kaniy [8]veoto [9]talah
+41:14 [0]vayishelach [1]pareoh [2]vayiqera [3]et-yoseif [4]vayeriytsuhu [5]min-habor [6]vayegalach [7]vayechaleif [8]simelotayv [9]vayavo [10]el-pareoh
+41:15 [0]vayomer [1]pareoh [2]el-yoseif [3]chalom [4]chalametiy [5]ufoteir [6]eiyn [7]oto [8]vaaniy [9]shamaetiy [10]aleykha [11]leimor [12]tishema [13]chalom [14]lifetor [15]oto
+41:16 [0]vayaan [1]yoseif [2]et-pareoh [3]leimor [4]bileaday [5]elohiym [6]yaaneh [7]et-shelom [8]pareoh
+41:17 [0]vayedabeir [1]pareoh [2]el-yoseif [3]bachalomiy [4]hineniy [5]omeid [6]al-sefat [7]hayeor
+41:18 [0]vehineih [1]min-hayeor [2]olot [3]sheva [4]parot [5]beriyot [6]basar [7]viyfot [8]toar [9]vatireeynah [10]baachu
+41:19 [0]vehineih [1]sheva-parot [2]acheirot [3]olot [4]achareiyhen [5]dalot [6]veraot [7]toar [8]meod [9]veraqot [10]basar [11]lo-raiytiy [12]khaheinah [13]bekhal-erets [14]mitserayim [15]laroa
+41:20 [0]vatokhalenah [1]haparot [2]haraqot [3]veharaot [4]eit [5]sheva [6]haparot [7]harishonot [8]haberiyot
+41:21 [0]vatavonah [1]el-qirebenah [2]velo [3]noda [4]kiy-vau [5]el-qirebenah [6]umareeiyhen [7]ra [8]kaasher [9]batechilah [10]vaiyqats
+41:22 [0]vaeire [1]bachalomiy [2]vehineih [3]sheva [4]shiboliym [5]olot [6]beqaneh [7]echad [8]meleiot [9]vetovot
+41:23 [0]vehineih [1]sheva [2]shiboliym [3]tsenumot [4]daqot [5]shedufot [6]qadiym [7]tsomechot [8]achareiyhem
+41:24 [0]vativelaena [1]hashiboliym [2]hadaqot [3]eit [4]sheva [5]hashiboliym [6]hatovot [7]vaomar [8]el-hacharetumiym [9]veeiyn [10]magiyd [11]liy
+41:25 [0]vayomer [1]yoseif [2]el-pareoh [3]chalom [4]pareoh [5]echad [6]hu [7]eit [8]asher [9]haelohiym [10]oseh [11]higiyd [12]lefareoh
+41:26 [0]sheva [1]parot [2]hatovot [3]sheva [4]shaniym [5]heinah [6]vesheva [7]hashiboliym [8]hatovot [9]sheva [10]shaniym [11]heinah [12]chalom [13]echad [14]hu
+41:27 [0]vesheva [1]haparot [2]haraqot [3]veharaot [4]haolot [5]achareiyhen [6]sheva [7]shaniym [8]heinah [9]vesheva [10]hashiboliym [11]hareiqot [12]shedufot [13]haqadiym [14]yiheyu [15]sheva [16]sheneiy [17]raav
+41:28 [0]hu [1]hadavar [2]asher [3]dibaretiy [4]el-pareoh [5]asher [6]haelohiym [7]oseh [8]hereah [9]et-pareoh
+41:29 [0]hineih [1]sheva [2]shaniym [3]baot [4]sava [5]gadol [6]bekhal-erets [7]mitserayim
+41:30 [0]veqamu [1]sheva [2]sheneiy [3]raav [4]achareiyhen [5]venishekach [6]kal-hasava [7]beerets [8]mitserayim [9]vekhilah [10]haraav [11]et-haarets
+41:31 [0]velo-yivada [1]hasava [2]baarets [3]mipeneiy [4]haraav [5]hahu [6]achareiy-khein [7]kiy-khaveid [8]hu [9]meod
+41:32 [0]veal [1]hishanot [2]hachalom [3]el-pareoh [4]paamayim [5]kiy-nakhon [6]hadavar [7]meiim [8]haelohiym [9]umemaheir [10]haelohiym [11]laasoto
+41:33 [0]veatah [1]yeire [2]fareoh [3]iysh [4]navon [5]vechakham [6]viyshiyteihu [7]al-erets [8]mitserayim
+41:34 [0]yaaseh [1]fareoh [2]veyafeqeid [3]peqidiym [4]al-haarets [5]vechimeish [6]et-erets [7]mitserayim [8]besheva [9]sheneiy [10]hasava
+41:35 [0]veyiqebetsu [1]et-kal-okhel [2]hashaniym [3]hatovot [4]habaot [5]haeileh [6]veyitseberu-var [7]tachat [8]yad-pareoh [9]okhel [10]beariym [11]veshamaru
+41:36 [0]vehayah [1]haokhel [2]lefiqadon [3]laarets [4]lesheva [5]sheneiy [6]haraav [7]asher [8]tiheyeyna [9]beerets [10]mitserayim [11]velo-tikareit [12]haarets [13]baraav
+41:37 [0]vayiytav [1]hadavar [2]beeiyneiy [3]fareoh [4]uveeiyneiy [5]kal-avadayv
+41:38 [0]vayomer [1]pareoh [2]el-avadayv [3]hanimetsa [4]khazeh [5]iysh [6]asher [7]rucha [8]elohiym [9]bo
+41:39 [0]vayomer [1]pareoh [2]el-yoseif [3]achareiy [4]hodiya [5]elohiym [6]otekha [7]et-kal-zot [8]eiyn-navon [9]vechakham [10]kamokha
+41:40 [0]atah [1]tiheyeh [2]al-beiytiy [3]veal-piykha [4]yishaq [5]kal-amiy [6]raq [7]hakisei [8]egedal [9]mimeka
+41:41 [0]vayomer [1]pareoh [2]el-yoseif [3]reeih [4]natatiy [5]otekha [6]al [7]kal-erets [8]mitserayim
+41:42 [0]vayasar [1]pareoh [2]et-tabaeto [3]meial [4]yado [5]vayitein [6]otah [7]al-yad [8]yoseif [9]vayalebeish [10]oto [11]bigedeiy-sheish [12]vayasem [13]revid [14]hazahav [15]al-tsavaro
+41:43 [0]vayarekeiv [1]oto [2]bemirekevet [3]hamisheneh [4]asher-lo [5]vayiqereu [6]lefanayv [7]avereikhe [8]venaton [9]oto [10]al [11]kal-erets [12]mitserayim
+41:44 [0]vayomer [1]pareoh [2]el-yoseif [3]aniy [4]fareoh [5]uvileadeykha [6]lo-yariym [7]iysh [8]et-yado [9]veet-ragelo [10]bekhal-erets [11]mitserayim
+41:45 [0]vayiqera [1]fareoh [2]sheim-yoseif [3]tsafenat [4]paeneicha [5]vayiten-lo [6]et-asenat [7]bat-potiy [8]fera [9]kohein [10]on [11]leishah [12]vayeitsei [13]yoseif [14]al-erets [15]mitserayim
+41:46 [0]veyoseif [1]ben-sheloshiym [2]shanah [3]beamedo [4]lifeneiy [5]pareoh [6]melekhe-mitserayim [7]vayeitsei [8]yoseif [9]milifeneiy [10]fareoh [11]vayaevor [12]bekhal-erets [13]mitserayim
+41:47 [0]vataas [1]haarets [2]besheva [3]sheneiy [4]hasava [5]liqematsiym
+41:48 [0]vayiqebots [1]et-kal-okhel [2]sheva [3]shaniym [4]asher [5]hayu [6]beerets [7]mitserayim [8]vayiten-okhel [9]beariym [10]okhel [11]sedeih-haiyr [12]asher [13]seviyvoteyha [14]natan [15]betokhah
+41:49 [0]vayitsebor [1]yoseif [2]bar [3]kechol [4]hayam [5]harebeih [6]meod [7]ad [8]kiy-chadal [9]lisepor [10]kiy-eiyn [11]misepar
+41:50 [0]uleyoseif [1]yulad [2]sheneiy [3]vaniym [4]beterem [5]tavo [6]shenat [7]haraav [8]asher [9]yaledah-lo [10]asenat [11]bat-potiy [12]fera [13]kohein [14]on
+41:51 [0]vayiqera [1]yoseif [2]et-sheim [3]habekhor [4]menasheh [5]kiy-nashaniy [6]elohiym [7]et-kal-amaliy [8]veeit [9]kal-beiyt [10]aviy
+41:52 [0]veeit [1]sheim [2]hasheiniy [3]qara [4]eferayim [5]kiy-hiferaniy [6]elohiym [7]beerets [8]aneyiy
+41:53 [0]vatikheleynah [1]sheva [2]sheneiy [3]hasava [4]asher [5]hayah [6]beerets [7]mitserayim
+41:54 [0]vatechileynah [1]sheva [2]sheneiy [3]haraav [4]lavo [5]kaasher [6]amar [7]yoseif [8]vayehiy [9]raav [10]bekhal-haaratsot [11]uvekhal-erets [12]mitserayim [13]hayah [14]lachem
+41:55 [0]vatireav [1]kal-erets [2]mitserayim [3]vayitseaq [4]haam [5]el-pareoh [6]lalachem [7]vayomer [8]pareoh [9]lekhal-mitserayim [10]lekhu [11]el-yoseif [12]asher-yomar [13]lakhem [14]taashu
+41:56 [0]veharaav [1]hayah [2]al [3]kal-peneiy [4]haarets [5]vayifetach [6]yoseif [7]et-kal-asher [8]bahem [9]vayishebor [10]lemitserayim [11]vayechezaq [12]haraav [13]beerets [14]mitserayim
+41:57 [0]vekhal-haarets [1]bau [2]mitserayemah [3]lishebor [4]el-yoseif [5]kiy-chazaq [6]haraav [7]bekhal-haarets

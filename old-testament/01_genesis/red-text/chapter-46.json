@@ -1,0 +1,26 @@
+{
+  "chapter": 46,
+  "speeches": [
+    {
+      "verse": 2,
+      "speaker": "God",
+      "startWord": 6,
+      "endWord": 7,
+      "englishText": "Jacob, Jacob"
+    },
+    {
+      "verse": 3,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "And he said, I am God, the God of your father; do not be afraid to go down to Egypt, for I will make you a great nation there"
+    },
+    {
+      "verse": 4,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "I will go down with you to Egypt, and I will also surely bring you up again; and Joseph shall put his hand on your eyes"
+    }
+  ]
+}

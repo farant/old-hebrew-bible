@@ -1,0 +1,89 @@
+{
+  "chapter": 20,
+  "dialogue": [
+    {
+      "verse": 3,
+      "speaker": "god",
+      "startWord": 7,
+      "endWord": 13,
+      "englishText": "Behold, you are a dead man because of the woman whom you have taken, for she is a man's wife"
+    },
+    {
+      "verse": 4,
+      "speaker": "abimelech",
+      "startWord": 5,
+      "endWord": 8,
+      "englishText": "Lord, will you kill an innocent people?"
+    },
+    {
+      "verse": 5,
+      "speaker": "abimelech",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "Did he not himself say to me: She is my sister? And she herself said: He is my brother. In the integrity of my heart and the innocence of my hands I have done this"
+    },
+    {
+      "verse": 6,
+      "speaker": "god",
+      "startWord": 4,
+      "endWord": 18,
+      "englishText": "Yes, I know that you have done this in the integrity of your heart, and it was I who kept you from sinning against me; therefore I did not let you touch her"
+    },
+    {
+      "verse": 7,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "Now then, return the man's wife, for he is a prophet, so that he will pray for you and you shall live. But if you do not return her, know that you shall surely die, you and all who are yours"
+    },
+    {
+      "verse": 9,
+      "speaker": "abimelech",
+      "startWord": 5,
+      "endWord": 18,
+      "englishText": "What have you done to us? And how have I sinned against you, that you have brought on me and my kingdom a great sin? You have done to me things that ought not to be done"
+    },
+    {
+      "verse": 10,
+      "speaker": "abimelech",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "What did you see, that you did this thing?"
+    },
+    {
+      "verse": 11,
+      "speaker": "abraham",
+      "startWord": 2,
+      "endWord": 11,
+      "englishText": "I did it because I thought there is no fear of God at all in this place, and they will kill me because of my wife"
+    },
+    {
+      "verse": 12,
+      "speaker": "abraham",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Besides, she is indeed my sister, the daughter of my father, though not the daughter of my mother, and she became my wife"
+    },
+    {
+      "verse": 13,
+      "speaker": "abraham",
+      "startWord": 0,
+      "endWord": 21,
+      "englishText": "When God caused me to wander from my father's house, I said to her: This is the kindness you must do me — at every place to which we come, say of me: He is my brother"
+    },
+    {
+      "verse": 15,
+      "speaker": "abimelech",
+      "startWord": 2,
+      "endWord": 7,
+      "englishText": "Behold, my land is before you; dwell where it pleases you"
+    },
+    {
+      "verse": 16,
+      "speaker": "abimelech",
+      "startWord": 2,
+      "endWord": 16,
+      "englishText": "Behold, I have given your brother a thousand pieces of silver; it is a sign of your innocence in the eyes of all who are with you, and before everyone you are vindicated"
+    }
+  ]
+}

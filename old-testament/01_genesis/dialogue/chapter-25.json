@@ -1,0 +1,47 @@
+{
+  "chapter": 25,
+  "dialogue": [
+    {
+      "verse": 22,
+      "speaker": "rebekah",
+      "startWord": 4,
+      "endWord": 7,
+      "englishText": "If it is thus, why is this happening to me?"
+    },
+    {
+      "verse": 23,
+      "speaker": "yhwh",
+      "startWord": 3,
+      "endWord": 16,
+      "englishText": "Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger"
+    },
+    {
+      "verse": 30,
+      "speaker": "esau",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "Let me eat some of that red stew, for I am exhausted"
+    },
+    {
+      "verse": 31,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 5,
+      "englishText": "Sell me your birthright now"
+    },
+    {
+      "verse": 32,
+      "speaker": "esau",
+      "startWord": 2,
+      "endWord": 8,
+      "englishText": "I am about to die; of what use is a birthright to me?"
+    },
+    {
+      "verse": 33,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 4,
+      "englishText": "Swear to me now"
+    }
+  ]
+}

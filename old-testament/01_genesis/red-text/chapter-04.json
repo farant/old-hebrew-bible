@@ -1,0 +1,54 @@
+{
+  "chapter": 4,
+  "speeches": [
+    {
+      "verse": 6,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "Why are you angry, and why has your face fallen?"
+    },
+    {
+      "verse": 7,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is for you, but you must rule over it"
+    },
+    {
+      "verse": 9,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 5,
+      "englishText": "Where is Abel your brother?"
+    },
+    {
+      "verse": 10,
+      "speaker": "YHWH",
+      "startWord": 1,
+      "endWord": 8,
+      "englishText": "What have you done? The voice of your brother's blood is crying to me from the ground"
+    },
+    {
+      "verse": 11,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "And now you are cursed from the ground, which has opened its mouth to receive your brother's blood from your hand"
+    },
+    {
+      "verse": 12,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "When you work the ground, it shall no longer yield to you its strength. You shall be a fugitive and a wanderer on the earth"
+    },
+    {
+      "verse": 15,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 7,
+      "englishText": "Therefore whoever kills Cain, vengeance shall be taken on him sevenfold"
+    }
+  ]
+}

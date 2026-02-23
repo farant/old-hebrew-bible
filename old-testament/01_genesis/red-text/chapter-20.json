@@ -1,0 +1,26 @@
+{
+  "chapter": 20,
+  "speeches": [
+    {
+      "verse": 3,
+      "speaker": "God",
+      "startWord": 7,
+      "endWord": 13,
+      "englishText": "Behold, you are a dead man because of the woman whom you have taken, for she is a man's wife."
+    },
+    {
+      "verse": 6,
+      "speaker": "God",
+      "startWord": 4,
+      "endWord": 18,
+      "englishText": "Yes, I know that you have done this in the integrity of your heart, and it was I who kept you from sinning against me. Therefore I did not let you touch her."
+    },
+    {
+      "verse": 7,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "Now then, return the man's wife, for he is a prophet, so that he will pray for you, and you shall live. But if you do not return her, know that you shall surely die, you and all who are yours."
+    }
+  ]
+}

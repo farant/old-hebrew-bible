@@ -1,0 +1,33 @@
+{
+  "chapter": 21,
+  "speeches": [
+    {
+      "verse": 12,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 18,
+      "englishText": "Do not be distressed about the boy and your slave woman. Whatever Sarah tells you, listen to her voice, for through Isaac your offspring shall be named."
+    },
+    {
+      "verse": 13,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "And also of the son of the slave woman I will make a nation, because he is your offspring."
+    },
+    {
+      "verse": 17,
+      "speaker": "Angel of God",
+      "startWord": 11,
+      "endWord": 19,
+      "englishText": "What troubles you, Hagar? Fear not, for God has heard the voice of the boy where he is."
+    },
+    {
+      "verse": 18,
+      "speaker": "Angel of God",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Rise up, lift up the boy, and hold him fast with your hand, for I will make him into a great nation."
+    }
+  ]
+}

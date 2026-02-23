@@ -1,0 +1,131 @@
+{
+  "chapter": 45,
+  "dialogue": [
+    {
+      "verse": 3,
+      "speaker": "joseph",
+      "startWord": 3,
+      "endWord": 7,
+      "englishText": "I am Joseph! Is my father still alive?"
+    },
+    {
+      "verse": 4,
+      "speaker": "joseph",
+      "startWord": 3,
+      "endWord": 4,
+      "englishText": "Come near to me, please"
+    },
+    {
+      "verse": 4,
+      "speaker": "joseph",
+      "startWord": 7,
+      "endWord": 12,
+      "englishText": "I am Joseph your brother, whom you sold into Egypt"
+    },
+    {
+      "verse": 5,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "And now do not be distressed or angry with yourselves because you sold me here, for God sent me before you to preserve life"
+    },
+    {
+      "verse": 6,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "For the famine has been in the land these two years, and there are yet five years in which there will be neither plowing nor harvest"
+    },
+    {
+      "verse": 7,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "And God sent me before you to preserve for you a remnant on earth, and to keep alive for you many survivors"
+    },
+    {
+      "verse": 8,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "So it was not you who sent me here, but God. He has made me a father to Pharaoh, and lord of all his house and ruler over all the land of Egypt"
+    },
+    {
+      "verse": 9,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "Hurry and go up to my father and say to him, 'Thus says your son Joseph: God has made me lord of all Egypt. Come down to me; do not tarry'"
+    },
+    {
+      "verse": 10,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "You shall dwell in the land of Goshen, and you shall be near me, you and your children and your children's children, and your flocks, your herds, and all that you have"
+    },
+    {
+      "verse": 11,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "There I will provide for you, for there are yet five years of famine to come, so that you and your household, and all that you have, do not come to poverty"
+    },
+    {
+      "verse": 12,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "And behold, your eyes see, and the eyes of my brother Benjamin see, that it is my mouth that speaks to you"
+    },
+    {
+      "verse": 13,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "You must tell my father of all my honor in Egypt, and of all that you have seen. Hurry and bring my father down here"
+    },
+    {
+      "verse": 17,
+      "speaker": "pharaoh-of-joseph",
+      "startWord": 3,
+      "endWord": 11,
+      "englishText": "Say to your brothers, 'Do this: load your animals and go back to the land of Canaan'"
+    },
+    {
+      "verse": 18,
+      "speaker": "pharaoh-of-joseph",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "And take your father and your households, and come to me, and I will give you the best of the land of Egypt, and you shall eat the fat of the land"
+    },
+    {
+      "verse": 19,
+      "speaker": "pharaoh-of-joseph",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "You are commanded to do this: take wagons from the land of Egypt for your little ones and for your wives, and bring your father, and come"
+    },
+    {
+      "verse": 20,
+      "speaker": "pharaoh-of-joseph",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "Have no concern for your goods, for the best of all the land of Egypt is yours"
+    },
+    {
+      "verse": 24,
+      "speaker": "joseph",
+      "startWord": 5,
+      "endWord": 6,
+      "englishText": "Do not quarrel on the way"
+    },
+    {
+      "verse": 28,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 9,
+      "englishText": "It is enough; Joseph my son is still alive. I will go and see him before I die"
+    }
+  ]
+}

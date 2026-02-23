@@ -1,0 +1,16 @@
+16:1 [0]vesaray [1]eishet [2]averam [3]lo [4]yaledah [5]lo [6]velah [7]shifechah [8]mitseriyt [9]ushemah [10]hagar
+16:2 [0]vatomer [1]saray [2]el-averam [3]hineih-na [4]atsaraniy [5]yehvah [6]miledet [7]bo-na [8]el-shifechatiy [9]ulay [10]ibaneh [11]mimeinah [12]vayishema [13]averam [14]leqol [15]saray
+16:3 [0]vatiqach [1]saray [2]eishet-averam [3]et-hagar [4]hamitseriyt [5]shifechatah [6]miqeits [7]eser [8]shaniym [9]leshevet [10]averam [11]beerets [12]kenaan [13]vatitein [14]otah [15]leaveram [16]iyshah [17]lo [18]leishah
+16:4 [0]vayavo [1]el-hagar [2]vatahar [3]vateire [4]kiy [5]haratah [6]vateiqal [7]geviretah [8]beeiyneyha
+16:5 [0]vatomer [1]saray [2]el-averam [3]chamasiy [4]aleykha [5]anokhiy [6]natatiy [7]shifechatiy [8]becheiyqekha [9]vateire [10]kiy [11]haratah [12]vaeiqal [13]beeiyneyha [14]yishepot [15]yehvah [16]beiyniy [17]uveiyneykha
+16:6 [0]vayomer [1]averam [2]el-saray [3]hineih [4]shifechateikhe [5]beyadeikhe [6]asiy-lah [7]hatov [8]beeiynayikhe [9]vateaneha [10]saray [11]vativerach [12]mipaneyha
+16:7 [0]vayimetsaah [1]maleakhe [2]yehvah [3]al-eiyn [4]hamayim [5]bamidebar [6]al-haayin [7]bederekhe [8]shur
+16:8 [0]vayomar [1]hagar [2]shifechat [3]saray [4]eiy-mizeh [5]vat [6]veanah [7]teileikhiy [8]vatomer [9]mipeneiy [10]saray [11]geviretiy [12]anokhiy [13]borachat
+16:9 [0]vayomer [1]lah [2]maleakhe [3]yehvah [4]shuviy [5]el-gevireteikhe [6]vehiteaniy [7]tachat [8]yadeyha
+16:10 [0]vayomer [1]lah [2]maleakhe [3]yehvah [4]harebah [5]arebeh [6]et-zareeikhe [7]velo [8]yisafeir [9]meirov
+16:11 [0]vayomer [1]lah [2]maleakhe [3]yehvah [4]hinakhe [5]harah [6]veyoladete [7]bein [8]veqarat [9]shemo [10]yishemaeil [11]kiy-shama [12]yehvah [13]el-aneyeikhe
+16:12 [0]vehu [1]yiheyeh [2]pere [3]adam [4]yado [5]vakol [6]veyad [7]kol [8]bo [9]veal-peneiy [10]khal-echayv [11]yishekon
+16:13 [0]vatiqera [1]sheim-yehvah [2]hadoveir [3]eileyha [4]atah [5]eil [6]roiy [7]kiy [8]amerah [9]hagam [10]halom [11]raiytiy [12]achareiy [13]roiy
+16:14 [0]al-kein [1]qara [2]labeeir [3]beeir [4]lachay [5]roiy [6]hineih [7]veiyn-qadeish [8]uveiyn [9]bared
+16:15 [0]vateiled [1]hagar [2]leaveram [3]bein [4]vayiqera [5]averam [6]shem-beno [7]asher-yaledah [8]hagar [9]yishemaeil
+16:16 [0]veaveram [1]ben-shemoniym [2]shanah [3]vesheish [4]shaniym [5]beledet-hagar [6]et-yishemaeil [7]leaveram

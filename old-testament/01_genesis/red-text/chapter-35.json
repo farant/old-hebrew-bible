@@ -1,0 +1,33 @@
+{
+  "chapter": 35,
+  "speeches": [
+    {
+      "verse": 1,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 14,
+      "englishText": "Arise, go up to Bethel and dwell there. Make an altar there to the God who appeared to you when you fled from your brother Esau"
+    },
+    {
+      "verse": 10,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 11,
+      "englishText": "Your name is Jacob; your name shall no longer be called Jacob, but Israel shall be your name"
+    },
+    {
+      "verse": 11,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 14,
+      "englishText": "I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body"
+    },
+    {
+      "verse": 12,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you"
+    }
+  ]
+}

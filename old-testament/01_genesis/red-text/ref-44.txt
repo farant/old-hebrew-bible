@@ -1,0 +1,34 @@
+44:1 [0]vayetsav [1]et-asher [2]al-beiyto [3]leimor [4]malei [5]et-ametechot [6]haanashiym [7]okhel [8]kaasher [9]yukhelun [10]seeit [11]vesiym [12]kesef-iysh [13]befiy [14]ametacheto
+44:2 [0]veet-geviyiy [1]geviya [2]hakesef [3]tasiym [4]befiy [5]ametachat [6]haqaton [7]veeit [8]kesef [9]shivero [10]vayaas [11]kidevar [12]yoseif [13]asher [14]dibeir
+44:3 [0]haboqer [1]or [2]vehaanashiym [3]shulechu [4]heimah [5]vachamoreiyhem
+44:4 [0]heim [1]yatseu [2]et-haiyr [3]lo [4]hirechiyqu [5]veyoseif [6]amar [7]laasher [8]al-beiyto [9]qum [10]redof [11]achareiy [12]haanashiym [13]vehisagetam [14]veamareta [15]aleihem [16]lamah [17]shilametem [18]raah [19]tachat [20]tovah
+44:5 [0]halo [1]zeh [2]asher [3]yisheteh [4]adoniy [5]bo [6]vehu [7]nacheish [8]yenacheish [9]bo [10]hareiotem [11]asher [12]asiytem
+44:6 [0]vayasigeim [1]vayedabeir [2]aleihem [3]et-hadevariym [4]haeileh
+44:7 [0]vayomeru [1]eilayv [2]lamah [3]yedabeir [4]adoniy [5]kadevariym [6]haeileh [7]chaliylah [8]laavadeykha [9]meiasot [10]kadavar [11]hazeh
+44:8 [0]hein [1]kesef [2]asher [3]matsanu [4]befiy [5]ametechoteiynu [6]heshiyvonu [7]eileykha [8]meierets [9]kenaan [10]veeiykhe [11]nigenov [12]mibeiyt [13]adoneykha [14]kesef [15]o [16]zahav
+44:9 [0]asher [1]yimatsei [2]ito [3]meiavadeykha [4]vameit [5]vegam-anachenu [6]niheyeh [7]ladoniy [8]laavadiym
+44:10 [0]vayomer [1]gam-atah [2]khedivereiykhem [3]ken-hu [4]asher [5]yimatsei [6]ito [7]yiheyeh-liy [8]aved [9]veatem [10]tiheyu [11]neqiyim
+44:11 [0]vayemaharu [1]vayoridu [2]iysh [3]et-ametacheto [4]aretsah [5]vayifetechu [6]iysh [7]ametacheto
+44:12 [0]vayechapeis [1]bagadol [2]heicheil [3]uvaqaton [4]kilah [5]vayimatsei [6]hagaviya [7]beametachat [8]bineyamin
+44:13 [0]vayiqereu [1]simelotam [2]vayaamos [3]iysh [4]al-chamoro [5]vayashuvu [6]haiyrah
+44:14 [0]vayavo [1]yehudah [2]veechayv [3]beiytah [4]yoseif [5]vehu [6]odenu [7]sham [8]vayipelu [9]lefanayv [10]aretsah
+44:15 [0]vayomer [1]lahem [2]yoseif [3]mah-hamaaseh [4]hazeh [5]asher [6]asiytem [7]halo [8]yedaetem [9]kiy-nacheish [10]yenacheish [11]iysh [12]asher [13]kamoniy
+44:16 [0]vayomer [1]yehudah [2]mah-nomar [3]ladoniy [4]mah-nedabeir [5]umah-nitsetadaq [6]haelohiym [7]matsa [8]et-aon [9]avadeykha [10]hinenu [11]avadiym [12]ladoniy [13]gam-anachenu [14]gam [15]asher-nimetsa [16]hagaviya [17]beyado
+44:17 [0]vayomer [1]chaliylah [2]liy [3]meiasot [4]zot [5]haiysh [6]asher [7]nimetsa [8]hagaviya [9]beyado [10]hu [11]yiheyeh-liy [12]aved [13]veatem [14]alu [15]leshalom [16]el-aviykhem
+44:18 [0]vayigash [1]eilayv [2]yehudah [3]vayomer [4]biy [5]adoniy [6]yedaber-na [7]avedekha [8]davar [9]beazeneiy [10]adoniy [11]veal-yichar [12]apekha [13]beavedekha [14]kiy [15]khamokha [16]kefareoh
+44:19 [0]adoniy [1]shaal [2]et-avadayv [3]leimor [4]hayeish-lakhem [5]av [6]o-ach
+44:20 [0]vanomer [1]el-adoniy [2]yesh-lanu [3]av [4]zaqein [5]veyeled [6]zequniym [7]qatan [8]veachiyv [9]meit [10]vayivateir [11]hu [12]levado [13]leimo [14]veaviyv [15]aheivo
+44:21 [0]vatomer [1]el-avadeykha [2]horiduhu [3]eilay [4]veasiymah [5]eiyniy [6]alayv
+44:22 [0]vanomer [1]el-adoniy [2]lo-yukhal [3]hanaar [4]laazov [5]et-aviyv [6]veazav [7]et-aviyv [8]vameit
+44:23 [0]vatomer [1]el-avadeykha [2]im-lo [3]yeireid [4]achiykhem [5]haqaton [6]itekhem [7]lo [8]tosifun [9]lireot [10]panay
+44:24 [0]vayehiy [1]kiy [2]aliynu [3]el-avedekha [4]aviy [5]vanaged-lo [6]eit [7]divereiy [8]adoniy
+44:25 [0]vayomer [1]aviynu [2]shuvu [3]shiveru-lanu [4]meat-okhel
+44:26 [0]vanomer [1]lo [2]nukhal [3]laredet [4]im-yeish [5]achiynu [6]haqaton [7]itanu [8]veyaradenu [9]kiy-lo [10]nukhal [11]lireot [12]peneiy [13]haiysh [14]veachiynu [15]haqaton [16]eiynenu [17]itanu
+44:27 [0]vayomer [1]avedekha [2]aviy [3]eileiynu [4]atem [5]yedaetem [6]kiy [7]shenayim [8]yaledah-liy [9]ishetiy
+44:28 [0]vayeitsei [1]haechad [2]meiitiy [3]vaomar [4]akhe [5]tarof [6]toraf [7]velo [8]reiytiyv [9]ad-heinah
+44:29 [0]uleqachetem [1]gam-et-zeh [2]meiim [3]panay [4]veqarahu [5]ason [6]vehoradetem [7]et-seiyvatiy [8]beraah [9]sheolah
+44:30 [0]veatah [1]kevoiy [2]el-avedekha [3]aviy [4]vehanaar [5]eiynenu [6]itanu [7]venafesho [8]qeshurah [9]venafesho
+44:31 [0]vehayah [1]kireoto [2]kiy-eiyn [3]hanaar [4]vameit [5]vehoriydu [6]avadeykha [7]et-seiyvat [8]avedekha [9]aviynu [10]beyagon [11]sheolah
+44:32 [0]kiy [1]avedekha [2]arav [3]et-hanaar [4]meiim [5]aviy [6]leimor [7]im-lo [8]aviyenu [9]eileykha [10]vechatatiy [11]leaviy [12]kal-hayamiym
+44:33 [0]veatah [1]yeishev-na [2]avedekha [3]tachat [4]hanaar [5]eved [6]ladoniy [7]vehanaar [8]yaal [9]im-echayv
+44:34 [0]kiy-eiykhe [1]eeleh [2]el-aviy [3]vehanaar [4]eiynenu [5]itiy [6]pen [7]ereeh [8]vara [9]asher [10]yimetsa [11]et-aviy

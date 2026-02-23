@@ -1,0 +1,61 @@
+{
+  "chapter": 39,
+  "dialogue": [
+    {
+      "verse": 7,
+      "speaker": "potiphars-wife",
+      "startWord": 9,
+      "endWord": 10,
+      "englishText": "Lie with me"
+    },
+    {
+      "verse": 8,
+      "speaker": "joseph",
+      "startWord": 4,
+      "endWord": 12,
+      "englishText": "Behold, my master does not know what is in the house with me, and he has put everything that he has in my charge"
+    },
+    {
+      "verse": 9,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 18,
+      "englishText": "He is not greater in this house than I, and he has withheld nothing from me except you, because you are his wife. How then could I do this great evil and sin against God?"
+    },
+    {
+      "verse": 12,
+      "speaker": "potiphars-wife",
+      "startWord": 3,
+      "endWord": 4,
+      "englishText": "Lie with me"
+    },
+    {
+      "verse": 14,
+      "speaker": "potiphars-wife",
+      "startWord": 6,
+      "endWord": 19,
+      "englishText": "See, he has brought to us a Hebrew man to laugh at us; he came in to me to lie with me, and I cried out with a loud voice"
+    },
+    {
+      "verse": 15,
+      "speaker": "potiphars-wife",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "And when he heard that I raised my voice and cried out, he left his garment with me and fled and went outside"
+    },
+    {
+      "verse": 17,
+      "speaker": "potiphars-wife",
+      "startWord": 5,
+      "endWord": 11,
+      "englishText": "The Hebrew servant whom you brought to us came in to me to laugh at me"
+    },
+    {
+      "verse": 18,
+      "speaker": "potiphars-wife",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "And as I raised my voice and cried out, he left his garment with me and fled outside"
+    }
+  ]
+}

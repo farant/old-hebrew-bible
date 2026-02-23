@@ -1,0 +1,32 @@
+10:1 [0]veeileh [1]toledot [2]beneiy-nocha [3]sheim [4]cham [5]vayafet [6]vayivaledu [7]lahem [8]baniym [9]achar [10]hamabul
+10:2 [0]beneiy [1]yefet [2]gomer [3]umagog [4]umaday [5]veyavan [6]vetuval [7]umeshekhe [8]vetiyras
+10:3 [0]uveneiy [1]gomer [2]ashekanaz [3]veriyfat [4]vetogaremah
+10:4 [0]uveneiy [1]yavan [2]eliyshah [3]vetareshiysh [4]kitiym [5]vedodaniym
+10:5 [0]meieileh [1]niferedu [2]iyeiy [3]hagoyim [4]bearetsotam [5]iysh [6]lileshono [7]lemishepechotam [8]begoyeihem
+10:6 [0]uveneiy [1]cham [2]kush [3]umitserayim [4]ufut [5]ukhenaan
+10:7 [0]uveneiy [1]khush [2]seva [3]vachaviylah [4]vesavetah [5]veraemah [6]vesavetekha [7]uveneiy [8]raemah [9]sheva [10]udedan
+10:8 [0]vekhush [1]yalad [2]et-nimerod [3]hu [4]heicheil [5]liheyot [6]gibor [7]baarets
+10:9 [0]hu-hayah [1]gibor-tsayid [2]lifeneiy [3]yehvah [4]al-kein [5]yeiamar [6]kenimerod [7]gibor [8]tsayid [9]lifeneiy [10]yehvah
+10:10 [0]vatehiy [1]reishiyt [2]mamelakheto [3]bavel [4]veerekhe [5]veakad [6]vekhaleneih [7]beerets [8]shinear
+10:11 [0]min-haarets [1]hahiv [2]yatsa [3]ashur [4]vayiven [5]et-niyneveih [6]veet-rechovot [7]iyr [8]veet-kalach
+10:12 [0]veet-resen [1]beiyn [2]niyneveih [3]uveiyn [4]kalach [5]hiv [6]haiyr [7]hagedolah
+10:13 [0]umitserayim [1]yalad [2]et-ludiym [3]veet-anamiym [4]veet-lehaviym [5]veet-nafetuchiym
+10:14 [0]veet-paterusiym [1]veet-kaseluchiym [2]asher [3]yatseu [4]misham [5]pelishetiym [6]veet-kafetoriym
+10:15 [0]ukhenaan [1]yalad [2]et-tsiydon [3]bekhoro [4]veet-cheit
+10:16 [0]veet-hayevusiy [1]veet-haemoriy [2]veeit [3]hagiregashiy
+10:17 [0]veet-hachiviy [1]veet-haareqiy [2]veet-hasiyniy
+10:18 [0]veet-haarevadiy [1]veet-hatsemariy [2]veet-hachamatiy [3]veachar [4]nafotsu [5]mishepechot [6]hakenaaniy
+10:19 [0]vayehiy [1]gevul [2]hakenaaniy [3]mitsiydon [4]boakhah [5]gerarah [6]ad-azah [7]boakhah [8]sedomah [9]vaamorah [10]veademah [11]utsevoyim [12]ad-lasha
+10:20 [0]eileh [1]veneiy-cham [2]lemishepechotam [3]lileshonotam [4]bearetsotam [5]begoyeihem
+10:21 [0]ulesheim [1]yulad [2]gam-hu [3]aviy [4]kal-beneiy-eiver [5]achiy [6]yefet [7]hagadol
+10:22 [0]beneiy [1]sheim [2]eiylam [3]veashur [4]vearepakheshad [5]velud [6]vaaram
+10:23 [0]uveneiy [1]aram [2]uts [3]vechul [4]vegeter [5]vamash
+10:24 [0]vearepakheshad [1]yalad [2]et-shalach [3]veshelach [4]yalad [5]et-eiver
+10:25 [0]uleeiver [1]yulad [2]sheneiy [3]vaniym [4]sheim [5]haechad [6]peleg [7]kiy [8]veyamayv [9]nifelegah [10]haarets [11]vesheim [12]achiyv [13]yaqetan
+10:26 [0]veyaqetan [1]yalad [2]et-alemodad [3]veet-shalef [4]veet-chatsaremavet [5]veet-yarach
+10:27 [0]veet-hadoram [1]veet-uzal [2]veet-diqelah
+10:28 [0]veet-oval [1]veet-aviymaeil [2]veet-sheva
+10:29 [0]veet-ofir [1]veet-chaviylah [2]veet-yovav [3]kal-eileh [4]beneiy [5]yaqetan
+10:30 [0]vayehiy [1]moshavam [2]mimeisha [3]boakhah [4]sefarah [5]har [6]haqedem
+10:31 [0]eileh [1]veneiy-sheim [2]lemishepechotam [3]lileshonotam [4]bearetsotam [5]legoyeihem
+10:32 [0]eileh [1]mishepechot [2]beneiy-nocha [3]letoledotam [4]begoyeihem [5]umeieileh [6]niferedu [7]hagoyim [8]baarets [9]achar [10]hamabul

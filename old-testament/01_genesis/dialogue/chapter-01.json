@@ -1,0 +1,96 @@
+{
+  "chapter": 1,
+  "dialogue": [
+    {
+      "verse": 3,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 3,
+      "englishText": "Let there be light"
+    },
+    {
+      "verse": 6,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 10,
+      "englishText": "Let there be a firmament in the midst of the waters, and let it divide between waters and waters"
+    },
+    {
+      "verse": 9,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 9,
+      "englishText": "Let the waters under the heavens be gathered to one place, and let the dry land appear"
+    },
+    {
+      "verse": 11,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 15,
+      "englishText": "Let the earth sprout vegetation, plants bearing seed, fruit trees bearing fruit after their kind with seed in it, on the earth"
+    },
+    {
+      "verse": 14,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 15,
+      "englishText": "Let there be lights in the firmament of the heavens to divide between the day and between the night, and let them be for signs and for seasons and for days and years"
+    },
+    {
+      "verse": 15,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "and let them be for lights in the firmament of the heavens to give light upon the earth"
+    },
+    {
+      "verse": 20,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the face of the firmament of the heavens"
+    },
+    {
+      "verse": 22,
+      "speaker": "god",
+      "startWord": 4,
+      "endWord": 11,
+      "englishText": "Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth"
+    },
+    {
+      "verse": 24,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 10,
+      "englishText": "Let the earth bring forth living creatures after their kind: livestock and creeping things and beasts of the earth after their kind"
+    },
+    {
+      "verse": 26,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 15,
+      "englishText": "Let us make man in our image, after our likeness, and let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth"
+    },
+    {
+      "verse": 28,
+      "speaker": "god",
+      "startWord": 6,
+      "endWord": 18,
+      "englishText": "Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth"
+    },
+    {
+      "verse": 29,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 18,
+      "englishText": "Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit; you shall have them for food"
+    },
+    {
+      "verse": 30,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food"
+    }
+  ]
+}

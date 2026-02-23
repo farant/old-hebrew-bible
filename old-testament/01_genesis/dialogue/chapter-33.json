@@ -1,0 +1,89 @@
+{
+  "chapter": 33,
+  "dialogue": [
+    {
+      "verse": 5,
+      "speaker": "esau",
+      "startWord": 6,
+      "endWord": 7,
+      "englishText": "Who are these with you?"
+    },
+    {
+      "verse": 5,
+      "speaker": "jacob",
+      "startWord": 9,
+      "endWord": 12,
+      "englishText": "The children whom God has graciously given your servant"
+    },
+    {
+      "verse": 8,
+      "speaker": "esau",
+      "startWord": 1,
+      "endWord": 6,
+      "englishText": "What do you mean by all this company that I met?"
+    },
+    {
+      "verse": 8,
+      "speaker": "jacob",
+      "startWord": 8,
+      "endWord": 10,
+      "englishText": "To find favor in the sight of my lord"
+    },
+    {
+      "verse": 9,
+      "speaker": "esau",
+      "startWord": 2,
+      "endWord": 7,
+      "englishText": "I have enough, my brother; keep what you have for yourself"
+    },
+    {
+      "verse": 10,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 17,
+      "englishText": "No, please, if I have found favor in your sight, then accept my present from my hand, for truly to see your face is like seeing the face of God, and you have accepted me"
+    },
+    {
+      "verse": 11,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Please accept my blessing that is brought to you, because God has dealt graciously with me, and because I have enough"
+    },
+    {
+      "verse": 12,
+      "speaker": "esau",
+      "startWord": 1,
+      "endWord": 4,
+      "englishText": "Let us journey on our way, and I will go ahead of you"
+    },
+    {
+      "verse": 13,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 13,
+      "englishText": "My lord knows that the children are frail, and that the nursing flocks and herds are a care to me; if they are driven hard one day, all the flocks will die"
+    },
+    {
+      "verse": 14,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "Let my lord pass on ahead of his servant, and I will lead on slowly, at the pace of the livestock that are ahead of me and at the pace of the children, until I come to my lord in Seir"
+    },
+    {
+      "verse": 15,
+      "speaker": "esau",
+      "startWord": 2,
+      "endWord": 6,
+      "englishText": "Let me leave with you some of the people who are with me"
+    },
+    {
+      "verse": 15,
+      "speaker": "jacob",
+      "startWord": 8,
+      "endWord": 12,
+      "englishText": "Why is that? Let me find favor in the sight of my lord"
+    }
+  ]
+}

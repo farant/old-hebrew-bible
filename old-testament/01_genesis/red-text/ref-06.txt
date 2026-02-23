@@ -1,0 +1,22 @@
+6:1 [0]vayehiy [1]kiy-heicheil [2]haadam [3]larov [4]al-peneiy [5]haadamah [6]uvanot [7]yuledu [8]lahem
+6:2 [0]vayireu [1]veneiy-haelohiym [2]et-benot [3]haadam [4]kiy [5]tovot [6]heinah [7]vayiqechu [8]lahem [9]nashiym [10]mikol [11]asher [12]bacharu
+6:3 [0]vayomer [1]yehvah [2]lo-yadon [3]ruchiy [4]vaadam [5]leolam [6]beshagam [7]hu [8]vasar [9]vehayu [10]yamayv [11]meiah [12]veeseriym [13]shanah
+6:4 [0]hanefiliym [1]hayu [2]vaarets [3]bayamiym [4]haheim [5]vegam [6]achareiy-khein [7]asher [8]yavou [9]beneiy [10]haelohiym [11]el-benot [12]haadam [13]veyaledu [14]lahem [15]heimah [16]hagiboriym [17]asher [18]meiolam [19]anesheiy [20]hasheim
+6:5 [0]vayare [1]yehvah [2]kiy [3]rabah [4]raat [5]haadam [6]baarets [7]vekhal-yeitser [8]macheshevot [9]libo [10]raq [11]ra [12]kal-hayom
+6:6 [0]vayinachem [1]yehvah [2]kiy-asah [3]et-haadam [4]baarets [5]vayiteatseiv [6]el-libo
+6:7 [0]vayomer [1]yehvah [2]emecheh [3]et-haadam [4]asher-baratiy [5]meial [6]peneiy [7]haadamah [8]meiadam [9]ad-beheimah [10]ad-remes [11]vead-of [12]hashamayim [13]kiy [14]nichametiy [15]kiy [16]asiytim
+6:8 [0]venocha [1]matsa [2]chein [3]beeiyneiy [4]yehvah
+6:9 [0]eileh [1]toledot [2]nocha [3]nocha [4]iysh [5]tsadiyq [6]tamiym [7]hayah [8]bedorotayv [9]et-haelohiym [10]hitehalekhe-nocha
+6:10 [0]vayoled [1]nocha [2]sheloshah [3]vaniym [4]et-sheim [5]et-cham [6]veet-yafet
+6:11 [0]vatishacheit [1]haarets [2]lifeneiy [3]haelohiym [4]vatimalei [5]haarets [6]chamas
+6:12 [0]vayare [1]elohiym [2]et-haarets [3]vehineih [4]nishechatah [5]kiy-hishechiyt [6]kal-basar [7]et-dareko [8]al-haarets
+6:13 [0]vayomer [1]elohiym [2]lenocha [3]qeits [4]kal-basar [5]ba [6]lefanay [7]kiy-maleah [8]haarets [9]chamas [10]mipeneiyhem [11]vehineniy [12]mashechiytam [13]et-haarets
+6:14 [0]aseih [1]lekha [2]teivat [3]atseiy-gofer [4]qiniym [5]taaseh [6]et-hateivah [7]vekhafareta [8]otah [9]mibayit [10]umichuts [11]bakofer
+6:15 [0]vezeh [1]asher [2]taaseh [3]otah [4]shelosh [5]meiot [6]amah [7]orekhe [8]hateivah [9]chamishiym [10]amah [11]rachebah [12]usheloshiym [13]amah [14]qomatah
+6:16 [0]tsohar [1]taaseh [2]lateivah [3]veel-amah [4]tekhalenah [5]milemaelah [6]ufetach [7]hateivah [8]betsidah [9]tasiym [10]tachetiyim [11]sheniyim [12]ushelishiym [13]taasheha
+6:17 [0]vaaniy [1]hineniy [2]meiviy [3]et-hamabul [4]mayim [5]al-haarets [6]leshacheit [7]kal-basar [8]asher-bo [9]rucha [10]chayiym [11]mitachat [12]hashamayim [13]kol [14]asher-baarets [15]yigeva
+6:18 [0]vahaqimotiy [1]et-beriytiy [2]itakhe [3]uvata [4]el-hateivah [5]atah [6]uvaneykha [7]veishetekha [8]unesheiy-vaneykha [9]itakhe
+6:19 [0]umikal-hachay [1]mikal-basar [2]shenayim [3]mikol [4]taviy [5]el-hateivah [6]lehachayot [7]itakhe [8]zakhar [9]uneqeivah [10]yiheyu
+6:20 [0]meihaof [1]lemiyneihu [2]umin-habeheimah [3]lemiynah [4]mikol [5]remes [6]haadamah [7]lemiyneihu [8]shenayim [9]mikol [10]yavou [11]eileykha [12]lehachayot
+6:21 [0]veatah [1]qach-lekha [2]mikal-maakhal [3]asher [4]yeiakheil [5]veasafeta [6]eileykha [7]vehayah [8]lekha [9]velahem [10]leakhelah
+6:22 [0]vayaas [1]nocha [2]kekhol [3]asher [4]tsivah [5]oto [6]elohiym [7]kein [8]ashah

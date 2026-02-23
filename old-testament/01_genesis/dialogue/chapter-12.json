@@ -1,0 +1,68 @@
+{
+  "chapter": 12,
+  "dialogue": [
+    {
+      "verse": 1,
+      "speaker": "yhwh",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "Go from your country and your kindred and your father's house to the land that I will show you"
+    },
+    {
+      "verse": 2,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing"
+    },
+    {
+      "verse": 3,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed"
+    },
+    {
+      "verse": 7,
+      "speaker": "yhwh",
+      "startWord": 4,
+      "endWord": 7,
+      "englishText": "To your offspring I will give this land"
+    },
+    {
+      "verse": 11,
+      "speaker": "abraham",
+      "startWord": 8,
+      "endWord": 13,
+      "englishText": "See, I know that you are a woman beautiful in appearance"
+    },
+    {
+      "verse": 12,
+      "speaker": "abraham",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "When the Egyptians see you they will say, this is his wife, and they will kill me but they will let you live"
+    },
+    {
+      "verse": 13,
+      "speaker": "abraham",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake"
+    },
+    {
+      "verse": 18,
+      "speaker": "pharaoh-of-abraham",
+      "startWord": 4,
+      "endWord": 12,
+      "englishText": "What is this you have done to me? Why did you not tell me that she was your wife?"
+    },
+    {
+      "verse": 19,
+      "speaker": "pharaoh-of-abraham",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "Why did you say, she is my sister, so that I took her for my wife? Now then, here is your wife; take her, and go"
+    }
+  ]
+}

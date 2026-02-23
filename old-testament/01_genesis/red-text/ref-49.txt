@@ -1,0 +1,33 @@
+49:1 [0]vayiqera [1]yaaqov [2]el-banayv [3]vayomer [4]heiasefu [5]veagiydah [6]lakhem [7]eit [8]asher-yiqera [9]etekhem [10]beachariyt [11]hayamiym
+49:2 [0]hiqavetsu [1]veshimeu [2]beneiy [3]yaaqov [4]veshimeu [5]el-yiseraeil [6]aviykhem
+49:3 [0]reuvein [1]bekhoriy [2]atah [3]kochiy [4]vereishiyt [5]oniy [6]yeter [7]seeit [8]veyeter [9]az
+49:4 [0]pachaz [1]kamayim [2]al-totar [3]kiy [4]aliyta [5]mishekeveiy [6]aviykha [7]az [8]chilaleta [9]yetsuiy [10]alah
+49:5 [0]shimeon [1]veleiviy [2]achiym [3]keleiy [4]chamas [5]mekheiroteiyhem
+49:6 [0]besodam [1]al-tavo [2]nafeshiy [3]biqehalam [4]al-teichad [5]kevodiy [6]kiy [7]veapam [8]haregu [9]iysh [10]uviretsonam [11]iqeru-shor
+49:7 [0]arur [1]apam [2]kiy [3]az [4]veeveratam [5]kiy [6]qashatah [7]achaleqeim [8]beyaaqov [9]vaafiytseim [10]beyiseraeil
+49:8 [0]yehudah [1]atah [2]yodukha [3]acheykha [4]yadekha [5]beoref [6]oyeveykha [7]yishetachauu [8]lekha [9]beneiy [10]aviykha
+49:9 [0]gur [1]areyeih [2]yehudah [3]miteref [4]beniy [5]aliyta [6]kara [7]ravats [8]keareyeih [9]ukhelaviy [10]miy [11]yeqiymenu
+49:10 [0]lo-yasur [1]sheivet [2]miyhudah [3]umechoqeiq [4]mibeiyn [5]ragelayv [6]ad [7]kiy-yavo [8]shylh [9]shiylo [10]velo [11]yiqehat [12]amiym
+49:11 [0]oseriy [1]lagefen [2]yrh [3]iyro [4]velasoreiqah [5]beniy [6]atono [7]kibeis [8]bayayin [9]levusho [10]uvedam-anaviym [11]svth [12]suto
+49:12 [0]chakheliyliy [1]eiynayim [2]miyayin [3]uleven-shinayim [4]meichalav
+49:13 [0]zevulun [1]lechof [2]yamiym [3]yishekon [4]vehu [5]lechof [6]oniyot [7]veyarekhato [8]al-tsiydon
+49:14 [0]yisashkhar [1]chamor [2]garem [3]roveits [4]beiyn [5]hamishepetayim
+49:15 [0]vayare [1]menuchah [2]kiy [3]tov [4]veet-haarets [5]kiy [6]naeimah [7]vayeit [8]shikhemo [9]lisebol [10]vayehiy [11]lemas-oveid
+49:16 [0]dan [1]yadiyn [2]amo [3]keachad [4]shiveteiy [5]yiseraeil
+49:17 [0]yehiy-dan [1]nachash [2]aleiy-derekhe [3]shefiyfon [4]aleiy-orach [5]hanosheikhe [6]iqeveiy-sus [7]vayipol [8]rokhevo [9]achor
+49:18 [0]liyshuatekha [1]qiviytiy [2]yehvah
+49:19 [0]gad [1]gedud [2]yegudenu [3]vehu [4]yagud [5]aqeiv
+49:20 [0]meiasheir [1]shemeinah [2]lachemo [3]vehu [4]yitein [5]maadaneiy-melekhe
+49:21 [0]nafetaliy [1]ayalah [2]sheluchah [3]hanotein [4]imereiy-shafer
+49:22 [0]bein [1]porat [2]yoseif [3]bein [4]porat [5]aleiy-ayin [6]banot [7]tsaadah [8]aleiy-shur
+49:23 [0]vayemararuhu [1]varobu [2]vayisetemuhu [3]baaleiy [4]chitsiym
+49:24 [0]vateishev [1]beeiytan [2]qasheto [3]vayafozu [4]zeroeiy [5]yadayv [6]miydeiy [7]aviyr [8]yaaqov [9]misham [10]roeh [11]even [12]yiseraeil
+49:25 [0]meieil [1]aviykha [2]veyaezereka [3]veeit [4]shaday [5]viyvarekheka [6]birekhot [7]shamayim [8]meial [9]birekhot [10]tehom [11]rovetset [12]tachat [13]birekhot [14]shadayim [15]varacham
+49:26 [0]birekhot [1]aviykha [2]gaveru [3]al-birekhot [4]horay [5]ad-taavat [6]giveot [7]olam [8]tiheyeyn [9]lerosh [10]yoseif [11]uleqadeqod [12]neziyr [13]echayv
+49:27 [0]bineyamiyn [1]zeeiv [2]yiteraf [3]baboqer [4]yokhal [5]ad [6]velaerev [7]yechaleiq [8]shalal
+49:28 [0]kal-eileh [1]shiveteiy [2]yiseraeil [3]sheneiym [4]asar [5]vezot [6]asher-diber [7]lahem [8]aviyhem [9]vayevarekhe [10]otam [11]iysh [12]asher [13]kevirekhato [14]beirakhe [15]otam
+49:29 [0]vayetsav [1]otam [2]vayomer [3]aleihem [4]aniy [5]neesaf [6]el-amiy [7]qiveru [8]otiy [9]el-avotay [10]el-hamearah [11]asher [12]bisedeih [13]eferon [14]hachitiy
+49:30 [0]bamearah [1]asher [2]bisedeih [3]hamakhepeilah [4]asher [5]al-peneiy-mamerei [6]beerets [7]kenaan [8]asher [9]qanah [10]averaham [11]et-hasadeh [12]meieit [13]eferon [14]hachitiy [15]laachuzat-qaver
+49:31 [0]shamah [1]qaveru [2]et-averaham [3]veeit [4]sarah [5]isheto [6]shamah [7]qaveru [8]et-yitsechaq [9]veeit [10]riveqah [11]isheto [12]veshamah [13]qavaretiy [14]et-leiah
+49:32 [0]miqeneih [1]hasadeh [2]vehamearah [3]asher-bo [4]meieit [5]beneiy-cheit
+49:33 [0]vayekhal [1]yaaqov [2]letsaot [3]et-banayv [4]vayeesof [5]ragelayv [6]el-hamitah [7]vayigeva [8]vayeiasef [9]el-amayv

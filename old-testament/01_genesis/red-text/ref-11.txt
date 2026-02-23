@@ -1,0 +1,32 @@
+11:1 [0]vayehiy [1]khal-haarets [2]safah [3]echat [4]udevariym [5]achadiym
+11:2 [0]vayehiy [1]benaseam [2]miqedem [3]vayimetseu [4]viqeah [5]beerets [6]shinear [7]vayeishevu [8]sham
+11:3 [0]vayomeru [1]iysh [2]el-reieihu [3]havah [4]nilebenah [5]leveiniym [6]veniserefah [7]lisereifah [8]vatehiy [9]lahem [10]haleveinah [11]leaven [12]vehacheimar [13]hayah [14]lahem [15]lachomer
+11:4 [0]vayomeru [1]havah [2]niveneh-lanu [3]iyr [4]umigedal [5]verosho [6]vashamayim [7]venaaseh-lanu [8]sheim [9]pen-nafuts [10]al-peneiy [11]khal-haarets
+11:5 [0]vayeired [1]yehvah [2]lireot [3]et-haiyr [4]veet-hamigedal [5]asher [6]banu [7]beneiy [8]haadam
+11:6 [0]vayomer [1]yehvah [2]hein [3]am [4]echad [5]vesafah [6]achat [7]lekhulam [8]vezeh [9]hachilam [10]laasot [11]veatah [12]lo-yibatseir [13]meihem [14]kol [15]asher [16]yazemu [17]laashot
+11:7 [0]havah [1]neiredah [2]venavelah [3]sham [4]sefatam [5]asher [6]lo [7]yishemeu [8]iysh [9]sefat [10]reieihu
+11:8 [0]vayafets [1]yehvah [2]otam [3]misham [4]al-peneiy [5]khal-haarets [6]vayachedelu [7]livenot [8]haiyr
+11:9 [0]al-kein [1]qara [2]shemah [3]bavel [4]kiy-sham [5]balal [6]yehvah [7]sefat [8]kal-haarets [9]umisham [10]hefiytsam [11]yehvah [12]al-peneiy [13]kal-haarets
+11:10 [0]eileh [1]toledot [2]sheim [3]sheim [4]ben-meat [5]shanah [6]vayoled [7]et-arepakheshad [8]shenatayim [9]achar [10]hamabul
+11:11 [0]vayechiy-sheim [1]achareiy [2]holiydo [3]et-arepakheshad [4]chameish [5]meiot [6]shanah [7]vayoled [8]baniym [9]uvanot
+11:12 [0]vearepakheshad [1]chay [2]chameish [3]usheloshiym [4]shanah [5]vayoled [6]et-shalach
+11:13 [0]vayechiy [1]arepakheshad [2]achareiy [3]holiydo [4]et-shelach [5]shalosh [6]shaniym [7]veareba [8]meiot [9]shanah [10]vayoled [11]baniym [12]uvanot
+11:14 [0]veshelach [1]chay [2]sheloshiym [3]shanah [4]vayoled [5]et-eiver
+11:15 [0]vayechiy-shelach [1]achareiy [2]holiydo [3]et-eiver [4]shalosh [5]shaniym [6]veareba [7]meiot [8]shanah [9]vayoled [10]baniym [11]uvanot
+11:16 [0]vayechiy-eiver [1]areba [2]usheloshiym [3]shanah [4]vayoled [5]et-paleg
+11:17 [0]vayechiy-eiver [1]achareiy [2]holiydo [3]et-peleg [4]sheloshiym [5]shanah [6]veareba [7]meiot [8]shanah [9]vayoled [10]baniym [11]uvanot
+11:18 [0]vayechiy-feleg [1]sheloshiym [2]shanah [3]vayoled [4]et-reu
+11:19 [0]vayechiy-feleg [1]achareiy [2]holiydo [3]et-reu [4]teisha [5]shaniym [6]umatayim [7]shanah [8]vayoled [9]baniym [10]uvanot
+11:20 [0]vayechiy [1]reu [2]shetayim [3]usheloshiym [4]shanah [5]vayoled [6]et-serug
+11:21 [0]vayechiy [1]reu [2]achareiy [3]holiydo [4]et-serug [5]sheva [6]shaniym [7]umatayim [8]shanah [9]vayoled [10]baniym [11]uvanot
+11:22 [0]vayechiy [1]serug [2]sheloshiym [3]shanah [4]vayoled [5]et-nachor
+11:23 [0]vayechiy [1]serug [2]achareiy [3]holiydo [4]et-nachor [5]matayim [6]shanah [7]vayoled [8]baniym [9]uvanot
+11:24 [0]vayechiy [1]nachor [2]teisha [3]veeseriym [4]shanah [5]vayoled [6]et-tarach
+11:25 [0]vayechiy [1]nachor [2]achareiy [3]holiydo [4]et-terach [5]tesha-esereih [6]shanah [7]umeat [8]shanah [9]vayoled [10]baniym [11]uvanot
+11:26 [0]vayechiy-terach [1]shiveiym [2]shanah [3]vayoled [4]et-averam [5]et-nachor [6]veet-haran
+11:27 [0]veeileh [1]toledot [2]terach [3]terach [4]holiyd [5]et-averam [6]et-nachor [7]veet-haran [8]veharan [9]holiyd [10]et-lot
+11:28 [0]vayamat [1]haran [2]al-peneiy [3]terach [4]aviyv [5]beerets [6]moladeto [7]beur [8]kasediym
+11:29 [0]vayiqach [1]averam [2]venachor [3]lahem [4]nashiym [5]sheim [6]eishet-averam [7]saray [8]vesheim [9]eishet-nachor [10]milekah [11]bat-haran [12]aviy-milekah [13]vaaviy [14]yisekah
+11:30 [0]vatehiy [1]saray [2]aqarah [3]eiyn [4]lah [5]valad
+11:31 [0]vayiqach [1]terach [2]et-averam [3]beno [4]veet-lot [5]ben-haran [6]ben-beno [7]veeit [8]saray [9]kalato [10]eishet [11]averam [12]beno [13]vayeitseu [14]itam [15]meiur [16]kasediym [17]lalekhet [18]aretsah [19]kenaan [20]vayavou [21]ad-charan [22]vayeishevu [23]sham
+11:32 [0]vayiheyu [1]yemeiy-terach [2]chameish [3]shaniym [4]umatayim [5]shanah [6]vayamat [7]terach [8]becharan

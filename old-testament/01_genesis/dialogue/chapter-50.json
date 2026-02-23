@@ -1,0 +1,89 @@
+{
+  "chapter": 50,
+  "dialogue": [
+    {
+      "verse": 4,
+      "speaker": "joseph",
+      "startWord": 8,
+      "endWord": 14,
+      "englishText": "If now I have found favor in your eyes, please speak in the hearing of Pharaoh, saying —"
+    },
+    {
+      "verse": 5,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 17,
+      "englishText": "My father made me swear, saying: Behold, I am about to die; in my tomb which I dug for myself in the land of Canaan, there you shall bury me. Now therefore, let me please go up and bury my father; then I will return."
+    },
+    {
+      "verse": 6,
+      "speaker": "pharaoh-of-joseph",
+      "startWord": 2,
+      "endWord": 5,
+      "englishText": "Go up and bury your father, as he made you swear."
+    },
+    {
+      "verse": 15,
+      "speaker": "jacobs-sons",
+      "startWord": 5,
+      "endWord": 14,
+      "englishText": "What if Joseph bears a grudge against us and pays us back in full for all the wrong we did to him?"
+    },
+    {
+      "verse": 16,
+      "speaker": "jacobs-sons",
+      "startWord": 3,
+      "endWord": 6,
+      "englishText": "Your father gave a command before his death, saying —"
+    },
+    {
+      "verse": 17,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 16,
+      "englishText": "Thus you shall say to Joseph: Please forgive the transgression of your brothers and their sin, because they did evil to you. And now, please forgive the transgression of the servants of the God of your father."
+    },
+    {
+      "verse": 18,
+      "speaker": "jacobs-sons",
+      "startWord": 5,
+      "endWord": 6,
+      "englishText": "Behold, we are your servants."
+    },
+    {
+      "verse": 19,
+      "speaker": "joseph",
+      "startWord": 3,
+      "endWord": 6,
+      "englishText": "Do not be afraid, for am I in the place of God?"
+    },
+    {
+      "verse": 20,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."
+    },
+    {
+      "verse": 21,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "So do not be afraid; I will provide for you and your little ones."
+    },
+    {
+      "verse": 24,
+      "speaker": "joseph",
+      "startWord": 3,
+      "endWord": 18,
+      "englishText": "I am about to die, but God will surely visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob."
+    },
+    {
+      "verse": 25,
+      "speaker": "joseph",
+      "startWord": 4,
+      "endWord": 10,
+      "englishText": "God will surely visit you, and you shall carry up my bones from here."
+    }
+  ]
+}

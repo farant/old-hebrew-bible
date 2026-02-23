@@ -1,0 +1,27 @@
+17:1 [0]vayehiy [1]averam [2]ben-tisheiym [3]shanah [4]veteisha [5]shaniym [6]vayeira [7]yehvah [8]el-averam [9]vayomer [10]eilayv [11]aniy-eil [12]shaday [13]hitehaleikhe [14]lefanay [15]veheyeih [16]tamiym
+17:2 [0]veetenah [1]veriytiy [2]beiyniy [3]uveiynekha [4]vearebeh [5]otekha [6]bimeod [7]meod
+17:3 [0]vayipol [1]averam [2]al-panayv [3]vayedabeir [4]ito [5]elohiym [6]leimor
+17:4 [0]aniy [1]hineih [2]veriytiy [3]itakhe [4]vehayiyta [5]leav [6]hamon [7]goyim
+17:5 [0]velo-yiqarei [1]od [2]et-shimekha [3]averam [4]vehayah [5]shimekha [6]averaham [7]kiy [8]av-hamon [9]goyim [10]netatiykha
+17:6 [0]vehifereitiy [1]otekha [2]bimeod [3]meod [4]unetatiykha [5]legoyim [6]umelakhiym [7]mimekha [8]yeitseiu
+17:7 [0]vahaqimotiy [1]et-beriytiy [2]beiyniy [3]uveiynekha [4]uveiyn [5]zareakha [6]achareykha [7]ledorotam [8]liveriyt [9]olam [10]liheyot [11]lekha [12]leilohiym [13]ulezareakha [14]achareykha
+17:8 [0]venatatiy [1]lekha [2]ulezareakha [3]achareykha [4]eit [5]erets [6]megureykha [7]eit [8]kal-erets [9]kenaan [10]laachuzat [11]olam [12]vehayiytiy [13]lahem [14]leilohiym
+17:9 [0]vayomer [1]elohiym [2]el-averaham [3]veatah [4]et-beriytiy [5]tishemor [6]atah [7]vezareakha [8]achareykha [9]ledorotam
+17:10 [0]zot [1]beriytiy [2]asher [3]tishemeru [4]beiyniy [5]uveiyneiykhem [6]uveiyn [7]zareakha [8]achareykha [9]himol [10]lakhem [11]kal-zakhar
+17:11 [0]unemaletem [1]eit [2]besar [3]arelatekhem [4]vehayah [5]leot [6]beriyt [7]beiyniy [8]uveiyneiykhem
+17:12 [0]uven-shemonat [1]yamiym [2]yimol [3]lakhem [4]kal-zakhar [5]ledoroteiykhem [6]yeliyd [7]bayit [8]umiqenat-kesef [9]mikol [10]ben-neikhar [11]asher [12]lo [13]mizareakha [14]hu
+17:13 [0]himol [1]yimol [2]yeliyd [3]beiytekha [4]umiqenat [5]kasepekha [6]vehayetah [7]veriytiy [8]bivesarekhem [9]liveriyt [10]olam
+17:14 [0]veareil [1]zakhar [2]asher [3]lo-yimol [4]et-besar [5]arelato [6]venikheretah [7]hanefesh [8]hahiv [9]meiameyha [10]et-beriytiy [11]heifar
+17:15 [0]vayomer [1]elohiym [2]el-averaham [3]saray [4]ishetekha [5]lo-tiqera [6]et-shemah [7]saray [8]kiy [9]sarah [10]shemah
+17:16 [0]uveirakhetiy [1]otah [2]vegam [3]natatiy [4]mimenah [5]lekha [6]bein [7]uveirakhetiyha [8]vehayetah [9]legoyim [10]malekheiy [11]amiym [12]mimenah [13]yiheyu
+17:17 [0]vayipol [1]averaham [2]al-panayv [3]vayitsechaq [4]vayomer [5]belibo [6]haleven [7]meiah-shanah [8]yivaleid [9]veim-sarah [10]havat-tisheiym [11]shanah [12]teileid
+17:18 [0]vayomer [1]averaham [2]el-haelohiym [3]lu [4]yishemaeil [5]yicheyeh [6]lefaneykha
+17:19 [0]vayomer [1]elohiym [2]aval [3]sarah [4]ishetekha [5]yoledet [6]lekha [7]bein [8]veqarata [9]et-shemo [10]yitsechaq [11]vahaqimotiy [12]et-beriytiy [13]ito [14]liveriyt [15]olam [16]lezareo [17]acharayv
+17:20 [0]uleyishemaeil [1]shemaetiykha [2]hineih [3]beirakhetiy [4]oto [5]vehifereiytiy [6]oto [7]vehirebeiytiy [8]oto [9]bimeod [10]meod [11]sheneiym-asar [12]nesiyim [13]yoliyd [14]unetatiyv [15]legoy [16]gadol
+17:21 [0]veet-beriytiy [1]aqiym [2]et-yitsechaq [3]asher [4]teileid [5]lekha [6]sarah [7]lamoeid [8]hazeh [9]bashanah [10]haacheret
+17:22 [0]vayekhal [1]ledabeir [2]ito [3]vayaal [4]elohiym [5]meial [6]averaham
+17:23 [0]vayiqach [1]averaham [2]et-yishemaeil [3]beno [4]veeit [5]kal-yeliydeiy [6]veiyto [7]veeit [8]kal-miqenat [9]kasepo [10]kal-zakhar [11]beanesheiy [12]beiyt [13]averaham [14]vayamal [15]et-besar [16]arelatam [17]beetsem [18]hayom [19]hazeh [20]kaasher [21]diber [22]ito [23]elohiym
+17:24 [0]veaveraham [1]ben-tisheiym [2]vateisha [3]shanah [4]behimolo [5]besar [6]arelato
+17:25 [0]veyishemaeil [1]beno [2]ben-shelosh [3]esereih [4]shanah [5]behimolo [6]eit [7]besar [8]arelato
+17:26 [0]beetsem [1]hayom [2]hazeh [3]nimol [4]averaham [5]veyishemaeil [6]beno
+17:27 [0]vekhal-anesheiy [1]veiyto [2]yeliyd [3]bayit [4]umiqenat-kesef [5]meieit [6]ben-neikhar [7]nimolu [8]ito

@@ -1,0 +1,33 @@
+{
+  "chapter": 31,
+  "speeches": [
+    {
+      "verse": 3,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "Return to the land of your fathers and to your kindred, and I will be with you"
+    },
+    {
+      "verse": 11,
+      "speaker": "Angel of God",
+      "startWord": 5,
+      "endWord": 5,
+      "englishText": "Jacob!"
+    },
+    {
+      "verse": 12,
+      "speaker": "Angel of God",
+      "startWord": 1,
+      "endWord": 16,
+      "englishText": "Lift up your eyes and see: all the he-goats that mount the flock are striped, spotted, and mottled, for I have seen all that Laban is doing to you"
+    },
+    {
+      "verse": 13,
+      "speaker": "Angel of God",
+      "startWord": 0,
+      "endWord": 18,
+      "englishText": "I am the God of Bethel, where you anointed a pillar and made a vow to me. Now arise, go out from this land and return to the land of your kindred"
+    }
+  ]
+}

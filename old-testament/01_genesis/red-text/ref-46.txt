@@ -1,0 +1,34 @@
+46:1 [0]vayisa [1]yiseraeil [2]vekhal-asher-lo [3]vayavo [4]beeirah [5]shava [6]vayizebach [7]zevachiym [8]leiloheiy [9]aviyv [10]yitsechaq
+46:2 [0]vayomer [1]elohiym [2]leyiseraeil [3]bemareot [4]halayelah [5]vayomer [6]yaaqov [7]yaaqov [8]vayomer [9]hineiniy
+46:3 [0]vayomer [1]anokhiy [2]haeil [3]eloheiy [4]aviykha [5]al-tiyra [6]meiredah [7]mitserayemah [8]kiy-legoy [9]gadol [10]ashiymekha [11]sham
+46:4 [0]anokhiy [1]eireid [2]imekha [3]mitserayemah [4]veanokhiy [5]aalekha [6]gam-aloh [7]veyoseif [8]yashiyt [9]yado [10]al-eiyneykha
+46:5 [0]vayaqam [1]yaaqov [2]mibeeir [3]shava [4]vayiseu [5]veneiy-yiseraeil [6]et-yaaqov [7]aviyhem [8]veet-tapam [9]veet-nesheiyhem [10]baagalot [11]asher-shalach [12]pareoh [13]laseit [14]oto
+46:6 [0]vayiqechu [1]et-miqeneiyhem [2]veet-rekhusham [3]asher [4]rakheshu [5]beerets [6]kenaan [7]vayavou [8]mitserayemah [9]yaaqov [10]vekhal-zareo [11]ito
+46:7 [0]banayv [1]uveneiy [2]vanayv [3]ito [4]benotayv [5]uvenot [6]banayv [7]vekhal-zareo [8]heiviy [9]ito [10]mitserayemah
+46:8 [0]veeileh [1]shemot [2]beneiy-yiseraeil [3]habaiym [4]mitserayemah [5]yaaqov [6]uvanayv [7]bekhor [8]yaaqov [9]reuvein
+46:9 [0]uveneiy [1]reuvein [2]chanokhe [3]ufalu [4]vechetseron [5]vekharemiy
+46:10 [0]uveneiy [1]shimeon [2]yemueil [3]veyamiyn [4]veohad [5]veyakhiyn [6]vetsochar [7]veshaul [8]ben-hakenaaniyt
+46:11 [0]uveneiy [1]leiviy [2]geireshon [3]qehat [4]umerariy
+46:12 [0]uveneiy [1]yehudah [2]eir [3]veonan [4]vesheilah [5]vaferets [6]vazarach [7]vayamat [8]eir [9]veonan [10]beerets [11]kenaan [12]vayiheyu [13]veneiy-ferets [14]chetseron [15]vechamul
+46:13 [0]uveneiy [1]yisashkhar [2]tola [3]ufuvah [4]veyov [5]veshimeron
+46:14 [0]uveneiy [1]zevulun [2]sered [3]veeilon [4]veyacheleeil
+46:15 [0]eileh [1]beneiy [2]leiah [3]asher [4]yaledah [5]leyaaqov [6]befadan [7]aram [8]veeit [9]diynah [10]vito [11]kal-nefesh [12]banayv [13]uvenotayv [14]sheloshiym [15]veshalosh
+46:16 [0]uveneiy [1]gad [2]tsifeyon [3]vechagiy [4]shuniy [5]veetsebon [6]eiriy [7]vaarodiy [8]veareeiliy
+46:17 [0]uveneiy [1]asheir [2]yimenah [3]veyishevah [4]veyisheviy [5]uveriyah [6]veserach [7]achotam [8]uveneiy [9]veriyah [10]chever [11]umalekiyeil
+46:18 [0]eileh [1]beneiy [2]zilepah [3]asher-natan [4]lavan [5]leleiah [6]vito [7]vateiled [8]et-eileh [9]leyaaqov [10]sheish [11]esereih [12]nafesh
+46:19 [0]beneiy [1]racheil [2]eishet [3]yaaqov [4]yoseif [5]uvineyamin
+46:20 [0]vayivaleid [1]leyoseif [2]beerets [3]mitserayim [4]asher [5]yaledah-lo [6]asenat [7]bat-potiy [8]fera [9]kohein [10]on [11]et-menasheh [12]veet-eferayim
+46:21 [0]uveneiy [1]vineyamin [2]bela [3]vavekher [4]veashebeil [5]geira [6]venaaman [7]eichiy [8]varosh [9]mupiym [10]vechupiym [11]vaarede
+46:22 [0]eileh [1]beneiy [2]racheil [3]asher [4]yulad [5]leyaaqov [6]kal-nefesh [7]arebaah [8]ashar
+46:23 [0]uveneiy-dan [1]chushiym
+46:24 [0]uveneiy [1]nafetaliy [2]yachetseeil [3]veguniy [4]veyeitser [5]veshileim
+46:25 [0]eileh [1]beneiy [2]vilehah [3]asher-natan [4]lavan [5]leracheil [6]bito [7]vateiled [8]et-eileh [9]leyaaqov [10]kal-nefesh [11]shiveah
+46:26 [0]kal-hanefesh [1]habaah [2]leyaaqov [3]mitserayemah [4]yotseeiy [5]yereikho [6]milevad [7]nesheiy [8]veneiy-yaaqov [9]kal-nefesh [10]shishiym [11]vasheish
+46:27 [0]uveneiy [1]yoseif [2]asher-yulad-lo [3]vemitserayim [4]nefesh [5]shenayim [6]kal-hanefesh [7]leveiyt-yaaqov [8]habaah [9]mitserayemah [10]shiveiym
+46:28 [0]veet-yehudah [1]shalach [2]lefanayv [3]el-yoseif [4]lehorot [5]lefanayv [6]goshenah [7]vayavou [8]aretsah [9]goshen
+46:29 [0]vayeesor [1]yoseif [2]merekaveto [3]vayaal [4]liqerat-yiseraeil [5]aviyv [6]goshenah [7]vayeira [8]eilayv [9]vayipol [10]al-tsavarayv [11]vayeiveke [12]al-tsavarayv [13]od
+46:30 [0]vayomer [1]yiseraeil [2]el-yoseif [3]amutah [4]hapaam [5]achareiy [6]reotiy [7]et-paneykha [8]kiy [9]odekha [10]chay
+46:31 [0]vayomer [1]yoseif [2]el-echayv [3]veel-beiyt [4]aviyv [5]eeleh [6]veagiydah [7]lefareoh [8]veomerah [9]eilayv [10]achay [11]uveiyt-aviy [12]asher [13]beerets-kenaan [14]bau [15]eilay
+46:32 [0]vehaanashiym [1]roeiy [2]tson [3]kiy-anesheiy [4]miqeneh [5]hayu [6]vetsonam [7]uveqaram [8]vekhal-asher [9]lahem [10]heiviyu
+46:33 [0]vehayah [1]kiy-yiqera [2]lakhem [3]pareoh [4]veamar [5]mah-maaseiykhem
+46:34 [0]vaamaretem [1]anesheiy [2]miqeneh [3]hayu [4]avadeykha [5]mineureiynu [6]vead-atah [7]gam-anachenu [8]gam-avoteiynu [9]baavur [10]teishevu [11]beerets [12]goshen [13]kiy-toavat [14]mitserayim [15]kal-roeih [16]tson

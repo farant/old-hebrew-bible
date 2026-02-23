@@ -1,0 +1,47 @@
+{
+  "chapter": 14,
+  "dialogue": [
+    {
+      "verse": 19,
+      "speaker": "melchizedek",
+      "startWord": 2,
+      "endWord": 8,
+      "englishText": "Blessed be Abram by God Most High, possessor of heaven and earth"
+    },
+    {
+      "verse": 20,
+      "speaker": "melchizedek",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "And blessed be God Most High, who has delivered your enemies into your hand"
+    },
+    {
+      "verse": 21,
+      "speaker": "king-of-sodom",
+      "startWord": 3,
+      "endWord": 6,
+      "englishText": "Give me the persons, but take the goods for yourself"
+    },
+    {
+      "verse": 22,
+      "speaker": "abraham",
+      "startWord": 4,
+      "endWord": 11,
+      "englishText": "I have lifted my hand to YHWH, God Most High, possessor of heaven and earth"
+    },
+    {
+      "verse": 23,
+      "speaker": "abraham",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "that I would not take a thread or a sandal strap or anything that is yours, lest you should say, I have made Abram rich"
+    },
+    {
+      "verse": 24,
+      "speaker": "abraham",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "I will take nothing but what the young men have eaten, and the share of the men who went with me — Aner, Eshcol, and Mamre — let them take their share"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+LXX Diff Application Report
+===========================
+Applied: 11
+Skipped: 0
+Total diffs: 11
+
+APPLIED diff 1 (insert) to 1:6: Harmonizes with the formula used in 1:9, 1:11, 1:15, 1:24 where 'and it was so' follows God's creative command
+  BEFORE: vayomer elohiym yehiy raqiya betokhe hamayim viyhiy mavediyl beiyn mayim lamayim
+  AFTER:  vayomer elohiym yehiy raqiya betokhe hamayim viyhiy mavediyl beiyn mayim lamayim vayehiy-khein
+APPLIED diff 2 (insert) to 1:9: LXX adds narrative fulfillment after 'and it was so' describing the actual gathering of waters
+  BEFORE: vayomer elohiym yiqavu hamayim mitachat hashamayim el-maqom echad veteiraeh hayabashah vayehiy-khein
+  AFTER:  vayomer elohiym yiqavu hamayim mitachat hashamayim el-maqom echad veteiraeh hayabashah vayehiy-khein vayiqavu hamayim mitachat hashamayim el-miqeveihem veteiraeh hayabashah
+APPLIED diff 3 (insert) to 1:14: Harmonizes v.14 with v.15 which says 'to give light on the earth'
+  BEFORE: vayomer elohiym yehiy meorot bireqiya hashamayim lehavediyl beiyn hayom uveiyn halayelah vehayu leotot ulemoadiym uleyamiym veshaniym
+  AFTER:  vayomer elohiym yehiy meorot bireqiya hashamayim lehavediyl beiyn hayom uveiyn halayelah vehayu leotot ulemoadiym uleyamiym veshaniym lehaiyr al-haarets
+APPLIED diff 4 (replace) to 2:2: God finished his work on the sixth day (LXX) vs seventh day (MT). Only first occurrence in verse — v2:2b 'rested on the seventh' stays.
+  BEFORE: vayekhal elohiym bayom hasheviyiy melakheto asher asah vayishebot bayom hasheviyiy mikal-melakheto asher ashah
+  AFTER:  vayekhal elohiym bayom hashishiy melakheto asher asah vayishebot bayom hasheviyiy mikal-melakheto asher ashah
+APPLIED diff 5 (remove) to 2:5: LXX has 'God' where MT has 'YHWH God'. Remove 'YHWH', retain 'God'.
+  BEFORE: vekhol siycha hasadeh terem yiheyeh vaarets vekhal-eisev hasadeh terem yitsemach kiy lo himetiyr yehvah elohiym al-haarets veadam ayin laavod et-haadamah
+  AFTER:  vekhol siycha hasadeh terem yiheyeh vaarets vekhal-eisev hasadeh terem yitsemach kiy lo himetiyr elohiym al-haarets veadam ayin laavod et-haadamah
+APPLIED diff 6 (remove) to 2:7: LXX has 'God' where MT has 'YHWH God'. Remove 'YHWH', retain 'God'.
+  BEFORE: vayiytser yehvah elohiym et-haadam afar min-haadamah vayipach beapayv nishemat chayiym vayehiy haadam lenefesh chayah
+  AFTER:  vayiytser elohiym et-haadam afar min-haadamah vayipach beapayv nishemat chayiym vayehiy haadam lenefesh chayah
+APPLIED diff 7 (remove) to 2:9: LXX has 'God' where MT has 'YHWH God'. Remove 'YHWH', retain 'God'.
+  BEFORE: vayatsemach yehvah elohiym min-haadamah kal-eits nechemad lemareeh vetov lemaakhal veeits hachayiym betokhe hagan veeits hadaat tov vara
+  AFTER:  vayatsemach elohiym min-haadamah kal-eits nechemad lemareeh vetov lemaakhal veeits hachayiym betokhe hagan veeits hadaat tov vara
+APPLIED diff 8 (insert) to 2:24: LXX adds 'the two' to clarify that man and wife become one flesh
+  BEFORE: al-kein yaazav-iysh et-aviyv veet-imo vedavaq beisheto vehayu levasar echad
+  AFTER:  al-kein yaazav-iysh et-aviyv veet-imo vedavaq beisheto vehayu sheneiyhem levasar echad
+APPLIED diff 11 (replace) to 3:15: Second verb: MT 'bruise/strike' (teshufenu) vs LXX 'watch/guard' (tishmerenu). Completes the pair with diff 9.
+  BEFORE: veeiyvah ashiyt beiynekha uveiyn haishah uveiyn zareakha uveiyn zareah hu yeshufekha rosh veatah teshufenu aqeiv
+  AFTER:  veeiyvah ashiyt beiynekha uveiyn haishah uveiyn zareakha uveiyn zareah hu yeshufekha rosh veatah tishmerenu aqeiv
+APPLIED diff 9 (replace) to 3:15: First verb: MT 'bruise/strike' (yeshufekha) vs LXX 'watch/guard' (yishmerekha). Both have masculine pronoun.
+  BEFORE: veeiyvah ashiyt beiynekha uveiyn haishah uveiyn zareakha uveiyn zareah hu yeshufekha rosh veatah tishmerenu aqeiv
+  AFTER:  veeiyvah ashiyt beiynekha uveiyn haishah uveiyn zareakha uveiyn zareah hu yishmerekha rosh veatah tishmerenu aqeiv
+APPLIED diff 10 (insert) to 4:8: MT has speech marker but no speech content. LXX preserves Cain's actual words to Abel.
+  BEFORE: vayomer qayin el-hevel achiyv vayehiy biheyotam basadeh vayaqam qayin el-hevel achiyv vayaharegeihu
+  AFTER:  vayomer qayin el-hevel achiyv nelkhah hasadeh vayehiy biheyotam basadeh vayaqam qayin el-hevel achiyv vayaharegeihu

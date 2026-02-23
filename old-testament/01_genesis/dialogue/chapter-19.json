@@ -1,0 +1,145 @@
+{
+  "chapter": 19,
+  "dialogue": [
+    {
+      "verse": 2,
+      "speaker": "lot",
+      "startWord": 1,
+      "endWord": 12,
+      "englishText": "My lords, please turn aside to your servant's house and spend the night and wash your feet; then you may rise early and go on your way"
+    },
+    {
+      "verse": 2,
+      "speaker": "angels-at-sodom",
+      "startWord": 14,
+      "endWord": 17,
+      "englishText": "No, we will spend the night in the town square"
+    },
+    {
+      "verse": 5,
+      "speaker": "men-of-sodom",
+      "startWord": 4,
+      "endWord": 12,
+      "englishText": "Where are the men who came to you tonight? Bring them out to us, that we may know them"
+    },
+    {
+      "verse": 7,
+      "speaker": "lot",
+      "startWord": 1,
+      "endWord": 3,
+      "englishText": "I beg you, my brothers, do not act so wickedly"
+    },
+    {
+      "verse": 8,
+      "speaker": "lot",
+      "startWord": 0,
+      "endWord": 22,
+      "englishText": "Behold, I have two daughters who have not known any man; let me bring them out to you, and do to them as you please; only do nothing to these men, for they have come under the shelter of my roof"
+    },
+    {
+      "verse": 9,
+      "speaker": "men-of-sodom",
+      "startWord": 1,
+      "endWord": 1,
+      "englishText": "Stand back!"
+    },
+    {
+      "verse": 9,
+      "speaker": "men-of-sodom",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "This fellow came to sojourn, and he would play the judge! Now we will deal worse with you than with them"
+    },
+    {
+      "verse": 12,
+      "speaker": "angels-at-sodom",
+      "startWord": 3,
+      "endWord": 13,
+      "englishText": "Have you anyone else here? Son-in-law, sons, daughters, or anyone you have in the city — bring them out of the place"
+    },
+    {
+      "verse": 13,
+      "speaker": "angels-at-sodom",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "For we are about to destroy this place, because the outcry against its people has become great before YHWH, and YHWH has sent us to destroy it"
+    },
+    {
+      "verse": 14,
+      "speaker": "lot",
+      "startWord": 7,
+      "endWord": 13,
+      "englishText": "Up, get out of this place, for YHWH is about to destroy the city"
+    },
+    {
+      "verse": 15,
+      "speaker": "angels-at-sodom",
+      "startWord": 7,
+      "endWord": 15,
+      "englishText": "Up! Take your wife and your two daughters who are here, lest you be swept away in the punishment of the city"
+    },
+    {
+      "verse": 17,
+      "speaker": "angels-at-sodom",
+      "startWord": 5,
+      "endWord": 13,
+      "englishText": "Escape for your life; do not look back or stop anywhere in the valley; escape to the hills, lest you be swept away"
+    },
+    {
+      "verse": 18,
+      "speaker": "lot",
+      "startWord": 3,
+      "endWord": 4,
+      "englishText": "Oh no, my lords"
+    },
+    {
+      "verse": 19,
+      "speaker": "lot",
+      "startWord": 0,
+      "endWord": 19,
+      "englishText": "Behold, your servant has found favor in your sight, and you have shown me great kindness in saving my life; but I cannot escape to the hills, lest the disaster overtake me and I die"
+    },
+    {
+      "verse": 20,
+      "speaker": "lot",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "Behold, this city is near enough to flee to, and it is a little one; let me escape there — is it not a little one? — and my life will be saved"
+    },
+    {
+      "verse": 21,
+      "speaker": "angels-at-sodom",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "Behold, I grant you this favor also, that I will not overthrow the city of which you have spoken"
+    },
+    {
+      "verse": 22,
+      "speaker": "angels-at-sodom",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "Escape there quickly, for I can do nothing until you arrive there"
+    },
+    {
+      "verse": 31,
+      "speaker": "lots-daughters",
+      "startWord": 3,
+      "endWord": 11,
+      "englishText": "Our father is old, and there is not a man on earth to come in to us after the manner of all the earth"
+    },
+    {
+      "verse": 32,
+      "speaker": "lots-daughters",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Come, let us make our father drink wine and we will lie with him, that we may preserve offspring from our father"
+    },
+    {
+      "verse": 34,
+      "speaker": "lots-daughters",
+      "startWord": 5,
+      "endWord": 16,
+      "englishText": "Behold, I lay last night with my father; let us make him drink wine tonight also, and you go in and lie with him, that we may preserve offspring from our father"
+    }
+  ]
+}

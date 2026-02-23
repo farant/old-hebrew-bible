@@ -1,0 +1,31 @@
+34:1 [0]vateitsei [1]diynah [2]bat-leiah [3]asher [4]yaledah [5]leyaaqov [6]lireot [7]bivenot [8]haarets
+34:2 [0]vayare [1]otah [2]shekhem [3]ben-chamor [4]hachiviy [5]nesiy [6]haarets [7]vayiqach [8]otah [9]vayishekav [10]otah [11]vayeaneha
+34:3 [0]vatidebaq [1]nafesho [2]bediynah [3]bat-yaaqov [4]vayeehav [5]et-hanaara [6]vayedabeir [7]al-leiv [8]hanaara
+34:4 [0]vayomer [1]shekhem [2]el-chamor [3]aviyv [4]leimor [5]qach-liy [6]et-hayaledah [7]hazot [8]leishah
+34:5 [0]veyaaqov [1]shama [2]kiy [3]timei [4]et-diynah [5]vito [6]uvanayv [7]hayu [8]et-miqeneihu [9]basadeh [10]vehecherish [11]yaaqov [12]ad-boam
+34:6 [0]vayeitsei [1]chamor [2]aviy-shekhem [3]el-yaaqov [4]ledabeir [5]ito
+34:7 [0]uveneiy [1]yaaqov [2]bau [3]min-hasadeh [4]keshameam [5]vayiteatsevu [6]haanashiym [7]vayichar [8]lahem [9]meod [10]kiy-nevalah [11]asah [12]veyiseraeil [13]lishekav [14]et-bat-yaaqov [15]vekhein [16]lo [17]yeiasheh
+34:8 [0]vayedabeir [1]chamor [2]itam [3]leimor [4]shekhem [5]beniy [6]chasheqah [7]nafesho [8]bevitekhem [9]tenu [10]na [11]otah [12]lo [13]leishah
+34:9 [0]vehitechatenu [1]otanu [2]benoteiykhem [3]titenu-lanu [4]veet-benoteiynu [5]tiqechu [6]lakhem
+34:10 [0]veitanu [1]teisheivu [2]vehaarets [3]tiheyeh [4]lifeneiykhem [5]shevu [6]usecharuha [7]veheiachazu [8]bah
+34:11 [0]vayomer [1]shekhem [2]el-aviyh [3]veel-acheyha [4]emetsa-chein [5]beeiyneiykhem [6]vaasher [7]tomeru [8]eilay [9]etein
+34:12 [0]harebu [1]alay [2]meod [3]mohar [4]umatan [5]veetenah [6]kaasher [7]tomeru [8]eilay [9]utenu-liy [10]et-hanaara [11]leishah
+34:13 [0]vayaanu [1]veneiy-yaaqov [2]et-shekhem [3]veet-chamor [4]aviyv [5]bemiremah [6]vayedabeiru [7]asher [8]timei [9]eit [10]diynah [11]achotam
+34:14 [0]vayomeru [1]aleiyhem [2]lo [3]nukhal [4]laasot [5]hadavar [6]hazeh [7]lateit [8]et-achoteinu [9]leiysh [10]asher-lo [11]arelah [12]kiy-cherepah [13]hiv [14]lanu
+34:15 [0]akhe-bezot [1]neiot [2]lakhem [3]im [4]tiheyu [5]khamonu [6]lehimol [7]lakhem [8]kal-zakhar
+34:16 [0]venatanu [1]et-benoteiynu [2]lakhem [3]veet-benoteiykhem [4]niqach-lanu [5]veyashavenu [6]itekhem [7]vehayiynu [8]leam [9]echad
+34:17 [0]veim-lo [1]tishemeu [2]eileiynu [3]lehimol [4]velaqachenu [5]et-biteinu [6]vehalakhenu
+34:18 [0]vayiytevu [1]divereiyhem [2]beeiyneiy [3]chamor [4]uveeiyneiy [5]shekhem [6]ben-chamor
+34:19 [0]velo-eichar [1]hanaar [2]laasot [3]hadavar [4]kiy [5]chafeits [6]bevat-yaaqov [7]vehu [8]nikhebad [9]mikol [10]beiyt [11]aviyv
+34:20 [0]vayavo [1]chamor [2]ushekhem [3]beno [4]el-shaar [5]iyram [6]vayedaberu [7]el-anesheiy [8]iyram [9]leimor
+34:21 [0]haanashiym [1]haeileh [2]sheleimiym [3]heim [4]itanu [5]veyeishevu [6]vaarets [7]veyisecharu [8]otah [9]vehaarets [10]hineih [11]rachavat-yadayim [12]lifeneiyhem [13]et-benotam [14]niqach-lanu [15]lenashiym [16]veet-benoteiynu [17]nitein [18]lahem
+34:22 [0]akhe-bezot [1]yeiotu [2]lanu [3]haanashiym [4]lashevet [5]itanu [6]liheyot [7]leam [8]echad [9]behimol [10]lanu [11]kal-zakhar [12]kaasher [13]heim [14]nimoliym
+34:23 [0]miqeneihem [1]veqineyanam [2]vekhal-behemetam [3]halo [4]lanu [5]heim [6]akhe [7]neiotah [8]lahem [9]veyeishevu [10]itanu
+34:24 [0]vayishemeu [1]el-chamor [2]veel-shekhem [3]beno [4]kal-yotseeiy [5]shaar [6]iyro [7]vayimolu [8]kal-zakhar [9]kal-yotseeiy [10]shaar [11]iyro
+34:25 [0]vayehiy [1]vayom [2]hasheliyshiy [3]biheyotam [4]koaviym [5]vayiqechu [6]sheneiy-veneiy-yaaqov [7]shimeon [8]veleiviy [9]acheiy [10]diynah [11]iysh [12]charebo [13]vayavou [14]al-haiyr [15]betach [16]vayaharegu [17]kal-zakhar
+34:26 [0]veet-chamor [1]veet-shekhem [2]beno [3]haregu [4]lefiy-charev [5]vayiqechu [6]et-diynah [7]mibeiyt [8]shekhem [9]vayeitseiu
+34:27 [0]beneiy [1]yaaqov [2]bau [3]al-hachalaliym [4]vayavozu [5]haiyr [6]asher [7]timeu [8]achotam
+34:28 [0]et-tsonam [1]veet-beqaram [2]veet-chamoreiyhem [3]veeit [4]asher-baiyr [5]veet-asher [6]basadeh [7]laqachu
+34:29 [0]veet-kal-cheiylam [1]veet-kal-tapam [2]veet-nesheiyhem [3]shavu [4]vayavozu [5]veeit [6]kal-asher [7]babayit
+34:30 [0]vayomer [1]yaaqov [2]el-shimeon [3]veel-leiviy [4]akharetem [5]otiy [6]lehaveiysheiniy [7]beyosheiv [8]haarets [9]bakenaaniy [10]uvaperiziy [11]vaaniy [12]meteiy [13]misepar [14]veneesefu [15]alay [16]vehikuniy [17]venishemadetiy [18]aniy [19]uveiytiy
+34:31 [0]vayomeru [1]hakhezonah [2]yaaseh [3]et-achoteinu

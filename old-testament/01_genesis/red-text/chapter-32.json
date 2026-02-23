@@ -1,0 +1,40 @@
+{
+  "chapter": 32,
+  "speeches": [
+    {
+      "verse": 24,
+      "speaker": "God",
+      "startWord": 8,
+      "endWord": 12,
+      "englishText": "Watch yourself lest you speak to Jacob either good or bad"
+    },
+    {
+      "verse": 27,
+      "speaker": "Angel of YHWH",
+      "startWord": 1,
+      "endWord": 4,
+      "englishText": "Let me go, for the dawn has come up"
+    },
+    {
+      "verse": 28,
+      "speaker": "Angel of YHWH",
+      "startWord": 2,
+      "endWord": 2,
+      "englishText": "What is your name?"
+    },
+    {
+      "verse": 29,
+      "speaker": "Angel of YHWH",
+      "startWord": 2,
+      "endWord": 10,
+      "englishText": "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men and have prevailed"
+    },
+    {
+      "verse": 30,
+      "speaker": "Angel of YHWH",
+      "startWord": 6,
+      "endWord": 9,
+      "englishText": "Why is it that you ask my name?"
+    }
+  ]
+}

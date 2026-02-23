@@ -1,0 +1,75 @@
+{
+  "chapter": 3,
+  "speeches": [
+    {
+      "verse": 9,
+      "speaker": "YHWH God",
+      "startWord": 6,
+      "endWord": 6,
+      "englishText": "Where are you?"
+    },
+    {
+      "verse": 11,
+      "speaker": "YHWH God",
+      "startWord": 1,
+      "endWord": 12,
+      "englishText": "Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?"
+    },
+    {
+      "verse": 13,
+      "speaker": "YHWH God",
+      "startWord": 4,
+      "endWord": 5,
+      "englishText": "What is this you have done?"
+    },
+    {
+      "verse": 14,
+      "speaker": "YHWH God",
+      "startWord": 4,
+      "endWord": 18,
+      "englishText": "Because you have done this, cursed are you above all livestock and above all beasts of the field. On your belly you shall go, and dust you shall eat all the days of your life"
+    },
+    {
+      "verse": 15,
+      "speaker": "YHWH God",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "I will put enmity between you and the woman, and between your offspring and her offspring. He shall bruise your head, and you shall bruise his heel"
+    },
+    {
+      "verse": 16,
+      "speaker": "YHWH God",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "I will surely multiply your pain in childbearing; in pain you shall bring forth children. Your desire shall be for your husband, and he shall rule over you"
+    },
+    {
+      "verse": 17,
+      "speaker": "YHWH God",
+      "startWord": 2,
+      "endWord": 20,
+      "englishText": "Because you have listened to the voice of your wife and have eaten of the tree of which I commanded you, saying you shall not eat of it — cursed is the ground because of you; in pain you shall eat of it all the days of your life"
+    },
+    {
+      "verse": 18,
+      "speaker": "YHWH God",
+      "startWord": 0,
+      "endWord": 6,
+      "englishText": "Thorns and thistles it shall bring forth for you, and you shall eat the plants of the field"
+    },
+    {
+      "verse": 19,
+      "speaker": "YHWH God",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return"
+    },
+    {
+      "verse": 22,
+      "speaker": "YHWH God",
+      "startWord": 3,
+      "endWord": 20,
+      "englishText": "Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever"
+    }
+  ]
+}

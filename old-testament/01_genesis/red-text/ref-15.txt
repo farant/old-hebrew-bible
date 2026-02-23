@@ -1,0 +1,21 @@
+15:1 [0]achar [1]hadevariym [2]haeileh [3]hayah [4]devar-yehvah [5]el-averam [6]bamachazeh [7]leimor [8]al-tiyra [9]averam [10]anokhiy [11]magein [12]lakhe [13]sekharekha [14]harebeih [15]meod
+15:2 [0]vayomer [1]averam [2]adonay [3]yehvih [4]mah-titen-liy [5]veanokhiy [6]holeikhe [7]ariyriy [8]uven-mesheq [9]beiytiy [10]hu [11]dameseq [12]eliyezer
+15:3 [0]vayomer [1]averam [2]hein [3]liy [4]lo [5]natatah [6]zara [7]vehineih [8]ven-beiytiy [9]yoreish [10]otiy
+15:4 [0]vehineih [1]devar-yehvah [2]eilayv [3]leimor [4]lo [5]yiyrashekha [6]zeh [7]kiy-im [8]asher [9]yeitsei [10]mimeieykha [11]hu [12]yiyrashekha
+15:5 [0]vayotsei [1]oto [2]hachutsah [3]vayomer [4]habet-na [5]hashamayemah [6]usefor [7]hakokhaviym [8]im-tukhal [9]lisepor [10]otam [11]vayomer [12]lo [13]koh [14]yiheyeh [15]zareekha
+15:6 [0]veheemin [1]bayhvah [2]vayachesheveha [3]lo [4]tsedaqah
+15:7 [0]vayomer [1]eilayv [2]aniy [3]yehvah [4]asher [5]hotseitiykha [6]meiur [7]kasediym [8]latet [9]lekha [10]et-haarets [11]hazot [12]lerishetah
+15:8 [0]vayomar [1]adonay [2]yehvih [3]bamah [4]eida [5]kiy [6]iyrashenah
+15:9 [0]vayomer [1]eilayv [2]qechah [3]liy [4]egelah [5]meshuleshet [6]veeiz [7]meshuleshet [8]veayil [9]meshulash [10]vetor [11]vegozal
+15:10 [0]vayiqach-lo [1]et-kal-eileh [2]vayevateir [3]otam [4]batavekhe [5]vayitein [6]iysh-bitero [7]liqerat [8]reieihu [9]veet-hatsipor [10]lo [11]vatar
+15:11 [0]vayeired [1]haayit [2]al-hapegariym [3]vayasheiv [4]otam [5]averam
+15:12 [0]vayehiy [1]hashemesh [2]lavo [3]vetaredeimah [4]nafelah [5]al-averam [6]vehineih [7]eiymah [8]chasheikhah [9]gedolah [10]nofelet [11]alayv
+15:13 [0]vayomer [1]leaveram [2]yadoa [3]teida [4]kiy-geir [5]yiheyeh [6]zareakha [7]beerets [8]lo [9]lahem [10]vaavadum [11]veinu [12]otam [13]areba [14]meiot [15]shanah
+15:14 [0]vegam [1]et-hagoy [2]asher [3]yaavodu [4]dan [5]anokhiy [6]veachareiy-khein [7]yeitseu [8]birekhush [9]gadol
+15:15 [0]veatah [1]tavo [2]el-avoteykha [3]beshalom [4]tiqaveir [5]beseiyvah [6]tovah
+15:16 [0]vedor [1]reviyiy [2]yashuvu [3]heinah [4]kiy [5]lo-shaleim [6]aon [7]haemoriy [8]ad-heinah
+15:17 [0]vayehiy [1]hashemesh [2]baah [3]vaalatah [4]hayah [5]vehineih [6]tanur [7]ashan [8]velapiyd [9]eish [10]asher [11]avar [12]beiyn [13]hagezariym [14]haeileh
+15:18 [0]bayom [1]hahu [2]karat [3]yehvah [4]et-averam [5]beriyt [6]leimor [7]lezareakha [8]natatiy [9]et-haarets [10]hazot [11]minehar [12]mitserayim [13]ad-hanahar [14]hagadol [15]nehar-perat
+15:19 [0]et-haqeiyniy [1]veet-haqeniziy [2]veeit [3]haqademoniy
+15:20 [0]veet-hachitiy [1]veet-haperiziy [2]veet-harefaiym
+15:21 [0]veet-haemoriy [1]veet-hakenaaniy [2]veet-hagiregashiy [3]veet-hayevusiy

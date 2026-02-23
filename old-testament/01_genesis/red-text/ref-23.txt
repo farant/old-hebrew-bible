@@ -1,0 +1,20 @@
+23:1 [0]vayiheyu [1]chayeiy [2]sarah [3]meiah [4]shanah [5]veeseriym [6]shanah [7]vesheva [8]shaniym [9]sheneiy [10]chayeiy [11]sarah
+23:2 [0]vatamat [1]sarah [2]beqireyat [3]areba [4]hiv [5]cheveron [6]beerets [7]kenaan [8]vayavo [9]averaham [10]lisepod [11]lesarah [12]velivekotah
+23:3 [0]vayaqam [1]averaham [2]meial [3]peneiy [4]meito [5]vayedabeir [6]el-beneiy-cheit [7]leimor
+23:4 [0]geir-vetoshav [1]anokhiy [2]imakhem [3]tenu [4]liy [5]achuzat-qever [6]imakhem [7]veeqeberah [8]meitiy [9]milefanay
+23:5 [0]vayaanu [1]veneiy-cheit [2]et-averaham [3]leimor [4]lo
+23:6 [0]shemaeinu [1]adoniy [2]nesiy [3]elohiym [4]atah [5]betokheinu [6]bemivechar [7]qevareiynu [8]qevor [9]et-meitekha [10]iysh [11]mimenu [12]et-qivero [13]lo-yikheleh [14]mimekha [15]miqevor [16]meitekha
+23:7 [0]vayaqam [1]averaham [2]vayishetachu [3]leam-haarets [4]liveneiy-cheit
+23:8 [0]vayedabeir [1]itam [2]leimor [3]im-yeish [4]et-nafeshekhem [5]liqebor [6]et-meitiy [7]milefanay [8]shemauniy [9]ufigeu-liy [10]beeferon [11]ben-tsochar
+23:9 [0]veyiten-liy [1]et-mearat [2]hamakhepeilah [3]asher-lo [4]asher [5]biqetseih [6]sadeihu [7]bekhesef [8]malei [9]yitenenah [10]liy [11]betokhekhem [12]laachuzat-qaver
+23:10 [0]veeferon [1]yosheiv [2]betokhe [3]beneiy-cheit [4]vayaan [5]eferon [6]hachitiy [7]et-averaham [8]beazeneiy [9]veneiy-cheit [10]lekhol [11]baeiy [12]shaar-iyro [13]leimor
+23:11 [0]lo-adoniy [1]shemaeiniy [2]hasadeh [3]natatiy [4]lakhe [5]vehamearah [6]asher-bo [7]lekha [8]netatiyha [9]leeiyneiy [10]veneiy-amiy [11]netatiyha [12]lakhe [13]qevor [14]meitekha
+23:12 [0]vayishetachu [1]averaham [2]lifeneiy [3]am [4]haarets
+23:13 [0]vayedabeir [1]el-eferon [2]beazeneiy [3]am-haarets [4]leimor [5]akhe [6]im-atah [7]lu [8]shemaeiniy [9]natatiy [10]kesef [11]hasadeh [12]qach [13]mimeniy [14]veeqeberah [15]et-meitiy [16]shamah
+23:14 [0]vayaan [1]eferon [2]et-averaham [3]leimor [4]lo
+23:15 [0]adoniy [1]shemaeiniy [2]erets [3]areba [4]meiot [5]sheqel-kesef [6]beiyniy [7]uveiynekha [8]mah-hiv [9]veet-meitekha [10]qevor
+23:16 [0]vayishema [1]averaham [2]el-eferon [3]vayisheqol [4]averaham [5]leeferon [6]et-hakesef [7]asher [8]diber [9]beazeneiy [10]veneiy-cheit [11]areba [12]meiot [13]sheqel [14]kesef [15]oveir [16]lasocheir
+23:17 [0]vayaqam [1]sedeih [2]eferon [3]asher [4]bamakhepeilah [5]asher [6]lifeneiy [7]mamerei [8]hasadeh [9]vehamearah [10]asher-bo [11]vekhal-haeits [12]asher [13]basadeh [14]asher [15]bekhal-gevulo [16]saviyv
+23:18 [0]leaveraham [1]lemiqenah [2]leeiyneiy [3]veneiy-cheit [4]bekhol [5]baeiy [6]shaar-iyro
+23:19 [0]veachareiy-khein [1]qavar [2]averaham [3]et-sarah [4]isheto [5]el-mearat [6]sedeih [7]hamakhepeilah [8]al-peneiy [9]mamerei [10]hiv [11]cheveron [12]beerets [13]kenaan
+23:20 [0]vayaqam [1]hasadeh [2]vehamearah [3]asher-bo [4]leaveraham [5]laachuzat-qaver [6]meieit [7]beneiy-cheit

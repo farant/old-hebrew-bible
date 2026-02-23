@@ -1,0 +1,54 @@
+{
+  "chapter": 35,
+  "dialogue": [
+    {
+      "verse": 1,
+      "speaker": "god",
+      "startWord": 3,
+      "endWord": 15,
+      "englishText": "Arise, go up to Bethel and dwell there. Make an altar there to the God who appeared to you when you fled from your brother Esau"
+    },
+    {
+      "verse": 2,
+      "speaker": "jacob",
+      "startWord": 6,
+      "endWord": 13,
+      "englishText": "Put away the foreign gods that are among you and purify yourselves and change your garments"
+    },
+    {
+      "verse": 3,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "Then let us arise and go up to Bethel, so that I may make there an altar to the God who answers me in the day of my distress and has been with me wherever I have gone"
+    },
+    {
+      "verse": 10,
+      "speaker": "god",
+      "startWord": 2,
+      "endWord": 11,
+      "englishText": "Your name is Jacob; your name shall no longer be called Jacob, but Israel shall be your name"
+    },
+    {
+      "verse": 11,
+      "speaker": "god",
+      "startWord": 3,
+      "endWord": 15,
+      "englishText": "I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body"
+    },
+    {
+      "verse": 12,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you"
+    },
+    {
+      "verse": 17,
+      "speaker": "midwife",
+      "startWord": 6,
+      "endWord": 9,
+      "englishText": "Do not fear, for you have another son"
+    }
+  ]
+}

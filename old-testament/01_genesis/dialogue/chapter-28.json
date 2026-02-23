@@ -1,0 +1,89 @@
+{
+  "chapter": 28,
+  "dialogue": [
+    {
+      "verse": 1,
+      "speaker": "isaac",
+      "startWord": 8,
+      "endWord": 11,
+      "englishText": "You shall not take a wife from the daughters of Canaan"
+    },
+    {
+      "verse": 2,
+      "speaker": "isaac",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "Arise, go to Paddan-aram, to the house of Bethuel your mother's father, and take as your wife from there one of the daughters of Laban your mother's brother"
+    },
+    {
+      "verse": 3,
+      "speaker": "isaac",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "God Almighty bless you and make you fruitful and multiply you, that you may become a company of peoples"
+    },
+    {
+      "verse": 4,
+      "speaker": "isaac",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "May he give you the blessing of Abraham, to you and to your offspring with you, that you may take possession of the land of your sojournings that God gave to Abraham"
+    },
+    {
+      "verse": 13,
+      "speaker": "yhwh",
+      "startWord": 5,
+      "endWord": 19,
+      "englishText": "I am YHWH, the God of Abraham your father and the God of Isaac. The land on which you lie I will give to you and to your offspring"
+    },
+    {
+      "verse": 14,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "Your offspring shall be like the dust of the earth, and you shall spread abroad to the west and to the east and to the north and to the south, and in you and your offspring shall all the families of the earth be blessed"
+    },
+    {
+      "verse": 15,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 17,
+      "englishText": "Behold, I am with you and will keep you wherever you go, and will bring you back to this land. For I will not leave you until I have done what I have promised you"
+    },
+    {
+      "verse": 16,
+      "speaker": "jacob",
+      "startWord": 4,
+      "endWord": 11,
+      "englishText": "Surely YHWH is in this place, and I did not know it"
+    },
+    {
+      "verse": 17,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "How awesome is this place! This is none other than the house of God, and this is the gate of heaven"
+    },
+    {
+      "verse": 20,
+      "speaker": "jacob",
+      "startWord": 4,
+      "endWord": 17,
+      "englishText": "If God will be with me and will keep me in this way that I go, and will give me bread to eat and clothing to wear"
+    },
+    {
+      "verse": 21,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "So that I come again to my father's house in peace, then YHWH shall be my God"
+    },
+    {
+      "verse": 22,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "And this stone, which I have set up for a pillar, shall be God's house. And of all that you give me I will give a full tenth to you"
+    }
+  ]
+}

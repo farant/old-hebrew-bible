@@ -1,0 +1,320 @@
+{
+  "chapter": 27,
+  "dialogue": [
+    {
+      "verse": 1,
+      "speaker": "isaac",
+      "startWord": 12,
+      "endWord": 12,
+      "englishText": "My son!"
+    },
+    {
+      "verse": 1,
+      "speaker": "esau",
+      "startWord": 15,
+      "endWord": 15,
+      "englishText": "Here I am"
+    },
+    {
+      "verse": 2,
+      "speaker": "isaac",
+      "startWord": 1,
+      "endWord": 5,
+      "englishText": "Behold, I am old; I do not know the day of my death"
+    },
+    {
+      "verse": 3,
+      "speaker": "isaac",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "Now then, take your weapons, your quiver and your bow, and go out to the field and hunt game for me"
+    },
+    {
+      "verse": 4,
+      "speaker": "isaac",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "And make me savory food, such as I love, and bring it to me that I may eat, so that my soul may bless you before I die"
+    },
+    {
+      "verse": 6,
+      "speaker": "rebekah",
+      "startWord": 5,
+      "endWord": 10,
+      "englishText": "Behold, I heard your father speaking to your brother Esau, saying:"
+    },
+    {
+      "verse": 7,
+      "speaker": "rebekah",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "Bring me game and make me savory food, that I may eat and bless you before YHWH before my death"
+    },
+    {
+      "verse": 8,
+      "speaker": "rebekah",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "Now therefore, my son, obey my voice as I command you"
+    },
+    {
+      "verse": 9,
+      "speaker": "rebekah",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "Go to the flock and bring me two good young goats, so that I may prepare from them savory food for your father, such as he loves"
+    },
+    {
+      "verse": 10,
+      "speaker": "rebekah",
+      "startWord": 0,
+      "endWord": 6,
+      "englishText": "And you shall bring it to your father to eat, so that he may bless you before his death"
+    },
+    {
+      "verse": 11,
+      "speaker": "jacob",
+      "startWord": 4,
+      "endWord": 10,
+      "englishText": "Behold, Esau my brother is a hairy man, and I am a smooth man"
+    },
+    {
+      "verse": 12,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "Perhaps my father will feel me, and I shall seem to be mocking him and bring a curse upon myself and not a blessing"
+    },
+    {
+      "verse": 13,
+      "speaker": "rebekah",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "Let your curse be on me, my son; only obey my voice, and go"
+    },
+    {
+      "verse": 18,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 3,
+      "englishText": "My father!"
+    },
+    {
+      "verse": 18,
+      "speaker": "isaac",
+      "startWord": 5,
+      "endWord": 8,
+      "englishText": "Here I am. Who are you, my son?"
+    },
+    {
+      "verse": 19,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 15,
+      "englishText": "I am Esau your firstborn. I have done as you told me; now sit up and eat of my game, that your soul may bless me"
+    },
+    {
+      "verse": 20,
+      "speaker": "isaac",
+      "startWord": 3,
+      "endWord": 6,
+      "englishText": "How is it that you have found it so quickly, my son?"
+    },
+    {
+      "verse": 20,
+      "speaker": "jacob",
+      "startWord": 8,
+      "endWord": 11,
+      "englishText": "Because YHWH your God granted me success"
+    },
+    {
+      "verse": 21,
+      "speaker": "isaac",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "Please come near, that I may feel you, my son, whether you are really my son Esau or not"
+    },
+    {
+      "verse": 22,
+      "speaker": "isaac",
+      "startWord": 6,
+      "endWord": 10,
+      "englishText": "The voice is Jacob's voice, but the hands are the hands of Esau"
+    },
+    {
+      "verse": 24,
+      "speaker": "isaac",
+      "startWord": 1,
+      "endWord": 4,
+      "englishText": "Are you really my son Esau?"
+    },
+    {
+      "verse": 24,
+      "speaker": "jacob",
+      "startWord": 6,
+      "endWord": 6,
+      "englishText": "I am"
+    },
+    {
+      "verse": 25,
+      "speaker": "isaac",
+      "startWord": 1,
+      "endWord": 8,
+      "englishText": "Bring it near to me that I may eat of my son's game, so that my soul may bless you"
+    },
+    {
+      "verse": 26,
+      "speaker": "isaac",
+      "startWord": 4,
+      "endWord": 6,
+      "englishText": "Come near and kiss me, my son"
+    },
+    {
+      "verse": 27,
+      "speaker": "isaac",
+      "startWord": 7,
+      "endWord": 13,
+      "englishText": "See, the smell of my son is as the smell of a field that YHWH has blessed"
+    },
+    {
+      "verse": 28,
+      "speaker": "isaac",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "May God give you of the dew of heaven and of the fatness of the earth and plenty of grain and wine"
+    },
+    {
+      "verse": 29,
+      "speaker": "isaac",
+      "startWord": 0,
+      "endWord": 16,
+      "englishText": "Let peoples serve you, and nations bow down to you. Be lord over your brothers, and may your mother's sons bow down to you. Cursed be everyone who curses you, and blessed be everyone who blesses you"
+    },
+    {
+      "verse": 31,
+      "speaker": "esau",
+      "startWord": 7,
+      "endWord": 13,
+      "englishText": "Let my father arise and eat of his son's game, that your soul may bless me"
+    },
+    {
+      "verse": 32,
+      "speaker": "isaac",
+      "startWord": 4,
+      "endWord": 4,
+      "englishText": "Who are you?"
+    },
+    {
+      "verse": 32,
+      "speaker": "esau",
+      "startWord": 6,
+      "endWord": 9,
+      "englishText": "I am your son, your firstborn, Esau"
+    },
+    {
+      "verse": 33,
+      "speaker": "isaac",
+      "startWord": 6,
+      "endWord": 17,
+      "englishText": "Who was it then that hunted game and brought it to me, and I ate it all before you came, and I have blessed him? Indeed he shall be blessed"
+    },
+    {
+      "verse": 34,
+      "speaker": "esau",
+      "startWord": 11,
+      "endWord": 13,
+      "englishText": "Bless me, even me also, O my father!"
+    },
+    {
+      "verse": 35,
+      "speaker": "isaac",
+      "startWord": 1,
+      "endWord": 4,
+      "englishText": "Your brother came deceitfully and took away your blessing"
+    },
+    {
+      "verse": 36,
+      "speaker": "esau",
+      "startWord": 1,
+      "endWord": 13,
+      "englishText": "Is he not rightly named Jacob? For he has supplanted me these two times. He took away my birthright, and behold, now he has taken away my blessing"
+    },
+    {
+      "verse": 36,
+      "speaker": "esau",
+      "startWord": 15,
+      "endWord": 17,
+      "englishText": "Have you not reserved a blessing for me?"
+    },
+    {
+      "verse": 37,
+      "speaker": "isaac",
+      "startWord": 4,
+      "endWord": 19,
+      "englishText": "Behold, I have made him lord over you, and all his brothers I have given to him for servants, and with grain and wine I have sustained him. What then can I do for you, my son?"
+    },
+    {
+      "verse": 38,
+      "speaker": "esau",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "Have you but one blessing, my father? Bless me, even me also, O my father!"
+    },
+    {
+      "verse": 39,
+      "speaker": "isaac",
+      "startWord": 5,
+      "endWord": 12,
+      "englishText": "Behold, away from the fatness of the earth shall your dwelling be, and away from the dew of heaven on high"
+    },
+    {
+      "verse": 40,
+      "speaker": "isaac",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "By your sword you shall live, and you shall serve your brother; but when you grow restless you shall break his yoke from your neck"
+    },
+    {
+      "verse": 41,
+      "speaker": "esau",
+      "startWord": 10,
+      "endWord": 16,
+      "englishText": "The days of mourning for my father are approaching; then I will kill my brother Jacob"
+    },
+    {
+      "verse": 42,
+      "speaker": "rebekah",
+      "startWord": 13,
+      "endWord": 18,
+      "englishText": "Behold, your brother Esau comforts himself about you by planning to kill you"
+    },
+    {
+      "verse": 43,
+      "speaker": "rebekah",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Now therefore, my son, obey my voice. Arise, flee to Laban my brother in Haran"
+    },
+    {
+      "verse": 44,
+      "speaker": "rebekah",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "And stay with him a few days, until your brother's fury turns away"
+    },
+    {
+      "verse": 45,
+      "speaker": "rebekah",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "Until your brother's anger turns away from you, and he forgets what you have done to him. Then I will send and fetch you from there. Why should I be bereft of you both in one day?"
+    },
+    {
+      "verse": 46,
+      "speaker": "rebekah",
+      "startWord": 3,
+      "endWord": 17,
+      "englishText": "I am weary of my life because of the Hittite women. If Jacob marries one of the Hittite women such as these, one of the women of the land, what good will my life be to me?"
+    }
+  ]
+}

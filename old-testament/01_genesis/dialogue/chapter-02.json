@@ -1,0 +1,33 @@
+{
+  "chapter": 2,
+  "dialogue": [
+    {
+      "verse": 16,
+      "speaker": "yhwh-god",
+      "startWord": 5,
+      "endWord": 8,
+      "englishText": "From every tree of the garden you may surely eat"
+    },
+    {
+      "verse": 17,
+      "speaker": "yhwh-god",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "but from the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die"
+    },
+    {
+      "verse": 18,
+      "speaker": "yhwh-god",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "It is not good that the man should be alone; I will make him a helper fit for him"
+    },
+    {
+      "verse": 23,
+      "speaker": "adam",
+      "startWord": 2,
+      "endWord": 13,
+      "englishText": "This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man"
+    }
+  ]
+}

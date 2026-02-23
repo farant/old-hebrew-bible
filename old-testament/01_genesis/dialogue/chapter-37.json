@@ -1,0 +1,152 @@
+{
+  "chapter": 37,
+  "dialogue": [
+    {
+      "verse": 6,
+      "speaker": "joseph",
+      "startWord": 2,
+      "endWord": 6,
+      "englishText": "Hear now this dream that I have dreamed"
+    },
+    {
+      "verse": 7,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "Behold, we were binding sheaves in the field, and behold, my sheaf arose and stood upright; and behold, your sheaves gathered around and bowed down to my sheaf"
+    },
+    {
+      "verse": 8,
+      "speaker": "jacobs-sons",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "Will you indeed reign over us? Will you indeed rule over us?"
+    },
+    {
+      "verse": 9,
+      "speaker": "joseph",
+      "startWord": 8,
+      "endWord": 18,
+      "englishText": "Behold, I have dreamed another dream; and behold, the sun and the moon and eleven stars were bowing down to me"
+    },
+    {
+      "verse": 10,
+      "speaker": "jacob",
+      "startWord": 7,
+      "endWord": 19,
+      "englishText": "What is this dream that you have dreamed? Shall I and your mother and your brothers indeed come to bow down to the ground before you?"
+    },
+    {
+      "verse": 13,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "Are your brothers not pasturing the flock at Shechem? Come, I will send you to them"
+    },
+    {
+      "verse": 13,
+      "speaker": "joseph",
+      "startWord": 12,
+      "endWord": 12,
+      "englishText": "Here I am"
+    },
+    {
+      "verse": 14,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 9,
+      "englishText": "Go now, see whether it is well with your brothers and well with the flock, and bring me word"
+    },
+    {
+      "verse": 15,
+      "speaker": "unnamed-man",
+      "startWord": 8,
+      "endWord": 8,
+      "englishText": "What are you seeking?"
+    },
+    {
+      "verse": 16,
+      "speaker": "joseph",
+      "startWord": 1,
+      "endWord": 8,
+      "englishText": "I am seeking my brothers; tell me, please, where they are pasturing"
+    },
+    {
+      "verse": 17,
+      "speaker": "unnamed-man",
+      "startWord": 2,
+      "endWord": 8,
+      "englishText": "They have moved on from here; for I heard them say, let us go to Dothan"
+    },
+    {
+      "verse": 19,
+      "speaker": "jacobs-sons",
+      "startWord": 3,
+      "endWord": 7,
+      "englishText": "Behold, this dreamer is coming"
+    },
+    {
+      "verse": 20,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "Come now, let us kill him and throw him into one of the pits, and we will say a wild beast has devoured him, and we will see what will become of his dreams"
+    },
+    {
+      "verse": 21,
+      "speaker": "reuben",
+      "startWord": 5,
+      "endWord": 7,
+      "englishText": "Let us not take his life"
+    },
+    {
+      "verse": 22,
+      "speaker": "reuben",
+      "startWord": 3,
+      "endWord": 17,
+      "englishText": "Shed no blood; throw him into this pit that is in the wilderness, and lay no hand on him — in order to rescue him from their hand to return him to his father"
+    },
+    {
+      "verse": 26,
+      "speaker": "judah",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "What profit is it if we kill our brother and conceal his blood?"
+    },
+    {
+      "verse": 27,
+      "speaker": "judah",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "Come, let us sell him to the Ishmaelites, and let our hand not be upon him, for he is our brother, our flesh"
+    },
+    {
+      "verse": 30,
+      "speaker": "reuben",
+      "startWord": 3,
+      "endWord": 7,
+      "englishText": "The boy is gone; and I, where shall I go?"
+    },
+    {
+      "verse": 32,
+      "speaker": "jacobs-sons",
+      "startWord": 6,
+      "endWord": 12,
+      "englishText": "This we have found; please examine whether it is your son's robe or not"
+    },
+    {
+      "verse": 33,
+      "speaker": "jacob",
+      "startWord": 2,
+      "endWord": 9,
+      "englishText": "My son's robe! A wild beast has devoured him; Joseph is surely torn to pieces"
+    },
+    {
+      "verse": 35,
+      "speaker": "jacob",
+      "startWord": 7,
+      "endWord": 10,
+      "englishText": "Surely I will go down to my son in Sheol mourning"
+    }
+  ]
+}

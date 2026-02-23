@@ -1,0 +1,138 @@
+{
+  "chapter": 47,
+  "dialogue": [
+    {
+      "verse": 1,
+      "speaker": "joseph",
+      "startWord": 5,
+      "endWord": 16,
+      "englishText": "My father and my brothers, with their flocks and herds and all that they own, have come from the land of Canaan; and behold, they are in the land of Goshen."
+    },
+    {
+      "verse": 3,
+      "speaker": "pharaoh-of-joseph",
+      "startWord": 3,
+      "endWord": 3,
+      "englishText": "What is your occupation?"
+    },
+    {
+      "verse": 3,
+      "speaker": "jacobs-sons",
+      "startWord": 6,
+      "endWord": 9,
+      "englishText": "Your servants are shepherds, both we and our fathers."
+    },
+    {
+      "verse": 4,
+      "speaker": "jacobs-sons",
+      "startWord": 2,
+      "endWord": 18,
+      "englishText": "We have come to sojourn in the land, for there is no pasture for your servants' flocks, because the famine is severe in the land of Canaan. Now please let your servants dwell in the land of Goshen."
+    },
+    {
+      "verse": 5,
+      "speaker": "pharaoh-of-joseph",
+      "startWord": 4,
+      "endWord": 6,
+      "englishText": "Your father and your brothers have come to you."
+    },
+    {
+      "verse": 6,
+      "speaker": "pharaoh-of-joseph",
+      "startWord": 0,
+      "endWord": 17,
+      "englishText": "The land of Egypt is before you; settle your father and brothers in the best of the land, let them dwell in the land of Goshen. And if you know able men among them, put them in charge of my livestock."
+    },
+    {
+      "verse": 8,
+      "speaker": "pharaoh-of-joseph",
+      "startWord": 3,
+      "endWord": 5,
+      "englishText": "How many are the days of the years of your life?"
+    },
+    {
+      "verse": 9,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 22,
+      "englishText": "The days of the years of my sojourning are one hundred and thirty years; few and difficult have been the days of my life, and they have not attained to the days of my fathers in their sojourning."
+    },
+    {
+      "verse": 15,
+      "speaker": "egyptians",
+      "startWord": 10,
+      "endWord": 16,
+      "englishText": "Give us food! Why should we die in your presence? For our money is gone."
+    },
+    {
+      "verse": 16,
+      "speaker": "joseph",
+      "startWord": 2,
+      "endWord": 7,
+      "englishText": "Give your livestock, and I will give you food in exchange for your livestock, if the money is gone."
+    },
+    {
+      "verse": 18,
+      "speaker": "egyptians",
+      "startWord": 9,
+      "endWord": 22,
+      "englishText": "We will not hide it from my lord: our money is all spent, and our livestock belong to my lord. Nothing is left before my lord but our bodies and our land."
+    },
+    {
+      "verse": 19,
+      "speaker": "egyptians",
+      "startWord": 0,
+      "endWord": 20,
+      "englishText": "Why should we die before your eyes, both we and our land? Buy us and our land for bread, and we and our land will be servants to Pharaoh. Give us seed so that we may live and not die, and the land not become desolate."
+    },
+    {
+      "verse": 23,
+      "speaker": "joseph",
+      "startWord": 3,
+      "endWord": 11,
+      "englishText": "Behold, I have today bought you and your land for Pharaoh. Here is seed for you, so sow the land."
+    },
+    {
+      "verse": 24,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "At the harvests you shall give a fifth to Pharaoh, and four-fifths shall be your own, for seed for the field and for your food, for your households and as food for your little ones."
+    },
+    {
+      "verse": 25,
+      "speaker": "egyptians",
+      "startWord": 1,
+      "endWord": 6,
+      "englishText": "You have saved our lives! Let us find favor in the sight of my lord, and we will be servants to Pharaoh."
+    },
+    {
+      "verse": 29,
+      "speaker": "jacob",
+      "startWord": 8,
+      "endWord": 21,
+      "englishText": "If now I have found favor in your sight, please put your hand under my thigh and deal with me in kindness and faithfulness. Please do not bury me in Egypt."
+    },
+    {
+      "verse": 30,
+      "speaker": "jacob",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "But when I lie down with my fathers, you shall carry me out of Egypt and bury me in their burial place."
+    },
+    {
+      "verse": 30,
+      "speaker": "joseph",
+      "startWord": 7,
+      "endWord": 8,
+      "englishText": "I will do as you have said."
+    },
+    {
+      "verse": 31,
+      "speaker": "jacob",
+      "startWord": 1,
+      "endWord": 2,
+      "englishText": "Swear to me."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "chapter": 46,
+  "dialogue": [
+    {
+      "verse": 2,
+      "speaker": "god",
+      "startWord": 6,
+      "endWord": 7,
+      "englishText": "Jacob! Jacob!"
+    },
+    {
+      "verse": 2,
+      "speaker": "jacob",
+      "startWord": 9,
+      "endWord": 9,
+      "englishText": "Here I am."
+    },
+    {
+      "verse": 3,
+      "speaker": "god",
+      "startWord": 1,
+      "endWord": 11,
+      "englishText": "I am God, the God of your father. Do not be afraid to go down to Egypt, for I will make you a great nation there."
+    },
+    {
+      "verse": 4,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "I myself will go down with you to Egypt, and I will also bring you up again; and Joseph's hand will close your eyes."
+    },
+    {
+      "verse": 30,
+      "speaker": "jacob",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "Now let me die, since I have seen your face, because you are still alive."
+    },
+    {
+      "verse": 31,
+      "speaker": "joseph",
+      "startWord": 5,
+      "endWord": 14,
+      "englishText": "I will go up and tell Pharaoh, and say to him: my brothers and my father's household who were in the land of Canaan have come to me."
+    },
+    {
+      "verse": 32,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "The men are shepherds, for they have been keepers of livestock; and they have brought their flocks and herds and all that they have."
+    },
+    {
+      "verse": 33,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 4,
+      "englishText": "When Pharaoh calls you and asks: what is your occupation?"
+    },
+    {
+      "verse": 34,
+      "speaker": "joseph",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "You shall say: your servants have been keepers of livestock from our youth even until now, both we and our fathers — so that you may live in the land of Goshen, for every shepherd is an abomination to the Egyptians."
+    }
+  ]
+}

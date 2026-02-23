@@ -1,0 +1,75 @@
+{
+  "chapter": 16,
+  "dialogue": [
+    {
+      "verse": 2,
+      "speaker": "sarah",
+      "startWord": 3,
+      "endWord": 11,
+      "englishText": "Behold now, YHWH has restrained me from bearing; please go in to my maidservant; perhaps I will be built up through her"
+    },
+    {
+      "verse": 5,
+      "speaker": "sarah",
+      "startWord": 3,
+      "endWord": 17,
+      "englishText": "My wrong be upon you! I gave my maidservant into your embrace; and when she saw that she had conceived, I was despised in her eyes. May YHWH judge between me and you"
+    },
+    {
+      "verse": 6,
+      "speaker": "abraham",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "Behold, your maidservant is in your hand; do to her what is good in your eyes"
+    },
+    {
+      "verse": 8,
+      "speaker": "angel-of-yhwh",
+      "startWord": 4,
+      "endWord": 7,
+      "englishText": "Where have you come from and where are you going?"
+    },
+    {
+      "verse": 8,
+      "speaker": "hagar",
+      "startWord": 9,
+      "endWord": 13,
+      "englishText": "From the presence of Sarai my mistress I am fleeing"
+    },
+    {
+      "verse": 9,
+      "speaker": "angel-of-yhwh",
+      "startWord": 4,
+      "endWord": 8,
+      "englishText": "Return to your mistress and submit yourself under her hands"
+    },
+    {
+      "verse": 10,
+      "speaker": "angel-of-yhwh",
+      "startWord": 4,
+      "endWord": 9,
+      "englishText": "I will greatly multiply your offspring so that they cannot be counted for multitude"
+    },
+    {
+      "verse": 11,
+      "speaker": "angel-of-yhwh",
+      "startWord": 4,
+      "endWord": 13,
+      "englishText": "Behold, you are pregnant and will bear a son; you shall call his name Ishmael, because YHWH has heard your affliction"
+    },
+    {
+      "verse": 12,
+      "speaker": "angel-of-yhwh",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "He will be a wild donkey of a man; his hand against everyone and everyone's hand against him, and he will dwell before all his brothers"
+    },
+    {
+      "verse": 13,
+      "speaker": "hagar",
+      "startWord": 4,
+      "endWord": 13,
+      "englishText": "You are a God of seeing, for she said: Have I truly seen here after he who sees me?"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "chapter": 26,
+  "speeches": [
+    {
+      "verse": 2,
+      "speaker": "YHWH",
+      "startWord": 4,
+      "endWord": 10,
+      "englishText": "Do not go down to Egypt; dwell in the land that I will tell you of"
+    },
+    {
+      "verse": 3,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 16,
+      "englishText": "Sojourn in this land and I will be with you and will bless you, for to you and your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father"
+    },
+    {
+      "verse": 4,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "I will multiply your offspring as the stars of heaven and will give to your offspring all these lands, and in your offspring all the nations of the earth shall be blessed"
+    },
+    {
+      "verse": 5,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Because Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws"
+    },
+    {
+      "verse": 24,
+      "speaker": "YHWH",
+      "startWord": 6,
+      "endWord": 18,
+      "englishText": "I am the God of Abraham your father; fear not, for I am with you and will bless you and multiply your offspring for the sake of Abraham my servant"
+    }
+  ]
+}

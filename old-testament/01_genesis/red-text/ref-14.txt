@@ -1,0 +1,24 @@
+14:1 [0]vayehiy [1]biymeiy [2]amerafel [3]melekhe-shinear [4]areyokhe [5]melekhe [6]elasar [7]kedarelaomer [8]melekhe [9]eiylam [10]vetideal [11]melekhe [12]goyim
+14:2 [0]asu [1]milechamah [2]et-bera [3]melekhe [4]sedom [5]veet-biresha [6]melekhe [7]amorah [8]shineav [9]melekhe [10]ademah [11]veshemeeiver [12]melekhe [13]tsvyym [14]tsevoyiym [15]umelekhe [16]bela [17]hiy-tsoar
+14:3 [0]kal-eileh [1]chaveru [2]el-eimeq [3]hasidiym [4]hu [5]yam [6]hamelach
+14:4 [0]sheteiym [1]esereih [2]shanah [3]avedu [4]et-kedarelaomer [5]ushelosh-esereih [6]shanah [7]maradu
+14:5 [0]uveareba [1]esereih [2]shanah [3]ba [4]khedarelaomer [5]vehamelakhiym [6]asher [7]ito [8]vayaku [9]et-refaiym [10]beasheterot [11]qarenayim [12]veet-hazuziym [13]beham [14]veeit [15]haeiymiym [16]beshaveih [17]qireyatayim
+14:6 [0]veet-hachoriy [1]behareram [2]seiiyr [3]ad [4]eiyl [5]paran [6]asher [7]al-hamidebar
+14:7 [0]vayashuvu [1]vayavou [2]el-eiyn [3]mishepat [4]hiv [5]qadeish [6]vayaku [7]et-kal-sedeih [8]haamaleiqiy [9]vegam [10]et-haemoriy [11]hayosheiv [12]bechatsetson [13]tamar
+14:8 [0]vayeitsei [1]melekhe-sedom [2]umelekhe [3]amorah [4]umelekhe [5]ademah [6]umelekhe [7]tsvyym [8]tsevoyim [9]umelekhe [10]bela [11]hiv-tsoar [12]vayaarekhu [13]itam [14]milechamah [15]beeimeq [16]hasidiym
+14:9 [0]eit [1]kedarelaomer [2]melekhe [3]eiylam [4]vetideal [5]melekhe [6]goyim [7]veamerafel [8]melekhe [9]shinear [10]veareyokhe [11]melekhe [12]elasar [13]arebaah [14]melakhiym [15]et-hachamishah
+14:10 [0]veeimeq [1]hasidiym [2]beerot [3]beerot [4]cheimar [5]vayanusu [6]melekhe-sedom [7]vaamorah [8]vayipelu-shamah [9]vehanisheariym [10]herah [11]nasu
+14:11 [0]vayiqechu [1]et-kal-rekhush [2]sedom [3]vaamorah [4]veet-kal-akhelam [5]vayeileikhu
+14:12 [0]vayiqechu [1]et-lot [2]veet-rekhusho [3]ben-achiy [4]averam [5]vayeileikhu [6]vehu [7]yosheiv [8]bisedom
+14:13 [0]vayavo [1]hapaliyt [2]vayageid [3]leaveram [4]haiveriy [5]vehu [6]shokhein [7]beeiloneiy [8]mamerei [9]haemoriy [10]achiy [11]eshekol [12]vaachiy [13]aneir [14]veheim [15]baaleiy [16]veriyt-averam
+14:14 [0]vayishema [1]averam [2]kiy [3]nishebah [4]achiyv [5]vayareq [6]et-chaniykhayv [7]yeliydeiy [8]veiyto [9]shemonah [10]asar [11]ushelosh [12]meiot [13]vayiredof [14]ad-dan
+14:15 [0]vayeichaleiq [1]aleiyhem [2]layelah [3]hu [4]vaavadayv [5]vayakeim [6]vayiredefeim [7]ad-chovah [8]asher [9]misemol [10]ledamaseq
+14:16 [0]vayashev [1]eit [2]kal-harekhush [3]vegam [4]et-lot [5]achiyv [6]urekhusho [7]heishiyv [8]vegam [9]et-hanashiym [10]veet-haam
+14:17 [0]vayeitsei [1]melekhe-sedom [2]liqerato [3]achareiy [4]shuvo [5]meihakot [6]et-kedar-laomer [7]veet-hamelakhiym [8]asher [9]ito [10]el-eimeq [11]shaveih [12]hu [13]eimeq [14]hamelekhe
+14:18 [0]umalekiy-tsedeq [1]melekhe [2]shaleim [3]hotsiy [4]lechem [5]vayayin [6]vehu [7]khohein [8]leeil [9]eleyon
+14:19 [0]vayevarekheihu [1]vayomar [2]barukhe [3]averam [4]leeil [5]eleyon [6]qoneih [7]shamayim [8]vaarets
+14:20 [0]uvarukhe [1]eil [2]eleyon [3]asher-migein [4]tsareykha [5]beyadekha [6]vayiten-lo [7]maaseir [8]mikol
+14:21 [0]vayomer [1]melekhe-sedom [2]el-averam [3]ten-liy [4]hanefesh [5]veharekhush [6]qach-lakhe
+14:22 [0]vayomer [1]averam [2]el-melekhe [3]sedom [4]hariymotiy [5]yadiy [6]el-yehvah [7]eil [8]eleyon [9]qoneih [10]shamayim [11]vaarets
+14:23 [0]im-michut [1]vead [2]serokhe-naal [3]veim-eqach [4]mikal-asher-lakhe [5]velo [6]tomar [7]aniy [8]heesharetiy [9]et-averam
+14:24 [0]bileaday [1]raq [2]asher [3]akhelu [4]haneariym [5]vecheileq [6]haanashiym [7]asher [8]halekhu [9]itiy [10]aneir [11]eshekol [12]umamerei [13]heim [14]yiqechu [15]cheleqam

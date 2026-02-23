@@ -1,0 +1,1415 @@
+{
+  "book": "Genesis",
+  "description": "Red text metadata marking words spoken by the Holy Trinity",
+  "totalSpeeches": 176,
+  "speeches": [
+    {
+      "chapter": 1,
+      "verse": 3,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 3,
+      "englishText": "Let there be light"
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 9,
+      "englishText": "Let there be an expanse in the midst of the waters, and let it separate between waters and waters"
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 9,
+      "englishText": "Let the waters under the heavens be gathered to one place, and let the dry land appear"
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 15,
+      "englishText": "Let the earth sprout vegetation, herbs yielding seed, fruit trees bearing fruit after their kind, whose seed is in them, on the earth"
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 15,
+      "englishText": "Let there be lights in the expanse of the heavens to separate between the day and between the night, and let them be for signs and for seasons and for days and years"
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "and let them be for lights in the expanse of the heavens to give light on the earth"
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the face of the expanse of the heavens"
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "speaker": "God",
+      "startWord": 4,
+      "endWord": 11,
+      "englishText": "Be fruitful and multiply and fill the waters in the seas, and let the birds multiply on the earth"
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 10,
+      "englishText": "Let the earth bring forth living creatures after their kind, cattle and creeping things and beasts of the earth after their kind"
+    },
+    {
+      "chapter": 1,
+      "verse": 26,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 15,
+      "englishText": "Let us make man in our image, after our likeness, and let them have dominion over the fish of the sea and over the birds of the heavens and over the cattle and over all the earth and over every creeping thing that creeps on the earth"
+    },
+    {
+      "chapter": 1,
+      "verse": 28,
+      "speaker": "God",
+      "startWord": 6,
+      "endWord": 18,
+      "englishText": "Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth"
+    },
+    {
+      "chapter": 1,
+      "verse": 29,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 18,
+      "englishText": "Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit — you shall have them for food"
+    },
+    {
+      "chapter": 1,
+      "verse": 30,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life — every green plant for food"
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "speaker": "YHWH God",
+      "startWord": 5,
+      "endWord": 7,
+      "englishText": "From every tree of the garden you may surely eat"
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "speaker": "YHWH God",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "but from the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die"
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "speaker": "YHWH God",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "It is not good that the man should be alone; I will make him a helper fit for him"
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "speaker": "YHWH God",
+      "startWord": 6,
+      "endWord": 6,
+      "englishText": "Where are you?"
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "speaker": "YHWH God",
+      "startWord": 1,
+      "endWord": 12,
+      "englishText": "Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?"
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "speaker": "YHWH God",
+      "startWord": 4,
+      "endWord": 5,
+      "englishText": "What is this you have done?"
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "speaker": "YHWH God",
+      "startWord": 4,
+      "endWord": 18,
+      "englishText": "Because you have done this, cursed are you above all livestock and above all beasts of the field. On your belly you shall go, and dust you shall eat all the days of your life"
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "speaker": "YHWH God",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "I will put enmity between you and the woman, and between your offspring and her offspring. He shall bruise your head, and you shall bruise his heel"
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "speaker": "YHWH God",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "I will surely multiply your pain in childbearing; in pain you shall bring forth children. Your desire shall be for your husband, and he shall rule over you"
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "speaker": "YHWH God",
+      "startWord": 2,
+      "endWord": 20,
+      "englishText": "Because you have listened to the voice of your wife and have eaten of the tree of which I commanded you, saying you shall not eat of it — cursed is the ground because of you; in pain you shall eat of it all the days of your life"
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "speaker": "YHWH God",
+      "startWord": 0,
+      "endWord": 6,
+      "englishText": "Thorns and thistles it shall bring forth for you, and you shall eat the plants of the field"
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "speaker": "YHWH God",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return"
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "speaker": "YHWH God",
+      "startWord": 3,
+      "endWord": 20,
+      "englishText": "Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever"
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "Why are you angry, and why has your face fallen?"
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is for you, but you must rule over it"
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 5,
+      "englishText": "Where is Abel your brother?"
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "speaker": "YHWH",
+      "startWord": 1,
+      "endWord": 8,
+      "englishText": "What have you done? The voice of your brother's blood is crying to me from the ground"
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "And now you are cursed from the ground, which has opened its mouth to receive your brother's blood from your hand"
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "When you work the ground, it shall no longer yield to you its strength. You shall be a fugitive and a wanderer on the earth"
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 7,
+      "englishText": "Therefore whoever kills Cain, vengeance shall be taken on him sevenfold"
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 13,
+      "englishText": "My Spirit shall not strive with man forever, for he is flesh; yet his days shall be one hundred and twenty years."
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 16,
+      "englishText": "I will blot out man whom I have created from the face of the ground, from man to beast to creeping things to birds of the sky; for I am sorry that I have made them."
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 13,
+      "englishText": "The end of all flesh has come before Me; for the earth is filled with violence because of them; and behold, I am about to destroy them with the earth."
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Make for yourself an ark of gopher wood; make rooms in the ark, and cover it inside and out with pitch."
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "This is how you shall make it: the length of the ark three hundred cubits, its breadth fifty cubits, and its height thirty cubits."
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "You shall make a window for the ark, and finish it to a cubit from the top; and set the door of the ark in the side of it; with lower, second, and third decks you shall make it."
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "Behold, I, even I am bringing the flood of water upon the earth, to destroy all flesh in which is the breath of life, from under heaven; everything that is on the earth shall perish."
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "But I will establish My covenant with you; and you shall enter the ark — you and your sons and your wife and your sons' wives with you."
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "And of every living thing of all flesh, you shall bring two of every kind into the ark, to keep them alive with you; they shall be male and female."
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "Of the birds after their kind, and of the animals after their kind, of every creeping thing of the ground after its kind, two of every kind will come to you to keep them alive."
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "As for you, take for yourself some of all food which is edible, and gather it to yourself; and it shall be for food for you and for them."
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 11,
+      "englishText": "Enter, you and all your household, into the ark; for you alone I have seen to be righteous before Me in this generation."
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "You shall take with you of every clean animal by sevens, a male and his female; and of the animals that are not clean two, a male and his female."
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Also of the birds of the sky, sevens, male and female, to keep offspring alive on the face of all the earth."
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 17,
+      "englishText": "For after seven more days, I will send rain on the earth forty days and forty nights; and I will blot out from the face of the land every living thing that I have made."
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "Go out of the ark, you and your wife and your sons and your sons' wives with you."
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "Bring out with you every living thing of all flesh that is with you, birds and animals and every creeping thing that creeps on the earth, that they may breed abundantly on the earth, and be fruitful and multiply on the earth."
+    },
+    {
+      "chapter": 8,
+      "verse": 21,
+      "speaker": "YHWH",
+      "startWord": 7,
+      "endWord": 24,
+      "englishText": "I will never again curse the ground on account of man, for the intent of man's heart is evil from his youth; and I will never again destroy every living thing, as I have done."
+    },
+    {
+      "chapter": 8,
+      "verse": 22,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "While the earth remains, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "speaker": "God",
+      "startWord": 6,
+      "endWord": 9,
+      "englishText": "Be fruitful and multiply, and fill the earth."
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "The fear of you and the terror of you will be on every beast of the earth and on every bird of the sky; with everything that creeps on the ground, and all the fish of the sea, into your hand they are given."
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Every moving thing that is alive shall be food for you; I give all to you, as I gave the green plant."
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 4,
+      "englishText": "Only you shall not eat flesh with its life, that is, its blood."
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "Surely I will require your lifeblood; from every beast I will require it. And from every man, from every man's brother I will require the life of man."
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Whoever sheds man's blood, by man his blood shall be shed, for in the image of God He made man."
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 4,
+      "englishText": "As for you, be fruitful and multiply; populate the earth abundantly and multiply in it."
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "Now behold, I Myself do establish My covenant with you, and with your descendants after you."
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "And with every living creature that is with you, the birds, the cattle, and every beast of the earth with you; of all that comes out of the ark, even every beast of the earth."
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "I establish My covenant with you; and all flesh shall never again be cut off by the water of the flood, neither shall there again be a flood to destroy the earth."
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 14,
+      "englishText": "This is the sign of the covenant which I am making between Me and you and every living creature that is with you, for all successive generations."
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "I set My bow in the cloud, and it shall be for a sign of a covenant between Me and the earth."
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "It shall come about, when I bring a cloud over the earth, that the bow will be seen in the cloud."
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "And I will remember My covenant, which is between Me and you and every living creature of all flesh; and never again shall the water become a flood to destroy all flesh."
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "When the bow is in the cloud, then I will look upon it to remember the everlasting covenant between God and every living creature of all flesh that is on the earth."
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "This is the sign of the covenant which I have established between Me and all flesh that is on the earth."
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 17,
+      "englishText": "Behold, they are one people and they have one language, and this is only the beginning of what they will do; nothing they propose to do will be impossible for them."
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Come, let us go down and there confuse their language, so that they may not understand one another's speech."
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "Go from your country and your kindred and your father's house to the land that I will show you."
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing."
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "speaker": "YHWH",
+      "startWord": 4,
+      "endWord": 7,
+      "englishText": "To your offspring I will give this land."
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "speaker": "YHWH",
+      "startWord": 6,
+      "endWord": 16,
+      "englishText": "Lift up your eyes and look from the place where you are, northward and southward and eastward and westward."
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 6,
+      "englishText": "For all the land that you see I will give to you and to your offspring forever."
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted."
+    },
+    {
+      "chapter": 13,
+      "verse": 17,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 6,
+      "englishText": "Arise, walk through the length and breadth of the land, for I will give it to you."
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "speaker": "YHWH",
+      "startWord": 8,
+      "endWord": 15,
+      "englishText": "Fear not, Abram, I am your shield; your reward shall be very great."
+    },
+    {
+      "chapter": 15,
+      "verse": 4,
+      "speaker": "YHWH",
+      "startWord": 4,
+      "endWord": 12,
+      "englishText": "This man shall not be your heir; your very own son shall be your heir."
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "speaker": "YHWH",
+      "startWord": 4,
+      "endWord": 10,
+      "englishText": "Look toward heaven and number the stars, if you are able to number them."
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "speaker": "YHWH",
+      "startWord": 13,
+      "endWord": 15,
+      "englishText": "So shall your offspring be."
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "I am YHWH who brought you out from Ur of the Chaldeans to give you this land to possess."
+    },
+    {
+      "chapter": 15,
+      "verse": 9,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 11,
+      "englishText": "Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon."
+    },
+    {
+      "chapter": 15,
+      "verse": 13,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 15,
+      "englishText": "Know for certain that your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years."
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "But I will bring judgment on the nation that they serve, and afterward they shall come out with great possessions."
+    },
+    {
+      "chapter": 15,
+      "verse": 15,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "As for you, you shall go to your fathers in peace; you shall be buried in a good old age."
+    },
+    {
+      "chapter": 15,
+      "verse": 16,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "And they shall come back here in the fourth generation, for the iniquity of the Amorites is not yet complete."
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "speaker": "YHWH",
+      "startWord": 7,
+      "endWord": 15,
+      "englishText": "To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates."
+    },
+    {
+      "chapter": 15,
+      "verse": 19,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 2,
+      "englishText": "The land of the Kenites, the Kenizzites, and the Kadmonites."
+    },
+    {
+      "chapter": 15,
+      "verse": 20,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 2,
+      "englishText": "The Hittites, the Perizzites, the Rephaim."
+    },
+    {
+      "chapter": 15,
+      "verse": 21,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 3,
+      "englishText": "The Amorites, the Canaanites, the Girgashites, and the Jebusites."
+    },
+    {
+      "chapter": 16,
+      "verse": 8,
+      "speaker": "Angel of YHWH",
+      "startWord": 4,
+      "endWord": 7,
+      "englishText": "Where have you come from, and where are you going?"
+    },
+    {
+      "chapter": 16,
+      "verse": 9,
+      "speaker": "Angel of YHWH",
+      "startWord": 4,
+      "endWord": 8,
+      "englishText": "Return to your mistress and submit yourself under her hands."
+    },
+    {
+      "chapter": 16,
+      "verse": 10,
+      "speaker": "Angel of YHWH",
+      "startWord": 4,
+      "endWord": 9,
+      "englishText": "I will greatly multiply your offspring so that they cannot be counted."
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "speaker": "Angel of YHWH",
+      "startWord": 4,
+      "endWord": 13,
+      "englishText": "Behold, you are pregnant and shall bear a son; you shall call his name Ishmael, because YHWH has heard your affliction."
+    },
+    {
+      "chapter": 16,
+      "verse": 12,
+      "speaker": "Angel of YHWH",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "He shall be a wild donkey of a man; his hand against everyone and everyone's hand against him, and he shall dwell over against all his kinsmen."
+    },
+    {
+      "chapter": 17,
+      "verse": 1,
+      "speaker": "YHWH",
+      "startWord": 11,
+      "endWord": 16,
+      "englishText": "I am God Almighty; walk before me and be blameless."
+    },
+    {
+      "chapter": 17,
+      "verse": 2,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "I will establish my covenant between me and you, and will multiply you greatly."
+    },
+    {
+      "chapter": 17,
+      "verse": 4,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "Behold, my covenant is with you, and you shall be the father of a multitude of nations."
+    },
+    {
+      "chapter": 17,
+      "verse": 5,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations."
+    },
+    {
+      "chapter": 17,
+      "verse": 6,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "I will make you exceedingly fruitful, and I will make you into nations, and kings shall come from you."
+    },
+    {
+      "chapter": 17,
+      "verse": 7,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "I will establish my covenant between me and you and your offspring after you throughout their generations, an everlasting covenant, to be God to you and to your offspring after you."
+    },
+    {
+      "chapter": 17,
+      "verse": 8,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, for an everlasting possession, and I will be their God."
+    },
+    {
+      "chapter": 17,
+      "verse": 9,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 9,
+      "englishText": "As for you, you shall keep my covenant, you and your offspring after you throughout their generations."
+    },
+    {
+      "chapter": 17,
+      "verse": 10,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "This is my covenant which you shall keep, between me and you and your offspring after you: every male among you shall be circumcised."
+    },
+    {
+      "chapter": 17,
+      "verse": 11,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "You shall be circumcised in the flesh of your foreskins, and it shall be a sign of the covenant between me and you."
+    },
+    {
+      "chapter": 17,
+      "verse": 12,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "He who is eight days old among you shall be circumcised, every male throughout your generations, whether born in your house or bought with your money from any foreigner who is not of your offspring."
+    },
+    {
+      "chapter": 17,
+      "verse": 13,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Both he who is born in your house and he who is bought with your money shall surely be circumcised. So shall my covenant be in your flesh an everlasting covenant."
+    },
+    {
+      "chapter": 17,
+      "verse": 14,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Any uncircumcised male who is not circumcised in the flesh of his foreskin shall be cut off from his people; he has broken my covenant."
+    },
+    {
+      "chapter": 17,
+      "verse": 15,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name."
+    },
+    {
+      "chapter": 17,
+      "verse": 16,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "I will bless her, and moreover, I will give you a son by her. I will bless her, and she shall become nations; kings of peoples shall come from her."
+    },
+    {
+      "chapter": 17,
+      "verse": 19,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 17,
+      "englishText": "No, but Sarah your wife shall bear you a son, and you shall call his name Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him."
+    },
+    {
+      "chapter": 17,
+      "verse": 20,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "As for Ishmael, I have heard you; behold, I have blessed him and will make him fruitful and multiply him greatly. He shall father twelve princes, and I will make him into a great nation."
+    },
+    {
+      "chapter": 17,
+      "verse": 21,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "But I will establish my covenant with Isaac, whom Sarah shall bear to you at this time next year."
+    },
+    {
+      "chapter": 18,
+      "verse": 9,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 4,
+      "englishText": "Where is Sarah your wife?"
+    },
+    {
+      "chapter": 18,
+      "verse": 10,
+      "speaker": "YHWH",
+      "startWord": 1,
+      "endWord": 8,
+      "englishText": "I will surely return to you about this time next year, and Sarah your wife shall have a son."
+    },
+    {
+      "chapter": 18,
+      "verse": 13,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 12,
+      "englishText": "Why did Sarah laugh and say, 'Shall I indeed bear a child, now that I am old?'"
+    },
+    {
+      "chapter": 18,
+      "verse": 14,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "Is anything too hard for YHWH? At the appointed time I will return to you, about this time next year, and Sarah shall have a son."
+    },
+    {
+      "chapter": 18,
+      "verse": 15,
+      "speaker": "YHWH",
+      "startWord": 8,
+      "endWord": 10,
+      "englishText": "No, but you did laugh."
+    },
+    {
+      "chapter": 18,
+      "verse": 17,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 7,
+      "englishText": "Shall I hide from Abraham what I am about to do?"
+    },
+    {
+      "chapter": 18,
+      "verse": 18,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him."
+    },
+    {
+      "chapter": 18,
+      "verse": 19,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 20,
+      "englishText": "For I have chosen him, that he may command his children and his household after him to keep the way of YHWH by doing righteousness and justice, so that YHWH may bring to Abraham what he has promised him."
+    },
+    {
+      "chapter": 18,
+      "verse": 20,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 9,
+      "englishText": "Because the outcry against Sodom and Gomorrah is great and their sin is very grave..."
+    },
+    {
+      "chapter": 18,
+      "verse": 21,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "I will go down to see whether they have done altogether according to the outcry that has come to me. And if not, I will know."
+    },
+    {
+      "chapter": 18,
+      "verse": 26,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 10,
+      "englishText": "If I find at Sodom fifty righteous in the city, I will forgive the whole place for their sake."
+    },
+    {
+      "chapter": 18,
+      "verse": 28,
+      "speaker": "YHWH",
+      "startWord": 9,
+      "endWord": 14,
+      "englishText": "I will not destroy it if I find forty-five there."
+    },
+    {
+      "chapter": 18,
+      "verse": 29,
+      "speaker": "YHWH",
+      "startWord": 10,
+      "endWord": 13,
+      "englishText": "I will not do it for the sake of the forty."
+    },
+    {
+      "chapter": 18,
+      "verse": 30,
+      "speaker": "YHWH",
+      "startWord": 10,
+      "endWord": 14,
+      "englishText": "I will not do it if I find thirty there."
+    },
+    {
+      "chapter": 18,
+      "verse": 31,
+      "speaker": "YHWH",
+      "startWord": 10,
+      "endWord": 13,
+      "englishText": "I will not destroy it for the sake of the twenty."
+    },
+    {
+      "chapter": 18,
+      "verse": 32,
+      "speaker": "YHWH",
+      "startWord": 11,
+      "endWord": 14,
+      "englishText": "I will not destroy it for the sake of the ten."
+    },
+    {
+      "chapter": 19,
+      "verse": 12,
+      "speaker": "Angel of YHWH",
+      "startWord": 3,
+      "endWord": 13,
+      "englishText": "Have you anyone else here? Son-in-law, sons, daughters, or anyone you have in the city — bring them out of the place."
+    },
+    {
+      "chapter": 19,
+      "verse": 13,
+      "speaker": "Angel of YHWH",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "For we are about to destroy this place, because the outcry against its people has become great before YHWH, and YHWH has sent us to destroy it."
+    },
+    {
+      "chapter": 19,
+      "verse": 15,
+      "speaker": "Angel of YHWH",
+      "startWord": 7,
+      "endWord": 15,
+      "englishText": "Up! Take your wife and your two daughters who are here, lest you be swept away in the punishment of the city."
+    },
+    {
+      "chapter": 19,
+      "verse": 17,
+      "speaker": "Angel of YHWH",
+      "startWord": 5,
+      "endWord": 13,
+      "englishText": "Escape for your life. Do not look back or stop anywhere in the valley. Escape to the hills, lest you be swept away."
+    },
+    {
+      "chapter": 19,
+      "verse": 21,
+      "speaker": "Angel of YHWH",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "Behold, I grant you this favor also, that I will not overthrow the city of which you have spoken."
+    },
+    {
+      "chapter": 19,
+      "verse": 22,
+      "speaker": "Angel of YHWH",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "Hurry, escape there, for I can do nothing until you arrive there."
+    },
+    {
+      "chapter": 20,
+      "verse": 3,
+      "speaker": "God",
+      "startWord": 7,
+      "endWord": 13,
+      "englishText": "Behold, you are a dead man because of the woman whom you have taken, for she is a man's wife."
+    },
+    {
+      "chapter": 20,
+      "verse": 6,
+      "speaker": "God",
+      "startWord": 4,
+      "endWord": 18,
+      "englishText": "Yes, I know that you have done this in the integrity of your heart, and it was I who kept you from sinning against me. Therefore I did not let you touch her."
+    },
+    {
+      "chapter": 20,
+      "verse": 7,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "Now then, return the man's wife, for he is a prophet, so that he will pray for you, and you shall live. But if you do not return her, know that you shall surely die, you and all who are yours."
+    },
+    {
+      "chapter": 21,
+      "verse": 12,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 18,
+      "englishText": "Do not be distressed about the boy and your slave woman. Whatever Sarah tells you, listen to her voice, for through Isaac your offspring shall be named."
+    },
+    {
+      "chapter": 21,
+      "verse": 13,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "And also of the son of the slave woman I will make a nation, because he is your offspring."
+    },
+    {
+      "chapter": 21,
+      "verse": 17,
+      "speaker": "Angel of God",
+      "startWord": 11,
+      "endWord": 19,
+      "englishText": "What troubles you, Hagar? Fear not, for God has heard the voice of the boy where he is."
+    },
+    {
+      "chapter": 21,
+      "verse": 18,
+      "speaker": "Angel of God",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Rise up, lift up the boy, and hold him fast with your hand, for I will make him into a great nation."
+    },
+    {
+      "chapter": 22,
+      "verse": 1,
+      "speaker": "God",
+      "startWord": 9,
+      "endWord": 9,
+      "englishText": "Abraham!"
+    },
+    {
+      "chapter": 22,
+      "verse": 2,
+      "speaker": "God",
+      "startWord": 1,
+      "endWord": 17,
+      "englishText": "Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you."
+    },
+    {
+      "chapter": 22,
+      "verse": 11,
+      "speaker": "Angel of YHWH",
+      "startWord": 6,
+      "endWord": 7,
+      "englishText": "Abraham! Abraham!"
+    },
+    {
+      "chapter": 22,
+      "verse": 12,
+      "speaker": "Angel of YHWH",
+      "startWord": 1,
+      "endWord": 17,
+      "englishText": "Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me."
+    },
+    {
+      "chapter": 22,
+      "verse": 16,
+      "speaker": "Angel of YHWH",
+      "startWord": 1,
+      "endWord": 16,
+      "englishText": "By myself I have sworn, declares YHWH, because you have done this thing and have not withheld your son, your only son,"
+    },
+    {
+      "chapter": 22,
+      "verse": 17,
+      "speaker": "Angel of YHWH",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand on the seashore. And your offspring shall possess the gate of his enemies,"
+    },
+    {
+      "chapter": 22,
+      "verse": 18,
+      "speaker": "Angel of YHWH",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "and in your offspring shall all the nations of the earth be blessed, because you have obeyed my voice."
+    },
+    {
+      "chapter": 25,
+      "verse": 23,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 16,
+      "englishText": "Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger."
+    },
+    {
+      "chapter": 26,
+      "verse": 2,
+      "speaker": "YHWH",
+      "startWord": 4,
+      "endWord": 10,
+      "englishText": "Do not go down to Egypt; dwell in the land that I will tell you of"
+    },
+    {
+      "chapter": 26,
+      "verse": 3,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 16,
+      "englishText": "Sojourn in this land and I will be with you and will bless you, for to you and your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father"
+    },
+    {
+      "chapter": 26,
+      "verse": 4,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "I will multiply your offspring as the stars of heaven and will give to your offspring all these lands, and in your offspring all the nations of the earth shall be blessed"
+    },
+    {
+      "chapter": 26,
+      "verse": 5,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Because Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws"
+    },
+    {
+      "chapter": 26,
+      "verse": 24,
+      "speaker": "YHWH",
+      "startWord": 6,
+      "endWord": 18,
+      "englishText": "I am the God of Abraham your father; fear not, for I am with you and will bless you and multiply your offspring for the sake of Abraham my servant"
+    },
+    {
+      "chapter": 28,
+      "verse": 13,
+      "speaker": "YHWH",
+      "startWord": 5,
+      "endWord": 19,
+      "englishText": "I am YHWH, the God of Abraham your father and the God of Isaac. The land on which you lie I will give to you and to your offspring"
+    },
+    {
+      "chapter": 28,
+      "verse": 14,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "Your offspring shall be like the dust of the earth, and you shall spread abroad to the west and to the east and to the north and to the south, and in you and your offspring shall all the families of the earth be blessed"
+    },
+    {
+      "chapter": 28,
+      "verse": 15,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 17,
+      "englishText": "Behold, I am with you and will keep you wherever you go, and will bring you back to this land. For I will not leave you until I have done what I have promised you"
+    },
+    {
+      "chapter": 31,
+      "verse": 3,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 8,
+      "englishText": "Return to the land of your fathers and to your kindred, and I will be with you"
+    },
+    {
+      "chapter": 31,
+      "verse": 11,
+      "speaker": "Angel of God",
+      "startWord": 5,
+      "endWord": 5,
+      "englishText": "Jacob!"
+    },
+    {
+      "chapter": 31,
+      "verse": 12,
+      "speaker": "Angel of God",
+      "startWord": 1,
+      "endWord": 16,
+      "englishText": "Lift up your eyes and see: all the he-goats that mount the flock are striped, spotted, and mottled, for I have seen all that Laban is doing to you"
+    },
+    {
+      "chapter": 31,
+      "verse": 13,
+      "speaker": "Angel of God",
+      "startWord": 0,
+      "endWord": 18,
+      "englishText": "I am the God of Bethel, where you anointed a pillar and made a vow to me. Now arise, go out from this land and return to the land of your kindred"
+    },
+    {
+      "chapter": 32,
+      "verse": 24,
+      "speaker": "God",
+      "startWord": 8,
+      "endWord": 12,
+      "englishText": "Watch yourself lest you speak to Jacob either good or bad"
+    },
+    {
+      "chapter": 32,
+      "verse": 27,
+      "speaker": "Angel of YHWH",
+      "startWord": 1,
+      "endWord": 4,
+      "englishText": "Let me go, for the dawn has come up"
+    },
+    {
+      "chapter": 32,
+      "verse": 28,
+      "speaker": "Angel of YHWH",
+      "startWord": 2,
+      "endWord": 2,
+      "englishText": "What is your name?"
+    },
+    {
+      "chapter": 32,
+      "verse": 29,
+      "speaker": "Angel of YHWH",
+      "startWord": 2,
+      "endWord": 10,
+      "englishText": "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men and have prevailed"
+    },
+    {
+      "chapter": 32,
+      "verse": 30,
+      "speaker": "Angel of YHWH",
+      "startWord": 6,
+      "endWord": 9,
+      "englishText": "Why is it that you ask my name?"
+    },
+    {
+      "chapter": 35,
+      "verse": 1,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 14,
+      "englishText": "Arise, go up to Bethel and dwell there. Make an altar there to the God who appeared to you when you fled from your brother Esau"
+    },
+    {
+      "chapter": 35,
+      "verse": 10,
+      "speaker": "God",
+      "startWord": 2,
+      "endWord": 11,
+      "englishText": "Your name is Jacob; your name shall no longer be called Jacob, but Israel shall be your name"
+    },
+    {
+      "chapter": 35,
+      "verse": 11,
+      "speaker": "God",
+      "startWord": 3,
+      "endWord": 14,
+      "englishText": "I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body"
+    },
+    {
+      "chapter": 35,
+      "verse": 12,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you"
+    },
+    {
+      "chapter": 46,
+      "verse": 2,
+      "speaker": "God",
+      "startWord": 6,
+      "endWord": 7,
+      "englishText": "Jacob, Jacob"
+    },
+    {
+      "chapter": 46,
+      "verse": 3,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "And he said, I am God, the God of your father; do not be afraid to go down to Egypt, for I will make you a great nation there"
+    },
+    {
+      "chapter": 46,
+      "verse": 4,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "I will go down with you to Egypt, and I will also surely bring you up again; and Joseph shall put his hand on your eyes"
+    }
+  ]
+}

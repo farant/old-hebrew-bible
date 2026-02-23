@@ -1,0 +1,124 @@
+{
+  "chapter": 26,
+  "dialogue": [
+    {
+      "verse": 2,
+      "speaker": "yhwh",
+      "startWord": 4,
+      "endWord": 10,
+      "englishText": "Do not go down to Egypt; dwell in the land which I will tell you of"
+    },
+    {
+      "verse": 3,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 16,
+      "englishText": "Sojourn in this land, and I will be with you and will bless you; for to you and to your offspring I will give all these lands, and I will establish the oath which I swore to Abraham your father"
+    },
+    {
+      "verse": 4,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "I will multiply your offspring as the stars of heaven and will give to your offspring all these lands; and by your offspring all the nations of the earth shall bless themselves"
+    },
+    {
+      "verse": 5,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Because Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws"
+    },
+    {
+      "verse": 7,
+      "speaker": "isaac",
+      "startWord": 5,
+      "endWord": 6,
+      "englishText": "She is my sister"
+    },
+    {
+      "verse": 9,
+      "speaker": "abimelech",
+      "startWord": 4,
+      "endWord": 11,
+      "englishText": "Surely she is your wife! How then did you say, She is my sister?"
+    },
+    {
+      "verse": 9,
+      "speaker": "isaac",
+      "startWord": 15,
+      "endWord": 18,
+      "englishText": "Because I thought, lest I die because of her"
+    },
+    {
+      "verse": 10,
+      "speaker": "abimelech",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt upon us"
+    },
+    {
+      "verse": 11,
+      "speaker": "abimelech",
+      "startWord": 4,
+      "endWord": 9,
+      "englishText": "Whoever touches this man or his wife shall surely be put to death"
+    },
+    {
+      "verse": 16,
+      "speaker": "abimelech",
+      "startWord": 3,
+      "endWord": 6,
+      "englishText": "Go away from us, for you are much mightier than we"
+    },
+    {
+      "verse": 20,
+      "speaker": "gerar-shepherds",
+      "startWord": 6,
+      "endWord": 7,
+      "englishText": "The water is ours"
+    },
+    {
+      "verse": 22,
+      "speaker": "isaac",
+      "startWord": 12,
+      "endWord": 17,
+      "englishText": "For now YHWH has made room for us, and we shall be fruitful in the land"
+    },
+    {
+      "verse": 24,
+      "speaker": "yhwh",
+      "startWord": 6,
+      "endWord": 18,
+      "englishText": "I am the God of Abraham your father; fear not, for I am with you and will bless you and multiply your offspring for my servant Abraham's sake"
+    },
+    {
+      "verse": 27,
+      "speaker": "isaac",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "Why have you come to me, seeing that you hate me and have sent me away from you?"
+    },
+    {
+      "verse": 28,
+      "speaker": "abimelech",
+      "startWord": 1,
+      "endWord": 15,
+      "englishText": "We see plainly that YHWH has been with you, so we said: let there be an oath between us and you, and let us make a covenant with you"
+    },
+    {
+      "verse": 29,
+      "speaker": "abimelech",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "That you will do us no harm, just as we have not touched you and have done to you nothing but good and have sent you away in peace. You are now the blessed of YHWH"
+    },
+    {
+      "verse": 32,
+      "speaker": "isaac-servants",
+      "startWord": 14,
+      "endWord": 15,
+      "englishText": "We have found water"
+    }
+  ]
+}

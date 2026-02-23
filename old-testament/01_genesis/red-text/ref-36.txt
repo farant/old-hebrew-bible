@@ -1,0 +1,43 @@
+36:1 [0]veeileh [1]toledot [2]eisav [3]hu [4]edom
+36:2 [0]eisav [1]laqach [2]et-nashayv [3]mibenot [4]kenaan [5]et-adah [6]bat-eiylon [7]hachitiy [8]veet-aholiyvamah [9]bat-anah [10]bat-tsiveon [11]hachiviy
+36:3 [0]veet-basemat [1]bat-yishemaeil [2]achot [3]nevayot
+36:4 [0]vateiled [1]adah [2]leeisav [3]et-eliyfaz [4]uvasemat [5]yaledah [6]et-reueil
+36:5 [0]veaholiyvamah [1]yaledah [2]et-yysh [3]yeush [4]veet-yaelam [5]veet-qorach [6]eileh [7]beneiy [8]eisav [9]asher [10]yuledu-lo [11]beerets [12]kenaan
+36:6 [0]vayiqach [1]eisav [2]et-nashayv [3]veet-banayv [4]veet-benotayv [5]veet-kal-nafeshot [6]beiyto [7]veet-miqeneihu [8]veet-kal-behemeto [9]veeit [10]kal-qineyano [11]asher [12]rakhash [13]beerets [14]kenaan [15]vayeilekhe [16]el-erets [17]mipeneiy [18]yaaqov [19]achiyv
+36:7 [0]kiy-hayah [1]rekhusham [2]rav [3]mishevet [4]yachedav [5]velo [6]yakhelah [7]erets [8]megureiyhem [9]laseit [10]otam [11]mipeneiy [12]miqeneiyhem
+36:8 [0]vayeishev [1]eisav [2]behar [3]seiiyr [4]eisav [5]hu [6]edom
+36:9 [0]veeileh [1]toledot [2]eisav [3]aviy [4]edom [5]behar [6]seiiyr
+36:10 [0]eileh [1]shemot [2]beneiy-eisav [3]eliyfaz [4]ben-adah [5]eishet [6]eisav [7]reueil [8]ben-basemat [9]eishet [10]eishav
+36:11 [0]vayiheyu [1]beneiy [2]eliyfaz [3]teiyman [4]omar [5]tsefo [6]vegaetam [7]uqenaz
+36:12 [0]vetimena [1]hayetah [2]fiylegesh [3]leeliyfaz [4]ben-eisav [5]vateiled [6]leeliyfaz [7]et-amaleiq [8]eileh [9]beneiy [10]adah [11]eishet [12]eishav
+36:13 [0]veeileh [1]beneiy [2]reueil [3]nachat [4]vazerach [5]shamah [6]umizah [7]eileh [8]hayu [9]beneiy [10]vasemat [11]eishet [12]eishav
+36:14 [0]veeileh [1]hayu [2]beneiy [3]aholiyvamah [4]vat-anah [5]bat-tsiveon [6]eishet [7]eisav [8]vateiled [9]leeisav [10]et-yysh [11]yeush [12]veet-yaelam [13]veet-qorach
+36:15 [0]eileh [1]alufeiy [2]veneiy-eisav [3]beneiy [4]eliyfaz [5]bekhor [6]eisav [7]aluf [8]teiyman [9]aluf [10]omar [11]aluf [12]tsefo [13]aluf [14]qenaz
+36:16 [0]aluf-qorach [1]aluf [2]gaetam [3]aluf [4]amaleiq [5]eileh [6]alufeiy [7]eliyfaz [8]beerets [9]edom [10]eileh [11]beneiy [12]adah
+36:17 [0]veeileh [1]beneiy [2]reueil [3]ben-eisav [4]aluf [5]nachat [6]aluf [7]zerach [8]aluf [9]shamah [10]aluf [11]mizah [12]eileh [13]alufeiy [14]reueil [15]beerets [16]edom [17]eileh [18]beneiy [19]vasemat [20]eishet [21]eishav
+36:18 [0]veeileh [1]beneiy [2]aholiyvamah [3]eishet [4]eisav [5]aluf [6]yeush [7]aluf [8]yaelam [9]aluf [10]qorach [11]eileh [12]alufeiy [13]aholiyvamah [14]bat-anah [15]eishet [16]eishav
+36:19 [0]eileh [1]veneiy-eisav [2]veeileh [3]alufeiyhem [4]hu [5]edom
+36:20 [0]eileh [1]veneiy-seiiyr [2]hachoriy [3]yosheveiy [4]haarets [5]lotan [6]veshoval [7]vetsiveon [8]vaanah
+36:21 [0]vedishon [1]veeitser [2]vediyshan [3]eileh [4]alufeiy [5]hachoriy [6]beneiy [7]seiiyr [8]beerets [9]edom
+36:22 [0]vayiheyu [1]veneiy-lotan [2]choriy [3]veheiymam [4]vaachot [5]lotan [6]timena
+36:23 [0]veeileh [1]beneiy [2]shoval [3]alevan [4]umanachat [5]veeiyval [6]shefo [7]veonam
+36:24 [0]veeileh [1]veneiy-tsiveon [2]veayah [3]vaanah [4]hu [5]anah [6]asher [7]matsa [8]et-hayeimim [9]bamidebar [10]bireoto [11]et-hachamoriym [12]letsiveon [13]aviyv
+36:25 [0]veeileh [1]veneiy-anah [2]dishon [3]veaholiyvamah [4]bat-anah
+36:26 [0]veeileh [1]beneiy [2]diyshan [3]chemedan [4]veesheban [5]veyiteran [6]ukheran
+36:27 [0]eileh [1]beneiy-eitser [2]bilehan [3]vezaavan [4]vaaqan
+36:28 [0]eileh [1]veneiy-diyshan [2]uts [3]vaaran
+36:29 [0]eileh [1]alufeiy [2]hachoriy [3]aluf [4]lotan [5]aluf [6]shoval [7]aluf [8]tsiveon [9]aluf [10]anah
+36:30 [0]aluf [1]dishon [2]aluf [3]eitser [4]aluf [5]diyshan [6]eileh [7]alufeiy [8]hachoriy [9]lealufeiyhem [10]beerets [11]seiiyr
+36:31 [0]veeileh [1]hamelakhiym [2]asher [3]malekhu [4]beerets [5]edom [6]lifeneiy [7]melakhe-melekhe [8]liveneiy [9]yiseraeil
+36:32 [0]vayimelokhe [1]beedom [2]bela [3]ben-beor [4]vesheim [5]iyro [6]dinehavah
+36:33 [0]vayamat [1]bala [2]vayimelokhe [3]tachetayv [4]yovav [5]ben-zerach [6]mibatserah
+36:34 [0]vayamat [1]yovav [2]vayimelokhe [3]tachetayv [4]chusham [5]meierets [6]hateiymaniy
+36:35 [0]vayamat [1]chusham [2]vayimelokhe [3]tachetayv [4]hadad [5]ben-bedad [6]hamakeh [7]et-mideyan [8]bisedeih [9]moav [10]vesheim [11]iyro [12]aviyt
+36:36 [0]vayamat [1]hadad [2]vayimelokhe [3]tachetayv [4]samelah [5]mimasereiqah
+36:37 [0]vayamat [1]samelah [2]vayimelokhe [3]tachetayv [4]shaul [5]meirechovot [6]hanahar
+36:38 [0]vayamat [1]shaul [2]vayimelokhe [3]tachetayv [4]baal [5]chanan [6]ben-akhebor
+36:39 [0]vayamat [1]baal [2]chanan [3]ben-akhebor [4]vayimelokhe [5]tachetayv [6]hadar [7]vesheim [8]iyro [9]pau [10]vesheim [11]isheto [12]meheiytaveeil [13]bat-matereid [14]bat [15]meiy [16]zahav
+36:40 [0]veeileh [1]shemot [2]alufeiy [3]eisav [4]lemishepechotam [5]limeqomotam [6]bishemotam [7]aluf [8]timena [9]aluf [10]alevah [11]aluf [12]yeteit
+36:41 [0]aluf [1]aholiyvamah [2]aluf [3]eilah [4]aluf [5]piynon
+36:42 [0]aluf [1]qenaz [2]aluf [3]teiyman [4]aluf [5]mivetsar
+36:43 [0]aluf [1]magediyeil [2]aluf [3]iyram [4]eileh [5]alufeiy [6]edom [7]lemoshevotam [8]beerets [9]achuzatam [10]hu [11]eisav [12]aviy [13]edom

@@ -1,0 +1,18 @@
+13:1 [0]vayaal [1]averam [2]mimitserayim [3]hu [4]veisheto [5]vekhal-asher-lo [6]velot [7]imo [8]hanegebah
+13:2 [0]veaveram [1]kaveid [2]meod [3]bamiqeneh [4]bakesef [5]uvazahav
+13:3 [0]vayeilekhe [1]lemasaayv [2]minegev [3]vead-beiyt-eil [4]ad-hamaqom [5]asher-hayah [6]sham [7]hlh [8]aholo [9]batechilah [10]beiyn [11]beiyt-eil [12]uveiyn [13]haay
+13:4 [0]el-meqom [1]hamizebeicha [2]asher-asah [3]sham [4]barishonah [5]vayiqera [6]sham [7]averam [8]besheim [9]yehvah
+13:5 [0]vegam-lelot [1]haholeikhe [2]et-averam [3]hayah [4]tson-uvaqar [5]veohaliym
+13:6 [0]velo-nasa [1]otam [2]haarets [3]lashevet [4]yachedav [5]kiy-hayah [6]rekhusham [7]rav [8]velo [9]yakhelu [10]lashevet [11]yachedav
+13:7 [0]vayehiy-riyv [1]beiyn [2]roeiy [3]miqeneih-averam [4]uveiyn [5]roeiy [6]miqeneih-lot [7]vehakenaaniy [8]vehaperiziy [9]az [10]yosheiv [11]baarets
+13:8 [0]vayomer [1]averam [2]el-lot [3]al-na [4]tehiy [5]meriyvah [6]beiyniy [7]uveiyneykha [8]uveiyn [9]roay [10]uveiyn [11]roeykha [12]kiy-anashiym [13]achiym [14]anachenu
+13:9 [0]halo [1]khal-haarets [2]lefaneykha [3]hipared [4]na [5]meialay [6]im-hasemol [7]veeiyminah [8]veim-hayamiyn [9]veasemeiylah
+13:10 [0]vayisa-lot [1]et-eiynayv [2]vayare [3]et-kal-kikar [4]hayaredein [5]kiy [6]khulah [7]masheqeh [8]lifeneiy [9]shacheit [10]yehvah [11]et-sedom [12]veet-amorah [13]kegan-yehvah [14]keerets [15]mitserayim [16]boakhah [17]tsoar
+13:11 [0]vayivechar-lo [1]lot [2]eit [3]kal-kikar [4]hayaredein [5]vayisa [6]lot [7]miqedem [8]vayiparedu [9]iysh [10]meial [11]achiyv
+13:12 [0]averam [1]yashav [2]beerets-kenaan [3]velot [4]yashav [5]beareiy [6]hakikar [7]vayeehal [8]ad-sedom
+13:13 [0]veanesheiy [1]sedom [2]raiym [3]vechataiym [4]layhvah [5]meod
+13:14 [0]vayhvah [1]amar [2]el-averam [3]achareiy [4]hipared-lot [5]meiimo [6]sa [7]na [8]eiyneykha [9]ureeih [10]min-hamaqom [11]asher-atah [12]sham [13]tsafonah [14]vanegebah [15]vaqeidemah [16]vayamah
+13:15 [0]kiy [1]et-kal-haarets [2]asher-atah [3]roeh [4]lekha [5]etenenah [6]ulezareakha [7]ad-olam
+13:16 [0]vesametiy [1]et-zareakha [2]kaafar [3]haarets [4]asher [5]im-yukhal [6]iysh [7]limenot [8]et-afar [9]haarets [10]gam-zareakha [11]yimaneh
+13:17 [0]qum [1]hitehaleikhe [2]baarets [3]learekah [4]ulerachebah [5]kiy [6]lekha [7]etenenah
+13:18 [0]vayeehal [1]averam [2]vayavo [3]vayeishev [4]beeiloneiy [5]mamerei [6]asher [7]becheveron [8]vayiven-sham [9]mizebeicha [10]layhvah

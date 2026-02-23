@@ -1,0 +1,33 @@
+{
+  "chapter": 8,
+  "speeches": [
+    {
+      "verse": 16,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "Go out of the ark, you and your wife and your sons and your sons' wives with you."
+    },
+    {
+      "verse": 17,
+      "speaker": "God",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "Bring out with you every living thing of all flesh that is with you, birds and animals and every creeping thing that creeps on the earth, that they may breed abundantly on the earth, and be fruitful and multiply on the earth."
+    },
+    {
+      "verse": 21,
+      "speaker": "YHWH",
+      "startWord": 7,
+      "endWord": 24,
+      "englishText": "I will never again curse the ground on account of man, for the intent of man's heart is evil from his youth; and I will never again destroy every living thing, as I have done."
+    },
+    {
+      "verse": 22,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "While the earth remains, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+    }
+  ]
+}

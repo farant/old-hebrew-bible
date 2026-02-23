@@ -1,0 +1,124 @@
+{
+  "chapter": 15,
+  "dialogue": [
+    {
+      "verse": 1,
+      "speaker": "yhwh",
+      "startWord": 8,
+      "endWord": 15,
+      "englishText": "Fear not, Abram, I am your shield; your reward shall be very great"
+    },
+    {
+      "verse": 2,
+      "speaker": "abraham",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "O Lord YHWH, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus"
+    },
+    {
+      "verse": 3,
+      "speaker": "abraham",
+      "startWord": 2,
+      "endWord": 10,
+      "englishText": "Behold, you have given me no offspring, and a member of my household will be my heir"
+    },
+    {
+      "verse": 4,
+      "speaker": "yhwh",
+      "startWord": 4,
+      "endWord": 12,
+      "englishText": "This man shall not be your heir; your very own son shall be your heir"
+    },
+    {
+      "verse": 5,
+      "speaker": "yhwh",
+      "startWord": 4,
+      "endWord": 10,
+      "englishText": "Look toward heaven, and number the stars, if you are able to number them"
+    },
+    {
+      "verse": 5,
+      "speaker": "yhwh",
+      "startWord": 13,
+      "endWord": 15,
+      "englishText": "So shall your offspring be"
+    },
+    {
+      "verse": 7,
+      "speaker": "yhwh",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "I am YHWH who brought you out from Ur of the Chaldeans to give you this land to possess"
+    },
+    {
+      "verse": 8,
+      "speaker": "abraham",
+      "startWord": 1,
+      "endWord": 6,
+      "englishText": "O Lord YHWH, how am I to know that I shall possess it?"
+    },
+    {
+      "verse": 9,
+      "speaker": "yhwh",
+      "startWord": 2,
+      "endWord": 11,
+      "englishText": "Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon"
+    },
+    {
+      "verse": 13,
+      "speaker": "yhwh",
+      "startWord": 2,
+      "endWord": 15,
+      "englishText": "Know for certain that your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years"
+    },
+    {
+      "verse": 14,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "But I will bring judgment on the nation that they serve, and afterward they shall come out with great possessions"
+    },
+    {
+      "verse": 15,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 6,
+      "englishText": "As for you, you shall go to your fathers in peace; you shall be buried in a good old age"
+    },
+    {
+      "verse": 16,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "And they shall come back here in the fourth generation, for the iniquity of the Amorites is not yet complete"
+    },
+    {
+      "verse": 18,
+      "speaker": "yhwh",
+      "startWord": 7,
+      "endWord": 15,
+      "englishText": "To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates"
+    },
+    {
+      "verse": 19,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 3,
+      "englishText": "the land of the Kenites, the Kenizzites, the Kadmonites"
+    },
+    {
+      "verse": 20,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 2,
+      "englishText": "the Hittites, the Perizzites, the Rephaim"
+    },
+    {
+      "verse": 21,
+      "speaker": "yhwh",
+      "startWord": 0,
+      "endWord": 3,
+      "englishText": "the Amorites, the Canaanites, the Girgashites, and the Jebusites"
+    }
+  ]
+}

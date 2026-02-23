@@ -1,0 +1,131 @@
+{
+  "chapter": 3,
+  "dialogue": [
+    {
+      "verse": 1,
+      "speaker": "serpent",
+      "startWord": 12,
+      "endWord": 19,
+      "englishText": "Did God actually say, 'You shall not eat of any tree in the garden'?"
+    },
+    {
+      "verse": 2,
+      "speaker": "eve",
+      "startWord": 3,
+      "endWord": 5,
+      "englishText": "We may eat of the fruit of the trees in the garden"
+    },
+    {
+      "verse": 3,
+      "speaker": "eve",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "but God said, 'You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die'"
+    },
+    {
+      "verse": 4,
+      "speaker": "serpent",
+      "startWord": 3,
+      "endWord": 4,
+      "englishText": "You will not surely die"
+    },
+    {
+      "verse": 5,
+      "speaker": "serpent",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil"
+    },
+    {
+      "verse": 9,
+      "speaker": "yhwh-god",
+      "startWord": 5,
+      "endWord": 5,
+      "englishText": "Where are you?"
+    },
+    {
+      "verse": 10,
+      "speaker": "adam",
+      "startWord": 1,
+      "endWord": 7,
+      "englishText": "I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself"
+    },
+    {
+      "verse": 11,
+      "speaker": "yhwh-god",
+      "startWord": 1,
+      "endWord": 12,
+      "englishText": "Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?"
+    },
+    {
+      "verse": 12,
+      "speaker": "adam",
+      "startWord": 2,
+      "endWord": 9,
+      "englishText": "The woman whom you gave to be with me, she gave me fruit of the tree, and I ate"
+    },
+    {
+      "verse": 13,
+      "speaker": "yhwh-god",
+      "startWord": 4,
+      "endWord": 5,
+      "englishText": "What is this that you have done?"
+    },
+    {
+      "verse": 13,
+      "speaker": "eve",
+      "startWord": 8,
+      "endWord": 10,
+      "englishText": "The serpent deceived me, and I ate"
+    },
+    {
+      "verse": 14,
+      "speaker": "yhwh-god",
+      "startWord": 4,
+      "endWord": 18,
+      "englishText": "Because you have done this, cursed are you above all livestock and above all beasts of the field; on your belly you shall go, and dust you shall eat all the days of your life"
+    },
+    {
+      "verse": 15,
+      "speaker": "yhwh-god",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel"
+    },
+    {
+      "verse": 16,
+      "speaker": "yhwh-god",
+      "startWord": 2,
+      "endWord": 12,
+      "englishText": "I will surely multiply your pain in childbearing; in pain you shall bring forth children. Your desire shall be for your husband, and he shall rule over you"
+    },
+    {
+      "verse": 17,
+      "speaker": "yhwh-god",
+      "startWord": 2,
+      "endWord": 20,
+      "englishText": "Because you have listened to the voice of your wife and have eaten of the tree of which I commanded you, saying, 'You shall not eat of it', cursed is the ground because of you; in pain you shall eat of it all the days of your life"
+    },
+    {
+      "verse": 18,
+      "speaker": "yhwh-god",
+      "startWord": 0,
+      "endWord": 6,
+      "englishText": "Thorns and thistles it shall bring forth for you, and you shall eat the plants of the field"
+    },
+    {
+      "verse": 19,
+      "speaker": "yhwh-god",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return"
+    },
+    {
+      "verse": 22,
+      "speaker": "yhwh-god",
+      "startWord": 3,
+      "endWord": 20,
+      "englishText": "Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever"
+    }
+  ]
+}

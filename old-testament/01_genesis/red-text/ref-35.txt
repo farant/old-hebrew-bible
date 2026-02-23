@@ -1,0 +1,29 @@
+35:1 [0]vayomer [1]elohiym [2]el-yaaqov [3]qum [4]aleih [5]veiyt-eil [6]veshev-sham [7]vaaseih-sham [8]mizebeicha [9]laeil [10]hanireeh [11]eileykha [12]bevarechakha [13]mipeneiy [14]eisav [15]achiykha
+35:2 [0]vayomer [1]yaaqov [2]el-beiyto [3]veel [4]kal-asher [5]imo [6]hasiru [7]et-eloheiy [8]haneikhar [9]asher [10]betokhekhem [11]vehitaharu [12]vehachaliyfu [13]simeloteiykhem
+35:3 [0]venaqumah [1]venaaleh [2]beiyt-eil [3]veeeseh-sham [4]mizebeicha [5]laeil [6]haoneh [7]otiy [8]beyom [9]tsaratiy [10]vayehiy [11]imadiy [12]baderekhe [13]asher [14]halakhetiy
+35:4 [0]vayitenu [1]el-yaaqov [2]eit [3]kal-eloheiy [4]haneikhar [5]asher [6]beyadam [7]veet-hanezamiym [8]asher [9]beazeneiyhem [10]vayitemon [11]otam [12]yaaqov [13]tachat [14]haeilah [15]asher [16]im-shekhem
+35:5 [0]vayisau [1]vayehiy [2]chitat [3]elohiym [4]al-heariym [5]asher [6]seviyvoteiyhem [7]velo [8]radefu [9]achareiy [10]beneiy [11]yaaqov
+35:6 [0]vayavo [1]yaaqov [2]luzah [3]asher [4]beerets [5]kenaan [6]hiv [7]beiyt-eil [8]hu [9]vekhal-haam [10]asher-imo
+35:7 [0]vayiven [1]sham [2]mizebeicha [3]vayiqera [4]lamaqom [5]eil [6]beiyt-eil [7]kiy [8]sham [9]nigelu [10]eilayv [11]haelohiym [12]bevarecho [13]mipeneiy [14]achiyv
+35:8 [0]vatamat [1]devorah [2]meiyneqet [3]riveqah [4]vatiqaveir [5]mitachat [6]leveiyt-eil [7]tachat [8]haalon [9]vayiqera [10]shemo [11]alon [12]bakhut
+35:9 [0]vayeira [1]elohiym [2]el-yaaqov [3]od [4]bevoo [5]mipadan [6]aram [7]vayevarekhe [8]oto
+35:10 [0]vayomer-lo [1]elohiym [2]shimekha [3]yaaqov [4]lo-yiqarei [5]shimekha [6]od [7]yaaqov [8]kiy [9]im-yiseraeil [10]yiheyeh [11]shemekha [12]vayiqera [13]et-shemo [14]yiseraeil
+35:11 [0]vayomer [1]lo [2]elohiym [3]aniy [4]eil [5]shaday [6]pereih [7]ureveih [8]goy [9]uqehal [10]goyim [11]yiheyeh [12]mimeka [13]umelakhiym [14]meichalatseykha [15]yeitseiu
+35:12 [0]veet-haarets [1]asher [2]natatiy [3]leaveraham [4]uleyitsechaq [5]lekha [6]etenenah [7]ulezareakha [8]achareykha [9]etein [10]et-haarets
+35:13 [0]vayaal [1]meialayv [2]elohiym [3]bamaqom [4]asher-diber [5]ito
+35:14 [0]vayatseiv [1]yaaqov [2]matseivah [3]bamaqom [4]asher-diber [5]ito [6]matsevet [7]aven [8]vayaseikhe [9]aleyha [10]nesekhe [11]vayitsoq [12]aleyha [13]shamen
+35:15 [0]vayiqera [1]yaaqov [2]et-sheim [3]hamaqom [4]asher [5]diber [6]ito [7]sham [8]elohiym [9]beiyt-eil
+35:16 [0]vayiseu [1]mibeiyt [2]eil [3]vayehiy-od [4]kiverat-haarets [5]lavo [6]eferatah [7]vateiled [8]racheil [9]vateqash [10]belidetah
+35:17 [0]vayehiy [1]vehaqeshotah [2]belidetah [3]vatomer [4]lah [5]hameyaledet [6]al-tiyreiy [7]kiy-gam-zeh [8]lakhe [9]bein
+35:18 [0]vayehiy [1]betseit [2]nafeshah [3]kiy [4]meitah [5]vatiqera [6]shemo [7]ben-oniy [8]veaviyv [9]qara-lo [10]vineyamiyn
+35:19 [0]vatamat [1]racheil [2]vatiqaveir [3]bederekhe [4]eferatah [5]hiv [6]beiyt [7]lachem
+35:20 [0]vayatseiv [1]yaaqov [2]matseivah [3]al-qevuratah [4]hiv [5]matsevet [6]qevurat-racheil [7]ad-hayom
+35:21 [0]vayisa [1]yiseraeil [2]vayeit [3]aholoh [4]meihaleah [5]lemigedal-eider
+35:22 [0]vayehiy [1]bishekon [2]yiseraeil [3]baarets [4]hahiv [5]vayeilekhe [6]reuvein [7]vayishekav [8]et-bilehah [9]piylegesh [10]aviyv [11]vayishema [12]yiseraeil [13]f [14]vayiheyu [15]veneiy-yaaqov [16]sheneiym [17]ashar
+35:23 [0]beneiy [1]leiah [2]bekhor [3]yaaqov [4]reuvein [5]veshimeon [6]veleiviy [7]viyhudah [8]veyisashkhar [9]uzevulun
+35:24 [0]beneiy [1]racheil [2]yoseif [3]uvineyamin
+35:25 [0]uveneiy [1]vilehah [2]shifechat [3]racheil [4]dan [5]venafetaliy
+35:26 [0]uveneiy [1]zilepah [2]shifechat [3]leiah [4]gad [5]veasheir [6]eileh [7]beneiy [8]yaaqov [9]asher [10]yulad-lo [11]befadan [12]aram
+35:27 [0]vayavo [1]yaaqov [2]el-yitsechaq [3]aviyv [4]mamerei [5]qireyat [6]haareba [7]hiv [8]cheveron [9]asher-gar-sham [10]averaham [11]veyitsechaq
+35:28 [0]vayiheyu [1]yemeiy [2]yitsechaq [3]meat [4]shanah [5]ushemoniym [6]shanah
+35:29 [0]vayigeva [1]yitsechaq [2]vayamat [3]vayeiasef [4]el-amayv [5]zaqein [6]useva [7]yamiym [8]vayiqeberu [9]oto [10]eisav [11]veyaaqov [12]banayv

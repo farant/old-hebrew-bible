@@ -1,0 +1,54 @@
+{
+  "chapter": 23,
+  "dialogue": [
+    {
+      "verse": 4,
+      "speaker": "abraham",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "I am a sojourner and foreigner among you; give me property among you for a burying place, that I may bury my dead out of my sight"
+    },
+    {
+      "verse": 6,
+      "speaker": "sons-of-heth",
+      "startWord": 0,
+      "endWord": 16,
+      "englishText": "Hear us, my lord; you are a prince of God among us. Bury your dead in the choicest of our tombs. None of us will withhold his tomb from you to hinder you from burying your dead"
+    },
+    {
+      "verse": 8,
+      "speaker": "abraham",
+      "startWord": 3,
+      "endWord": 11,
+      "englishText": "If you are willing that I should bury my dead out of my sight, hear me and entreat for me Ephron the son of Zohar"
+    },
+    {
+      "verse": 9,
+      "speaker": "abraham",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "That he may give me the cave of Machpelah, which he owns; it is at the end of his field. For the full price let him give it to me in your presence as property for a burying place"
+    },
+    {
+      "verse": 11,
+      "speaker": "ephron",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "No, my lord, hear me: I give you the field, and I give you the cave that is in it. In the sight of the sons of my people I give it to you. Bury your dead"
+    },
+    {
+      "verse": 13,
+      "speaker": "abraham",
+      "startWord": 5,
+      "endWord": 16,
+      "englishText": "But if you will, hear me: I give the price of the field; accept it from me, that I may bury my dead there"
+    },
+    {
+      "verse": 15,
+      "speaker": "ephron",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "My lord, listen to me: a piece of land worth four hundred shekels of silver, what is that between you and me? Bury your dead"
+    }
+  ]
+}

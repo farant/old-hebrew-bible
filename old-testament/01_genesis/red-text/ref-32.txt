@@ -1,0 +1,33 @@
+32:1 [0]vayashekeim [1]lavan [2]baboqer [3]vayenasheiq [4]levanayv [5]velivenotayv [6]vayevarekhe [7]etehem [8]vayeilekhe [9]vayashav [10]lavan [11]limeqomo
+32:2 [0]veyaaqov [1]halakhe [2]ledareko [3]vayifegeu-vo [4]maleakheiy [5]elohiym
+32:3 [0]vayomer [1]yaaqov [2]kaasher [3]raam [4]machaneih [5]elohiym [6]zeh [7]vayiqera [8]sheim-hamaqom [9]hahu [10]machanayim
+32:4 [0]vayishelach [1]yaaqov [2]maleakhiym [3]lefanayv [4]el-eisav [5]achiyv [6]aretsah [7]seiiyr [8]sedeih [9]edom
+32:5 [0]vayetsav [1]otam [2]leimor [3]koh [4]tomerun [5]ladoniy [6]leeisav [7]koh [8]amar [9]avedekha [10]yaaqov [11]im-lavan [12]garetiy [13]vaeichar [14]ad-atah
+32:6 [0]vayehiy-liy [1]shor [2]vachamor [3]tson [4]veeved [5]veshifechah [6]vaeshelechah [7]lehagiyd [8]ladoniy [9]limetso-chein [10]beeiyneykha
+32:7 [0]vayashuvu [1]hamaleakhiym [2]el-yaaqov [3]leimor [4]banu [5]el-achiykha [6]el-eisav [7]vegam [8]holeikhe [9]liqeratekha [10]veareba-meiot [11]iysh [12]imo
+32:8 [0]vayiyra [1]yaaqov [2]meod [3]vayeitser [4]lo [5]vayachats [6]et-haam [7]asher-ito [8]veet-hatson [9]veet-habaqar [10]vehagemaliym [11]lisheneiy [12]machanot
+32:9 [0]vayomer [1]im-yavo [2]eisav [3]el-hamachaneh [4]haachat [5]vehikahu [6]vehayah [7]hamachaneh [8]hanishear [9]lifeleiytah
+32:10 [0]vayomer [1]yaaqov [2]eloheiy [3]aviy [4]averaham [5]veiloheiy [6]aviy [7]yitsechaq [8]yehvah [9]haomeir [10]eilay [11]shuv [12]learetsekha [13]ulemoladetekha [14]veeiytiyvah [15]imakhe
+32:11 [0]qatonetiy [1]mikol [2]hachasadiym [3]umikal-haemet [4]asher [5]asiyta [6]et-avedekha [7]kiy [8]vemaqeliy [9]avaretiy [10]et-hayaredein [11]hazeh [12]veatah [13]hayiytiy [14]lisheneiy [15]machanot
+32:12 [0]hatsiyleiniy [1]na [2]miyad [3]achiy [4]miyad [5]eisav [6]kiy-yarei [7]anokhiy [8]oto [9]pen-yavo [10]vehikaniy [11]eim [12]al-baniym
+32:13 [0]veatah [1]amareta [2]heiyteiv [3]eiytiyv [4]imakhe [5]vesametiy [6]et-zareakha [7]kechol [8]hayam [9]asher [10]lo-yisafeir [11]meirov
+32:14 [0]vayalen [1]sham [2]balayelah [3]hahu [4]vayiqach [5]min-haba [6]veyado [7]minechah [8]leeisav [9]achiyv
+32:15 [0]iziym [1]matayim [2]uteyashiym [3]eseriym [4]recheiliym [5]matayim [6]veeiyliym [7]eseriym
+32:16 [0]gemaliym [1]meiyniyqot [2]uveneiyhem [3]sheloshiym [4]parot [5]arebaiym [6]ufariym [7]asarah [8]atonot [9]eseriym [10]vaeyarim [11]asarah
+32:17 [0]vayitein [1]beyad-avadayv [2]eider [3]eider [4]levado [5]vayomer [6]el-avadayv [7]iveru [8]lefanay [9]verevach [10]tasiymu [11]beiyn [12]eider [13]uveiyn [14]eider
+32:18 [0]vayetsav [1]et-harishon [2]leimor [3]kiy [4]yifegashekha [5]eisav [6]achiy [7]visheeilekha [8]leimor [9]lemiy-atah [10]veanah [11]teileikhe [12]ulemiy [13]eileh [14]lefaneykha
+32:19 [0]veamareta [1]leavedekha [2]leyaaqov [3]minechah [4]hiv [5]sheluchah [6]ladoniy [7]leeisav [8]vehineih [9]gam-hu [10]achareiynu
+32:20 [0]vayetsav [1]gam [2]et-hasheiniy [3]gam [4]et-hasheliyshiy [5]gam [6]et-kal-haholekhiym [7]achareiy [8]haadariym [9]leimor [10]kadavar [11]hazeh [12]tedaberun [13]el-eisav [14]bemotsaakhem [15]oto
+32:21 [0]vaamaretem [1]gam [2]hineih [3]avedekha [4]yaaqov [5]achareiynu [6]kiy-amar [7]akhaperah [8]fanayv [9]baminechah [10]haholekhet [11]lefanay [12]veachareiy-khein [13]ereeh [14]fanayv [15]ulay [16]yisa [17]fanay
+32:22 [0]vataavor [1]haminechah [2]al-panayv [3]vehu [4]lan [5]balayelah-hahu [6]bamachaneh
+32:23 [0]vayaqam [1]balayelah [2]hu [3]vayiqach [4]et-sheteiy [5]nashayv [6]veet-sheteiy [7]shifechotayv [8]veet-achad [9]asar [10]yeladayv [11]vayaavor [12]eit [13]maavar [14]yaboq
+32:24 [0]vayiqacheim [1]vayaavireim [2]et-hanachal [3]vayaaveir [4]et-asher-lo
+32:25 [0]vayivateir [1]yaaqov [2]levado [3]vayeiaveiq [4]iysh [5]imo [6]ad [7]alot [8]hashachar
+32:26 [0]vayare [1]kiy [2]lo [3]yakhol [4]lo [5]vayiga [6]bekhaf-yereikho [7]vateiqa [8]kaf-yerekhe [9]yaaqov [10]beheiaveqo [11]imo
+32:27 [0]vayomer [1]shalecheiniy [2]kiy [3]alah [4]hashachar [5]vayomer [6]lo [7]ashaleichakha [8]kiy [9]im-beirakhetaniy
+32:28 [0]vayomer [1]eilayv [2]mah-shemekha [3]vayomer [4]yaaqov
+32:29 [0]vayomer [1]lo [2]yaaqov [3]yeiameir [4]od [5]shimekha [6]kiy [7]im-yiseraeil [8]kiy-sariyta [9]im-elohiym [10]veim-anashiym [11]vatukhal
+32:30 [0]vayisheal [1]yaaqov [2]vayomer [3]hagiydah-na [4]shemekha [5]vayomer [6]lamah [7]zeh [8]tisheal [9]lishemiy [10]vayevarekhe [11]oto [12]sham
+32:31 [0]vayiqera [1]yaaqov [2]sheim [3]hamaqom [4]peniyeil [5]kiy-raiytiy [6]elohiym [7]paniym [8]el-paniym [9]vatinatseil [10]nafeshiy
+32:32 [0]vayizerach-lo [1]hashemesh [2]kaasher [3]avar [4]et-penueil [5]vehu [6]tsoleia [7]al-yereikho
+32:33 [0]al-kein [1]lo-yokhelu [2]veneiy-yiseraeil [3]et-giyd [4]hanasheh [5]asher [6]al-kaf [7]hayareikhe [8]ad [9]hayom [10]hazeh [11]kiy [12]naga [13]bekhaf-yerekhe [14]yaaqov [15]begiyd [16]hanasheh

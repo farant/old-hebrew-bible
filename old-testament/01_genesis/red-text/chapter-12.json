@@ -1,0 +1,33 @@
+{
+  "chapter": 12,
+  "speeches": [
+    {
+      "verse": 1,
+      "speaker": "YHWH",
+      "startWord": 3,
+      "endWord": 10,
+      "englishText": "Go from your country and your kindred and your father's house to the land that I will show you."
+    },
+    {
+      "verse": 2,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing."
+    },
+    {
+      "verse": 3,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
+    },
+    {
+      "verse": 7,
+      "speaker": "YHWH",
+      "startWord": 4,
+      "endWord": 7,
+      "englishText": "To your offspring I will give this land."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "chapter": 6,
+  "dialogue": [
+    {
+      "verse": 3,
+      "speaker": "yhwh",
+      "startWord": 2,
+      "endWord": 13,
+      "englishText": "My Spirit shall not strive with man forever, since he also is flesh; his days shall be one hundred and twenty years"
+    },
+    {
+      "verse": 7,
+      "speaker": "yhwh",
+      "startWord": 2,
+      "endWord": 16,
+      "englishText": "I will blot out man whom I have created from the face of the land, from man to animals to creeping things and to birds of the sky; for I am sorry that I have made them"
+    },
+    {
+      "verse": 13,
+      "speaker": "god",
+      "startWord": 3,
+      "endWord": 13,
+      "englishText": "The end of all flesh has come before Me; for the earth is filled with violence because of them; and behold, I am about to destroy them with the earth"
+    },
+    {
+      "verse": 14,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Make for yourself an ark of gopher wood; you shall make the ark with rooms, and shall cover it inside and out with pitch"
+    },
+    {
+      "verse": 15,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "This is how you shall make it: the length of the ark three hundred cubits, its breadth fifty cubits, and its height thirty cubits"
+    },
+    {
+      "verse": 16,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 13,
+      "englishText": "You shall make a window for the ark, and finish it to a cubit from the top; and set the door of the ark in the side of it; you shall make it with lower, second, and third decks"
+    },
+    {
+      "verse": 17,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 15,
+      "englishText": "Behold, I, even I am bringing the flood of water upon the earth, to destroy all flesh in which is the breath of life, from under heaven; everything that is on the earth shall perish"
+    },
+    {
+      "verse": 18,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 9,
+      "englishText": "But I will establish My covenant with you; and you shall enter the ark — you and your sons and your wife, and your sons' wives with you"
+    },
+    {
+      "verse": 19,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "And of every living thing of all flesh, you shall bring two of every kind into the ark, to keep them alive with you; they shall be male and female"
+    },
+    {
+      "verse": 20,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 12,
+      "englishText": "Of the birds after their kind, and of the animals after their kind, of every creeping thing of the ground after its kind, two of every kind will come to you to keep them alive"
+    },
+    {
+      "verse": 21,
+      "speaker": "god",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "As for you, take for yourself some of all food which is edible, and gather it to yourself; and it shall be for food for you and for them"
+    }
+  ]
+}

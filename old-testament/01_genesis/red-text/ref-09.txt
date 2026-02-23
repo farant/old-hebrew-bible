@@ -1,0 +1,29 @@
+9:1 [0]vayevarekhe [1]elohiym [2]et-nocha [3]veet-banayv [4]vayomer [5]lahem [6]peru [7]urevu [8]umileu [9]et-haarets
+9:2 [0]umoraakhem [1]vechitekhem [2]yiheyeh [3]al [4]kal-chayat [5]haarets [6]veal [7]kal-of [8]hashamayim [9]bekhol [10]asher [11]tiremos [12]haadamah [13]uvekhal-degeiy [14]hayam [15]beyedekhem [16]nitanu
+9:3 [0]kal-remes [1]asher [2]hu-chay [3]lakhem [4]yiheyeh [5]leakhelah [6]keyereq [7]eisev [8]natatiy [9]lakhem [10]et-kol
+9:4 [0]akhe-basar [1]benafesho [2]damo [3]lo [4]tokheilu
+9:5 [0]veakhe [1]et-dimekhem [2]lenafeshoteiykhem [3]ederosh [4]miyad [5]kal-chayah [6]edereshenu [7]umiyad [8]haadam [9]miyad [10]iysh [11]achiyv [12]ederosh [13]et-nefesh [14]haadam
+9:6 [0]shofeikhe [1]dam [2]haadam [3]baadam [4]damo [5]yishafeikhe [6]kiy [7]betselem [8]elohiym [9]asah [10]et-haadam
+9:7 [0]veatem [1]peru [2]urevu [3]shiretsu [4]vaarets [5]urevu-vah
+9:8 [0]vayomer [1]elohiym [2]el-nocha [3]veel-banayv [4]ito [5]leimor
+9:9 [0]vaaniy [1]hineniy [2]meiqiym [3]et-beriytiy [4]itekhem [5]veet-zareakhem [6]achareiykhem
+9:10 [0]veeit [1]kal-nefesh [2]hachayah [3]asher [4]itekhem [5]baof [6]babeheimah [7]uvekhal-chayat [8]haarets [9]itekhem [10]mikol [11]yotseeiy [12]hateivah [13]lekhol [14]chayat [15]haarets
+9:11 [0]vahaqimotiy [1]et-beriytiy [2]itekhem [3]velo-yikareit [4]kal-basar [5]od [6]mimeiy [7]hamabul [8]velo-yiheyeh [9]od [10]mabul [11]leshacheit [12]haarets
+9:12 [0]vayomer [1]elohiym [2]zot [3]ot-haberiyt [4]asher-aniy [5]notein [6]beiyniy [7]uveiyneiykhem [8]uveiyn [9]kal-nefesh [10]chayah [11]asher [12]itekhem [13]ledorot [14]olam
+9:13 [0]et-qashetiy [1]natatiy [2]beanan [3]vehayetah [4]leot [5]beriyt [6]beiyniy [7]uveiyn [8]haarets
+9:14 [0]vehayah [1]beaneniy [2]anan [3]al-haarets [4]venireatah [5]haqeshet [6]beanan
+9:15 [0]vezakharetiy [1]et-beriytiy [2]asher [3]beiyniy [4]uveiyneiykhem [5]uveiyn [6]kal-nefesh [7]chayah [8]bekhal-basar [9]velo-yiheyeh [10]od [11]hamayim [12]lemabul [13]leshacheit [14]kal-bashar
+9:16 [0]vehayetah [1]haqeshet [2]beanan [3]ureiytiyha [4]lizekor [5]beriyt [6]olam [7]beiyn [8]elohiym [9]uveiyn [10]kal-nefesh [11]chayah [12]bekhal-basar [13]asher [14]al-haarets
+9:17 [0]vayomer [1]elohiym [2]el-nocha [3]zot [4]ot-haberiyt [5]asher [6]haqimotiy [7]beiyniy [8]uveiyn [9]kal-basar [10]asher [11]al-haarets
+9:18 [0]vayiheyu [1]veneiy-nocha [2]hayotseiym [3]min-hateivah [4]sheim [5]vecham [6]vayafet [7]vecham [8]hu [9]aviy [10]khenaan
+9:19 [0]sheloshah [1]eileh [2]beneiy-nocha [3]umeieileh [4]nafetsah [5]khal-haarets
+9:20 [0]vayachel [1]nocha [2]iysh [3]haadamah [4]vayita [5]karem
+9:21 [0]vayeishete [1]min-hayayin [2]vayishekar [3]vayitegal [4]betokhe [5]aholoh
+9:22 [0]vayare [1]cham [2]aviy [3]khenaan [4]eit [5]erevat [6]aviyv [7]vayageid [8]lisheneiy-echayv [9]bachuts
+9:23 [0]vayiqach [1]sheim [2]vayefet [3]et-hasimelah [4]vayasiymu [5]al-shekhem [6]sheneiyhem [7]vayeilekhu [8]achoraniyt [9]vayekhasu [10]eit [11]erevat [12]aviyhem [13]ufeneiyhem [14]achoraniyt [15]veerevat [16]aviyhem [17]lo [18]rau
+9:24 [0]vayiyqets [1]nocha [2]miyeiyno [3]vayeida [4]eit [5]asher-asah-lo [6]beno [7]haqatan
+9:25 [0]vayomer [1]arur [2]kenaan [3]eved [4]avadiym [5]yiheyeh [6]leechayv
+9:26 [0]vayomer [1]barukhe [2]yehovah [3]eloheiy [4]sheim [5]viyhiy [6]khenaan [7]eved [8]lamo
+9:27 [0]yafete [1]elohiym [2]leyefet [3]veyishekon [4]beaholeiy-sheim [5]viyhiy [6]khenaan [7]eved [8]lamo
+9:28 [0]vayechiy-nocha [1]achar [2]hamabul [3]shelosh [4]meiot [5]shanah [6]vachamishiym [7]shanah
+9:29 [0]vayiheyu [1]kal-yemeiy-nocha [2]tesha [3]meiot [4]shanah [5]vachamishiym [6]shanah [7]vayamot

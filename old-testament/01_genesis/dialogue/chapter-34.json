@@ -1,0 +1,110 @@
+{
+  "chapter": 34,
+  "dialogue": [
+    {
+      "verse": 4,
+      "speaker": "shechem",
+      "startWord": 5,
+      "endWord": 8,
+      "englishText": "Get me this girl for my wife"
+    },
+    {
+      "verse": 8,
+      "speaker": "hamor",
+      "startWord": 4,
+      "endWord": 13,
+      "englishText": "The soul of my son Shechem longs for your daughter. Please give her to him in marriage"
+    },
+    {
+      "verse": 9,
+      "speaker": "hamor",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "Make marriages with us; give your daughters to us, and take our daughters for yourselves"
+    },
+    {
+      "verse": 10,
+      "speaker": "hamor",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "You shall dwell with us, and the land shall be open to you; dwell and trade in it, and get property in it"
+    },
+    {
+      "verse": 11,
+      "speaker": "shechem",
+      "startWord": 4,
+      "endWord": 9,
+      "englishText": "Let me find favor in your eyes, and whatever you say to me I will give"
+    },
+    {
+      "verse": 12,
+      "speaker": "shechem",
+      "startWord": 0,
+      "endWord": 11,
+      "englishText": "Ask me for as great a bride price and gift as you will, and I will give whatever you say to me; only give me the girl to be my wife"
+    },
+    {
+      "verse": 14,
+      "speaker": "jacobs-sons",
+      "startWord": 2,
+      "endWord": 13,
+      "englishText": "We cannot do this thing, to give our sister to one who is uncircumcised, for that would be a disgrace to us"
+    },
+    {
+      "verse": 15,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 7,
+      "englishText": "Only on this condition will we consent to you: that you will become as we are by every male among you being circumcised"
+    },
+    {
+      "verse": 16,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 8,
+      "englishText": "Then we will give our daughters to you, and we will take your daughters to ourselves, and we will dwell with you and become one people"
+    },
+    {
+      "verse": 17,
+      "speaker": "jacobs-sons",
+      "startWord": 0,
+      "endWord": 5,
+      "englishText": "But if you will not listen to us and be circumcised, then we will take our daughter and go"
+    },
+    {
+      "verse": 21,
+      "speaker": "hamor-and-shechem",
+      "startWord": 0,
+      "endWord": 17,
+      "englishText": "These men are at peace with us; let them dwell in the land and trade in it, for behold the land is large enough for them; let us take their daughters as wives and let us give them our daughters"
+    },
+    {
+      "verse": 22,
+      "speaker": "hamor-and-shechem",
+      "startWord": 0,
+      "endWord": 14,
+      "englishText": "Only on this condition will the men consent to dwell with us to become one people, when every male among us is circumcised as they are circumcised"
+    },
+    {
+      "verse": 23,
+      "speaker": "hamor-and-shechem",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Will not their livestock, their property, and all their beasts be ours? Only let us consent to them, and they will dwell with us"
+    },
+    {
+      "verse": 30,
+      "speaker": "jacob",
+      "startWord": 4,
+      "endWord": 19,
+      "englishText": "You have brought trouble on me by making me stink to the inhabitants of the land, the Canaanites and the Perizzites. My numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household"
+    },
+    {
+      "verse": 31,
+      "speaker": "simeon-and-levi",
+      "startWord": 1,
+      "endWord": 3,
+      "englishText": "Should he treat our sister like a prostitute?"
+    }
+  ]
+}

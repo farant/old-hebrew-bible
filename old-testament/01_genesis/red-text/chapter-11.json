@@ -1,0 +1,19 @@
+{
+  "chapter": 11,
+  "speeches": [
+    {
+      "verse": 6,
+      "speaker": "YHWH",
+      "startWord": 2,
+      "endWord": 17,
+      "englishText": "Behold, they are one people and they have one language, and this is only the beginning of what they will do; nothing they propose to do will be impossible for them."
+    },
+    {
+      "verse": 7,
+      "speaker": "YHWH",
+      "startWord": 0,
+      "endWord": 10,
+      "englishText": "Come, let us go down and there confuse their language, so that they may not understand one another's speech."
+    }
+  ]
+}
