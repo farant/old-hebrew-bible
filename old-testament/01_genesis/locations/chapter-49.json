@@ -1,0 +1,9 @@
+{
+  "chapter": 49,
+  "mentions": [
+    { "verse": 13, "location": "sidon", "startWord": 8, "endWord": 8, "textRef": "Sidon" },
+    { "verse": 30, "location": "machpelah", "startWord": 3, "endWord": 3, "textRef": "Machpelah" },
+    { "verse": 30, "location": "mamre", "startWord": 5, "endWord": 5, "textRef": "before Mamre" },
+    { "verse": 30, "location": "canaan", "startWord": 6, "endWord": 7, "textRef": "land of Canaan" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chapter": 15,
+  "mentions": [
+    { "verse": 2, "location": "damascus", "startWord": 11, "endWord": 11, "textRef": "Damascus Eliezer" },
+    { "verse": 7, "location": "ur", "startWord": 6, "endWord": 7, "textRef": "Ur of the Chaldeans" },
+    { "verse": 18, "location": "river-of-egypt", "startWord": 11, "endWord": 12, "textRef": "river of Egypt" },
+    { "verse": 18, "location": "euphrates", "startWord": 13, "endWord": 15, "textRef": "the great river, the Euphrates" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chapter": 42,
+  "mentions": [
+    { "verse": 1, "location": "egypt", "startWord": 4, "endWord": 4, "textRef": "Jacob heard there was grain in Egypt" },
+    { "verse": 2, "location": "egypt", "startWord": 5, "endWord": 5, "textRef": "I have heard there is grain in Egypt" },
+    { "verse": 3, "location": "egypt", "startWord": 5, "endWord": 5, "textRef": "Joseph's brothers went down to buy grain from Egypt" },
+    { "verse": 5, "location": "canaan", "startWord": 8, "endWord": 9, "textRef": "famine was in the land of Canaan" },
+    { "verse": 7, "location": "canaan", "startWord": 14, "endWord": 15, "textRef": "brothers said they came from the land of Canaan" },
+    { "verse": 13, "location": "canaan", "startWord": 8, "endWord": 9, "textRef": "your servants are sons of one man in the land of Canaan" },
+    { "verse": 29, "location": "canaan", "startWord": 3, "endWord": 4, "textRef": "brothers returned to Jacob in the land of Canaan" },
+    { "verse": 32, "location": "canaan", "startWord": 10, "endWord": 11, "textRef": "the youngest is with our father in the land of Canaan" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chapter": 11,
+  "mentions": [
+    { "verse": 2, "location": "shinar", "startWord": 5, "endWord": 6, "textRef": "land of Shinar" },
+    { "verse": 9, "location": "babel", "startWord": 3, "endWord": 3, "textRef": "Babel" },
+    { "verse": 28, "location": "ur", "startWord": 7, "endWord": 8, "textRef": "Ur of the Chaldeans" },
+    { "verse": 31, "location": "ur", "startWord": 15, "endWord": 16, "textRef": "from Ur of the Chaldeans" },
+    { "verse": 31, "location": "canaan", "startWord": 19, "endWord": 19, "textRef": "land of Canaan" },
+    { "verse": 31, "location": "haran", "startWord": 21, "endWord": 21, "textRef": "Haran" },
+    { "verse": 32, "location": "haran", "startWord": 8, "endWord": 8, "textRef": "in Haran" }
+  ]
+}

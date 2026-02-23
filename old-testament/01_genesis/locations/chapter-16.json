@@ -1,0 +1,40 @@
+{
+  "chapter": 16,
+  "mentions": [
+    {
+      "verse": 3,
+      "location": "canaan",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "land of Canaan"
+    },
+    {
+      "verse": 7,
+      "location": "shur",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "on the road to Shur"
+    },
+    {
+      "verse": 14,
+      "location": "beer-lahai-roi",
+      "startWord": 3,
+      "endWord": 5,
+      "textRef": "the well Beer-lahai-roi"
+    },
+    {
+      "verse": 14,
+      "location": "kadesh",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "between Kadesh and Bered"
+    },
+    {
+      "verse": 14,
+      "location": "bered",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "between Kadesh and Bered"
+    }
+  ]
+}

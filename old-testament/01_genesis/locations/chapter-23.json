@@ -1,0 +1,75 @@
+{
+  "chapter": 23,
+  "mentions": [
+    {
+      "verse": 2,
+      "location": "hebron",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Kirjath-arba, that is Hebron"
+    },
+    {
+      "verse": 2,
+      "location": "hebron",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Kirjath-arba, that is Hebron"
+    },
+    {
+      "verse": 2,
+      "location": "canaan",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "in the land of Canaan"
+    },
+    {
+      "verse": 9,
+      "location": "machpelah",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "cave of Machpelah"
+    },
+    {
+      "verse": 17,
+      "location": "machpelah",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "field in Machpelah"
+    },
+    {
+      "verse": 17,
+      "location": "mamre",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "before Mamre"
+    },
+    {
+      "verse": 19,
+      "location": "machpelah",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "cave of the field of Machpelah"
+    },
+    {
+      "verse": 19,
+      "location": "mamre",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "before Mamre"
+    },
+    {
+      "verse": 19,
+      "location": "hebron",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "that is Hebron"
+    },
+    {
+      "verse": 19,
+      "location": "canaan",
+      "startWord": 12,
+      "endWord": 13,
+      "textRef": "in the land of Canaan"
+    }
+  ]
+}

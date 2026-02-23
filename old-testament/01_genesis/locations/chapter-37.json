@@ -1,0 +1,16 @@
+{
+  "chapter": 37,
+  "mentions": [
+    { "verse": 1, "location": "canaan", "startWord": 5, "endWord": 6, "textRef": "in the land of Canaan" },
+    { "verse": 12, "location": "shechem", "startWord": 5, "endWord": 5, "textRef": "to pasture flocks in Shechem" },
+    { "verse": 13, "location": "shechem", "startWord": 6, "endWord": 6, "textRef": "brothers pasturing in Shechem" },
+    { "verse": 14, "location": "hebron", "startWord": 11, "endWord": 12, "textRef": "sent from the valley of Hebron" },
+    { "verse": 14, "location": "shechem", "startWord": 14, "endWord": 14, "textRef": "he came to Shechem" },
+    { "verse": 17, "location": "dothan", "startWord": 8, "endWord": 8, "textRef": "let us go to Dothan" },
+    { "verse": 17, "location": "dothan", "startWord": 14, "endWord": 14, "textRef": "found them in Dothan" },
+    { "verse": 25, "location": "gilead", "startWord": 9, "endWord": 9, "textRef": "Ishmaelite caravan coming from Gilead" },
+    { "verse": 25, "location": "egypt", "startWord": 17, "endWord": 17, "textRef": "going down to Egypt" },
+    { "verse": 28, "location": "egypt", "startWord": 15, "endWord": 15, "textRef": "brought Joseph to Egypt" },
+    { "verse": 36, "location": "egypt", "startWord": 3, "endWord": 3, "textRef": "sold him into Egypt to Potiphar" }
+  ]
+}

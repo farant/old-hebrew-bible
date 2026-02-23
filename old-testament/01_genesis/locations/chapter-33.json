@@ -1,0 +1,75 @@
+{
+  "chapter": 33,
+  "mentions": [
+    {
+      "verse": 14,
+      "location": "seir",
+      "startWord": 15,
+      "endWord": 15,
+      "textRef": "until I come to my lord in Seir"
+    },
+    {
+      "verse": 16,
+      "location": "seir",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Esau returned to Seir"
+    },
+    {
+      "verse": 17,
+      "location": "succoth",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Jacob journeyed to Succoth"
+    },
+    {
+      "verse": 17,
+      "location": "succoth",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "made booths (succoth) for his livestock"
+    },
+    {
+      "verse": 17,
+      "location": "succoth",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "named the place Succoth"
+    },
+    {
+      "verse": 18,
+      "location": "shalem",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Jacob came to Shalem"
+    },
+    {
+      "verse": 18,
+      "location": "shechem",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "city of Shechem"
+    },
+    {
+      "verse": 18,
+      "location": "canaan",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "in the land of Canaan"
+    },
+    {
+      "verse": 18,
+      "location": "paddan-aram",
+      "startWord": 9,
+      "endWord": 10,
+      "textRef": "coming from Paddan-Aram"
+    },
+    {
+      "verse": 19,
+      "location": "shechem",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "sons of Hamor father of Shechem"
+    }
+  ]
+}

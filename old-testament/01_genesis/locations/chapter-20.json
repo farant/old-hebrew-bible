@@ -1,0 +1,40 @@
+{
+  "chapter": 20,
+  "mentions": [
+    {
+      "verse": 1,
+      "location": "negev",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Abraham journeyed toward the Negev"
+    },
+    {
+      "verse": 1,
+      "location": "kadesh",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "between Kadesh and Shur"
+    },
+    {
+      "verse": 1,
+      "location": "shur",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "between Kadesh and Shur"
+    },
+    {
+      "verse": 1,
+      "location": "gerar",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "he sojourned in Gerar"
+    },
+    {
+      "verse": 2,
+      "location": "gerar",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "Abimelech king of Gerar"
+    }
+  ]
+}

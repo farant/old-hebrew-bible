@@ -1,0 +1,75 @@
+{
+  "chapter": 2,
+  "mentions": [
+    {
+      "verse": 8,
+      "location": "eden",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "a garden in Eden"
+    },
+    {
+      "verse": 10,
+      "location": "eden",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "a river going out from Eden"
+    },
+    {
+      "verse": 11,
+      "location": "pishon",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "the Pishon river"
+    },
+    {
+      "verse": 11,
+      "location": "havilah",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "the land of Havilah"
+    },
+    {
+      "verse": 13,
+      "location": "gihon-river",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "the Gihon river"
+    },
+    {
+      "verse": 13,
+      "location": "cush",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "the land of Cush"
+    },
+    {
+      "verse": 14,
+      "location": "tigris",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "the Tigris (Hiddekel) river"
+    },
+    {
+      "verse": 14,
+      "location": "assyria",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "east of Assyria"
+    },
+    {
+      "verse": 14,
+      "location": "euphrates",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "the Euphrates (Perat) river"
+    },
+    {
+      "verse": 15,
+      "location": "eden",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "the Garden of Eden"
+    }
+  ]
+}

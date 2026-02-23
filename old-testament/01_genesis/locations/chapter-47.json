@@ -1,0 +1,28 @@
+{
+  "chapter": 47,
+  "mentions": [
+    { "verse": 1, "location": "canaan", "startWord": 12, "endWord": 13, "textRef": "from land of Canaan" },
+    { "verse": 1, "location": "goshen", "startWord": 15, "endWord": 16, "textRef": "land of Goshen" },
+    { "verse": 4, "location": "canaan", "startWord": 12, "endWord": 13, "textRef": "land of Canaan" },
+    { "verse": 4, "location": "goshen", "startWord": 17, "endWord": 18, "textRef": "land of Goshen" },
+    { "verse": 6, "location": "egypt", "startWord": 0, "endWord": 1, "textRef": "land of Egypt" },
+    { "verse": 6, "location": "goshen", "startWord": 10, "endWord": 11, "textRef": "land of Goshen" },
+    { "verse": 11, "location": "egypt", "startWord": 7, "endWord": 8, "textRef": "land of Egypt" },
+    { "verse": 11, "location": "rameses", "startWord": 11, "endWord": 12, "textRef": "land of Rameses" },
+    { "verse": 13, "location": "egypt", "startWord": 7, "endWord": 8, "textRef": "land of Egypt" },
+    { "verse": 13, "location": "canaan", "startWord": 9, "endWord": 10, "textRef": "land of Canaan" },
+    { "verse": 14, "location": "egypt", "startWord": 4, "endWord": 4, "textRef": "land of Egypt" },
+    { "verse": 14, "location": "canaan", "startWord": 5, "endWord": 6, "textRef": "land of Canaan" },
+    { "verse": 15, "location": "egypt", "startWord": 2, "endWord": 3, "textRef": "from land of Egypt" },
+    { "verse": 15, "location": "canaan", "startWord": 4, "endWord": 5, "textRef": "from land of Canaan" },
+    { "verse": 15, "location": "egypt", "startWord": 7, "endWord": 7, "textRef": "all of Egypt" },
+    { "verse": 20, "location": "egypt", "startWord": 3, "endWord": 3, "textRef": "Egypt" },
+    { "verse": 20, "location": "egypt", "startWord": 6, "endWord": 6, "textRef": "Egypt" },
+    { "verse": 21, "location": "egypt", "startWord": 5, "endWord": 5, "textRef": "border of Egypt" },
+    { "verse": 26, "location": "egypt", "startWord": 7, "endWord": 7, "textRef": "Egypt" },
+    { "verse": 27, "location": "egypt", "startWord": 2, "endWord": 3, "textRef": "land of Egypt" },
+    { "verse": 27, "location": "goshen", "startWord": 4, "endWord": 5, "textRef": "land of Goshen" },
+    { "verse": 28, "location": "egypt", "startWord": 2, "endWord": 3, "textRef": "land of Egypt" },
+    { "verse": 29, "location": "egypt", "startWord": 21, "endWord": 21, "textRef": "in Egypt" }
+  ]
+}

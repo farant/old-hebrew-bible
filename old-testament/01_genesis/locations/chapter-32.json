@@ -1,0 +1,47 @@
+{
+  "chapter": 32,
+  "mentions": [
+    {
+      "verse": 3,
+      "location": "mahanaim",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "named the place Mahanaim"
+    },
+    {
+      "verse": 4,
+      "location": "seir",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "land of Seir"
+    },
+    {
+      "verse": 4,
+      "location": "edom",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "field of Edom"
+    },
+    {
+      "verse": 23,
+      "location": "jabbok",
+      "startWord": 14,
+      "endWord": 14,
+      "textRef": "ford of the Jabbok"
+    },
+    {
+      "verse": 31,
+      "location": "peniel",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "named the place Peniel"
+    },
+    {
+      "verse": 32,
+      "location": "peniel",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "as he passed Penuel"
+    }
+  ]
+}

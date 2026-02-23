@@ -1,0 +1,304 @@
+{
+  "book": "Genesis",
+  "description": "Travel narratives extracted from Genesis — movements of persons or groups between named locations",
+  "totalJourneys": 28,
+  "journeys": [
+    {
+      "id": "adam-eve-expelled-from-eden",
+      "traveler": "adam-and-eve",
+      "description": "Expulsion from the Garden of Eden to the east",
+      "waypoints": [
+        { "location": "eden", "chapter": 3, "verse": 23, "event": "sent out from the Garden of Eden" },
+        { "location": "eden", "chapter": 3, "verse": 24, "event": "driven east of Eden" }
+      ]
+    },
+    {
+      "id": "cain-to-nod",
+      "traveler": "cain",
+      "description": "Cain goes out from the presence of the LORD to the land of Nod, east of Eden",
+      "waypoints": [
+        { "location": "eden", "chapter": 4, "verse": 16, "event": "departed from the presence of the LORD" },
+        { "location": "nod", "chapter": 4, "verse": 16, "event": "settled in the land of Nod, east of Eden" }
+      ]
+    },
+    {
+      "id": "peoples-to-shinar",
+      "traveler": "post-flood-peoples",
+      "description": "People migrate to the plain of Shinar and build the Tower of Babel",
+      "waypoints": [
+        { "location": "shinar", "chapter": 11, "verse": 2, "event": "found a plain in the land of Shinar and settled there" },
+        { "location": "babel", "chapter": 11, "verse": 9, "event": "LORD confused languages at Babel; people scattered" }
+      ]
+    },
+    {
+      "id": "terah-ur-to-haran",
+      "traveler": "terah",
+      "description": "Terah takes Abraham, Sarai, and Lot from Ur of the Chaldeans toward Canaan, but settles in Haran",
+      "waypoints": [
+        { "location": "ur", "chapter": 11, "verse": 31, "event": "departed from Ur of the Chaldeans" },
+        { "location": "haran", "chapter": 11, "verse": 31, "event": "settled in Haran instead of continuing to Canaan" }
+      ]
+    },
+    {
+      "id": "abraham-haran-to-negev",
+      "traveler": "abraham",
+      "description": "Abraham's initial journey from Haran through Canaan: Shechem, Bethel, and on to the Negev",
+      "waypoints": [
+        { "location": "haran", "chapter": 12, "verse": 4, "event": "departed from Haran at age 75" },
+        { "location": "canaan", "chapter": 12, "verse": 5, "event": "arrived in the land of Canaan" },
+        { "location": "shechem", "chapter": 12, "verse": 6, "event": "passed through to the place of Shechem, the oak of Moreh" },
+        { "location": "bethel", "chapter": 12, "verse": 8, "event": "moved to the hill country, pitched tent between Bethel and Ai" },
+        { "location": "negev", "chapter": 12, "verse": 9, "event": "journeyed on toward the Negev" }
+      ]
+    },
+    {
+      "id": "abraham-negev-to-egypt-and-back",
+      "traveler": "abraham",
+      "description": "Abraham goes down to Egypt because of famine, then returns to the Negev and back to Bethel",
+      "waypoints": [
+        { "location": "negev", "chapter": 12, "verse": 9, "event": "in the Negev when famine struck" },
+        { "location": "egypt", "chapter": 12, "verse": 10, "event": "went down to Egypt to sojourn because of famine" },
+        { "location": "negev", "chapter": 13, "verse": 1, "event": "went up from Egypt into the Negev" },
+        { "location": "bethel", "chapter": 13, "verse": 3, "event": "journeyed from the Negev back to Bethel, to the place of his earlier altar" }
+      ]
+    },
+    {
+      "id": "lot-separates-to-sodom",
+      "traveler": "lot",
+      "description": "Lot separates from Abraham, choosing the Jordan plain and settling near Sodom",
+      "waypoints": [
+        { "location": "bethel", "chapter": 13, "verse": 3, "event": "at Bethel with Abraham before the separation" },
+        { "location": "jordan", "chapter": 13, "verse": 11, "event": "chose the plain of the Jordan and journeyed east" },
+        { "location": "sodom", "chapter": 13, "verse": 12, "event": "pitched his tent as far as Sodom" }
+      ]
+    },
+    {
+      "id": "abraham-to-mamre-hebron",
+      "traveler": "abraham",
+      "description": "After Lot's departure, Abraham moves to the oaks of Mamre at Hebron",
+      "waypoints": [
+        { "location": "bethel", "chapter": 13, "verse": 3, "event": "at Bethel after separation from Lot" },
+        { "location": "mamre", "chapter": 13, "verse": 18, "event": "moved tent and dwelt by the oaks of Mamre at Hebron" }
+      ]
+    },
+    {
+      "id": "war-of-kings-invasion",
+      "traveler": "four-kings",
+      "description": "Campaign of the four eastern kings through Transjordan and the Negev before the battle at the Valley of Siddim",
+      "waypoints": [
+        { "location": "shaveh-kiriathaim", "chapter": 14, "verse": 5, "event": "defeated the Emim at Shaveh-Kiriathaim" },
+        { "location": "seir", "chapter": 14, "verse": 6, "event": "defeated the Horites in their mountain Seir" },
+        { "location": "el-paran", "chapter": 14, "verse": 6, "event": "advanced as far as El-Paran by the wilderness" },
+        { "location": "kadesh", "chapter": 14, "verse": 7, "event": "turned back to En-Mishpat (Kadesh)" },
+        { "location": "hazazon-tamar", "chapter": 14, "verse": 7, "event": "struck the Amorites at Hazazon-Tamar" },
+        { "location": "valley-of-siddim", "chapter": 14, "verse": 8, "event": "joined battle in the Valley of Siddim" }
+      ]
+    },
+    {
+      "id": "abraham-rescue-of-lot",
+      "traveler": "abraham",
+      "description": "Abraham pursues the four kings from Mamre to Dan and beyond Damascus to rescue Lot, then returns via Salem",
+      "waypoints": [
+        { "location": "mamre", "chapter": 14, "verse": 13, "event": "received news of Lot's capture at the oaks of Mamre" },
+        { "location": "dan", "chapter": 14, "verse": 14, "event": "pursued the kings as far as Dan" },
+        { "location": "hobah", "chapter": 14, "verse": 15, "event": "defeated and pursued them to Hobah, north of Damascus" },
+        { "location": "kings-valley", "chapter": 14, "verse": 17, "event": "met king of Sodom at the Valley of Shaveh (King's Valley)" },
+        { "location": "salem", "chapter": 14, "verse": 18, "event": "met Melchizedek king of Salem who brought bread and wine" }
+      ]
+    },
+    {
+      "id": "hagar-flight-to-shur",
+      "traveler": "hagar",
+      "description": "Hagar flees from Sarai into the wilderness toward Shur, found by the angel at Beer-lahai-roi",
+      "waypoints": [
+        { "location": "mamre", "chapter": 16, "verse": 3, "event": "fled from Sarai (Abraham dwelling in Canaan near Mamre)" },
+        { "location": "shur", "chapter": 16, "verse": 7, "event": "found by the angel on the road to Shur" },
+        { "location": "beer-lahai-roi", "chapter": 16, "verse": 14, "event": "named the well Beer-lahai-roi, between Kadesh and Bered" }
+      ]
+    },
+    {
+      "id": "lot-flees-sodom",
+      "traveler": "lot",
+      "description": "Lot flees from Sodom's destruction to Zoar, then up into the mountains",
+      "waypoints": [
+        { "location": "sodom", "chapter": 19, "verse": 1, "event": "angels arrived at Sodom, Lot sitting in the gate" },
+        { "location": "zoar", "chapter": 19, "verse": 23, "event": "fled to Zoar as the sun rose" },
+        { "location": "zoar", "chapter": 19, "verse": 30, "event": "afraid to stay in Zoar, went up into the mountains with his daughters" }
+      ]
+    },
+    {
+      "id": "abraham-mamre-to-gerar",
+      "traveler": "abraham",
+      "description": "Abraham journeys from Mamre/Hebron area toward the Negev and sojourns in Gerar",
+      "waypoints": [
+        { "location": "mamre", "chapter": 18, "verse": 1, "event": "dwelling by the oaks of Mamre" },
+        { "location": "negev", "chapter": 20, "verse": 1, "event": "journeyed toward the Negev, between Kadesh and Shur" },
+        { "location": "gerar", "chapter": 20, "verse": 1, "event": "sojourned in Gerar" }
+      ]
+    },
+    {
+      "id": "abraham-gerar-to-beer-sheba",
+      "traveler": "abraham",
+      "description": "Abraham settles at Beer-sheba after making a covenant with Abimelech",
+      "waypoints": [
+        { "location": "gerar", "chapter": 20, "verse": 1, "event": "sojourning in Gerar" },
+        { "location": "beer-sheba", "chapter": 21, "verse": 31, "event": "made a covenant at Beer-sheba with Abimelech" },
+        { "location": "beer-sheba", "chapter": 21, "verse": 33, "event": "planted a tamarisk tree and settled at Beer-sheba" }
+      ]
+    },
+    {
+      "id": "hagar-expelled-to-paran",
+      "traveler": "hagar",
+      "description": "Hagar and Ishmael are expelled, wander in the wilderness of Beer-sheba, and settle in Paran",
+      "waypoints": [
+        { "location": "beer-sheba", "chapter": 21, "verse": 14, "event": "wandered in the wilderness of Beer-sheba" },
+        { "location": "paran", "chapter": 21, "verse": 21, "event": "Ishmael settled in the wilderness of Paran" }
+      ]
+    },
+    {
+      "id": "abraham-beer-sheba-to-moriah",
+      "traveler": "abraham",
+      "description": "Abraham's journey from Beer-sheba to Mount Moriah for the binding of Isaac, and return",
+      "waypoints": [
+        { "location": "beer-sheba", "chapter": 22, "verse": 19, "event": "departed from Beer-sheba (inferred starting point)" },
+        { "location": "moriah", "chapter": 22, "verse": 2, "event": "went to the land of Moriah to offer Isaac" },
+        { "location": "beer-sheba", "chapter": 22, "verse": 19, "event": "returned together to Beer-sheba and dwelt there" }
+      ]
+    },
+    {
+      "id": "abrahams-servant-to-aram-naharaim",
+      "traveler": "abrahams-servant",
+      "description": "Abraham's servant travels from Canaan to Aram-Naharaim to find a wife for Isaac, and returns",
+      "waypoints": [
+        { "location": "beer-sheba", "chapter": 24, "verse": 10, "event": "departed from Abraham's household (Beer-sheba area)" },
+        { "location": "aram-naharaim", "chapter": 24, "verse": 10, "event": "traveled to Aram-Naharaim, city of Nahor" },
+        { "location": "beer-lahai-roi", "chapter": 24, "verse": 62, "event": "returned; Isaac came from Beer-lahai-roi to meet Rebekah" }
+      ]
+    },
+    {
+      "id": "isaac-gerar-to-beer-sheba",
+      "traveler": "isaac",
+      "description": "Isaac sojourns in Gerar during famine, digs wells, and settles at Beer-sheba",
+      "waypoints": [
+        { "location": "gerar", "chapter": 26, "verse": 1, "event": "went to Abimelech king of the Philistines in Gerar" },
+        { "location": "gerar", "chapter": 26, "verse": 17, "event": "moved to the valley of Gerar, dug wells" },
+        { "location": "esek", "chapter": 26, "verse": 20, "event": "dug a well; herdsmen quarreled, named it Esek" },
+        { "location": "sitnah", "chapter": 26, "verse": 21, "event": "dug another well; quarreled again, named it Sitnah" },
+        { "location": "rehoboth-well", "chapter": 26, "verse": 22, "event": "dug a third well with no quarrel; named it Rehoboth" },
+        { "location": "beer-sheba", "chapter": 26, "verse": 23, "event": "went up to Beer-sheba" },
+        { "location": "beer-sheba", "chapter": 26, "verse": 33, "event": "named the well Shibah; hence Beer-sheba" }
+      ]
+    },
+    {
+      "id": "esau-to-seir",
+      "traveler": "esau",
+      "description": "Esau moves from Canaan to the hill country of Seir (Edom)",
+      "waypoints": [
+        { "location": "canaan", "chapter": 36, "verse": 6, "event": "took all his household and possessions acquired in Canaan" },
+        { "location": "seir", "chapter": 36, "verse": 8, "event": "settled in the hill country of Seir (Edom)" }
+      ]
+    },
+    {
+      "id": "jacob-flees-to-haran",
+      "traveler": "jacob",
+      "description": "Jacob flees from Esau, traveling from Beer-sheba via Bethel to Haran (Paddan-Aram)",
+      "waypoints": [
+        { "location": "beer-sheba", "chapter": 28, "verse": 10, "event": "left Beer-sheba" },
+        { "location": "bethel", "chapter": 28, "verse": 19, "event": "slept at Luz; dreamed of the ladder; named it Bethel" },
+        { "location": "haran", "chapter": 29, "verse": 4, "event": "arrived at Haran, met Rachel at the well" }
+      ]
+    },
+    {
+      "id": "jacob-returns-haran-to-shechem",
+      "traveler": "jacob",
+      "description": "Jacob's return from Haran through Gilead, across the Jabbok, and to Shechem in Canaan",
+      "waypoints": [
+        { "location": "paddan-aram", "chapter": 31, "verse": 18, "event": "departed from Paddan-Aram with all his possessions" },
+        { "location": "gilead", "chapter": 31, "verse": 21, "event": "crossed the Euphrates and headed toward the hill country of Gilead" },
+        { "location": "mizpah-gilead", "chapter": 31, "verse": 49, "event": "made covenant with Laban at Mizpah (Galeed)" },
+        { "location": "mahanaim", "chapter": 32, "verse": 3, "event": "met angels of God; named the place Mahanaim" },
+        { "location": "jabbok", "chapter": 32, "verse": 23, "event": "crossed the ford of the Jabbok with his family" },
+        { "location": "peniel", "chapter": 32, "verse": 31, "event": "wrestled with God; named the place Peniel" },
+        { "location": "succoth", "chapter": 33, "verse": 17, "event": "built a house and made booths; named the place Succoth" },
+        { "location": "shechem", "chapter": 33, "verse": 18, "event": "arrived safely at the city of Shechem in Canaan" }
+      ]
+    },
+    {
+      "id": "jacob-shechem-to-hebron",
+      "traveler": "jacob",
+      "description": "Jacob travels from Shechem to Bethel, then to Ephrath (Bethlehem), Migdal-Eder, and finally Hebron",
+      "waypoints": [
+        { "location": "shechem", "chapter": 35, "verse": 4, "event": "buried foreign gods under the oak near Shechem before departing" },
+        { "location": "bethel", "chapter": 35, "verse": 6, "event": "came to Luz (Bethel); built an altar called El Bethel" },
+        { "location": "ephrath", "chapter": 35, "verse": 16, "event": "journeyed from Bethel; Rachel died on the way to Ephrath (Bethlehem)" },
+        { "location": "migdal-eder", "chapter": 35, "verse": 21, "event": "pitched tent beyond Migdal-Eder (tower of the flock)" },
+        { "location": "hebron", "chapter": 35, "verse": 27, "event": "came to Isaac at Mamre (Kiriath-arba), that is Hebron" }
+      ]
+    },
+    {
+      "id": "joseph-hebron-to-egypt",
+      "traveler": "joseph",
+      "description": "Joseph is sent from Hebron to check on his brothers, finds them at Dothan, is sold and taken to Egypt",
+      "waypoints": [
+        { "location": "hebron", "chapter": 37, "verse": 14, "event": "sent from the valley of Hebron by Jacob" },
+        { "location": "shechem", "chapter": 37, "verse": 14, "event": "came to Shechem looking for his brothers" },
+        { "location": "dothan", "chapter": 37, "verse": 17, "event": "found his brothers at Dothan" },
+        { "location": "egypt", "chapter": 37, "verse": 28, "event": "sold to Ishmaelite/Midianite traders who brought him to Egypt" }
+      ]
+    },
+    {
+      "id": "judah-to-adullam-and-timnah",
+      "traveler": "judah",
+      "description": "Judah separates from his brothers, goes to Adullam, and later travels to Timnah for sheep-shearing",
+      "waypoints": [
+        { "location": "adullam", "chapter": 38, "verse": 1, "event": "went down from his brothers and turned aside to an Adullamite" },
+        { "location": "timnah", "chapter": 38, "verse": 12, "event": "went up to Timnah for sheep-shearing" },
+        { "location": "enaim", "chapter": 38, "verse": 14, "event": "Tamar sat at the entrance to Enaim on the road to Timnah" }
+      ]
+    },
+    {
+      "id": "brothers-first-trip-to-egypt",
+      "traveler": "josephs-brothers",
+      "description": "Joseph's ten brothers travel from Canaan to Egypt to buy grain during the famine, and return",
+      "waypoints": [
+        { "location": "canaan", "chapter": 42, "verse": 5, "event": "departed from famine-stricken Canaan" },
+        { "location": "egypt", "chapter": 42, "verse": 3, "event": "went down to Egypt to buy grain" },
+        { "location": "canaan", "chapter": 42, "verse": 29, "event": "returned to Jacob in the land of Canaan" }
+      ]
+    },
+    {
+      "id": "brothers-second-trip-to-egypt",
+      "traveler": "josephs-brothers",
+      "description": "The brothers return to Egypt with Benjamin, are received by Joseph, and return to Canaan",
+      "waypoints": [
+        { "location": "canaan", "chapter": 43, "verse": 2, "event": "grain from Egypt consumed; must return" },
+        { "location": "egypt", "chapter": 43, "verse": 15, "event": "went down to Egypt with Benjamin and stood before Joseph" },
+        { "location": "canaan", "chapter": 45, "verse": 25, "event": "went up out of Egypt and came to Canaan with news of Joseph" }
+      ]
+    },
+    {
+      "id": "jacobs-family-to-egypt",
+      "traveler": "jacobs-family",
+      "description": "Jacob and his entire household migrate from Canaan to Egypt, stopping at Beer-sheba and settling in Goshen",
+      "waypoints": [
+        { "location": "canaan", "chapter": 46, "verse": 6, "event": "took livestock and possessions acquired in Canaan" },
+        { "location": "beer-sheba", "chapter": 46, "verse": 1, "event": "stopped at Beer-sheba and offered sacrifices to God" },
+        { "location": "egypt", "chapter": 46, "verse": 6, "event": "came to Egypt — Jacob and all his offspring" },
+        { "location": "goshen", "chapter": 46, "verse": 28, "event": "sent Judah ahead to direct the way to Goshen" },
+        { "location": "goshen", "chapter": 46, "verse": 29, "event": "Joseph met Jacob in Goshen; settled in the land of Goshen" },
+        { "location": "rameses", "chapter": 47, "verse": 11, "event": "Joseph settled his family in the land of Rameses" }
+      ]
+    },
+    {
+      "id": "jacobs-funeral-procession",
+      "traveler": "josephs-funeral-party",
+      "description": "Jacob's funeral procession from Egypt to the cave of Machpelah at Hebron, and return to Egypt",
+      "waypoints": [
+        { "location": "egypt", "chapter": 50, "verse": 7, "event": "departed Egypt with elders, servants, and chariots" },
+        { "location": "abel-mizraim", "chapter": 50, "verse": 11, "event": "mourned at the threshing floor of Atad beyond the Jordan (Abel-Mizraim)" },
+        { "location": "machpelah", "chapter": 50, "verse": 13, "event": "buried Jacob in the cave of Machpelah before Mamre (Hebron)" },
+        { "location": "egypt", "chapter": 50, "verse": 14, "event": "Joseph and all who went with him returned to Egypt" }
+      ]
+    }
+  ]
+}

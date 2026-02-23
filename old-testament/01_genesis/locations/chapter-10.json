@@ -1,0 +1,236 @@
+{
+  "chapter": 10,
+  "mentions": [
+    {
+      "verse": 6,
+      "location": "cush",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Cush, son of Ham"
+    },
+    {
+      "verse": 6,
+      "location": "egypt",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Mizraim (Egypt), son of Ham"
+    },
+    {
+      "verse": 6,
+      "location": "canaan",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Canaan, son of Ham"
+    },
+    {
+      "verse": 7,
+      "location": "cush",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "sons of Cush"
+    },
+    {
+      "verse": 7,
+      "location": "havilah",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Havilah, son of Cush"
+    },
+    {
+      "verse": 8,
+      "location": "cush",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "Cush begat Nimrod"
+    },
+    {
+      "verse": 10,
+      "location": "babel",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Babel, beginning of Nimrod's kingdom"
+    },
+    {
+      "verse": 10,
+      "location": "erech",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Erech, city of Nimrod's kingdom"
+    },
+    {
+      "verse": 10,
+      "location": "akkad",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Akkad, city of Nimrod's kingdom"
+    },
+    {
+      "verse": 10,
+      "location": "calneh",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "Calneh, city of Nimrod's kingdom"
+    },
+    {
+      "verse": 10,
+      "location": "shinar",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "the land of Shinar"
+    },
+    {
+      "verse": 11,
+      "location": "assyria",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Assyria, from which he went forth"
+    },
+    {
+      "verse": 11,
+      "location": "nineveh",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Nineveh, city built by Nimrod"
+    },
+    {
+      "verse": 11,
+      "location": "rehoboth-ir",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "Rehoboth-Ir, city built by Nimrod"
+    },
+    {
+      "verse": 11,
+      "location": "calah",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "Calah, city built by Nimrod"
+    },
+    {
+      "verse": 12,
+      "location": "resen",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "Resen, between Nineveh and Calah"
+    },
+    {
+      "verse": 12,
+      "location": "nineveh",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Nineveh, boundary reference for Resen"
+    },
+    {
+      "verse": 12,
+      "location": "calah",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Calah, boundary reference for Resen"
+    },
+    {
+      "verse": 13,
+      "location": "egypt",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "Mizraim (Egypt) begat peoples"
+    },
+    {
+      "verse": 14,
+      "location": "philistia",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "the Philistines came from them"
+    },
+    {
+      "verse": 15,
+      "location": "canaan",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "Canaan begat Sidon"
+    },
+    {
+      "verse": 15,
+      "location": "sidon",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Sidon, firstborn of Canaan"
+    },
+    {
+      "verse": 18,
+      "location": "canaan",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "the Canaanite clans spread out"
+    },
+    {
+      "verse": 19,
+      "location": "canaan",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "the border of the Canaanite"
+    },
+    {
+      "verse": 19,
+      "location": "sidon",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "from Sidon, border of Canaan"
+    },
+    {
+      "verse": 19,
+      "location": "gerar",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "toward Gerar, border of Canaan"
+    },
+    {
+      "verse": 19,
+      "location": "sodom",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "toward Sodom, border of Canaan"
+    },
+    {
+      "verse": 19,
+      "location": "gomorrah",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "Gomorrah, border of Canaan"
+    },
+    {
+      "verse": 19,
+      "location": "admah",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "Admah, border of Canaan"
+    },
+    {
+      "verse": 19,
+      "location": "zeboiim",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "Zeboiim, border of Canaan"
+    },
+    {
+      "verse": 19,
+      "location": "lasha",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "as far as Lasha, border of Canaan"
+    },
+    {
+      "verse": 22,
+      "location": "assyria",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Asshur, son of Shem"
+    },
+    {
+      "verse": 29,
+      "location": "havilah",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "Havilah, son of Joktan"
+    }
+  ]
+}

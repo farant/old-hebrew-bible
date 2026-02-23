@@ -1,0 +1,8 @@
+{
+  "chapter": 40,
+  "mentions": [
+    { "verse": 1, "location": "egypt", "startWord": 6, "endWord": 6, "textRef": "cupbearer of the king of Egypt" },
+    { "verse": 1, "location": "egypt", "startWord": 10, "endWord": 10, "textRef": "to the king of Egypt" },
+    { "verse": 5, "location": "egypt", "startWord": 13, "endWord": 14, "textRef": "who belonged to the king of Egypt" }
+  ]
+}

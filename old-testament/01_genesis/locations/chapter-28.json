@@ -1,0 +1,82 @@
+{
+  "chapter": 28,
+  "mentions": [
+    {
+      "verse": 1,
+      "location": "canaan",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "Canaan"
+    },
+    {
+      "verse": 2,
+      "location": "paddan-aram",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Paddan-aram"
+    },
+    {
+      "verse": 5,
+      "location": "paddan-aram",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "Paddan-aram"
+    },
+    {
+      "verse": 6,
+      "location": "paddan-aram",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "Paddan-aram"
+    },
+    {
+      "verse": 6,
+      "location": "canaan",
+      "startWord": 20,
+      "endWord": 20,
+      "textRef": "Canaan"
+    },
+    {
+      "verse": 7,
+      "location": "paddan-aram",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "Paddan-aram"
+    },
+    {
+      "verse": 8,
+      "location": "canaan",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Canaan"
+    },
+    {
+      "verse": 10,
+      "location": "beer-sheba",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Beer-sheba"
+    },
+    {
+      "verse": 10,
+      "location": "haran",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Haran"
+    },
+    {
+      "verse": 19,
+      "location": "bethel",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Bethel"
+    },
+    {
+      "verse": 19,
+      "location": "bethel",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Luz (former name of Bethel)"
+    }
+  ]
+}

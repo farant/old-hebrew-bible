@@ -1,0 +1,18 @@
+{
+  "chapter": 12,
+  "mentions": [
+    { "verse": 4, "location": "haran", "startWord": 15, "endWord": 15, "textRef": "from Haran" },
+    { "verse": 5, "location": "haran", "startWord": 11, "endWord": 11, "textRef": "in Haran" },
+    { "verse": 5, "location": "canaan", "startWord": 15, "endWord": 15, "textRef": "land of Canaan" },
+    { "verse": 5, "location": "canaan", "startWord": 18, "endWord": 18, "textRef": "land of Canaan" },
+    { "verse": 6, "location": "shechem", "startWord": 5, "endWord": 5, "textRef": "place of Shechem" },
+    { "verse": 6, "location": "moreh", "startWord": 7, "endWord": 8, "textRef": "oak of Moreh" },
+    { "verse": 8, "location": "bethel", "startWord": 4, "endWord": 4, "textRef": "Bethel" },
+    { "verse": 8, "location": "bethel", "startWord": 7, "endWord": 7, "textRef": "Bethel" },
+    { "verse": 8, "location": "ai", "startWord": 9, "endWord": 9, "textRef": "Ai" },
+    { "verse": 9, "location": "negev", "startWord": 4, "endWord": 4, "textRef": "the Negev" },
+    { "verse": 10, "location": "egypt", "startWord": 5, "endWord": 5, "textRef": "Egypt" },
+    { "verse": 11, "location": "egypt", "startWord": 4, "endWord": 4, "textRef": "Egypt" },
+    { "verse": 14, "location": "egypt", "startWord": 3, "endWord": 3, "textRef": "Egypt" }
+  ]
+}

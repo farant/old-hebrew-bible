@@ -1,0 +1,28 @@
+{
+  "chapter": 41,
+  "mentions": [
+    { "verse": 8, "location": "egypt", "startWord": 7, "endWord": 7, "textRef": "all the magicians of Egypt" },
+    { "verse": 19, "location": "egypt", "startWord": 13, "endWord": 14, "textRef": "in all the land of Egypt (describing the ugly cows)" },
+    { "verse": 29, "location": "egypt", "startWord": 6, "endWord": 7, "textRef": "great abundance in all the land of Egypt" },
+    { "verse": 30, "location": "egypt", "startWord": 7, "endWord": 8, "textRef": "abundance forgotten in the land of Egypt" },
+    { "verse": 33, "location": "egypt", "startWord": 7, "endWord": 8, "textRef": "set a wise man over the land of Egypt" },
+    { "verse": 34, "location": "egypt", "startWord": 6, "endWord": 7, "textRef": "take a fifth of the land of Egypt" },
+    { "verse": 36, "location": "egypt", "startWord": 9, "endWord": 10, "textRef": "food reserve for the land of Egypt during famine" },
+    { "verse": 41, "location": "egypt", "startWord": 7, "endWord": 8, "textRef": "Joseph set over all the land of Egypt" },
+    { "verse": 43, "location": "egypt", "startWord": 11, "endWord": 12, "textRef": "ruler over all the land of Egypt" },
+    { "verse": 44, "location": "egypt", "startWord": 10, "endWord": 11, "textRef": "no one shall lift hand or foot in all the land of Egypt" },
+    { "verse": 45, "location": "on", "startWord": 10, "endWord": 10, "textRef": "On (Heliopolis), city of Joseph's father-in-law Potiphera the priest" },
+    { "verse": 45, "location": "egypt", "startWord": 14, "endWord": 15, "textRef": "Joseph went out over the land of Egypt" },
+    { "verse": 46, "location": "egypt", "startWord": 6, "endWord": 6, "textRef": "king of Egypt (melekhe-mitserayim)" },
+    { "verse": 46, "location": "egypt", "startWord": 12, "endWord": 13, "textRef": "Joseph passed through all the land of Egypt" },
+    { "verse": 48, "location": "egypt", "startWord": 6, "endWord": 7, "textRef": "gathered food during seven years in the land of Egypt" },
+    { "verse": 50, "location": "on", "startWord": 14, "endWord": 14, "textRef": "On (Heliopolis), Asenath daughter of Potiphera priest of On" },
+    { "verse": 53, "location": "egypt", "startWord": 6, "endWord": 7, "textRef": "seven years of abundance in the land of Egypt ended" },
+    { "verse": 54, "location": "egypt", "startWord": 11, "endWord": 12, "textRef": "in all the land of Egypt there was bread" },
+    { "verse": 55, "location": "egypt", "startWord": 1, "endWord": 2, "textRef": "all the land of Egypt was famished" },
+    { "verse": 55, "location": "egypt", "startWord": 9, "endWord": 9, "textRef": "Pharaoh told all Egypt to go to Joseph" },
+    { "verse": 56, "location": "egypt", "startWord": 10, "endWord": 10, "textRef": "Joseph sold grain to the Egyptians" },
+    { "verse": 56, "location": "egypt", "startWord": 13, "endWord": 14, "textRef": "famine was severe in the land of Egypt" },
+    { "verse": 57, "location": "egypt", "startWord": 2, "endWord": 2, "textRef": "all the earth came to Egypt (mitserayemah) to buy grain" }
+  ]
+}

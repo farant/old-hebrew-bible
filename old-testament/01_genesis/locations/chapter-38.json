@@ -1,0 +1,14 @@
+{
+  "chapter": 38,
+  "mentions": [
+    { "verse": 1, "location": "adullam", "startWord": 9, "endWord": 9, "textRef": "turned aside to an Adullamite man" },
+    { "verse": 2, "location": "canaan", "startWord": 3, "endWord": 3, "textRef": "daughter of a Canaanite man" },
+    { "verse": 12, "location": "adullam", "startWord": 13, "endWord": 13, "textRef": "his friend the Adullamite" },
+    { "verse": 12, "location": "timnah", "startWord": 14, "endWord": 14, "textRef": "went up to Timnah for sheep-shearing" },
+    { "verse": 13, "location": "timnah", "startWord": 6, "endWord": 6, "textRef": "your father-in-law goes up to Timnah" },
+    { "verse": 14, "location": "enaim", "startWord": 9, "endWord": 9, "textRef": "sat at the entrance to Enaim" },
+    { "verse": 14, "location": "timnah", "startWord": 12, "endWord": 12, "textRef": "on the road to Timnah" },
+    { "verse": 20, "location": "adullam", "startWord": 6, "endWord": 6, "textRef": "sent by his Adullamite friend" },
+    { "verse": 21, "location": "enaim", "startWord": 7, "endWord": 7, "textRef": "at Enaim on the road" }
+  ]
+}

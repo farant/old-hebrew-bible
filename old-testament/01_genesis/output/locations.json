@@ -1,0 +1,3444 @@
+{
+  "book": "Genesis",
+  "description": "Location mentions extracted from the text",
+  "totalMentions": 419,
+  "uniqueLocations": 82,
+  "locationFrequency": {
+    "egypt": 85,
+    "canaan": 44,
+    "sodom": 21,
+    "bethel": 16,
+    "edom": 12,
+    "beer-sheba": 11,
+    "paddan-aram": 11,
+    "goshen": 10,
+    "gomorrah": 9,
+    "shechem": 9,
+    "mamre": 9,
+    "seir": 9,
+    "philistia": 8,
+    "gerar": 8,
+    "haran": 7,
+    "zoar": 7,
+    "hebron": 7,
+    "eden": 6,
+    "machpelah": 6,
+    "negev": 5,
+    "ephrath": 5,
+    "havilah": 4,
+    "cush": 4,
+    "shinar": 4,
+    "jordan": 4,
+    "gilead": 4,
+    "mizpah-gilead": 4,
+    "assyria": 3,
+    "sidon": 3,
+    "admah": 3,
+    "zeboiim": 3,
+    "ur": 3,
+    "valley-of-siddim": 3,
+    "kadesh": 3,
+    "shur": 3,
+    "beer-lahai-roi": 3,
+    "succoth": 3,
+    "adullam": 3,
+    "timnah": 3,
+    "on": 3,
+    "euphrates": 2,
+    "babel": 2,
+    "nineveh": 2,
+    "calah": 2,
+    "ai": 2,
+    "damascus": 2,
+    "peniel": 2,
+    "dothan": 2,
+    "enaim": 2,
+    "pishon": 1,
+    "gihon-river": 1,
+    "tigris": 1,
+    "nod": 1,
+    "ararat": 1,
+    "erech": 1,
+    "akkad": 1,
+    "calneh": 1,
+    "rehoboth-ir": 1,
+    "resen": 1,
+    "lasha": 1,
+    "moreh": 1,
+    "shaveh-kiriathaim": 1,
+    "el-paran": 1,
+    "hazazon-tamar": 1,
+    "dan": 1,
+    "hobah": 1,
+    "kings-valley": 1,
+    "salem": 1,
+    "river-of-egypt": 1,
+    "bered": 1,
+    "paran": 1,
+    "moriah": 1,
+    "aram-naharaim": 1,
+    "esek": 1,
+    "sitnah": 1,
+    "rehoboth-well": 1,
+    "mahanaim": 1,
+    "jabbok": 1,
+    "shalem": 1,
+    "migdal-eder": 1,
+    "rameses": 1,
+    "abel-mizraim": 1
+  },
+  "mentions": [
+    {
+      "chapter": 2,
+      "verse": 8,
+      "location": "eden",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "a garden in Eden"
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "location": "eden",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "a river going out from Eden"
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "location": "pishon",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "the Pishon river"
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "location": "havilah",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "the land of Havilah"
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "location": "gihon-river",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "the Gihon river"
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "location": "cush",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "the land of Cush"
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "location": "tigris",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "the Tigris (Hiddekel) river"
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "location": "assyria",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "east of Assyria"
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "location": "euphrates",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "the Euphrates (Perat) river"
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "location": "eden",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "the Garden of Eden"
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "location": "eden",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "sent out from the Garden of Eden"
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "location": "eden",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "east of the Garden of Eden"
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "location": "nod",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "the land of Nod"
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "location": "eden",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "east of Eden"
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "location": "ararat",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "mountains of Ararat"
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "location": "cush",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Cush, son of Ham"
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "location": "egypt",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Mizraim (Egypt), son of Ham"
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "location": "canaan",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Canaan, son of Ham"
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "location": "cush",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "sons of Cush"
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "location": "havilah",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Havilah, son of Cush"
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "location": "cush",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "Cush begat Nimrod"
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "location": "babel",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Babel, beginning of Nimrod's kingdom"
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "location": "erech",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Erech, city of Nimrod's kingdom"
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "location": "akkad",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Akkad, city of Nimrod's kingdom"
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "location": "calneh",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "Calneh, city of Nimrod's kingdom"
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "location": "shinar",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "the land of Shinar"
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "location": "assyria",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Assyria, from which he went forth"
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "location": "nineveh",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Nineveh, city built by Nimrod"
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "location": "rehoboth-ir",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "Rehoboth-Ir, city built by Nimrod"
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "location": "calah",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "Calah, city built by Nimrod"
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "location": "resen",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "Resen, between Nineveh and Calah"
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "location": "nineveh",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Nineveh, boundary reference for Resen"
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "location": "calah",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Calah, boundary reference for Resen"
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "location": "egypt",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "Mizraim (Egypt) begat peoples"
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "location": "philistia",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "the Philistines came from them"
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "location": "canaan",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "Canaan begat Sidon"
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "location": "sidon",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Sidon, firstborn of Canaan"
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "location": "canaan",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "the Canaanite clans spread out"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "location": "canaan",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "the border of the Canaanite"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "location": "sidon",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "from Sidon, border of Canaan"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "location": "gerar",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "toward Gerar, border of Canaan"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "location": "sodom",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "toward Sodom, border of Canaan"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "location": "gomorrah",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "Gomorrah, border of Canaan"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "location": "admah",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "Admah, border of Canaan"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "location": "zeboiim",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "Zeboiim, border of Canaan"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "location": "lasha",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "as far as Lasha, border of Canaan"
+    },
+    {
+      "chapter": 10,
+      "verse": 22,
+      "location": "assyria",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Asshur, son of Shem"
+    },
+    {
+      "chapter": 10,
+      "verse": 29,
+      "location": "havilah",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "Havilah, son of Joktan"
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "location": "shinar",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "land of Shinar"
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "location": "babel",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Babel"
+    },
+    {
+      "chapter": 11,
+      "verse": 28,
+      "location": "ur",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "Ur of the Chaldeans"
+    },
+    {
+      "chapter": 11,
+      "verse": 31,
+      "location": "ur",
+      "startWord": 15,
+      "endWord": 16,
+      "textRef": "from Ur of the Chaldeans"
+    },
+    {
+      "chapter": 11,
+      "verse": 31,
+      "location": "canaan",
+      "startWord": 19,
+      "endWord": 19,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 11,
+      "verse": 31,
+      "location": "haran",
+      "startWord": 21,
+      "endWord": 21,
+      "textRef": "Haran"
+    },
+    {
+      "chapter": 11,
+      "verse": 32,
+      "location": "haran",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "in Haran"
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "location": "haran",
+      "startWord": 15,
+      "endWord": 15,
+      "textRef": "from Haran"
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "location": "haran",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "in Haran"
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "location": "canaan",
+      "startWord": 15,
+      "endWord": 15,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "location": "canaan",
+      "startWord": 18,
+      "endWord": 18,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "location": "shechem",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "place of Shechem"
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "location": "moreh",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "oak of Moreh"
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "location": "bethel",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Bethel"
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "location": "bethel",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Bethel"
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "location": "ai",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "Ai"
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "location": "negev",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "the Negev"
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "location": "egypt",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Egypt"
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "location": "egypt",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Egypt"
+    },
+    {
+      "chapter": 12,
+      "verse": 14,
+      "location": "egypt",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Egypt"
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "location": "egypt",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "from Egypt"
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "location": "negev",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "the Negev"
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "location": "negev",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "from the Negev"
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "location": "bethel",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Bethel"
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "location": "bethel",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "Bethel"
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "location": "ai",
+      "startWord": 13,
+      "endWord": 13,
+      "textRef": "Ai"
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "location": "jordan",
+      "startWord": 3,
+      "endWord": 4,
+      "textRef": "plain of the Jordan"
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "location": "sodom",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "Sodom"
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "location": "gomorrah",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "Gomorrah"
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "location": "egypt",
+      "startWord": 15,
+      "endWord": 15,
+      "textRef": "like the land of Egypt"
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "location": "zoar",
+      "startWord": 17,
+      "endWord": 17,
+      "textRef": "Zoar"
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "location": "jordan",
+      "startWord": 3,
+      "endWord": 4,
+      "textRef": "plain of the Jordan"
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "location": "canaan",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "location": "sodom",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "as far as Sodom"
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "location": "sodom",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "men of Sodom"
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "location": "mamre",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "oaks of Mamre"
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "location": "hebron",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Hebron"
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "location": "shinar",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "king of Shinar"
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "location": "sodom",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "king of Sodom"
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "location": "gomorrah",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "king of Gomorrah"
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "location": "admah",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "king of Admah"
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "location": "zeboiim",
+      "startWord": 13,
+      "endWord": 14,
+      "textRef": "king of Zeboiim"
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "location": "zoar",
+      "startWord": 16,
+      "endWord": 17,
+      "textRef": "Bela, that is Zoar"
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "location": "valley-of-siddim",
+      "startWord": 2,
+      "endWord": 6,
+      "textRef": "Valley of Siddim, the Salt Sea"
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "location": "shaveh-kiriathaim",
+      "startWord": 16,
+      "endWord": 17,
+      "textRef": "Shaveh-Kiriathaim"
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "location": "seir",
+      "startWord": 1,
+      "endWord": 2,
+      "textRef": "their mountain Seir"
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "location": "el-paran",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "El-Paran by the wilderness"
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "location": "kadesh",
+      "startWord": 2,
+      "endWord": 5,
+      "textRef": "En-Mishpat, that is Kadesh"
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "location": "hazazon-tamar",
+      "startWord": 12,
+      "endWord": 13,
+      "textRef": "Hazazon-Tamar"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "location": "sodom",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "king of Sodom"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "location": "gomorrah",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "king of Gomorrah"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "location": "admah",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "king of Admah"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "location": "zeboiim",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "king of Zeboiim"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "location": "zoar",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "Bela, that is Zoar"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "location": "valley-of-siddim",
+      "startWord": 15,
+      "endWord": 16,
+      "textRef": "Valley of Siddim"
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "location": "shinar",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "king of Shinar"
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "location": "valley-of-siddim",
+      "startWord": 0,
+      "endWord": 1,
+      "textRef": "Valley of Siddim"
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "location": "sodom",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "kings of Sodom"
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "location": "gomorrah",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "and Gomorrah"
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "location": "sodom",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "goods of Sodom"
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "location": "gomorrah",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "and Gomorrah"
+    },
+    {
+      "chapter": 14,
+      "verse": 12,
+      "location": "sodom",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "dwelling in Sodom"
+    },
+    {
+      "chapter": 14,
+      "verse": 13,
+      "location": "mamre",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "oaks of Mamre"
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "location": "dan",
+      "startWord": 14,
+      "endWord": 14,
+      "textRef": "as far as Dan"
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "location": "hobah",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Hobah"
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "location": "damascus",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "north of Damascus"
+    },
+    {
+      "chapter": 14,
+      "verse": 17,
+      "location": "sodom",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "king of Sodom"
+    },
+    {
+      "chapter": 14,
+      "verse": 17,
+      "location": "kings-valley",
+      "startWord": 10,
+      "endWord": 14,
+      "textRef": "Valley of Shaveh, the King's Valley"
+    },
+    {
+      "chapter": 14,
+      "verse": 18,
+      "location": "salem",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "king of Salem"
+    },
+    {
+      "chapter": 14,
+      "verse": 21,
+      "location": "sodom",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "king of Sodom"
+    },
+    {
+      "chapter": 14,
+      "verse": 22,
+      "location": "sodom",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "king of Sodom"
+    },
+    {
+      "chapter": 15,
+      "verse": 2,
+      "location": "damascus",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "Damascus Eliezer"
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "location": "ur",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "Ur of the Chaldeans"
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "location": "river-of-egypt",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "river of Egypt"
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "location": "euphrates",
+      "startWord": 13,
+      "endWord": 15,
+      "textRef": "the great river, the Euphrates"
+    },
+    {
+      "chapter": 16,
+      "verse": 3,
+      "location": "canaan",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 16,
+      "verse": 7,
+      "location": "shur",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "on the road to Shur"
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "location": "beer-lahai-roi",
+      "startWord": 3,
+      "endWord": 5,
+      "textRef": "the well Beer-lahai-roi"
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "location": "kadesh",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "between Kadesh and Bered"
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "location": "bered",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "between Kadesh and Bered"
+    },
+    {
+      "chapter": 17,
+      "verse": 8,
+      "location": "canaan",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "all the land of Canaan"
+    },
+    {
+      "chapter": 18,
+      "verse": 1,
+      "location": "mamre",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "oaks of Mamre"
+    },
+    {
+      "chapter": 18,
+      "verse": 16,
+      "location": "sodom",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "looked toward Sodom"
+    },
+    {
+      "chapter": 18,
+      "verse": 20,
+      "location": "sodom",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "outcry of Sodom and Gomorrah"
+    },
+    {
+      "chapter": 18,
+      "verse": 20,
+      "location": "gomorrah",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "outcry of Sodom and Gomorrah"
+    },
+    {
+      "chapter": 18,
+      "verse": 22,
+      "location": "sodom",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "the men went toward Sodom"
+    },
+    {
+      "chapter": 18,
+      "verse": 26,
+      "location": "sodom",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "if I find in Sodom fifty righteous"
+    },
+    {
+      "chapter": 19,
+      "verse": 1,
+      "location": "sodom",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "the two angels came to Sodom"
+    },
+    {
+      "chapter": 19,
+      "verse": 1,
+      "location": "sodom",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Lot sitting in the gate of Sodom"
+    },
+    {
+      "chapter": 19,
+      "verse": 4,
+      "location": "sodom",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "men of Sodom"
+    },
+    {
+      "chapter": 19,
+      "verse": 22,
+      "location": "zoar",
+      "startWord": 13,
+      "endWord": 13,
+      "textRef": "the name of the city was called Zoar"
+    },
+    {
+      "chapter": 19,
+      "verse": 23,
+      "location": "zoar",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Lot came to Zoar"
+    },
+    {
+      "chapter": 19,
+      "verse": 24,
+      "location": "sodom",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "rained upon Sodom and Gomorrah"
+    },
+    {
+      "chapter": 19,
+      "verse": 24,
+      "location": "gomorrah",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "rained upon Sodom and Gomorrah"
+    },
+    {
+      "chapter": 19,
+      "verse": 28,
+      "location": "sodom",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "looked toward Sodom and Gomorrah"
+    },
+    {
+      "chapter": 19,
+      "verse": 28,
+      "location": "gomorrah",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "looked toward Sodom and Gomorrah"
+    },
+    {
+      "chapter": 19,
+      "verse": 30,
+      "location": "zoar",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Lot went up from Zoar"
+    },
+    {
+      "chapter": 19,
+      "verse": 30,
+      "location": "zoar",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "he was afraid to dwell in Zoar"
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "location": "negev",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Abraham journeyed toward the Negev"
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "location": "kadesh",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "between Kadesh and Shur"
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "location": "shur",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "between Kadesh and Shur"
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "location": "gerar",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "he sojourned in Gerar"
+    },
+    {
+      "chapter": 20,
+      "verse": 2,
+      "location": "gerar",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "Abimelech king of Gerar"
+    },
+    {
+      "chapter": 21,
+      "verse": 14,
+      "location": "beer-sheba",
+      "startWord": 15,
+      "endWord": 16,
+      "textRef": "wilderness of Beer-sheba"
+    },
+    {
+      "chapter": 21,
+      "verse": 21,
+      "location": "paran",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "wilderness of Paran"
+    },
+    {
+      "chapter": 21,
+      "verse": 21,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "from the land of Egypt"
+    },
+    {
+      "chapter": 21,
+      "verse": 31,
+      "location": "beer-sheba",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "called the place Beer-sheba"
+    },
+    {
+      "chapter": 21,
+      "verse": 32,
+      "location": "beer-sheba",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "made a covenant at Beer-sheba"
+    },
+    {
+      "chapter": 21,
+      "verse": 32,
+      "location": "philistia",
+      "startWord": 9,
+      "endWord": 10,
+      "textRef": "returned to the land of the Philistines"
+    },
+    {
+      "chapter": 21,
+      "verse": 33,
+      "location": "beer-sheba",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "planted a tamarisk at Beer-sheba"
+    },
+    {
+      "chapter": 21,
+      "verse": 34,
+      "location": "philistia",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "sojourned in the land of the Philistines"
+    },
+    {
+      "chapter": 22,
+      "verse": 2,
+      "location": "moriah",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "land of Moriah"
+    },
+    {
+      "chapter": 22,
+      "verse": 19,
+      "location": "beer-sheba",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "went together to Beer-sheba"
+    },
+    {
+      "chapter": 22,
+      "verse": 19,
+      "location": "beer-sheba",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "Abraham dwelt at Beer-sheba"
+    },
+    {
+      "chapter": 23,
+      "verse": 2,
+      "location": "hebron",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Kirjath-arba, that is Hebron"
+    },
+    {
+      "chapter": 23,
+      "verse": 2,
+      "location": "hebron",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Kirjath-arba, that is Hebron"
+    },
+    {
+      "chapter": 23,
+      "verse": 2,
+      "location": "canaan",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "in the land of Canaan"
+    },
+    {
+      "chapter": 23,
+      "verse": 9,
+      "location": "machpelah",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "cave of Machpelah"
+    },
+    {
+      "chapter": 23,
+      "verse": 17,
+      "location": "machpelah",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "field in Machpelah"
+    },
+    {
+      "chapter": 23,
+      "verse": 17,
+      "location": "mamre",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "before Mamre"
+    },
+    {
+      "chapter": 23,
+      "verse": 19,
+      "location": "machpelah",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "cave of the field of Machpelah"
+    },
+    {
+      "chapter": 23,
+      "verse": 19,
+      "location": "mamre",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "before Mamre"
+    },
+    {
+      "chapter": 23,
+      "verse": 19,
+      "location": "hebron",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "that is Hebron"
+    },
+    {
+      "chapter": 23,
+      "verse": 19,
+      "location": "canaan",
+      "startWord": 12,
+      "endWord": 13,
+      "textRef": "in the land of Canaan"
+    },
+    {
+      "chapter": 24,
+      "verse": 10,
+      "location": "aram-naharaim",
+      "startWord": 12,
+      "endWord": 13,
+      "textRef": "Aram-Naharaim (Mesopotamia)"
+    },
+    {
+      "chapter": 24,
+      "verse": 62,
+      "location": "beer-lahai-roi",
+      "startWord": 3,
+      "endWord": 5,
+      "textRef": "coming from Beer-lahai-roi"
+    },
+    {
+      "chapter": 24,
+      "verse": 62,
+      "location": "negev",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "dwelling in the land of the Negev"
+    },
+    {
+      "chapter": 25,
+      "verse": 9,
+      "location": "machpelah",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "cave of Machpelah"
+    },
+    {
+      "chapter": 25,
+      "verse": 9,
+      "location": "mamre",
+      "startWord": 13,
+      "endWord": 13,
+      "textRef": "before Mamre"
+    },
+    {
+      "chapter": 25,
+      "verse": 11,
+      "location": "beer-lahai-roi",
+      "startWord": 10,
+      "endWord": 12,
+      "textRef": "Isaac dwelt by Beer-lahai-roi"
+    },
+    {
+      "chapter": 25,
+      "verse": 18,
+      "location": "havilah",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "from Havilah"
+    },
+    {
+      "chapter": 25,
+      "verse": 18,
+      "location": "shur",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "to Shur"
+    },
+    {
+      "chapter": 25,
+      "verse": 18,
+      "location": "egypt",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "before Egypt"
+    },
+    {
+      "chapter": 25,
+      "verse": 20,
+      "location": "paddan-aram",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "from Paddan-aram"
+    },
+    {
+      "chapter": 26,
+      "verse": 1,
+      "location": "gerar",
+      "startWord": 14,
+      "endWord": 14,
+      "textRef": "Gerar"
+    },
+    {
+      "chapter": 26,
+      "verse": 1,
+      "location": "philistia",
+      "startWord": 13,
+      "endWord": 13,
+      "textRef": "Philistines"
+    },
+    {
+      "chapter": 26,
+      "verse": 2,
+      "location": "egypt",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Egypt"
+    },
+    {
+      "chapter": 26,
+      "verse": 6,
+      "location": "gerar",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Gerar"
+    },
+    {
+      "chapter": 26,
+      "verse": 8,
+      "location": "philistia",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "Philistines"
+    },
+    {
+      "chapter": 26,
+      "verse": 14,
+      "location": "philistia",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "Philistines"
+    },
+    {
+      "chapter": 26,
+      "verse": 15,
+      "location": "philistia",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "Philistines"
+    },
+    {
+      "chapter": 26,
+      "verse": 17,
+      "location": "gerar",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "valley of Gerar"
+    },
+    {
+      "chapter": 26,
+      "verse": 18,
+      "location": "philistia",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "Philistines"
+    },
+    {
+      "chapter": 26,
+      "verse": 20,
+      "location": "gerar",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Gerar"
+    },
+    {
+      "chapter": 26,
+      "verse": 20,
+      "location": "esek",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "Esek (well)"
+    },
+    {
+      "chapter": 26,
+      "verse": 21,
+      "location": "sitnah",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Sitnah (well)"
+    },
+    {
+      "chapter": 26,
+      "verse": 22,
+      "location": "rehoboth-well",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "Rehoboth (well)"
+    },
+    {
+      "chapter": 26,
+      "verse": 23,
+      "location": "beer-sheba",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Beer-sheba"
+    },
+    {
+      "chapter": 26,
+      "verse": 26,
+      "location": "gerar",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Gerar"
+    },
+    {
+      "chapter": 26,
+      "verse": 33,
+      "location": "beer-sheba",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "Beer-sheba"
+    },
+    {
+      "chapter": 27,
+      "verse": 43,
+      "location": "haran",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "Haran"
+    },
+    {
+      "chapter": 28,
+      "verse": 1,
+      "location": "canaan",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "Canaan"
+    },
+    {
+      "chapter": 28,
+      "verse": 2,
+      "location": "paddan-aram",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Paddan-aram"
+    },
+    {
+      "chapter": 28,
+      "verse": 5,
+      "location": "paddan-aram",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "Paddan-aram"
+    },
+    {
+      "chapter": 28,
+      "verse": 6,
+      "location": "paddan-aram",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "Paddan-aram"
+    },
+    {
+      "chapter": 28,
+      "verse": 6,
+      "location": "canaan",
+      "startWord": 20,
+      "endWord": 20,
+      "textRef": "Canaan"
+    },
+    {
+      "chapter": 28,
+      "verse": 7,
+      "location": "paddan-aram",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "Paddan-aram"
+    },
+    {
+      "chapter": 28,
+      "verse": 8,
+      "location": "canaan",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Canaan"
+    },
+    {
+      "chapter": 28,
+      "verse": 10,
+      "location": "beer-sheba",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Beer-sheba"
+    },
+    {
+      "chapter": 28,
+      "verse": 10,
+      "location": "haran",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Haran"
+    },
+    {
+      "chapter": 28,
+      "verse": 19,
+      "location": "bethel",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Bethel"
+    },
+    {
+      "chapter": 28,
+      "verse": 19,
+      "location": "bethel",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Luz (former name of Bethel)"
+    },
+    {
+      "chapter": 29,
+      "verse": 4,
+      "location": "haran",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Haran"
+    },
+    {
+      "chapter": 31,
+      "verse": 13,
+      "location": "bethel",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "the God of Bethel"
+    },
+    {
+      "chapter": 31,
+      "verse": 18,
+      "location": "paddan-aram",
+      "startWord": 9,
+      "endWord": 10,
+      "textRef": "acquired in Paddan-Aram"
+    },
+    {
+      "chapter": 31,
+      "verse": 18,
+      "location": "canaan",
+      "startWord": 15,
+      "endWord": 15,
+      "textRef": "to the land of Canaan"
+    },
+    {
+      "chapter": 31,
+      "verse": 21,
+      "location": "gilead",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "hill country of Gilead"
+    },
+    {
+      "chapter": 31,
+      "verse": 23,
+      "location": "gilead",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "hill country of Gilead"
+    },
+    {
+      "chapter": 31,
+      "verse": 25,
+      "location": "gilead",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "hill country of Gilead"
+    },
+    {
+      "chapter": 31,
+      "verse": 47,
+      "location": "mizpah-gilead",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Laban called it Jegar-Sahadutha"
+    },
+    {
+      "chapter": 31,
+      "verse": 47,
+      "location": "mizpah-gilead",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Jacob called it Galeed"
+    },
+    {
+      "chapter": 31,
+      "verse": 48,
+      "location": "mizpah-gilead",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "named it Galeed"
+    },
+    {
+      "chapter": 31,
+      "verse": 49,
+      "location": "mizpah-gilead",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "the Mizpah"
+    },
+    {
+      "chapter": 32,
+      "verse": 3,
+      "location": "mahanaim",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "named the place Mahanaim"
+    },
+    {
+      "chapter": 32,
+      "verse": 4,
+      "location": "seir",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "land of Seir"
+    },
+    {
+      "chapter": 32,
+      "verse": 4,
+      "location": "edom",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "field of Edom"
+    },
+    {
+      "chapter": 32,
+      "verse": 23,
+      "location": "jabbok",
+      "startWord": 14,
+      "endWord": 14,
+      "textRef": "ford of the Jabbok"
+    },
+    {
+      "chapter": 32,
+      "verse": 31,
+      "location": "peniel",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "named the place Peniel"
+    },
+    {
+      "chapter": 32,
+      "verse": 32,
+      "location": "peniel",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "as he passed Penuel"
+    },
+    {
+      "chapter": 33,
+      "verse": 14,
+      "location": "seir",
+      "startWord": 15,
+      "endWord": 15,
+      "textRef": "until I come to my lord in Seir"
+    },
+    {
+      "chapter": 33,
+      "verse": 16,
+      "location": "seir",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Esau returned to Seir"
+    },
+    {
+      "chapter": 33,
+      "verse": 17,
+      "location": "succoth",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Jacob journeyed to Succoth"
+    },
+    {
+      "chapter": 33,
+      "verse": 17,
+      "location": "succoth",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "made booths (succoth) for his livestock"
+    },
+    {
+      "chapter": 33,
+      "verse": 17,
+      "location": "succoth",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "named the place Succoth"
+    },
+    {
+      "chapter": 33,
+      "verse": 18,
+      "location": "shalem",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Jacob came to Shalem"
+    },
+    {
+      "chapter": 33,
+      "verse": 18,
+      "location": "shechem",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "city of Shechem"
+    },
+    {
+      "chapter": 33,
+      "verse": 18,
+      "location": "canaan",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "in the land of Canaan"
+    },
+    {
+      "chapter": 33,
+      "verse": 18,
+      "location": "paddan-aram",
+      "startWord": 9,
+      "endWord": 10,
+      "textRef": "coming from Paddan-Aram"
+    },
+    {
+      "chapter": 33,
+      "verse": 19,
+      "location": "shechem",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "sons of Hamor father of Shechem"
+    },
+    {
+      "chapter": 34,
+      "verse": 2,
+      "location": "shechem",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Shechem son of Hamor, prince of the land"
+    },
+    {
+      "chapter": 35,
+      "verse": 1,
+      "location": "bethel",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "go up to Bethel"
+    },
+    {
+      "chapter": 35,
+      "verse": 3,
+      "location": "bethel",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "let us go up to Bethel"
+    },
+    {
+      "chapter": 35,
+      "verse": 4,
+      "location": "shechem",
+      "startWord": 16,
+      "endWord": 16,
+      "textRef": "under the oak near Shechem"
+    },
+    {
+      "chapter": 35,
+      "verse": 6,
+      "location": "bethel",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Jacob came to Luz, that is Bethel"
+    },
+    {
+      "chapter": 35,
+      "verse": 6,
+      "location": "canaan",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "in the land of Canaan"
+    },
+    {
+      "chapter": 35,
+      "verse": 6,
+      "location": "bethel",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "that is Bethel"
+    },
+    {
+      "chapter": 35,
+      "verse": 7,
+      "location": "bethel",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "called the place El Bethel"
+    },
+    {
+      "chapter": 35,
+      "verse": 8,
+      "location": "bethel",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "buried below Bethel"
+    },
+    {
+      "chapter": 35,
+      "verse": 9,
+      "location": "paddan-aram",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "coming from Paddan-Aram"
+    },
+    {
+      "chapter": 35,
+      "verse": 15,
+      "location": "bethel",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "named the place Bethel"
+    },
+    {
+      "chapter": 35,
+      "verse": 16,
+      "location": "bethel",
+      "startWord": 1,
+      "endWord": 2,
+      "textRef": "journeyed from Bethel"
+    },
+    {
+      "chapter": 35,
+      "verse": 16,
+      "location": "ephrath",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "on the way to Ephrath"
+    },
+    {
+      "chapter": 35,
+      "verse": 19,
+      "location": "ephrath",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "on the way to Ephrath"
+    },
+    {
+      "chapter": 35,
+      "verse": 19,
+      "location": "ephrath",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "that is Bethlehem"
+    },
+    {
+      "chapter": 35,
+      "verse": 21,
+      "location": "migdal-eder",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "beyond Migdal-Eder"
+    },
+    {
+      "chapter": 35,
+      "verse": 26,
+      "location": "paddan-aram",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "born to him in Paddan-Aram"
+    },
+    {
+      "chapter": 35,
+      "verse": 27,
+      "location": "mamre",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Mamre of Kiriath-arba"
+    },
+    {
+      "chapter": 35,
+      "verse": 27,
+      "location": "hebron",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "Kiriath-arba, that is Hebron"
+    },
+    {
+      "chapter": 35,
+      "verse": 27,
+      "location": "hebron",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "that is Hebron"
+    },
+    {
+      "chapter": 36,
+      "verse": 1,
+      "location": "edom",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Esau is Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 2,
+      "location": "canaan",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "wives from the daughters of Canaan"
+    },
+    {
+      "chapter": 36,
+      "verse": 5,
+      "location": "canaan",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "born to him in the land of Canaan"
+    },
+    {
+      "chapter": 36,
+      "verse": 6,
+      "location": "canaan",
+      "startWord": 13,
+      "endWord": 14,
+      "textRef": "acquired in the land of Canaan"
+    },
+    {
+      "chapter": 36,
+      "verse": 8,
+      "location": "seir",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Esau settled in mount Seir"
+    },
+    {
+      "chapter": 36,
+      "verse": 8,
+      "location": "edom",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "Esau is Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 9,
+      "location": "edom",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "father of Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 9,
+      "location": "seir",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "in mount Seir"
+    },
+    {
+      "chapter": 36,
+      "verse": 16,
+      "location": "edom",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "in the land of Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 17,
+      "location": "edom",
+      "startWord": 15,
+      "endWord": 16,
+      "textRef": "in the land of Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 19,
+      "location": "edom",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "he is Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 20,
+      "location": "seir",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "sons of Seir the Horite"
+    },
+    {
+      "chapter": 36,
+      "verse": 21,
+      "location": "seir",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "sons of Seir"
+    },
+    {
+      "chapter": 36,
+      "verse": 21,
+      "location": "edom",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "in the land of Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 30,
+      "location": "seir",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "in the land of Seir"
+    },
+    {
+      "chapter": 36,
+      "verse": 31,
+      "location": "edom",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "kings who reigned in the land of Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 32,
+      "location": "edom",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "reigned in Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 43,
+      "location": "edom",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "chiefs of Edom"
+    },
+    {
+      "chapter": 36,
+      "verse": 43,
+      "location": "edom",
+      "startWord": 13,
+      "endWord": 13,
+      "textRef": "Esau father of Edom"
+    },
+    {
+      "chapter": 37,
+      "verse": 1,
+      "location": "canaan",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "in the land of Canaan"
+    },
+    {
+      "chapter": 37,
+      "verse": 12,
+      "location": "shechem",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "to pasture flocks in Shechem"
+    },
+    {
+      "chapter": 37,
+      "verse": 13,
+      "location": "shechem",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "brothers pasturing in Shechem"
+    },
+    {
+      "chapter": 37,
+      "verse": 14,
+      "location": "hebron",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "sent from the valley of Hebron"
+    },
+    {
+      "chapter": 37,
+      "verse": 14,
+      "location": "shechem",
+      "startWord": 14,
+      "endWord": 14,
+      "textRef": "he came to Shechem"
+    },
+    {
+      "chapter": 37,
+      "verse": 17,
+      "location": "dothan",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "let us go to Dothan"
+    },
+    {
+      "chapter": 37,
+      "verse": 17,
+      "location": "dothan",
+      "startWord": 14,
+      "endWord": 14,
+      "textRef": "found them in Dothan"
+    },
+    {
+      "chapter": 37,
+      "verse": 25,
+      "location": "gilead",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "Ishmaelite caravan coming from Gilead"
+    },
+    {
+      "chapter": 37,
+      "verse": 25,
+      "location": "egypt",
+      "startWord": 17,
+      "endWord": 17,
+      "textRef": "going down to Egypt"
+    },
+    {
+      "chapter": 37,
+      "verse": 28,
+      "location": "egypt",
+      "startWord": 15,
+      "endWord": 15,
+      "textRef": "brought Joseph to Egypt"
+    },
+    {
+      "chapter": 37,
+      "verse": 36,
+      "location": "egypt",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "sold him into Egypt to Potiphar"
+    },
+    {
+      "chapter": 38,
+      "verse": 1,
+      "location": "adullam",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "turned aside to an Adullamite man"
+    },
+    {
+      "chapter": 38,
+      "verse": 2,
+      "location": "canaan",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "daughter of a Canaanite man"
+    },
+    {
+      "chapter": 38,
+      "verse": 12,
+      "location": "adullam",
+      "startWord": 13,
+      "endWord": 13,
+      "textRef": "his friend the Adullamite"
+    },
+    {
+      "chapter": 38,
+      "verse": 12,
+      "location": "timnah",
+      "startWord": 14,
+      "endWord": 14,
+      "textRef": "went up to Timnah for sheep-shearing"
+    },
+    {
+      "chapter": 38,
+      "verse": 13,
+      "location": "timnah",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "your father-in-law goes up to Timnah"
+    },
+    {
+      "chapter": 38,
+      "verse": 14,
+      "location": "enaim",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "sat at the entrance to Enaim"
+    },
+    {
+      "chapter": 38,
+      "verse": 14,
+      "location": "timnah",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "on the road to Timnah"
+    },
+    {
+      "chapter": 38,
+      "verse": 20,
+      "location": "adullam",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "sent by his Adullamite friend"
+    },
+    {
+      "chapter": 38,
+      "verse": 21,
+      "location": "enaim",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "at Enaim on the road"
+    },
+    {
+      "chapter": 39,
+      "verse": 1,
+      "location": "egypt",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Joseph was brought down to Egypt"
+    },
+    {
+      "chapter": 40,
+      "verse": 1,
+      "location": "egypt",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "cupbearer of the king of Egypt"
+    },
+    {
+      "chapter": 40,
+      "verse": 1,
+      "location": "egypt",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "to the king of Egypt"
+    },
+    {
+      "chapter": 40,
+      "verse": 5,
+      "location": "egypt",
+      "startWord": 13,
+      "endWord": 14,
+      "textRef": "who belonged to the king of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 8,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "all the magicians of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 19,
+      "location": "egypt",
+      "startWord": 13,
+      "endWord": 14,
+      "textRef": "in all the land of Egypt (describing the ugly cows)"
+    },
+    {
+      "chapter": 41,
+      "verse": 29,
+      "location": "egypt",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "great abundance in all the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 30,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "abundance forgotten in the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 33,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "set a wise man over the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 34,
+      "location": "egypt",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "take a fifth of the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 36,
+      "location": "egypt",
+      "startWord": 9,
+      "endWord": 10,
+      "textRef": "food reserve for the land of Egypt during famine"
+    },
+    {
+      "chapter": 41,
+      "verse": 41,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "Joseph set over all the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 43,
+      "location": "egypt",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "ruler over all the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 44,
+      "location": "egypt",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "no one shall lift hand or foot in all the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 45,
+      "location": "on",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "On (Heliopolis), city of Joseph's father-in-law Potiphera the priest"
+    },
+    {
+      "chapter": 41,
+      "verse": 45,
+      "location": "egypt",
+      "startWord": 14,
+      "endWord": 15,
+      "textRef": "Joseph went out over the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 46,
+      "location": "egypt",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "king of Egypt (melekhe-mitserayim)"
+    },
+    {
+      "chapter": 41,
+      "verse": 46,
+      "location": "egypt",
+      "startWord": 12,
+      "endWord": 13,
+      "textRef": "Joseph passed through all the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 48,
+      "location": "egypt",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "gathered food during seven years in the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 50,
+      "location": "on",
+      "startWord": 14,
+      "endWord": 14,
+      "textRef": "On (Heliopolis), Asenath daughter of Potiphera priest of On"
+    },
+    {
+      "chapter": 41,
+      "verse": 53,
+      "location": "egypt",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "seven years of abundance in the land of Egypt ended"
+    },
+    {
+      "chapter": 41,
+      "verse": 54,
+      "location": "egypt",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "in all the land of Egypt there was bread"
+    },
+    {
+      "chapter": 41,
+      "verse": 55,
+      "location": "egypt",
+      "startWord": 1,
+      "endWord": 2,
+      "textRef": "all the land of Egypt was famished"
+    },
+    {
+      "chapter": 41,
+      "verse": 55,
+      "location": "egypt",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "Pharaoh told all Egypt to go to Joseph"
+    },
+    {
+      "chapter": 41,
+      "verse": 56,
+      "location": "egypt",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "Joseph sold grain to the Egyptians"
+    },
+    {
+      "chapter": 41,
+      "verse": 56,
+      "location": "egypt",
+      "startWord": 13,
+      "endWord": 14,
+      "textRef": "famine was severe in the land of Egypt"
+    },
+    {
+      "chapter": 41,
+      "verse": 57,
+      "location": "egypt",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "all the earth came to Egypt (mitserayemah) to buy grain"
+    },
+    {
+      "chapter": 42,
+      "verse": 1,
+      "location": "egypt",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Jacob heard there was grain in Egypt"
+    },
+    {
+      "chapter": 42,
+      "verse": 2,
+      "location": "egypt",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "I have heard there is grain in Egypt"
+    },
+    {
+      "chapter": 42,
+      "verse": 3,
+      "location": "egypt",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Joseph's brothers went down to buy grain from Egypt"
+    },
+    {
+      "chapter": 42,
+      "verse": 5,
+      "location": "canaan",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "famine was in the land of Canaan"
+    },
+    {
+      "chapter": 42,
+      "verse": 7,
+      "location": "canaan",
+      "startWord": 14,
+      "endWord": 15,
+      "textRef": "brothers said they came from the land of Canaan"
+    },
+    {
+      "chapter": 42,
+      "verse": 13,
+      "location": "canaan",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "your servants are sons of one man in the land of Canaan"
+    },
+    {
+      "chapter": 42,
+      "verse": 29,
+      "location": "canaan",
+      "startWord": 3,
+      "endWord": 4,
+      "textRef": "brothers returned to Jacob in the land of Canaan"
+    },
+    {
+      "chapter": 42,
+      "verse": 32,
+      "location": "canaan",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "the youngest is with our father in the land of Canaan"
+    },
+    {
+      "chapter": 43,
+      "verse": 2,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "when they finished eating the grain brought from Egypt"
+    },
+    {
+      "chapter": 43,
+      "verse": 15,
+      "location": "egypt",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "brothers went down to Egypt and stood before Joseph"
+    },
+    {
+      "chapter": 43,
+      "verse": 32,
+      "location": "egypt",
+      "startWord": 18,
+      "endWord": 18,
+      "textRef": "eating with Hebrews is an abomination to Egypt"
+    },
+    {
+      "chapter": 44,
+      "verse": 8,
+      "location": "canaan",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "we brought back silver from the land of Canaan"
+    },
+    {
+      "chapter": 45,
+      "verse": 2,
+      "location": "egypt",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "the Egyptians heard Joseph weeping"
+    },
+    {
+      "chapter": 45,
+      "verse": 4,
+      "location": "egypt",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "I am Joseph whom you sold into Egypt"
+    },
+    {
+      "chapter": 45,
+      "verse": 8,
+      "location": "egypt",
+      "startWord": 13,
+      "endWord": 14,
+      "textRef": "ruler over all the land of Egypt"
+    },
+    {
+      "chapter": 45,
+      "verse": 9,
+      "location": "egypt",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "God has made me lord of all Egypt"
+    },
+    {
+      "chapter": 45,
+      "verse": 10,
+      "location": "goshen",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "you shall dwell in the land of Goshen"
+    },
+    {
+      "chapter": 45,
+      "verse": 13,
+      "location": "egypt",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "tell my father of all my glory in Egypt"
+    },
+    {
+      "chapter": 45,
+      "verse": 17,
+      "location": "canaan",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "go to the land of Canaan"
+    },
+    {
+      "chapter": 45,
+      "verse": 18,
+      "location": "egypt",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "I will give you the good of the land of Egypt"
+    },
+    {
+      "chapter": 45,
+      "verse": 19,
+      "location": "egypt",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "take wagons from the land of Egypt"
+    },
+    {
+      "chapter": 45,
+      "verse": 20,
+      "location": "egypt",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "the good of all the land of Egypt is yours"
+    },
+    {
+      "chapter": 45,
+      "verse": 23,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "ten donkeys loaded with the good things of Egypt"
+    },
+    {
+      "chapter": 45,
+      "verse": 25,
+      "location": "egypt",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "they went up out of Egypt"
+    },
+    {
+      "chapter": 45,
+      "verse": 25,
+      "location": "canaan",
+      "startWord": 3,
+      "endWord": 4,
+      "textRef": "they came to the land of Canaan to Jacob"
+    },
+    {
+      "chapter": 45,
+      "verse": 26,
+      "location": "egypt",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "Joseph is ruler over all the land of Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 1,
+      "location": "beer-sheba",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "Beer-sheba"
+    },
+    {
+      "chapter": 46,
+      "verse": 3,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "toward Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 4,
+      "location": "egypt",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "toward Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 5,
+      "location": "beer-sheba",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "from Beer-sheba"
+    },
+    {
+      "chapter": 46,
+      "verse": 6,
+      "location": "canaan",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 46,
+      "verse": 6,
+      "location": "egypt",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "toward Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 7,
+      "location": "egypt",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "toward Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 8,
+      "location": "egypt",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "toward Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 12,
+      "location": "canaan",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 46,
+      "verse": 15,
+      "location": "paddan-aram",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "Paddan-aram"
+    },
+    {
+      "chapter": 46,
+      "verse": 20,
+      "location": "egypt",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "land of Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 20,
+      "location": "on",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "On (Heliopolis)"
+    },
+    {
+      "chapter": 46,
+      "verse": 26,
+      "location": "egypt",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "toward Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 27,
+      "location": "egypt",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "in Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 27,
+      "location": "egypt",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "toward Egypt"
+    },
+    {
+      "chapter": 46,
+      "verse": 28,
+      "location": "goshen",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "toward Goshen"
+    },
+    {
+      "chapter": 46,
+      "verse": 28,
+      "location": "goshen",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "land of Goshen"
+    },
+    {
+      "chapter": 46,
+      "verse": 29,
+      "location": "goshen",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "toward Goshen"
+    },
+    {
+      "chapter": 46,
+      "verse": 31,
+      "location": "canaan",
+      "startWord": 13,
+      "endWord": 13,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 46,
+      "verse": 34,
+      "location": "goshen",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "land of Goshen"
+    },
+    {
+      "chapter": 46,
+      "verse": 34,
+      "location": "egypt",
+      "startWord": 14,
+      "endWord": 14,
+      "textRef": "Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 1,
+      "location": "canaan",
+      "startWord": 12,
+      "endWord": 13,
+      "textRef": "from land of Canaan"
+    },
+    {
+      "chapter": 47,
+      "verse": 1,
+      "location": "goshen",
+      "startWord": 15,
+      "endWord": 16,
+      "textRef": "land of Goshen"
+    },
+    {
+      "chapter": 47,
+      "verse": 4,
+      "location": "canaan",
+      "startWord": 12,
+      "endWord": 13,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 47,
+      "verse": 4,
+      "location": "goshen",
+      "startWord": 17,
+      "endWord": 18,
+      "textRef": "land of Goshen"
+    },
+    {
+      "chapter": 47,
+      "verse": 6,
+      "location": "egypt",
+      "startWord": 0,
+      "endWord": 1,
+      "textRef": "land of Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 6,
+      "location": "goshen",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "land of Goshen"
+    },
+    {
+      "chapter": 47,
+      "verse": 11,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "land of Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 11,
+      "location": "rameses",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "land of Rameses"
+    },
+    {
+      "chapter": 47,
+      "verse": 13,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "land of Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 13,
+      "location": "canaan",
+      "startWord": 9,
+      "endWord": 10,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 47,
+      "verse": 14,
+      "location": "egypt",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "land of Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 14,
+      "location": "canaan",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 47,
+      "verse": 15,
+      "location": "egypt",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "from land of Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 15,
+      "location": "canaan",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "from land of Canaan"
+    },
+    {
+      "chapter": 47,
+      "verse": 15,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "all of Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 20,
+      "location": "egypt",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 20,
+      "location": "egypt",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 21,
+      "location": "egypt",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "border of Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 26,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 27,
+      "location": "egypt",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "land of Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 27,
+      "location": "goshen",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "land of Goshen"
+    },
+    {
+      "chapter": 47,
+      "verse": 28,
+      "location": "egypt",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "land of Egypt"
+    },
+    {
+      "chapter": 47,
+      "verse": 29,
+      "location": "egypt",
+      "startWord": 21,
+      "endWord": 21,
+      "textRef": "in Egypt"
+    },
+    {
+      "chapter": 48,
+      "verse": 3,
+      "location": "bethel",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "at Luz (Bethel)"
+    },
+    {
+      "chapter": 48,
+      "verse": 3,
+      "location": "canaan",
+      "startWord": 7,
+      "endWord": 8,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 48,
+      "verse": 5,
+      "location": "egypt",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "land of Egypt"
+    },
+    {
+      "chapter": 48,
+      "verse": 5,
+      "location": "egypt",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "toward Egypt"
+    },
+    {
+      "chapter": 48,
+      "verse": 7,
+      "location": "paddan-aram",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "from Paddan-aram"
+    },
+    {
+      "chapter": 48,
+      "verse": 7,
+      "location": "canaan",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 48,
+      "verse": 7,
+      "location": "ephrath",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "Ephrath"
+    },
+    {
+      "chapter": 48,
+      "verse": 7,
+      "location": "ephrath",
+      "startWord": 16,
+      "endWord": 19,
+      "textRef": "Ephrath, that is Bethlehem"
+    },
+    {
+      "chapter": 48,
+      "verse": 22,
+      "location": "shechem",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Shechem"
+    },
+    {
+      "chapter": 49,
+      "verse": 13,
+      "location": "sidon",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "Sidon"
+    },
+    {
+      "chapter": 49,
+      "verse": 30,
+      "location": "machpelah",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "Machpelah"
+    },
+    {
+      "chapter": 49,
+      "verse": 30,
+      "location": "mamre",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "before Mamre"
+    },
+    {
+      "chapter": 49,
+      "verse": 30,
+      "location": "canaan",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 50,
+      "verse": 3,
+      "location": "egypt",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "Egypt"
+    },
+    {
+      "chapter": 50,
+      "verse": 5,
+      "location": "canaan",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 50,
+      "verse": 7,
+      "location": "egypt",
+      "startWord": 12,
+      "endWord": 12,
+      "textRef": "land of Egypt"
+    },
+    {
+      "chapter": 50,
+      "verse": 8,
+      "location": "goshen",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "land of Goshen"
+    },
+    {
+      "chapter": 50,
+      "verse": 10,
+      "location": "jordan",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "beyond the Jordan"
+    },
+    {
+      "chapter": 50,
+      "verse": 11,
+      "location": "abel-mizraim",
+      "startWord": 14,
+      "endWord": 15,
+      "textRef": "Abel-mizraim"
+    },
+    {
+      "chapter": 50,
+      "verse": 11,
+      "location": "jordan",
+      "startWord": 17,
+      "endWord": 18,
+      "textRef": "beyond the Jordan"
+    },
+    {
+      "chapter": 50,
+      "verse": 13,
+      "location": "canaan",
+      "startWord": 3,
+      "endWord": 4,
+      "textRef": "land of Canaan"
+    },
+    {
+      "chapter": 50,
+      "verse": 13,
+      "location": "machpelah",
+      "startWord": 7,
+      "endWord": 9,
+      "textRef": "cave of Machpelah"
+    },
+    {
+      "chapter": 50,
+      "verse": 13,
+      "location": "mamre",
+      "startWord": 18,
+      "endWord": 19,
+      "textRef": "before Mamre"
+    },
+    {
+      "chapter": 50,
+      "verse": 14,
+      "location": "egypt",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "toward Egypt"
+    },
+    {
+      "chapter": 50,
+      "verse": 22,
+      "location": "egypt",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "in Egypt"
+    },
+    {
+      "chapter": 50,
+      "verse": 26,
+      "location": "egypt",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "in Egypt"
+    }
+  ]
+}

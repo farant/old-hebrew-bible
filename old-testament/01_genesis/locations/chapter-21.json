@@ -1,0 +1,61 @@
+{
+  "chapter": 21,
+  "mentions": [
+    {
+      "verse": 14,
+      "location": "beer-sheba",
+      "startWord": 15,
+      "endWord": 16,
+      "textRef": "wilderness of Beer-sheba"
+    },
+    {
+      "verse": 21,
+      "location": "paran",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "wilderness of Paran"
+    },
+    {
+      "verse": 21,
+      "location": "egypt",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "from the land of Egypt"
+    },
+    {
+      "verse": 31,
+      "location": "beer-sheba",
+      "startWord": 4,
+      "endWord": 5,
+      "textRef": "called the place Beer-sheba"
+    },
+    {
+      "verse": 32,
+      "location": "beer-sheba",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "made a covenant at Beer-sheba"
+    },
+    {
+      "verse": 32,
+      "location": "philistia",
+      "startWord": 9,
+      "endWord": 10,
+      "textRef": "returned to the land of the Philistines"
+    },
+    {
+      "verse": 33,
+      "location": "beer-sheba",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "planted a tamarisk at Beer-sheba"
+    },
+    {
+      "verse": 34,
+      "location": "philistia",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "sojourned in the land of the Philistines"
+    }
+  ]
+}

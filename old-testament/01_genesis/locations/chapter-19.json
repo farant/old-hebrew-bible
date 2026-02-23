@@ -1,0 +1,82 @@
+{
+  "chapter": 19,
+  "mentions": [
+    {
+      "verse": 1,
+      "location": "sodom",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "the two angels came to Sodom"
+    },
+    {
+      "verse": 1,
+      "location": "sodom",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Lot sitting in the gate of Sodom"
+    },
+    {
+      "verse": 4,
+      "location": "sodom",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "men of Sodom"
+    },
+    {
+      "verse": 22,
+      "location": "zoar",
+      "startWord": 13,
+      "endWord": 13,
+      "textRef": "the name of the city was called Zoar"
+    },
+    {
+      "verse": 23,
+      "location": "zoar",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "Lot came to Zoar"
+    },
+    {
+      "verse": 24,
+      "location": "sodom",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "rained upon Sodom and Gomorrah"
+    },
+    {
+      "verse": 24,
+      "location": "gomorrah",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "rained upon Sodom and Gomorrah"
+    },
+    {
+      "verse": 28,
+      "location": "sodom",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "looked toward Sodom and Gomorrah"
+    },
+    {
+      "verse": 28,
+      "location": "gomorrah",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "looked toward Sodom and Gomorrah"
+    },
+    {
+      "verse": 30,
+      "location": "zoar",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Lot went up from Zoar"
+    },
+    {
+      "verse": 30,
+      "location": "zoar",
+      "startWord": 11,
+      "endWord": 11,
+      "textRef": "he was afraid to dwell in Zoar"
+    }
+  ]
+}

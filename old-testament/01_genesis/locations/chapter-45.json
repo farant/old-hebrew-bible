@@ -1,0 +1,19 @@
+{
+  "chapter": 45,
+  "mentions": [
+    { "verse": 2, "location": "egypt", "startWord": 4, "endWord": 4, "textRef": "the Egyptians heard Joseph weeping" },
+    { "verse": 4, "location": "egypt", "startWord": 12, "endWord": 12, "textRef": "I am Joseph whom you sold into Egypt" },
+    { "verse": 8, "location": "egypt", "startWord": 13, "endWord": 14, "textRef": "ruler over all the land of Egypt" },
+    { "verse": 9, "location": "egypt", "startWord": 12, "endWord": 12, "textRef": "God has made me lord of all Egypt" },
+    { "verse": 10, "location": "goshen", "startWord": 1, "endWord": 1, "textRef": "you shall dwell in the land of Goshen" },
+    { "verse": 13, "location": "egypt", "startWord": 3, "endWord": 3, "textRef": "tell my father of all my glory in Egypt" },
+    { "verse": 17, "location": "canaan", "startWord": 10, "endWord": 11, "textRef": "go to the land of Canaan" },
+    { "verse": 18, "location": "egypt", "startWord": 8, "endWord": 9, "textRef": "I will give you the good of the land of Egypt" },
+    { "verse": 19, "location": "egypt", "startWord": 5, "endWord": 6, "textRef": "take wagons from the land of Egypt" },
+    { "verse": 20, "location": "egypt", "startWord": 4, "endWord": 5, "textRef": "the good of all the land of Egypt is yours" },
+    { "verse": 23, "location": "egypt", "startWord": 7, "endWord": 7, "textRef": "ten donkeys loaded with the good things of Egypt" },
+    { "verse": 25, "location": "egypt", "startWord": 1, "endWord": 1, "textRef": "they went up out of Egypt" },
+    { "verse": 25, "location": "canaan", "startWord": 3, "endWord": 4, "textRef": "they came to the land of Canaan to Jacob" },
+    { "verse": 26, "location": "egypt", "startWord": 8, "endWord": 9, "textRef": "Joseph is ruler over all the land of Egypt" }
+  ]
+}

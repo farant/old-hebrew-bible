@@ -1,0 +1,19 @@
+{
+  "chapter": 3,
+  "mentions": [
+    {
+      "verse": 23,
+      "location": "eden",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "sent out from the Garden of Eden"
+    },
+    {
+      "verse": 24,
+      "location": "eden",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "east of the Garden of Eden"
+    }
+  ]
+}

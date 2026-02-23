@@ -1,0 +1,19 @@
+{
+  "chapter": 4,
+  "mentions": [
+    {
+      "verse": 16,
+      "location": "nod",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "the land of Nod"
+    },
+    {
+      "verse": 16,
+      "location": "eden",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "east of Eden"
+    }
+  ]
+}

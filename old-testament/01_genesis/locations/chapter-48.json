@@ -1,0 +1,14 @@
+{
+  "chapter": 48,
+  "mentions": [
+    { "verse": 3, "location": "bethel", "startWord": 6, "endWord": 6, "textRef": "at Luz (Bethel)" },
+    { "verse": 3, "location": "canaan", "startWord": 7, "endWord": 8, "textRef": "land of Canaan" },
+    { "verse": 5, "location": "egypt", "startWord": 4, "endWord": 5, "textRef": "land of Egypt" },
+    { "verse": 5, "location": "egypt", "startWord": 8, "endWord": 8, "textRef": "toward Egypt" },
+    { "verse": 7, "location": "paddan-aram", "startWord": 2, "endWord": 2, "textRef": "from Paddan-aram" },
+    { "verse": 7, "location": "canaan", "startWord": 6, "endWord": 7, "textRef": "land of Canaan" },
+    { "verse": 7, "location": "ephrath", "startWord": 12, "endWord": 12, "textRef": "Ephrath" },
+    { "verse": 7, "location": "ephrath", "startWord": 16, "endWord": 19, "textRef": "Ephrath, that is Bethlehem" },
+    { "verse": 22, "location": "shechem", "startWord": 3, "endWord": 3, "textRef": "Shechem" }
+  ]
+}

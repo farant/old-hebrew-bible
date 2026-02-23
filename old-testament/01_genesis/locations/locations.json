@@ -1,0 +1,824 @@
+{
+  "locations": [
+    {
+      "id": "eden",
+      "name": "Garden of Eden",
+      "aliases": ["Eden", "the garden", "garden of Eden", "gan-eden"],
+      "lat": 30.96,
+      "lon": 47.41,
+      "confidence": "low",
+      "notes": "Commonly placed near confluence of Tigris/Euphrates in southern Mesopotamia. Location debated.",
+      "type": "region"
+    },
+    {
+      "id": "pishon",
+      "name": "Pishon River",
+      "aliases": ["Pishon"],
+      "lat": 30.5,
+      "lon": 47.0,
+      "confidence": "unknown",
+      "notes": "One of four Eden rivers. Identified variously with Karun River, Wadi Batin, or lost watercourse.",
+      "type": "river"
+    },
+    {
+      "id": "havilah",
+      "name": "Land of Havilah",
+      "aliases": ["Havilah"],
+      "lat": 25.0,
+      "lon": 45.0,
+      "confidence": "low",
+      "notes": "Usually associated with Arabia or Persian Gulf region. Multiple biblical Havilahs may exist.",
+      "type": "region"
+    },
+    {
+      "id": "gihon-river",
+      "name": "Gihon River",
+      "aliases": ["Gihon"],
+      "lat": 15.5,
+      "lon": 32.5,
+      "confidence": "unknown",
+      "notes": "One of four Eden rivers. Sometimes identified with Nile or a Mesopotamian watercourse. Surrounds Cush.",
+      "type": "river"
+    },
+    {
+      "id": "cush",
+      "name": "Cush",
+      "aliases": ["Cush", "Ethiopia", "Kush"],
+      "lat": 18.0,
+      "lon": 33.0,
+      "confidence": "medium",
+      "notes": "Ancient Nubia/northern Sudan region, not modern Ethiopia. Well-attested in Egyptian records.",
+      "type": "region"
+    },
+    {
+      "id": "tigris",
+      "name": "Tigris River",
+      "aliases": ["Tigris", "Hiddekel"],
+      "lat": 33.3,
+      "lon": 44.4,
+      "confidence": "high",
+      "notes": "Well-known river. Hebrew: Hiddekel. Flows east of Assyria.",
+      "type": "river"
+    },
+    {
+      "id": "assyria",
+      "name": "Assyria",
+      "aliases": ["Assyria", "Asshur", "Ashur"],
+      "lat": 36.34,
+      "lon": 43.13,
+      "confidence": "high",
+      "notes": "Northern Mesopotamia, centered on Nineveh/Mosul. Well-attested archaeological region.",
+      "type": "region"
+    },
+    {
+      "id": "euphrates",
+      "name": "Euphrates River",
+      "aliases": ["Euphrates", "Perat", "the great river"],
+      "lat": 35.2,
+      "lon": 38.0,
+      "confidence": "high",
+      "notes": "Well-known river. Fourth river of Eden. Major landmark in Abrahamic covenant (Gen 15:18).",
+      "type": "river"
+    },
+    {
+      "id": "nod",
+      "name": "Land of Nod",
+      "aliases": ["Nod"],
+      "lat": 31.5,
+      "lon": 48.0,
+      "confidence": "unknown",
+      "notes": "East of Eden. Name means 'wandering'. No archaeological identification. Coordinates speculative.",
+      "type": "region"
+    },
+    {
+      "id": "ararat",
+      "name": "Mountains of Ararat",
+      "aliases": ["Ararat"],
+      "lat": 39.70,
+      "lon": 44.30,
+      "confidence": "medium",
+      "notes": "Traditional identification with Mt. Ararat in eastern Turkey. Biblical Ararat = kingdom of Urartu.",
+      "type": "mountain"
+    },
+    {
+      "id": "shinar",
+      "name": "Land of Shinar",
+      "aliases": ["Shinar"],
+      "lat": 32.5,
+      "lon": 44.4,
+      "confidence": "medium",
+      "notes": "Southern Mesopotamia / Babylonia. Setting of Tower of Babel.",
+      "type": "region"
+    },
+    {
+      "id": "babel",
+      "name": "Babel / Babylon",
+      "aliases": ["Babel", "Babylon"],
+      "lat": 32.54,
+      "lon": 44.42,
+      "confidence": "high",
+      "notes": "Well-attested archaeological site south of modern Baghdad.",
+      "type": "city"
+    },
+    {
+      "id": "erech",
+      "name": "Erech / Uruk",
+      "aliases": ["Erech", "Uruk"],
+      "lat": 31.32,
+      "lon": 45.64,
+      "confidence": "high",
+      "notes": "Modern Warka, Iraq. Major Sumerian city, well-excavated.",
+      "type": "city"
+    },
+    {
+      "id": "akkad",
+      "name": "Akkad / Accad",
+      "aliases": ["Akkad", "Accad"],
+      "lat": 33.1,
+      "lon": 44.1,
+      "confidence": "low",
+      "notes": "Capital of Akkadian Empire. Exact site not securely identified. Somewhere in central Mesopotamia.",
+      "type": "city"
+    },
+    {
+      "id": "calneh",
+      "name": "Calneh",
+      "aliases": ["Calneh"],
+      "lat": 33.73,
+      "lon": 44.60,
+      "confidence": "low",
+      "notes": "Debated identification. Possibly Nippur or Kullani. Some scholars read 'all of them' instead of a place name.",
+      "type": "city"
+    },
+    {
+      "id": "nineveh",
+      "name": "Nineveh",
+      "aliases": ["Nineveh"],
+      "lat": 36.36,
+      "lon": 43.15,
+      "confidence": "high",
+      "notes": "Modern Mosul area, Iraq. Extensively excavated Assyrian capital.",
+      "type": "city"
+    },
+    {
+      "id": "rehoboth-ir",
+      "name": "Rehoboth-Ir",
+      "aliases": ["Rehoboth-Ir", "Rehoboth Ir"],
+      "lat": 36.30,
+      "lon": 43.20,
+      "confidence": "low",
+      "notes": "Near Nineveh. May mean 'broad places of the city' (describing Nineveh) rather than a separate city.",
+      "type": "city"
+    },
+    {
+      "id": "calah",
+      "name": "Calah / Nimrud",
+      "aliases": ["Calah", "Nimrud", "Kalhu"],
+      "lat": 36.10,
+      "lon": 43.33,
+      "confidence": "high",
+      "notes": "Modern Nimrud, Iraq. Major Assyrian city, well-excavated.",
+      "type": "city"
+    },
+    {
+      "id": "resen",
+      "name": "Resen",
+      "aliases": ["Resen"],
+      "lat": 36.23,
+      "lon": 43.24,
+      "confidence": "low",
+      "notes": "Between Nineveh and Calah. Not securely identified.",
+      "type": "city"
+    },
+    {
+      "id": "sidon",
+      "name": "Sidon",
+      "aliases": ["Sidon", "Tsidon"],
+      "lat": 33.56,
+      "lon": 35.37,
+      "confidence": "high",
+      "notes": "Modern Saida, Lebanon. Major Phoenician port city.",
+      "type": "city"
+    },
+    {
+      "id": "sodom",
+      "name": "Sodom",
+      "aliases": ["Sodom"],
+      "lat": 31.05,
+      "lon": 35.39,
+      "confidence": "low",
+      "notes": "Destroyed city. Usually placed near southern Dead Sea. Bab edh-Dhra is one candidate.",
+      "type": "city"
+    },
+    {
+      "id": "gomorrah",
+      "name": "Gomorrah",
+      "aliases": ["Gomorrah", "Amorah"],
+      "lat": 31.03,
+      "lon": 35.40,
+      "confidence": "low",
+      "notes": "Destroyed city. Near Sodom. Numeira is one candidate near southern Dead Sea.",
+      "type": "city"
+    },
+    {
+      "id": "admah",
+      "name": "Admah",
+      "aliases": ["Admah"],
+      "lat": 31.10,
+      "lon": 35.40,
+      "confidence": "unknown",
+      "notes": "One of the five Cities of the Plain. No secure identification.",
+      "type": "city"
+    },
+    {
+      "id": "zeboiim",
+      "name": "Zeboiim",
+      "aliases": ["Zeboiim", "Tsevoyim"],
+      "lat": 31.08,
+      "lon": 35.40,
+      "confidence": "unknown",
+      "notes": "One of the five Cities of the Plain. No secure identification.",
+      "type": "city"
+    },
+    {
+      "id": "zoar",
+      "name": "Zoar",
+      "aliases": ["Zoar", "Bela", "Tsoar"],
+      "lat": 31.05,
+      "lon": 35.44,
+      "confidence": "medium",
+      "notes": "Near southern Dead Sea. Identified with es-Safi or nearby. Spared from destruction of the Plain cities.",
+      "type": "city"
+    },
+    {
+      "id": "lasha",
+      "name": "Lasha",
+      "aliases": ["Lasha"],
+      "lat": 31.45,
+      "lon": 35.48,
+      "confidence": "unknown",
+      "notes": "Boundary marker of Canaanite territory. Sometimes identified with Callirrhoe (hot springs east of Dead Sea).",
+      "type": "landmark"
+    },
+    {
+      "id": "canaan",
+      "name": "Land of Canaan",
+      "aliases": ["Canaan", "the land", "land of Canaan"],
+      "lat": 31.78,
+      "lon": 35.21,
+      "confidence": "high",
+      "notes": "Well-defined ancient region. Centered coordinate approximates central highlands.",
+      "type": "region"
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt",
+      "aliases": ["Egypt", "Mizraim", "Mitsrayim", "land of Egypt"],
+      "lat": 30.05,
+      "lon": 31.23,
+      "confidence": "high",
+      "notes": "Well-known. Coordinate centered on Memphis/Cairo area, the ancient capital region.",
+      "type": "region"
+    },
+    {
+      "id": "ur",
+      "name": "Ur of the Chaldeans",
+      "aliases": ["Ur", "Ur of the Chaldeans", "Ur Kasdim"],
+      "lat": 30.96,
+      "lon": 46.10,
+      "confidence": "high",
+      "notes": "Tell el-Muqayyar, southern Iraq. Major Sumerian city, well-excavated.",
+      "type": "city"
+    },
+    {
+      "id": "haran",
+      "name": "Haran",
+      "aliases": ["Haran", "Charan"],
+      "lat": 36.86,
+      "lon": 39.03,
+      "confidence": "high",
+      "notes": "Modern Harran, southeastern Turkey. Well-attested archaeological site on ancient trade routes.",
+      "type": "city"
+    },
+    {
+      "id": "shechem",
+      "name": "Shechem",
+      "aliases": ["Shechem", "Shekhem"],
+      "lat": 32.21,
+      "lon": 35.28,
+      "confidence": "high",
+      "notes": "Tell Balata, near modern Nablus. Extensively excavated.",
+      "type": "city"
+    },
+    {
+      "id": "moreh",
+      "name": "Oak/Terebinth of Moreh",
+      "aliases": ["Moreh", "oak of Moreh", "terebinth of Moreh", "elon Moreh"],
+      "lat": 32.22,
+      "lon": 35.28,
+      "confidence": "medium",
+      "notes": "Near Shechem. Sacred tree site where Abraham built an altar.",
+      "type": "landmark"
+    },
+    {
+      "id": "bethel",
+      "name": "Bethel",
+      "aliases": ["Bethel", "Luz", "Beth-El", "Beit-El"],
+      "lat": 31.93,
+      "lon": 35.24,
+      "confidence": "high",
+      "notes": "Traditionally identified with Beitin, some scholars prefer el-Bireh. Major patriarchal and later Israelite site.",
+      "type": "city"
+    },
+    {
+      "id": "ai",
+      "name": "Ai",
+      "aliases": ["Ai", "ha-Ai"],
+      "lat": 31.92,
+      "lon": 35.26,
+      "confidence": "medium",
+      "notes": "East of Bethel. Usually identified with et-Tell, though Khirbet el-Maqatir is debated alternative.",
+      "type": "city"
+    },
+    {
+      "id": "negev",
+      "name": "The Negev",
+      "aliases": ["Negev", "the Negev", "the south", "Negeb"],
+      "lat": 30.85,
+      "lon": 34.78,
+      "confidence": "high",
+      "notes": "Southern desert region of Canaan. Well-defined geographic area.",
+      "type": "region"
+    },
+    {
+      "id": "jordan",
+      "name": "Jordan River / Valley",
+      "aliases": ["Jordan", "the Jordan", "Jordan Valley", "plain of Jordan", "kikkar of the Jordan"],
+      "lat": 31.76,
+      "lon": 35.52,
+      "confidence": "high",
+      "notes": "Well-known river and rift valley.",
+      "type": "river"
+    },
+    {
+      "id": "valley-of-siddim",
+      "name": "Valley of Siddim",
+      "aliases": ["Valley of Siddim", "Salt Sea"],
+      "lat": 31.20,
+      "lon": 35.40,
+      "confidence": "low",
+      "notes": "Identified with the Dead Sea basin, possibly the shallow southern end before flooding.",
+      "type": "region"
+    },
+    {
+      "id": "salem",
+      "name": "Salem",
+      "aliases": ["Salem"],
+      "lat": 31.78,
+      "lon": 35.23,
+      "confidence": "high",
+      "notes": "Identified with Jerusalem. Melchizedek's city. Psalm 76:2 confirms Salem = Zion.",
+      "type": "city"
+    },
+    {
+      "id": "dan",
+      "name": "Dan",
+      "aliases": ["Dan", "Laish"],
+      "lat": 33.25,
+      "lon": 35.65,
+      "confidence": "high",
+      "notes": "Tell Dan (Tell el-Qadi), northern Israel. Well-excavated. Anachronistic name in Gen 14.",
+      "type": "city"
+    },
+    {
+      "id": "hobah",
+      "name": "Hobah",
+      "aliases": ["Hobah"],
+      "lat": 33.60,
+      "lon": 36.30,
+      "confidence": "low",
+      "notes": "North of Damascus. Abraham pursued kings here. Possibly modern Hoba near Damascus.",
+      "type": "city"
+    },
+    {
+      "id": "damascus",
+      "name": "Damascus",
+      "aliases": ["Damascus", "Dammesek"],
+      "lat": 33.51,
+      "lon": 36.29,
+      "confidence": "high",
+      "notes": "One of the oldest continuously inhabited cities. Well-known location.",
+      "type": "city"
+    },
+    {
+      "id": "el-paran",
+      "name": "El-Paran",
+      "aliases": ["El-Paran"],
+      "lat": 29.50,
+      "lon": 34.92,
+      "confidence": "low",
+      "notes": "At the edge of the wilderness. Possibly modern Eilat/Aqaba area.",
+      "type": "landmark"
+    },
+    {
+      "id": "kadesh",
+      "name": "Kadesh / En-Mishpat",
+      "aliases": ["Kadesh", "En-Mishpat", "Kadesh-Barnea"],
+      "lat": 30.66,
+      "lon": 34.40,
+      "confidence": "medium",
+      "notes": "Usually identified with Ain el-Qudeirat in the northeastern Sinai.",
+      "type": "city"
+    },
+    {
+      "id": "hazazon-tamar",
+      "name": "Hazazon-Tamar",
+      "aliases": ["Hazazon-Tamar"],
+      "lat": 31.45,
+      "lon": 35.38,
+      "confidence": "medium",
+      "notes": "Usually identified with En-Gedi (2 Chr 20:2). Oasis on western Dead Sea shore.",
+      "type": "city"
+    },
+    {
+      "id": "shur",
+      "name": "Wilderness of Shur",
+      "aliases": ["Shur", "wilderness of Shur"],
+      "lat": 30.50,
+      "lon": 33.50,
+      "confidence": "medium",
+      "notes": "Northwestern Sinai region, east of Egypt. On the road from Egypt to Canaan.",
+      "type": "region"
+    },
+    {
+      "id": "beer-lahai-roi",
+      "name": "Beer-lahai-roi",
+      "aliases": ["Beer-lahai-roi", "the well of the Living One who sees me"],
+      "lat": 30.85,
+      "lon": 34.39,
+      "confidence": "low",
+      "notes": "Between Kadesh and Bered in the Negev. Hagar's well. Exact site unknown.",
+      "type": "well"
+    },
+    {
+      "id": "bered",
+      "name": "Bered",
+      "aliases": ["Bered"],
+      "lat": 30.90,
+      "lon": 34.35,
+      "confidence": "unknown",
+      "notes": "Near Beer-lahai-roi in the Negev. No secure identification.",
+      "type": "landmark"
+    },
+    {
+      "id": "mamre",
+      "name": "Mamre / Oaks of Mamre",
+      "aliases": ["Mamre", "oaks of Mamre", "terebinths of Mamre", "Elonei Mamre"],
+      "lat": 31.53,
+      "lon": 35.10,
+      "confidence": "high",
+      "notes": "Near Hebron. Identified with Ramat el-Khalil, 3km north of Hebron. Abraham's main dwelling place.",
+      "type": "landmark"
+    },
+    {
+      "id": "hebron",
+      "name": "Hebron",
+      "aliases": ["Hebron", "Kirjath-arba", "Kiryat Arba"],
+      "lat": 31.53,
+      "lon": 35.10,
+      "confidence": "high",
+      "notes": "Modern al-Khalil/Hebron. One of the oldest continuously inhabited cities in the world.",
+      "type": "city"
+    },
+    {
+      "id": "machpelah",
+      "name": "Cave of Machpelah",
+      "aliases": ["Machpelah", "cave of Machpelah", "field of Machpelah"],
+      "lat": 31.52,
+      "lon": 35.11,
+      "confidence": "high",
+      "notes": "Tomb of the Patriarchs in Hebron. Traditionally identified site beneath the Ibrahimi Mosque.",
+      "type": "landmark"
+    },
+    {
+      "id": "gerar",
+      "name": "Gerar",
+      "aliases": ["Gerar"],
+      "lat": 31.39,
+      "lon": 34.45,
+      "confidence": "medium",
+      "notes": "Philistine city. Tell Abu Hureyra or Tell Haror are candidates. In the western Negev.",
+      "type": "city"
+    },
+    {
+      "id": "beer-sheba",
+      "name": "Beer-sheba",
+      "aliases": ["Beer-sheba", "Beersheba", "Be'er Sheva"],
+      "lat": 31.25,
+      "lon": 34.79,
+      "confidence": "high",
+      "notes": "Tell es-Saba / modern Be'er Sheva. Southern boundary marker of Israel. Well-excavated.",
+      "type": "city"
+    },
+    {
+      "id": "paran",
+      "name": "Wilderness of Paran",
+      "aliases": ["Paran", "wilderness of Paran"],
+      "lat": 29.50,
+      "lon": 34.50,
+      "confidence": "medium",
+      "notes": "Central Sinai peninsula region. Ishmael settled here.",
+      "type": "region"
+    },
+    {
+      "id": "moriah",
+      "name": "Mount Moriah",
+      "aliases": ["Moriah", "land of Moriah"],
+      "lat": 31.78,
+      "lon": 35.24,
+      "confidence": "medium",
+      "notes": "Traditional identification with Temple Mount in Jerusalem (2 Chr 3:1). Some scholars debate.",
+      "type": "mountain"
+    },
+    {
+      "id": "aram-naharaim",
+      "name": "Aram-Naharaim",
+      "aliases": ["Aram-Naharaim", "Mesopotamia", "Aram of the two rivers"],
+      "lat": 36.50,
+      "lon": 39.00,
+      "confidence": "medium",
+      "notes": "Upper Mesopotamia between Euphrates and Habur/Balikh rivers. Region around Haran.",
+      "type": "region"
+    },
+    {
+      "id": "paddan-aram",
+      "name": "Paddan-Aram",
+      "aliases": ["Paddan-Aram", "Padan-Aram", "Paddan Aram"],
+      "lat": 36.86,
+      "lon": 39.03,
+      "confidence": "medium",
+      "notes": "Region around Haran in upper Mesopotamia. Name possibly means 'field of Aram'.",
+      "type": "region"
+    },
+    {
+      "id": "esek",
+      "name": "Esek",
+      "aliases": ["Esek"],
+      "lat": 31.30,
+      "lon": 34.60,
+      "confidence": "low",
+      "notes": "Well dug by Isaac's servants near Gerar. Name means 'contention'. No secure identification.",
+      "type": "well"
+    },
+    {
+      "id": "sitnah",
+      "name": "Sitnah",
+      "aliases": ["Sitnah"],
+      "lat": 31.30,
+      "lon": 34.60,
+      "confidence": "low",
+      "notes": "Second well dug by Isaac near Gerar. Name means 'accusation'. No secure identification.",
+      "type": "well"
+    },
+    {
+      "id": "rehoboth-well",
+      "name": "Rehoboth (well)",
+      "aliases": ["Rehoboth"],
+      "lat": 31.30,
+      "lon": 34.70,
+      "confidence": "low",
+      "notes": "Third well dug by Isaac. Name means 'broad places'. Possibly Ruhaibeh in Negev.",
+      "type": "well"
+    },
+    {
+      "id": "gilead",
+      "name": "Gilead",
+      "aliases": ["Gilead", "hill country of Gilead", "mount Gilead"],
+      "lat": 32.30,
+      "lon": 35.85,
+      "confidence": "medium",
+      "notes": "Transjordan highland region east of the Jordan. Modern northwestern Jordan.",
+      "type": "region"
+    },
+    {
+      "id": "mizpah-gilead",
+      "name": "Mizpah of Gilead",
+      "aliases": ["Mizpah", "Galeed", "Jegar-Sahadutha"],
+      "lat": 32.30,
+      "lon": 35.90,
+      "confidence": "medium",
+      "notes": "Cairn marking covenant between Jacob and Laban. In Gilead. Galeed = Hebrew name, Jegar-Sahadutha = Aramaic.",
+      "type": "landmark"
+    },
+    {
+      "id": "mahanaim",
+      "name": "Mahanaim",
+      "aliases": ["Mahanaim"],
+      "lat": 32.33,
+      "lon": 35.78,
+      "confidence": "medium",
+      "notes": "Where Jacob saw angels. Usually identified with Tulul ed-Dhahab near the Jabbok. Name means 'two camps'.",
+      "type": "city"
+    },
+    {
+      "id": "seir",
+      "name": "Mount Seir / Land of Seir",
+      "aliases": ["Seir", "land of Seir", "mount Seir", "field of Edom"],
+      "lat": 30.50,
+      "lon": 35.30,
+      "confidence": "medium",
+      "notes": "Mountain range in southern Jordan/Edom. Esau's territory. Identified with mountains east of Arabah.",
+      "type": "mountain"
+    },
+    {
+      "id": "edom",
+      "name": "Edom",
+      "aliases": ["Edom"],
+      "lat": 30.50,
+      "lon": 35.30,
+      "confidence": "medium",
+      "notes": "Esau's territory, southern Transjordan. Overlaps with Seir.",
+      "type": "region"
+    },
+    {
+      "id": "peniel",
+      "name": "Peniel / Penuel",
+      "aliases": ["Peniel", "Penuel"],
+      "lat": 32.19,
+      "lon": 35.73,
+      "confidence": "medium",
+      "notes": "Where Jacob wrestled with God. Near the Jabbok crossing. Name means 'face of God'.",
+      "type": "landmark"
+    },
+    {
+      "id": "jabbok",
+      "name": "Jabbok River",
+      "aliases": ["Jabbok", "the Jabbok", "ford of Jabbok"],
+      "lat": 32.19,
+      "lon": 35.73,
+      "confidence": "high",
+      "notes": "Modern Zarqa River in Jordan. Major Transjordan tributary of the Jordan.",
+      "type": "river"
+    },
+    {
+      "id": "succoth",
+      "name": "Succoth",
+      "aliases": ["Succoth", "Sukkot"],
+      "lat": 32.19,
+      "lon": 35.58,
+      "confidence": "medium",
+      "notes": "In Jordan Valley. Usually identified with Tell Deir Alla area. Name means 'booths'.",
+      "type": "city"
+    },
+    {
+      "id": "shalem",
+      "name": "Shalem",
+      "aliases": ["Shalem"],
+      "lat": 32.21,
+      "lon": 35.28,
+      "confidence": "low",
+      "notes": "Gen 33:18 'Jacob came shalem to the city of Shechem'. Debated whether this is a place name or means 'safely'.",
+      "type": "city"
+    },
+    {
+      "id": "ephrath",
+      "name": "Ephrath / Bethlehem",
+      "aliases": ["Ephrath", "Ephrathah", "Bethlehem"],
+      "lat": 31.70,
+      "lon": 35.21,
+      "confidence": "high",
+      "notes": "Modern Bethlehem. Rachel's burial place. Well-attested.",
+      "type": "city"
+    },
+    {
+      "id": "migdal-eder",
+      "name": "Migdal-Eder",
+      "aliases": ["Migdal-Eder", "tower of Eder", "tower of the flock"],
+      "lat": 31.69,
+      "lon": 35.21,
+      "confidence": "low",
+      "notes": "Near Bethlehem. 'Tower of the flock'. Exact location debated.",
+      "type": "landmark"
+    },
+    {
+      "id": "dothan",
+      "name": "Dothan",
+      "aliases": ["Dothan"],
+      "lat": 32.41,
+      "lon": 35.24,
+      "confidence": "high",
+      "notes": "Tell Dothan. Well-excavated site where Joseph was sold by his brothers.",
+      "type": "city"
+    },
+    {
+      "id": "adullam",
+      "name": "Adullam",
+      "aliases": ["Adullam"],
+      "lat": 31.62,
+      "lon": 35.01,
+      "confidence": "medium",
+      "notes": "In the Shephelah. Judah's friend Hirah was from here. Tell es-Sheikh Madhkur is one candidate.",
+      "type": "city"
+    },
+    {
+      "id": "timnah",
+      "name": "Timnah",
+      "aliases": ["Timnah", "Timnath"],
+      "lat": 31.78,
+      "lon": 34.96,
+      "confidence": "medium",
+      "notes": "Tell Batash in the Sorek Valley. Where Judah went for sheep-shearing.",
+      "type": "city"
+    },
+    {
+      "id": "enaim",
+      "name": "Enaim",
+      "aliases": ["Enaim", "Eynayim", "the entrance to Enaim"],
+      "lat": 31.70,
+      "lon": 35.00,
+      "confidence": "low",
+      "notes": "On the road to Timnah. Where Tamar sat. No secure identification.",
+      "type": "landmark"
+    },
+    {
+      "id": "goshen",
+      "name": "Land of Goshen",
+      "aliases": ["Goshen", "land of Goshen"],
+      "lat": 30.77,
+      "lon": 31.90,
+      "confidence": "medium",
+      "notes": "Eastern Nile Delta region. Best pastureland in Egypt. Wadi Tumilat area.",
+      "type": "region"
+    },
+    {
+      "id": "rameses",
+      "name": "Rameses",
+      "aliases": ["Rameses", "Raamses"],
+      "lat": 30.79,
+      "lon": 31.83,
+      "confidence": "high",
+      "notes": "Tell el-Dab'a / Qantir area. Pi-Ramesses, Ramesside capital in the eastern Delta.",
+      "type": "city"
+    },
+    {
+      "id": "abel-mizraim",
+      "name": "Abel-Mizraim",
+      "aliases": ["Abel-Mizraim", "the threshing floor of Atad"],
+      "lat": 31.80,
+      "lon": 35.60,
+      "confidence": "low",
+      "notes": "Beyond the Jordan. Mourning place during Jacob's funeral procession. Name means 'mourning of Egypt'.",
+      "type": "landmark"
+    },
+    {
+      "id": "philistia",
+      "name": "Land of the Philistines",
+      "aliases": ["Philistia", "land of the Philistines"],
+      "lat": 31.60,
+      "lon": 34.55,
+      "confidence": "medium",
+      "notes": "Coastal plain of southern Canaan. Anachronistic for patriarchal period but well-attested later.",
+      "type": "region"
+    },
+    {
+      "id": "river-of-egypt",
+      "name": "River of Egypt",
+      "aliases": ["river of Egypt", "brook of Egypt", "Wadi el-Arish"],
+      "lat": 31.13,
+      "lon": 33.80,
+      "confidence": "medium",
+      "notes": "Southern boundary of promised land (Gen 15:18). Usually Wadi el-Arish, not the Nile.",
+      "type": "river"
+    },
+    {
+      "id": "shaveh-kiriathaim",
+      "name": "Shaveh-Kiriathaim",
+      "aliases": ["Shaveh-Kiriathaim"],
+      "lat": 31.52,
+      "lon": 35.72,
+      "confidence": "low",
+      "notes": "In Moab. Where the Emim were defeated. Possibly near Kiriathaim in Transjordan.",
+      "type": "landmark"
+    },
+    {
+      "id": "kings-valley",
+      "name": "King's Valley / Valley of Shaveh",
+      "aliases": ["King's Valley", "Valley of Shaveh"],
+      "lat": 31.77,
+      "lon": 35.24,
+      "confidence": "medium",
+      "notes": "Near Salem/Jerusalem. Where Abraham met Melchizedek. Traditionally the Kidron Valley.",
+      "type": "landmark"
+    },
+    {
+      "id": "on",
+      "name": "On / Heliopolis",
+      "aliases": ["On", "Heliopolis"],
+      "lat": 30.13,
+      "lon": 31.31,
+      "confidence": "high",
+      "notes": "Ancient Egyptian religious center. Modern Ain Shams/Matariyyah in Cairo. Joseph's father-in-law was priest here.",
+      "type": "city"
+    }
+  ]
+}

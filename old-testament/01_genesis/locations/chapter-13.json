@@ -1,0 +1,22 @@
+{
+  "chapter": 13,
+  "mentions": [
+    { "verse": 1, "location": "egypt", "startWord": 2, "endWord": 2, "textRef": "from Egypt" },
+    { "verse": 1, "location": "negev", "startWord": 8, "endWord": 8, "textRef": "the Negev" },
+    { "verse": 3, "location": "negev", "startWord": 2, "endWord": 2, "textRef": "from the Negev" },
+    { "verse": 3, "location": "bethel", "startWord": 3, "endWord": 3, "textRef": "Bethel" },
+    { "verse": 3, "location": "bethel", "startWord": 11, "endWord": 11, "textRef": "Bethel" },
+    { "verse": 3, "location": "ai", "startWord": 13, "endWord": 13, "textRef": "Ai" },
+    { "verse": 10, "location": "jordan", "startWord": 3, "endWord": 4, "textRef": "plain of the Jordan" },
+    { "verse": 10, "location": "sodom", "startWord": 11, "endWord": 11, "textRef": "Sodom" },
+    { "verse": 10, "location": "gomorrah", "startWord": 12, "endWord": 12, "textRef": "Gomorrah" },
+    { "verse": 10, "location": "egypt", "startWord": 15, "endWord": 15, "textRef": "like the land of Egypt" },
+    { "verse": 10, "location": "zoar", "startWord": 17, "endWord": 17, "textRef": "Zoar" },
+    { "verse": 11, "location": "jordan", "startWord": 3, "endWord": 4, "textRef": "plain of the Jordan" },
+    { "verse": 12, "location": "canaan", "startWord": 2, "endWord": 2, "textRef": "land of Canaan" },
+    { "verse": 12, "location": "sodom", "startWord": 8, "endWord": 8, "textRef": "as far as Sodom" },
+    { "verse": 13, "location": "sodom", "startWord": 1, "endWord": 1, "textRef": "men of Sodom" },
+    { "verse": 18, "location": "mamre", "startWord": 4, "endWord": 5, "textRef": "oaks of Mamre" },
+    { "verse": 18, "location": "hebron", "startWord": 7, "endWord": 7, "textRef": "Hebron" }
+  ]
+}

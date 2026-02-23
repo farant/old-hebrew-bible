@@ -1,0 +1,24 @@
+{
+  "chapter": 36,
+  "mentions": [
+    { "verse": 1, "location": "edom", "startWord": 4, "endWord": 4, "textRef": "Esau is Edom" },
+    { "verse": 2, "location": "canaan", "startWord": 4, "endWord": 4, "textRef": "wives from the daughters of Canaan" },
+    { "verse": 5, "location": "canaan", "startWord": 11, "endWord": 12, "textRef": "born to him in the land of Canaan" },
+    { "verse": 6, "location": "canaan", "startWord": 13, "endWord": 14, "textRef": "acquired in the land of Canaan" },
+    { "verse": 8, "location": "seir", "startWord": 2, "endWord": 3, "textRef": "Esau settled in mount Seir" },
+    { "verse": 8, "location": "edom", "startWord": 6, "endWord": 6, "textRef": "Esau is Edom" },
+    { "verse": 9, "location": "edom", "startWord": 4, "endWord": 4, "textRef": "father of Edom" },
+    { "verse": 9, "location": "seir", "startWord": 5, "endWord": 6, "textRef": "in mount Seir" },
+    { "verse": 16, "location": "edom", "startWord": 8, "endWord": 9, "textRef": "in the land of Edom" },
+    { "verse": 17, "location": "edom", "startWord": 15, "endWord": 16, "textRef": "in the land of Edom" },
+    { "verse": 19, "location": "edom", "startWord": 5, "endWord": 5, "textRef": "he is Edom" },
+    { "verse": 20, "location": "seir", "startWord": 1, "endWord": 1, "textRef": "sons of Seir the Horite" },
+    { "verse": 21, "location": "seir", "startWord": 7, "endWord": 7, "textRef": "sons of Seir" },
+    { "verse": 21, "location": "edom", "startWord": 8, "endWord": 9, "textRef": "in the land of Edom" },
+    { "verse": 30, "location": "seir", "startWord": 10, "endWord": 11, "textRef": "in the land of Seir" },
+    { "verse": 31, "location": "edom", "startWord": 4, "endWord": 5, "textRef": "kings who reigned in the land of Edom" },
+    { "verse": 32, "location": "edom", "startWord": 1, "endWord": 1, "textRef": "reigned in Edom" },
+    { "verse": 43, "location": "edom", "startWord": 6, "endWord": 6, "textRef": "chiefs of Edom" },
+    { "verse": 43, "location": "edom", "startWord": 13, "endWord": 13, "textRef": "Esau father of Edom" }
+  ]
+}

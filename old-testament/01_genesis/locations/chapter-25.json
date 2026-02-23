@@ -1,0 +1,54 @@
+{
+  "chapter": 25,
+  "mentions": [
+    {
+      "verse": 9,
+      "location": "machpelah",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "cave of Machpelah"
+    },
+    {
+      "verse": 9,
+      "location": "mamre",
+      "startWord": 13,
+      "endWord": 13,
+      "textRef": "before Mamre"
+    },
+    {
+      "verse": 11,
+      "location": "beer-lahai-roi",
+      "startWord": 10,
+      "endWord": 12,
+      "textRef": "Isaac dwelt by Beer-lahai-roi"
+    },
+    {
+      "verse": 18,
+      "location": "havilah",
+      "startWord": 1,
+      "endWord": 1,
+      "textRef": "from Havilah"
+    },
+    {
+      "verse": 18,
+      "location": "shur",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "to Shur"
+    },
+    {
+      "verse": 18,
+      "location": "egypt",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "before Egypt"
+    },
+    {
+      "verse": 20,
+      "location": "paddan-aram",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "from Paddan-aram"
+    }
+  ]
+}

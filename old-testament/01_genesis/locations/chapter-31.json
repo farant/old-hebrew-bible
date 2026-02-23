@@ -1,0 +1,75 @@
+{
+  "chapter": 31,
+  "mentions": [
+    {
+      "verse": 13,
+      "location": "bethel",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "the God of Bethel"
+    },
+    {
+      "verse": 18,
+      "location": "paddan-aram",
+      "startWord": 9,
+      "endWord": 10,
+      "textRef": "acquired in Paddan-Aram"
+    },
+    {
+      "verse": 18,
+      "location": "canaan",
+      "startWord": 15,
+      "endWord": 15,
+      "textRef": "to the land of Canaan"
+    },
+    {
+      "verse": 21,
+      "location": "gilead",
+      "startWord": 8,
+      "endWord": 9,
+      "textRef": "hill country of Gilead"
+    },
+    {
+      "verse": 23,
+      "location": "gilead",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "hill country of Gilead"
+    },
+    {
+      "verse": 25,
+      "location": "gilead",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "hill country of Gilead"
+    },
+    {
+      "verse": 47,
+      "location": "mizpah-gilead",
+      "startWord": 2,
+      "endWord": 3,
+      "textRef": "Laban called it Jegar-Sahadutha"
+    },
+    {
+      "verse": 47,
+      "location": "mizpah-gilead",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "Jacob called it Galeed"
+    },
+    {
+      "verse": 48,
+      "location": "mizpah-gilead",
+      "startWord": 10,
+      "endWord": 10,
+      "textRef": "named it Galeed"
+    },
+    {
+      "verse": 49,
+      "location": "mizpah-gilead",
+      "startWord": 0,
+      "endWord": 0,
+      "textRef": "the Mizpah"
+    }
+  ]
+}

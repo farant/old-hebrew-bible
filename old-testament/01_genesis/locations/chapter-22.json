@@ -1,0 +1,26 @@
+{
+  "chapter": 22,
+  "mentions": [
+    {
+      "verse": 2,
+      "location": "moriah",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "land of Moriah"
+    },
+    {
+      "verse": 19,
+      "location": "beer-sheba",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "went together to Beer-sheba"
+    },
+    {
+      "verse": 19,
+      "location": "beer-sheba",
+      "startWord": 10,
+      "endWord": 11,
+      "textRef": "Abraham dwelt at Beer-sheba"
+    }
+  ]
+}

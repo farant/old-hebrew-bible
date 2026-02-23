@@ -1,0 +1,138 @@
+{
+  "chapter": 35,
+  "mentions": [
+    {
+      "verse": 1,
+      "location": "bethel",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "go up to Bethel"
+    },
+    {
+      "verse": 3,
+      "location": "bethel",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "let us go up to Bethel"
+    },
+    {
+      "verse": 4,
+      "location": "shechem",
+      "startWord": 16,
+      "endWord": 16,
+      "textRef": "under the oak near Shechem"
+    },
+    {
+      "verse": 6,
+      "location": "bethel",
+      "startWord": 2,
+      "endWord": 2,
+      "textRef": "Jacob came to Luz, that is Bethel"
+    },
+    {
+      "verse": 6,
+      "location": "canaan",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "in the land of Canaan"
+    },
+    {
+      "verse": 6,
+      "location": "bethel",
+      "startWord": 7,
+      "endWord": 7,
+      "textRef": "that is Bethel"
+    },
+    {
+      "verse": 7,
+      "location": "bethel",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "called the place El Bethel"
+    },
+    {
+      "verse": 8,
+      "location": "bethel",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "buried below Bethel"
+    },
+    {
+      "verse": 9,
+      "location": "paddan-aram",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "coming from Paddan-Aram"
+    },
+    {
+      "verse": 15,
+      "location": "bethel",
+      "startWord": 9,
+      "endWord": 9,
+      "textRef": "named the place Bethel"
+    },
+    {
+      "verse": 16,
+      "location": "bethel",
+      "startWord": 1,
+      "endWord": 2,
+      "textRef": "journeyed from Bethel"
+    },
+    {
+      "verse": 16,
+      "location": "ephrath",
+      "startWord": 6,
+      "endWord": 6,
+      "textRef": "on the way to Ephrath"
+    },
+    {
+      "verse": 19,
+      "location": "ephrath",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "on the way to Ephrath"
+    },
+    {
+      "verse": 19,
+      "location": "ephrath",
+      "startWord": 6,
+      "endWord": 7,
+      "textRef": "that is Bethlehem"
+    },
+    {
+      "verse": 21,
+      "location": "migdal-eder",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "beyond Migdal-Eder"
+    },
+    {
+      "verse": 26,
+      "location": "paddan-aram",
+      "startWord": 11,
+      "endWord": 12,
+      "textRef": "born to him in Paddan-Aram"
+    },
+    {
+      "verse": 27,
+      "location": "mamre",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "Mamre of Kiriath-arba"
+    },
+    {
+      "verse": 27,
+      "location": "hebron",
+      "startWord": 5,
+      "endWord": 6,
+      "textRef": "Kiriath-arba, that is Hebron"
+    },
+    {
+      "verse": 27,
+      "location": "hebron",
+      "startWord": 8,
+      "endWord": 8,
+      "textRef": "that is Hebron"
+    }
+  ]
+}

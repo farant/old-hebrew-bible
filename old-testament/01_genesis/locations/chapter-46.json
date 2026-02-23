@@ -1,0 +1,26 @@
+{
+  "chapter": 46,
+  "mentions": [
+    { "verse": 1, "location": "beer-sheba", "startWord": 4, "endWord": 5, "textRef": "Beer-sheba" },
+    { "verse": 3, "location": "egypt", "startWord": 7, "endWord": 7, "textRef": "toward Egypt" },
+    { "verse": 4, "location": "egypt", "startWord": 3, "endWord": 3, "textRef": "toward Egypt" },
+    { "verse": 5, "location": "beer-sheba", "startWord": 2, "endWord": 3, "textRef": "from Beer-sheba" },
+    { "verse": 6, "location": "canaan", "startWord": 5, "endWord": 6, "textRef": "land of Canaan" },
+    { "verse": 6, "location": "egypt", "startWord": 8, "endWord": 8, "textRef": "toward Egypt" },
+    { "verse": 7, "location": "egypt", "startWord": 10, "endWord": 10, "textRef": "toward Egypt" },
+    { "verse": 8, "location": "egypt", "startWord": 4, "endWord": 4, "textRef": "toward Egypt" },
+    { "verse": 12, "location": "canaan", "startWord": 10, "endWord": 11, "textRef": "land of Canaan" },
+    { "verse": 15, "location": "paddan-aram", "startWord": 6, "endWord": 7, "textRef": "Paddan-aram" },
+    { "verse": 20, "location": "egypt", "startWord": 2, "endWord": 3, "textRef": "land of Egypt" },
+    { "verse": 20, "location": "on", "startWord": 10, "endWord": 10, "textRef": "On (Heliopolis)" },
+    { "verse": 26, "location": "egypt", "startWord": 3, "endWord": 3, "textRef": "toward Egypt" },
+    { "verse": 27, "location": "egypt", "startWord": 3, "endWord": 3, "textRef": "in Egypt" },
+    { "verse": 27, "location": "egypt", "startWord": 9, "endWord": 9, "textRef": "toward Egypt" },
+    { "verse": 28, "location": "goshen", "startWord": 6, "endWord": 6, "textRef": "toward Goshen" },
+    { "verse": 28, "location": "goshen", "startWord": 8, "endWord": 9, "textRef": "land of Goshen" },
+    { "verse": 29, "location": "goshen", "startWord": 6, "endWord": 6, "textRef": "toward Goshen" },
+    { "verse": 31, "location": "canaan", "startWord": 13, "endWord": 13, "textRef": "land of Canaan" },
+    { "verse": 34, "location": "goshen", "startWord": 11, "endWord": 12, "textRef": "land of Goshen" },
+    { "verse": 34, "location": "egypt", "startWord": 14, "endWord": 14, "textRef": "Egypt" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chapter": 18,
+  "mentions": [
+    {
+      "verse": 1,
+      "location": "mamre",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "oaks of Mamre"
+    },
+    {
+      "verse": 16,
+      "location": "sodom",
+      "startWord": 5,
+      "endWord": 5,
+      "textRef": "looked toward Sodom"
+    },
+    {
+      "verse": 20,
+      "location": "sodom",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "outcry of Sodom and Gomorrah"
+    },
+    {
+      "verse": 20,
+      "location": "gomorrah",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "outcry of Sodom and Gomorrah"
+    },
+    {
+      "verse": 22,
+      "location": "sodom",
+      "startWord": 4,
+      "endWord": 4,
+      "textRef": "the men went toward Sodom"
+    },
+    {
+      "verse": 26,
+      "location": "sodom",
+      "startWord": 3,
+      "endWord": 3,
+      "textRef": "if I find in Sodom fifty righteous"
+    }
+  ]
+}
