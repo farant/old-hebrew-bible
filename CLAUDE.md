@@ -1,0 +1,3 @@
+- i call "paleo hebrew" characters "old hebrew"
+- you can write old hebrew using phonecian unicode characters
+- i want to translate the hebrew bible into old hebrew
