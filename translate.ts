@@ -2,6 +2,85 @@ const file = Bun.file("modern-hebrew-genesis.txt");
 const text = await file.text();
 const lines = text.split("\n");
 
+// ─── Load Strong's dictionary ───────────────────────────────────────────────
+const strongsRaw = await Bun.file("strongs-hebrew-dictionary.js").text();
+// Extract the JSON object: strip comments, var declaration, trailing semicolon, and module.exports
+const strongsJson = strongsRaw
+  .replace(/\/\*[\s\S]*?\*\//, "")           // strip block comment
+  .replace(/var\s+\w+\s*=\s*/, "")           // strip var declaration
+  .replace(/;\s*module\.exports[\s\S]*$/, "") // strip trailing module.exports
+  .trim()
+  .replace(/;$/, "");                         // strip trailing semicolon
+const strongsDict: Record<string, { lemma: string; strongs_def: string; kjv_def: string }> =
+  JSON.parse(strongsJson);
+
+// ─── Load OSHB Genesis XML and build word → Strong's mapping ────────────────
+const genXml = await Bun.file("Gen.xml").text();
+
+// Parse all <w> elements with their lemma and text, grouped by verse
+interface OshbWord {
+  text: string;           // Hebrew text with slashes stripped
+  consonants: string;     // Consonants only (for matching)
+  strongsNums: string[];  // Strong's numbers from lemma attr
+}
+
+interface OshbVerse {
+  chapter: number;
+  verse: number;
+  words: OshbWord[];
+}
+
+function hebrewConsonantsOnly(s: string): string {
+  return s
+    .replace(/\//g, "")
+    .replace(/[\u034F\u0591-\u05AF\u05B0-\u05BD\u05BF\u05C1\u05C2\u05C4\u05C5\u05C7]/g, "")
+    .replace(/[\u05C3\u05C0\u200F\u200E\u202A-\u202E\u2066-\u2069]/g, "")
+    .trim();
+}
+
+const oshbVerses: OshbVerse[] = [];
+
+// Extract verses with regex (avoid XML parser dependency)
+const verseRe = /<verse\s+osisID="Gen\.(\d+)\.(\d+)">([\s\S]*?)<\/verse>/g;
+let verseMatch;
+while ((verseMatch = verseRe.exec(genXml)) !== null) {
+  const chapter = parseInt(verseMatch[1]);
+  const verse = parseInt(verseMatch[2]);
+  const body = verseMatch[3];
+
+  const words: OshbWord[] = [];
+  const wordRe = /<w\s+lemma="([^"]*)"[^>]*>([^<]+)<\/w>/g;
+  let wm;
+  while ((wm = wordRe.exec(body)) !== null) {
+    const lemmaAttr = wm[1];
+    const wordText = wm[2];
+
+    // Extract Strong's numbers: "b/7225" → ["7225"], "c/853" → ["853"]
+    // Prefixes a,b,c,d,k,l,m,s are grammatical markers, not Strong's entries
+    const strongsNums = lemmaAttr
+      .split("/")
+      .map((p) => p.trim().replace(/\s+[a-z]$/, "")) // strip trailing letter variants
+      .filter((p) => /^\d+/.test(p))
+      .map((p) => p.replace(/\D.*$/, "")); // keep just the number
+
+    words.push({
+      text: wordText.replace(/\//g, ""),
+      consonants: hebrewConsonantsOnly(wordText),
+      strongsNums,
+    });
+  }
+
+  oshbVerses.push({ chapter, verse, words });
+}
+
+// Build a lookup: chapter:verse → list of OSHB words
+const oshbLookup = new Map<string, OshbWord[]>();
+for (const v of oshbVerses) {
+  oshbLookup.set(`${v.chapter}:${v.verse}`, v.words);
+}
+
+// ─── Character mappings ─────────────────────────────────────────────────────
+
 // Modern Hebrew consonants → Phoenician Unicode (Old Hebrew)
 const charMap: Record<string, string> = {
   "א": "𐤀",
@@ -81,6 +160,8 @@ const vowelLatin: Record<number, string> = {
   0x05bb: "u",  // qubutz
 };
 
+// ─── Text processing functions ──────────────────────────────────────────────
+
 // Strip cantillation marks only (keep nikkud for transliteration)
 function stripCantillation(s: string): string {
   return s.replace(/[\u034F\u0591-\u05AF]/g, "");
@@ -116,7 +197,6 @@ function transliterateWord(word: string): string {
     if (consonantLatin[ch]) {
       // Collect combining marks that follow this consonant
       let hasDagesh = false;
-      let hasShinDot = false;
       let hasSinDot = false;
       let vowel = "";
       let j = i + 1;
@@ -125,7 +205,7 @@ function transliterateWord(word: string): string {
         if (nc === 0x05bc) {
           hasDagesh = true;
         } else if (nc === 0x05c1) {
-          hasShinDot = true;
+          // shin dot — no action needed, default is shin
         } else if (nc === 0x05c2) {
           hasSinDot = true;
         } else if (vowelLatin[nc] !== undefined) {
@@ -208,9 +288,76 @@ function splitOldHebrew(text: string): string[] {
   return text.split(/\s+/).filter((w) => w.length > 0);
 }
 
+// Get consonants from our source text word (for matching against OSHB)
+function ourConsonants(hebrewWord: string): string {
+  return stripDiacritics(hebrewWord)
+    .replace(/[\u05C3\u05C0\u05BE\u200F\u200E\u202A-\u202E\u2066-\u2069]/g, "")
+    .trim();
+}
+
+// ─── Look up Strong's definition for a word ─────────────────────────────────
+function getDefinition(strongsNums: string[]): string {
+  const defs: string[] = [];
+  for (const num of strongsNums) {
+    const entry = strongsDict[`H${num}`];
+    if (entry && entry.strongs_def) {
+      let def = entry.strongs_def
+        .replace(/\{([^}]+)\}/g, "$1") // unwrap {braces}
+        .replace(/\s+/g, " ")
+        .trim();
+      defs.push(def);
+    }
+  }
+  return defs.join("; ");
+}
+
+// ─── Match our words to OSHB words for a given verse ────────────────────────
+// Our source splits on spaces and keeps maqaf-joined words together.
+// OSHB splits every morpheme separately (including parts of maqaf words).
+// We match by walking both lists and comparing consonants.
+function matchWordsToStrongs(
+  ourWords: string[],
+  chapter: number,
+  verse: number
+): string[] {
+  const oshbWords = oshbLookup.get(`${chapter}:${verse}`);
+  if (!oshbWords) return ourWords.map(() => "");
+
+  const definitions: string[] = [];
+  let oi = 0; // oshb index
+
+  for (const ourWord of ourWords) {
+    // Our word may be multiple OSHB words joined by maqaf
+    const parts = ourWord.split("\u05BE");
+    const allNums: string[] = [];
+
+    for (const part of parts) {
+      const partCons = ourConsonants(part);
+      // Accumulate OSHB words until their consonants match this part
+      let accumulated = "";
+      while (oi < oshbWords.length) {
+        const ow = oshbWords[oi];
+        accumulated += ow.consonants;
+        allNums.push(...ow.strongsNums);
+        oi++;
+        if (accumulated === partCons) break;
+        // If we've overshot, break to avoid runaway
+        if (accumulated.length >= partCons.length) break;
+      }
+    }
+
+    definitions.push(getDefinition(allNums));
+  }
+
+  return definitions;
+}
+
+// ─── Main processing ────────────────────────────────────────────────────────
+
 interface Word {
   oldHebrew: string;
   transliteration: string;
+  definition: string;
 }
 
 interface Verse {
@@ -242,10 +389,20 @@ for (const line of lines) {
   const oldHebrewWords = splitOldHebrew(oldHebrew);
   const transliterations = transliterateText(hebrewText);
 
-  // Pair up old hebrew words with transliterations
+  // Split original text the same way we split for transliteration
+  const originalWords = hebrewText
+    .replace(/\u05C3/g, "")
+    .replace(/\u05C0/g, "")
+    .split(/\s+/)
+    .filter((w) => w.length > 0);
+
+  const definitions = matchWordsToStrongs(originalWords, chapter, verse);
+
+  // Pair up old hebrew words with transliterations and definitions
   const words: Word[] = oldHebrewWords.map((oh, i) => ({
     oldHebrew: oh,
     transliteration: transliterations[i] || "",
+    definition: definitions[i] || "",
   }));
 
   verses.push({
@@ -259,5 +416,36 @@ for (const line of lines) {
 
 await Bun.write("genesis-old-hebrew.json", JSON.stringify(verses, null, 2));
 
+// Build unique vocabulary with frequency counts and definitions
+const vocabMap = new Map<string, { oldHebrew: string; transliteration: string; count: number; definition: string }>();
+for (const v of verses) {
+  for (const w of v.words) {
+    if (!w.oldHebrew || !w.transliteration) continue;
+    const existing = vocabMap.get(w.oldHebrew);
+    if (existing) {
+      existing.count++;
+      // Keep the longer definition if we find one
+      if (w.definition.length > existing.definition.length) {
+        existing.definition = w.definition;
+      }
+    } else {
+      vocabMap.set(w.oldHebrew, {
+        oldHebrew: w.oldHebrew,
+        transliteration: w.transliteration,
+        count: 1,
+        definition: w.definition,
+      });
+    }
+  }
+}
+
+const vocabulary = [...vocabMap.values()].sort((a, b) =>
+  a.transliteration.localeCompare(b.transliteration)
+);
+
+await Bun.write("vocabulary.json", JSON.stringify(vocabulary, null, 2));
+
 const chapters = new Set(verses.map((v) => v.chapter)).size;
+const withDefs = vocabulary.filter((v) => v.definition.length > 0).length;
 console.log(`Translated ${verses.length} verses across ${chapters} chapters`);
+console.log(`Vocabulary: ${vocabulary.length} unique words (${withDefs} with definitions)`);

@@ -3,6 +3,7 @@ const json = await Bun.file("genesis-old-hebrew.json").json();
 interface Word {
   oldHebrew: string;
   transliteration: string;
+  definition: string;
 }
 
 interface Verse {
@@ -23,7 +24,7 @@ function renderWords(words: Word[]): string {
   return words
     .map(
       (w) =>
-        `<span class="word" data-t="${escapeHtml(w.transliteration)}">${escapeHtml(w.oldHebrew)}</span>`
+        `<span class="word" data-t="${escapeHtml(w.transliteration)}" data-d="${escapeHtml(w.definition)}">${escapeHtml(w.oldHebrew)}</span>`
     )
     .join(" ");
 }
@@ -176,7 +177,7 @@ const html = `<!DOCTYPE html>
     }
 
     .paragraph {
-      text-align: justify;
+      text-align: start;
     }
 
     .verse-num-inline {
@@ -275,6 +276,15 @@ const html = `<!DOCTYPE html>
       padding: 0.15em 0;
     }
 
+    .popover-definition {
+      font-size: 12px;
+      color: #bbb;
+      line-height: 1.5;
+      margin-bottom: 0.6em;
+      padding-bottom: 0.5em;
+      border-bottom: 1px solid #444;
+    }
+
     /* Print styles */
     @media print {
       .toggle-bar, .popover {
@@ -312,7 +322,7 @@ const html = `<!DOCTYPE html>
 <body>
   <header>
     <h1>𐤁𐤓𐤀𐤔𐤉𐤕 — Genesis</h1>
-    <div class="subtitle">The Book of Genesis in Old Hebrew (Phoenician Script)</div>
+    <div class="subtitle">The Book of Genesis in Old Hebrew</div>
     <div class="subtitle">Source: Leningrad Codex (UXLC)</div>
   </header>
   <div class="toggle-bar">
@@ -374,7 +384,12 @@ ${chapterHtml.join("\n")}
       const chars = [...word.textContent];
       const sepChar = '𐤟';
 
+      const definition = word.dataset.d;
+
       let html = '<div class="popover-pronunciation">' + pronunciation + '</div>';
+      if (definition) {
+        html += '<div class="popover-definition">' + definition + '</div>';
+      }
 
       let isFirst = true;
       for (const ch of chars) {
