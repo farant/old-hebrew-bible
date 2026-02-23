@@ -1,0 +1,730 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "greek": "Παῦλος καὶ Τιμόθεος δοῦλοι ⸂Χριστοῦ Ἰησοῦ⸃ πᾶσιν τοῖς ἁγίοις ἐν Χριστῷ Ἰησοῦ τοῖς οὖσιν ἐν Φιλίπποις σὺν ἐπισκόποις καὶ διακόνοις·",
+    "hebrew": "פּוֹלוֹס וְטִימוֹתִיּוֹס עַבְדֵי הַמָּשִׁיחַ יֵשׁוּעַ אֶל-כָּל-הַקְּדשִׁים בַּמָּשִׁיחַ יֵשׁוּעַ אֲשֶׁר הֵם בְּפִילִפִּי עִם-הַהֶגְמוֹנִם וְהַשַּׁמָּשִׁים",
+    "latin": "Paulus et Timotheus, servi Jesu Christi, omnibus sanctis in Christo Jesu, qui sunt Philippis, cum episcopis et diaconibus."
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "greek": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+    "hebrew": "חֶסֶד לָכֶם וְשָׁלוֹם מֵאֵת הָאֱלֹהִים אָבִינוּ וַאֲדֹנֵינוּ יֵשׁוּעַ הַמָּשִׁיחַ",
+    "latin": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo."
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "greek": "Εὐχαριστῶ τῷ θεῷ μου ἐπὶ πάσῃ τῇ μνείᾳ ὑμῶν",
+    "hebrew": "אוֹדֶה לֵאלֹהָי מִדֵּי זָכְרִי אֶתְכֶם",
+    "latin": "Gratias ago Deo meo in omni memoria vestri,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "greek": "πάντοτε ἐν πάσῃ δεήσει μου ὑπὲρ πάντων ὑμῶν, μετὰ χαρᾶς τὴν δέησιν ποιούμενος,",
+    "hebrew": "וְתָמִיד בְּכָל-תְּפִלּוֹתַי אֶתְחַנֵּן בְּשִׂמְחָה בְּעַד כֻּלְּכֶם",
+    "latin": "semper in cunctis orationibus meis pro omnibus vobis, cum gaudio deprecationem faciens,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "greek": "ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ εὐαγγέλιον ἀπὸ ⸀τῆς πρώτης ἡμέρας ἄχρι τοῦ νῦν,",
+    "hebrew": "עַל-הִתְחַבְּרוּתְכֶם אֶל-הַבְּשׂוֹרָה לְמִן-הַיּוֹם הָרִאשׁוֹן וְעַד-הֵנָּה",
+    "latin": "super communicatione vestra in Evangelio Christi a prima die usque nunc."
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "greek": "πεποιθὼς αὐτὸ τοῦτο ὅτι ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει ἄχρι ἡμέρας ⸂Χριστοῦ Ἰησοῦ⸃·",
+    "hebrew": "וּבָטוּחַ אֲנִי בַּמַּתְחִיל בָּכֶם הַמַּעֲשֶׂה הַטּוֹב שֶׁגַּם-יִגְמְרֶנּוּ עַד-יוֹם יֵשׁוּעַ הַמָּשִׁיחַ",
+    "latin": "Confidens hoc ipsum, quia qui cœpit in vobis opus bonum, perficiet usque in diem Christi Jesu :"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "greek": "καθώς ἐστιν δίκαιον ἐμοὶ τοῦτο φρονεῖν ὑπὲρ πάντων ὑμῶν, διὰ τὸ ἔχειν με ἐν τῇ καρδίᾳ ὑμᾶς, ἔν τε τοῖς δεσμοῖς μου καὶ ἐν τῇ ἀπολογίᾳ καὶ βεβαιώσει τοῦ εὐαγγελίου συγκοινωνούς μου τῆς χάριτος πάντας ὑμᾶς ὄντας·",
+    "hebrew": "כָּרָאוּי לִי לַחֲשֹׁב לְכֻלְּכֶם בַּעֲבוּר שְׂאֵתִי אֶתְכֶם בִּלְבָבִי בְּמוֹסֵרַי וּבְהַצְדִּיקִי וְחַזְּקִי אֶת-הַבְּשׂוֹרָה כִּי אַתֶּם כֻּלְּכֶם חֲבֵרַי בֶּחָסֶד",
+    "latin": "sicut est mihi justum hoc sentire pro omnibus vobis : eo quod habeam vos in corde, et in vinculis meis, et in defensione, et confirmatione Evangelii, socios gaudii mei omnes vos esse."
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "greek": "μάρτυς γάρ ⸀μου ὁ θεός, ὡς ἐπιποθῶ πάντας ὑμᾶς ἐν σπλάγχνοις ⸂Χριστοῦ Ἰησοῦ⸃.",
+    "hebrew": "כִּי הָאֱלֹהִים לְעֵד לִי אֲשֶׁר נִכְסַפְתִּי לְכֻלְּכֶם בְּאַהֲבַת יֵשׁוּעַ הַמָּשִׁיחַ",
+    "latin": "Testis enim mihi est Deus, quomodo cupiam omnes vos in visceribus Jesu Christi."
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "greek": "καὶ τοῦτο προσεύχομαι ἵνα ἡ ἀγάπη ὑμῶν ἔτι μᾶλλον καὶ μᾶλλον περισσεύῃ ἐν ἐπιγνώσει καὶ πάσῃ αἰσθήσει,",
+    "hebrew": "וְעַל-זֹאת מִתְפַּלֵּל אָנֹכִי שֶׁעוֹד תִּרְבֶּה וְתִגְדַּל אַהֲבַתְכֶם לְהַשְׂכֵּל וּלְכָל-דָּעַת",
+    "latin": "Et hoc oro, ut caritas vestra magis ac magis abundet in scientia, et in omni sensu :"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "greek": "εἰς τὸ δοκιμάζειν ὑμᾶς τὰ διαφέροντα, ἵνα ἦτε εἰλικρινεῖς καὶ ἀπρόσκοποι εἰς ἡμέραν Χριστοῦ,",
+    "hebrew": "לְמַעַן תֵּדְעוּ בֵּין טוֹב לָרָע וִהְיִיתֶם זַכִּים וּבְלִי מִכְשׁוֹל עַד-יוֹם הַמָּשִׁיחַ",
+    "latin": "ut probetis potiora, ut sitis sinceri, et sine offensa in diem Christi,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "greek": "πεπληρωμένοι ⸂καρπὸν δικαιοσύνης τὸν⸃ διὰ Ἰησοῦ Χριστοῦ εἰς δόξαν καὶ ἔπαινον θεοῦ.",
+    "hebrew": "מְלֵאִים פְּרִי הַצְּדָקָה עַל-יְדֵי יֵשׁוּעַ הַמָּשִׁיחַ לִכְבוֹד אֱלֹהִים וְלִתְהִלָּתוֹ",
+    "latin": "repleti fructu justitiæ per Jesum Christum, in gloriam et laudem Dei."
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "greek": "Γινώσκειν δὲ ὑμᾶς βούλομαι, ἀδελφοί, ὅτι τὰ κατʼ ἐμὲ μᾶλλον εἰς προκοπὴν τοῦ εὐαγγελίου ἐλήλυθεν,",
+    "hebrew": "וְהִנְנִי מוֹדִיעַ אֶתְכֶם אֶחָי כִּי מַה-שֶּׁבָּא עָלַי לֹא בָא אֶלָּא לְיִתְרוֹן הַבְּשׂוֹרָה",
+    "latin": "Scire autem vos volo fratres, quia quæ circa me sunt, magis ad profectum venerunt Evangelii :"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "greek": "ὥστε τοὺς δεσμούς μου φανεροὺς ἐν Χριστῷ γενέσθαι ἐν ὅλῳ τῷ πραιτωρίῳ καὶ τοῖς λοιποῖς πᾶσιν,",
+    "hebrew": "עַד אֲשֶׁר נִגְלוּ מוֹסְרוֹתַי בַּמָּשִׁיחַ בְּכָל-שַׁעַר הַמֶּלֶךְ וּלְכֹל הַנִּשְׁאָרִים",
+    "latin": "ita ut vincula mea manifesta fierent in Christo in omni prætorio, et in ceteris omnibus,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "greek": "καὶ τοὺς πλείονας τῶν ἀδελφῶν ἐν κυρίῳ πεποιθότας τοῖς δεσμοῖς μου περισσοτέρως τολμᾶν ἀφόβως τὸν ⸀λόγον λαλεῖν.",
+    "hebrew": "וְרֹב הָאַחִים בַּאֲדֹנֵינוּ הוֹסִיפוּ אֹמֶץ בְּמוֹסְרוֹתַי וְהִתְחַזְּקוּ בִלְבָבָם לְדַבֵּר אֶת-הַדָּבָר בְּלִי-פָחַד",
+    "latin": "et plures e fratribus in Domino confidentes vinculis meis, abundantius auderent sine timore verbum Dei loqui."
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "greek": "Τινὲς μὲν καὶ διὰ φθόνον καὶ ἔριν, τινὲς δὲ καὶ διʼ εὐδοκίαν τὸν Χριστὸν κηρύσσουσιν·",
+    "hebrew": "הֵן יֵשׁ מַכְרִיזִים אֶת-הַמָּשִׁיחַ מִקִּנְאָה וָרִיב וְיֵשׁ מַכְרִיזִים מִמַּחֲשָׁבָה טוֹבָה",
+    "latin": "Quidam quidem et propter invidiam et contentionem : quidam autem et propter bonam voluntatem Christum prædicant :"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "greek": "οἱ μὲν ἐξ ⸂ἀγάπης, εἰδότες ὅτι εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι⸃,",
+    "hebrew": "אֵלֶּה מִמְּרִיבָה מַכְרִיזִים אֶת-הַמָּשִׁיחַ לֹא בְלֵב-טָהוֹר כִּי חשְׁבִים לְהוֹסִיף צָרָה עַל-מוֹסֵרָי",
+    "latin": "quidam ex caritate, scientes quoniam in defensionem Evangelii positus sum."
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "greek": "οἱ δὲ ἐξ ⸂ἐριθείας τὸν Χριστὸν καταγγέλλουσιν, οὐχ ἁγνῶς, οἰόμενοι θλῖψιν ἐγείρειν τοῖς δεσμοῖς μου⸃.",
+    "hebrew": "וְאֵלֶּה מֵאַהֲבָה בַּאֲשֶׁר הֵם יֹדְעִים כִּי-נָתוּן אָנֹכִי לְהַצְדִּיק אֶת-הַבְּשׂוֹרָה",
+    "latin": "Quidam autem ex contentione Christum annuntiant non sincere, existimantes pressuram se suscitare vinculis meis."
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "greek": "τί γάρ; πλὴν ⸀ὅτι παντὶ τρόπῳ, εἴτε προφάσει εἴτε ἀληθείᾳ, Χριστὸς καταγγέλλεται, καὶ ἐν τούτῳ χαίρω· ἀλλὰ καὶ χαρήσομαι,",
+    "hebrew": "אֶלָּא מַה-בְּכָךְ וּבִלְבַד שֶׁיֻּכְרַז הַמָּשִׁיחַ בֵּין בַּעֲלִילָה וּבֵין בֶּאֱמֶת בָּזֹאת אֲנִי שָׂמֵחַ וְגַם אֱהְיֶה שָׂמֵח",
+    "latin": "Quid enim ? Dum omni modo sive per occasionem, sive per veritatem, Christus annuntietur : et in hoc gaudeo, sed et gaudebo."
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "greek": "οἶδα γὰρ ὅτι τοῦτό μοι ἀποβήσεται εἰς σωτηρίαν διὰ τῆς ὑμῶν δεήσεως καὶ ἐπιχορηγίας τοῦ πνεύματος Ἰησοῦ Χριστοῦ,",
+    "hebrew": "כִּי יוֹדֵעַ אֲנִי שֶׁגַּם זֹאת תִּהְיֶה-לִּי לִישׁוּעָה בִּתְפִלַּתְכֶם וּבְעֶזְרַת רוּחַ יֵשׁוּעַ הַמָּשִׁיחַ",
+    "latin": "Scio enim quia hoc mihi proveniet ad salutem, per vestram orationem, et subministrationem Spiritus Jesu Christi,"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "greek": "κατὰ τὴν ἀποκαραδοκίαν καὶ ἐλπίδα μου ὅτι ἐν οὐδενὶ αἰσχυνθήσομαι, ἀλλʼ ἐν πάσῃ παρρησίᾳ ὡς πάντοτε καὶ νῦν μεγαλυνθήσεται Χριστὸς ἐν τῷ σώματί μου, εἴτε διὰ ζωῆς εἴτε διὰ θανάτου.",
+    "hebrew": "וְאוֹחִיל וַאֲקַוֶּה שֶׁלּא אֵבוֹשׁ מִכָּל-דָּבָר כִּי אִם-בְּכָל-בִּטָּחוֹן כַּאֲשֶׁר מֵאָז כֵּן עַתָּה יִתְגַּדֵּל הַמָּשִׁיחַ בְּגוּפִי אִם-בְּחַיַּי אִם-בְּמוֹתִי",
+    "latin": "secundum exspectationem et spem meam, quia in nullo confundar : sed in omni fiducia sicut semper, et nunc magnificabitur Christus in corpore meo, sive per vitam, sive per mortem."
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "greek": "ἐμοὶ γὰρ τὸ ζῆν Χριστὸς καὶ τὸ ἀποθανεῖν κέρδος.",
+    "hebrew": "כִּי הַמָּשִׁיחַ הוּא חַיָּי וְהַמָּוֶת רֶוַח-לִי",
+    "latin": "Mihi enim vivere Christus est, et mori lucrum."
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "greek": "εἰ δὲ τὸ ζῆν ἐν σαρκί, τοῦτό μοι καρπὸς ἔργου— καὶ τί αἱρήσομαι οὐ γνωρίζω·",
+    "hebrew": "אֶלָּא אִם-חַיַּי בַּבָּשָׂר יוֹסִיף-לִי פְּרִי עֲמָלִי לֹא אֵדַע בְּמָה אֶבְחָר",
+    "latin": "Quod si vivere in carne, hic mihi fructus operis est, et quid eligam ignoro."
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "greek": "συνέχομαι δὲ ἐκ τῶν δύο, τὴν ἐπιθυμίαν ἔχων εἰς τὸ ἀναλῦσαι καὶ σὺν Χριστῷ εἶναι, πολλῷ ⸀γὰρ μᾶλλον κρεῖσσον,",
+    "hebrew": "כִּי אָחוּז אֲנִי מִשְּׁנֵי צְדָדִים נַפְשִׁי אִוְּתָה לְהִפָּטֵר וְלִהְיוֹת עִם-הַמָּשִׁיחַ כִּי-זֶה הַמֻּבְחָר",
+    "latin": "Coarctor autem e duobus : desiderium habens dissolvi, et esse cum Christo, multo magis melius :"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "greek": "τὸ δὲ ἐπιμένειν ⸀ἐν τῇ σαρκὶ ἀναγκαιότερον διʼ ὑμᾶς.",
+    "hebrew": "אֲבָל עֲמֹד עוֹד בַּבָּשָׂר צָרִיךְ יֹתֵר בַּעֲבוּרְכֶם",
+    "latin": "permanere autem in carne, necessarium propter vos."
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "greek": "καὶ τοῦτο πεποιθὼς οἶδα ὅτι μενῶ καὶ ⸀παραμενῶ πᾶσιν ὑμῖν εἰς τὴν ὑμῶν προκοπὴν καὶ χαρὰν τῆς πίστεως,",
+    "hebrew": "וַאֲנִי בֹטֵחַ וְיֹדֵעַ שֶׁאִוָּתֵר וְאֶעֱמֹד עִם-כֻּלְּכֶם יָחַד לְאַמֵּץ אֶתְכֶם וּלְהַגְדִּיל שִׂמְחַת אֱמוּנַתְכֶם",
+    "latin": "Et hoc confidens scio quia manebo, et permanebo omnibus vobis ad profectum vestrum, et gaudium fidei :"
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "greek": "ἵνα τὸ καύχημα ὑμῶν περισσεύῃ ἐν Χριστῷ Ἰησοῦ ἐν ἐμοὶ διὰ τῆς ἐμῆς παρουσίας πάλιν πρὸς ὑμᾶς.",
+    "hebrew": "לְמַעַן תִּרְבֶּה עַל-יָדִי תְּהִלַּתְכֶם בַּמָּשִׁיחַ יֵשׁוּעַ בְּשׁוּבִי לָבוֹא אֲלֵיכֶם",
+    "latin": "ut gratulatio vestra abundet in Christo Jesu in me, per meum adventum iterum ad vos."
+  },
+  {
+    "chapter": 1,
+    "verse": 27,
+    "greek": "Μόνον ἀξίως τοῦ εὐαγγελίου τοῦ Χριστοῦ πολιτεύεσθε, ἵνα εἴτε ἐλθὼν καὶ ἰδὼν ὑμᾶς εἴτε ἀπὼν ⸀ἀκούω τὰ περὶ ὑμῶν, ὅτι στήκετε ἐν ἑνὶ πνεύματι, μιᾷ ψυχῇ συναθλοῦντες τῇ πίστει τοῦ εὐαγγελίου,",
+    "hebrew": "רַק הִתְנַהֲגוּ כָּרָאוּי לִבְשׂוֹרַת הַמָּשִׁיחַ לְמַעַן אֶשְׁמַע עֲלֵיכֶם אִם-בְּבוֹאִי לִרְאוֹתְכֶם אִם-בִּהְיוֹתִי רָחוֹק שֶׁקַּיָּמִים אַתֶּם בְּרוּחַ אַחַת וְעֹזְרִים אֹתִי נֶפֶשׁ אַחַת לְהִלָּחֵם בְּעַד אֱמוּנַת הַבְּשׂוֹרָה",
+    "latin": "Tantum digne Evangelio Christi conversamini : ut sive cum venero, et videro vos, sive absens audiam de vobis, quia statis in uno spiritu unanimes, collaborantes fidei Evangelii :"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "greek": "καὶ μὴ πτυρόμενοι ἐν μηδενὶ ὑπὸ τῶν ἀντικειμένων (ἥτις ⸂ἐστὶν αὐτοῖς⸃ ἔνδειξις ἀπωλείας, ⸀ὑμῶν δὲ σωτηρίας, καὶ τοῦτο ἀπὸ θεοῦ,",
+    "hebrew": "וְאֵינְכֶם חֲרֵדִים מְאוּמָה מִפְּנֵי הַמִּתְקוֹמֲמִים אֲשֶׁר זֹאת לָהֶם אוֹת לְאָבְדָם וְלָכֶם לִישׁוּעַתְכֶם וְגַם-זֹאת מֵאֵת הָאֱלֹהִים",
+    "latin": "et in nullo terreamini ab adversariis : quæ illis est causa perditionis, vobis autem salutis, et hoc a Deo :"
+  },
+  {
+    "chapter": 1,
+    "verse": 29,
+    "greek": "ὅτι ὑμῖν ἐχαρίσθη τὸ ὑπὲρ Χριστοῦ, οὐ μόνον τὸ εἰς αὐτὸν πιστεύειν ἀλλὰ καὶ τὸ ὑπὲρ αὐτοῦ πάσχειν),",
+    "hebrew": "כִּי-לָכֶם נִתַּן לְהִתְעַנּוֹת בְּעַד הַמָּשִׁיחַ וְלֹא-לְהַאֲמִין בּוֹ בִּלְבָד",
+    "latin": "quia vobis donatum est pro Christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini :"
+  },
+  {
+    "chapter": 1,
+    "verse": 30,
+    "greek": "τὸν αὐτὸν ἀγῶνα ἔχοντες οἷον εἴδετε ἐν ἐμοὶ καὶ νῦν ἀκούετε ἐν ἐμοί.",
+    "hebrew": "כִּי גַם-לָכֶם הַמִּלְחָמָה אֲשֶׁר רְאִיתֶם בִּי וַאֲשֶׁר עַתָּה שֹׁמְעִים אַתֶּם עָלָי",
+    "latin": "idem certamen habentes, quale et vidistis in me, et nunc audistis de me."
+  },
+  {
+    "chapter": 2,
+    "verse": 1,
+    "greek": "Εἴ τις οὖν παράκλησις ἐν Χριστῷ, εἴ τι παραμύθιον ἀγάπης, εἴ τις κοινωνία πνεύματος, εἴ τις σπλάγχνα καὶ οἰκτιρμοί,",
+    "hebrew": "לָכֵן אִם-יֵשׁ תּוֹכַחַת בַּמָּשִׁיחַ אִם-תַּנְחוּמוֹת הָאַהֲבָה אִם-חֶבְרַת רוּחַ אִם-רַחֲמִים וְחֶמְלָה",
+    "latin": "Si qua ergo consolatio in Christo, si quod solatium caritatis, si qua societas spiritus, si qua viscera miserationis :"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "greek": "πληρώσατέ μου τὴν χαρὰν ἵνα τὸ αὐτὸ φρονῆτε, τὴν αὐτὴν ἀγάπην ἔχοντες, σύμψυχοι, τὸ ἓν φρονοῦντες,",
+    "hebrew": "הַשְׁלִימוּ-נָא אֶת-שִׂמְחָתִי בִּהְיוֹת לָכֶם לֵב אֶחָד וְאַהֲבָה אַחַת וְנֶפֶשׁ אַחַת וְרָצוֹן אֶחָד",
+    "latin": "implete gaudium meum ut idem sapiatis, eamdem caritatem habentes, unanimes, idipsum sentientes,"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "greek": "μηδὲν κατʼ ἐριθείαν ⸂μηδὲ κατὰ⸃ κενοδοξίαν, ἀλλὰ τῇ ταπεινοφροσύνῃ ἀλλήλους ἡγούμενοι ὑπερέχοντας ἑαυτῶν,",
+    "hebrew": "וְאַל-תַּעֲשׂוּ דָבָר בְּדֶרֶךְ מְרִיבָה אוֹ כְּבוֹד שָׁוְא כִּי אִם-בְּשִׁפְלוּת רוּחַ יַחְשֹׁב אִישׁ אֶת-רֵעֵהוּ גָּדוֹל מִמֶּנּוּ",
+    "latin": "nihil per contentionem, neque per inanem gloriam : sed in humilitate superiores sibi invicem arbitrantes,"
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "greek": "μὴ τὰ ἑαυτῶν ⸀ἕκαστοι ⸀σκοποῦντες, ἀλλὰ καὶ τὰ ἑτέρων ⸁ἕκαστοι.",
+    "hebrew": "כָּל-אֶחָד אַל-יִדְאַג לַאֲשֶׁר-לוֹ לְבַדּוֹ כִּי אִם-גַּם לַאֲשֶׁר לַחֲבֵרוֹ",
+    "latin": "non quæ sua sunt singuli considerantes, sed ea quæ aliorum."
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "greek": "τοῦτο ⸀φρονεῖτε ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ,",
+    "hebrew": "כִּי יְהִי לְבַבְכֶם כִּלְבַב הַמָּשִׁיחַ יֵשׁוּעַ",
+    "latin": "Hoc enim sentite in vobis, quod et in Christo Jesu :"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "greek": "ὃς ἐν μορφῇ θεοῦ ὑπάρχων οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα θεῷ,",
+    "hebrew": "אֲשֶׁר אַף כִּי-הָיָה בִּדְמוּת הָאֱלֹהִים לֹא-חָשַׁב לוֹ לְשָׁלָל הֱיוֹתוֹ שָׁוֶה לֵאלֹהִים",
+    "latin": "qui cum in forma Dei esset, non rapinam arbitratus est esse se æqualem Deo :"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "greek": "ἀλλὰ ἑαυτὸν ἐκένωσεν μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος· καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος",
+    "hebrew": "כִּי אִם-הִפְשִׁיט אֶת-עַצְמוֹ וַיִּלְבַּשׁ דְּמוּת עֶבֶד וַיְהִי דוֹמֶה לִבְנֵי אָדָם וַיִּמָּצֵא בִתְכוּנָתוֹ כְּבֶן אָדָם",
+    "latin": "sed semetipsum exinanivit, formam servi accipiens, in similitudinem hominum factus, et habitu inventus ut homo."
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "greek": "ἐταπείνωσεν ἑαυτὸν γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ·",
+    "hebrew": "וַיַּשְׁפֵּל אֶת-נַפְשׁוֹ וַיִּכָּנַע עַד-מָוֶת עַד-מִיתַת הַצְּלִיבָה",
+    "latin": "Humiliavit semetipsum factus obediens usque ad mortem, mortem autem crucis."
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "greek": "διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ ⸀τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα,",
+    "hebrew": "עַל-כֵּן הִגְבִּיהוֹ הָאֱלֹהִים מְאֹד וַיִּתֵּן-לוֹ שֵׁם נַעֲלֶה עַל-כָּל-שֵׁם",
+    "latin": "Propter quod et Deus exaltavit illum, et donavit illi nomen, quod est super omne nomen :"
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "greek": "ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων,",
+    "hebrew": "אֲשֶׁר בְּשֵׁם יֵשׁוּעַ תִּכְרַע כָּל-בֶּרֶךְ אֲשֶׁר בַּשָּׁמַיִם וּבָאָרֶץ וּמִתַּחַת לָאָרֶץ",
+    "latin": "ut in nomine Jesu omne genu flectatur cælestium, terrestrium et infernorum,"
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "greek": "καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός.",
+    "hebrew": "וְכָל-לָשׁוֹן תּוֹדֶה כִּי אָדוֹן יֵשׁוּעַ הַמָּשִׁיחַ לִכְבוֹד אֱלֹהִים הָאָב",
+    "latin": "et omnis lingua confiteatur, quia Dominus Jesus Christus in gloria est Dei Patris."
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "greek": "Ὥστε, ἀγαπητοί μου, καθὼς πάντοτε ὑπηκούσατε, μὴ ὡς ἐν τῇ παρουσίᾳ μου μόνον ἀλλὰ νῦν πολλῷ μᾶλλον ἐν τῇ ἀπουσίᾳ μου, μετὰ φόβου καὶ τρόμου τὴν ἑαυτῶν σωτηρίαν κατεργάζεσθε,",
+    "hebrew": "לָכֵן חֲבִיבַי כַּאֲשֶׁר שְׁמַעְתֶּם לִי בְּכָל-עֵת כֵּן לֹא בִּהְיוֹתִי אֶצְלְכֶם בִּלְבָד אֶלָּא-עוֹד יֹתֵר עַתָּה כְּשֶׁאֲנִי רָחוֹק מִכֶּם תִּיגְעוּ לִתְשׁוּעַת נַפְשֹׁתֵיכֶם בְּיִרְאָה וּבִרְעָדָה",
+    "latin": "Itaque carissimi mei (sicut semper obedistis), non ut in præsentia mei tantum, sed multo magis nunc in absentia mea, cum metu et tremore vestram salutem operamini."
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "greek": "⸀θεὸς γάρ ἐστιν ὁ ἐνεργῶν ἐν ὑμῖν καὶ τὸ θέλειν καὶ τὸ ἐνεργεῖν ὑπὲρ τῆς εὐδοκίας.",
+    "hebrew": "כִּי הָאֱלֹהִים הוּא הַפֹּעֵל בָּכֶם גַּם-לַחְפֹּץ גַּם-לִפְעֹל כְּפִי רְצוֹנוֹ",
+    "latin": "Deus est enim, qui operatur in vobis et velle, et perficere pro bona voluntate."
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "greek": "Πάντα ποιεῖτε χωρὶς γογγυσμῶν καὶ διαλογισμῶν,",
+    "hebrew": "עֲשׂוּ כָּל-דָּבָר בְּלֹא תְלֻנּוֹת וּבְלֹא מְזִמּוֹת",
+    "latin": "Omnia autem facite sine murmurationibus et hæsitationibus :"
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "greek": "ἵνα γένησθε ἄμεμπτοι καὶ ἀκέραιοι, τέκνα θεοῦ ⸂ἄμωμα μέσον⸃ γενεᾶς σκολιᾶς καὶ διεστραμμένης, ἐν οἷς φαίνεσθε ὡς φωστῆρες ἐν κόσμῳ",
+    "hebrew": "לְמַעַן תִּהְיוּ נְקִיִּים וּטְהוֹרִים בְּנֵי אֱלֹהִים אֵין-מוּם בָּם בְּתוֹךְ דּוֹר עִקֵּשׁ וּפְתַלְתֹּל אֲשֶׁר-תָּאִירוּ בֵינֵיהֶם כִּמְאוֹרֹת בָּעוֹלָם",
+    "latin": "ut sitis sine querela, et simplices filii Dei, sine reprehensione in medio nationis pravæ et perversæ : inter quos lucetis sicut luminaria in mundo,"
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "greek": "λόγον ζωῆς ἐπέχοντες, εἰς καύχημα ἐμοὶ εἰς ἡμέραν Χριστοῦ, ὅτι οὐκ εἰς κενὸν ἔδραμον οὐδὲ εἰς κενὸν ἐκοπίασα.",
+    "hebrew": "מַחֲזִיקִים בִּדְבַר הַחַיִּים לִתְהִלָּה לִי בְּיוֹם הַמָּשִׁיחַ אֲשֶׁר לֹא לְחִנָּם רַצְתִּי וְלֹא לָרִיק יָגָעְתִּי",
+    "latin": "verbum vitæ continentes ad gloriam meam in die Christi, quia non in vacuum cucurri, neque in vacuum laboravi."
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "greek": "ἀλλὰ εἰ καὶ σπένδομαι ἐπὶ τῇ θυσίᾳ καὶ λειτουργίᾳ τῆς πίστεως ὑμῶν, χαίρω καὶ συγχαίρω πᾶσιν ὑμῖν·",
+    "hebrew": "אֲבָל גַּם כִּי-אֻסַּךְ עַל-זֶבַח אֱמוּנַתְכֶם וַעֲבוֹדָתָהּ הִנְנִי שָׂמֵחַ וְשָׂשׂ עִם-כֻּלְּכֶם",
+    "latin": "Sed et si immolor supra sacrificium, et obsequium fidei vestræ, gaudeo, et congratulor omnibus vobis."
+  },
+  {
+    "chapter": 2,
+    "verse": 18,
+    "greek": "τὸ δὲ αὐτὸ καὶ ὑμεῖς χαίρετε καὶ συγχαίρετέ μοι.",
+    "hebrew": "וְכָכָה שִׂמְחוּ אַף-אַתֶּם וְשִׂישׂוּ עִמָּדִי",
+    "latin": "Idipsum autem et vos gaudete, et congratulamini mihi."
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "greek": "Ἐλπίζω δὲ ἐν κυρίῳ Ἰησοῦ Τιμόθεον ταχέως πέμψαι ὑμῖν, ἵνα κἀγὼ εὐψυχῶ γνοὺς τὰ περὶ ὑμῶν.",
+    "hebrew": "וְקִוֵּיתִי בְּיֵשׁוּעַ אֲדֹנֵינוּ לִשְׁלֹחַ אֲלֵיכֶם בִּמְהֵרָה אֶת-טִימוֹתִיּוֹס לְמַעַן תָּנוּחַ דַּעְתִּי בְּהִוָּדַע לִי שְׁלוֹמְכֶם",
+    "latin": "Spero autem in Domino Jesu, Timotheum me cito mittere ad vos : ut et ego bono animo sim, cognitis quæ circa vos sunt."
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "greek": "οὐδένα γὰρ ἔχω ἰσόψυχον ὅστις γνησίως τὰ περὶ ὑμῶν μεριμνήσει,",
+    "hebrew": "כִּי זוּלָתוֹ אֵין-אִתִּי אִישׁ כִּלְבָבִי אֲשֶׁר בְּלֵב שָׁלֵם יִדְאַג לָכֶם",
+    "latin": "Neminem enim habeo tam unanimem, qui sincera affectione pro vobis sollicitus sit."
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "greek": "οἱ πάντες γὰρ τὰ ἑαυτῶν ζητοῦσιν, οὐ τὰ ⸂Ἰησοῦ Χριστοῦ⸃.",
+    "hebrew": "כִּי כֻלָּם אֵת אֲשֶׁר-לָהֶם יִדְרשׁוּ וְלֹא אֶת-אֲשֶׁר לְיֵשׁוּעַ הַמָּשִׁיחַ",
+    "latin": "Omnes enim quæ sua sunt quærunt, non quæ sunt Jesu Christi."
+  },
+  {
+    "chapter": 2,
+    "verse": 22,
+    "greek": "τὴν δὲ δοκιμὴν αὐτοῦ γινώσκετε, ὅτι ὡς πατρὶ τέκνον σὺν ἐμοὶ ἐδούλευσεν εἰς τὸ εὐαγγέλιον.",
+    "hebrew": "וְאוֹתוֹ יְדַעְתֶּם כִּי בָחוּן הוּא אֲשֶׁר כַּבֵּן הָעֹבֵד אֶת-אָבִיו כֵּן הָיָה אִתִּי בַּעֲבוֹדַת הַבְּשׂוֹרָה",
+    "latin": "Experimentum autem ejus cognoscite, quia sicut patri filius, mecum servivit in Evangelio."
+  },
+  {
+    "chapter": 2,
+    "verse": 23,
+    "greek": "τοῦτον μὲν οὖν ἐλπίζω πέμψαι ὡς ἂν ἀφίδω τὰ περὶ ἐμὲ ἐξαυτῆς·",
+    "hebrew": "וְאֹתוֹ אֲקַוֶּה לִשְׁלֹחַ אֲלֵיכֶם מַהֵר כַּאֲשֶׁר אֶרְאֶה מַה-יִּהְיֶה לִי",
+    "latin": "Hunc igitur spero me mittere ad vos, mox ut videro quæ circa me sunt."
+  },
+  {
+    "chapter": 2,
+    "verse": 24,
+    "greek": "πέποιθα δὲ ἐν κυρίῳ ὅτι καὶ αὐτὸς ταχέως ἐλεύσομαι.",
+    "hebrew": "וּבָטַחְתִּי בַאֲדֹנֵינוּ אֲשֶׁר גַּם-אָנֹכִי אָבוֹא אֲלֵיכֶם בִּמְהֵרָה",
+    "latin": "Confido autem in Domino quoniam et ipse veniam ad vos cito."
+  },
+  {
+    "chapter": 2,
+    "verse": 25,
+    "greek": "Ἀναγκαῖον δὲ ἡγησάμην Ἐπαφρόδιτον τὸν ἀδελφὸν καὶ συνεργὸν καὶ συστρατιώτην μου, ὑμῶν δὲ ἀπόστολον καὶ λειτουργὸν τῆς χρείας μου, πέμψαι πρὸς ὑμᾶς,",
+    "hebrew": "וְחָשַׁבְתִּי לְחוֹבָה לִי לִשְׁלֹחַ אֲלֵיכֶם אֶת-אֶפַּפְרוֹדִיטוֹס אָחִי וְעֹזְרִי וַחֲבֵרִי בַצָּבָא וְהוּא שְׁלִיחֲכֶם וּמְשָׁרֲתִי בִּצְרָכָי",
+    "latin": "Necessarium autem existimavi Epaphroditum fratrem, et cooperatorem, et commilitonem meum, vestrum autem apostolum, et ministrum necessitatis meæ, mittere ad vos :"
+  },
+  {
+    "chapter": 2,
+    "verse": 26,
+    "greek": "ἐπειδὴ ἐπιποθῶν ἦν πάντας ⸀ὑμᾶς, καὶ ἀδημονῶν διότι ἠκούσατε ὅτι ἠσθένησεν.",
+    "hebrew": "מִפְּנֵי שֶׁהָיָה נִכְסָף לְכֻלְּכֶם וְנֶעְצָב מְאֹד עַל-אֲשֶׁר שְׁמַעְתֶּם כִּי חָלָה",
+    "latin": "quoniam quidem omnes vos desiderabat : et mœstus erat, propterea quod audieratis illum infirmatum."
+  },
+  {
+    "chapter": 2,
+    "verse": 27,
+    "greek": "καὶ γὰρ ἠσθένησεν παραπλήσιον ⸀θανάτῳ· ἀλλὰ ὁ θεὸς ⸂ἠλέησεν αὐτόν⸃, οὐκ αὐτὸν δὲ μόνον ἀλλὰ καὶ ἐμέ, ἵνα μὴ λύπην ἐπὶ λύπην σχῶ.",
+    "hebrew": "אָמְנָם חָלֹה חָלָה וְנָטָה לָמוּת אֲבָל הָאֱלֹהִים רִחַם עָלָיו וְלֹא עָלָיו בִּלְבַד כִּי גַּם-עָלַי רִחַם שֶׁלּא-יָבוֹא עָלַי יָגוֹן עַל-יָגוֹן",
+    "latin": "Nam et infirmatus est usque ad mortem : sed Deus misertus est ejus : non solum autem ejus, verum etiam et mei, ne tristitiam super tristitiam haberem."
+  },
+  {
+    "chapter": 2,
+    "verse": 28,
+    "greek": "σπουδαιοτέρως οὖν ἔπεμψα αὐτὸν ἵνα ἰδόντες αὐτὸν πάλιν χαρῆτε κἀγὼ ἀλυπότερος ὦ.",
+    "hebrew": "לָכֵן מִהַרְתִּי וּשְׁלַחְתִּיו אֲלֵיכֶם לְמַעַן תִּרְאֻהוּ וְתָשׁוּבוּ לִשְׂמוֹחַ וְגַם-יִמְעַט יְגוֹנִי",
+    "latin": "Festinantius ergo misi illum, ut viso eo iterum gaudeatis, et ego sine tristitia sim."
+  },
+  {
+    "chapter": 2,
+    "verse": 29,
+    "greek": "προσδέχεσθε οὖν αὐτὸν ἐν κυρίῳ μετὰ πάσης χαρᾶς, καὶ τοὺς τοιούτους ἐντίμους ἔχετε,",
+    "hebrew": "עַל-כֵּן קַבְּלֻהוּ בַאֲדֹנֵינוּ בְּכָל-שִׂמְחָה וְהוֹקִירוּ אֲנָשִׁים כָּמֹהוּ",
+    "latin": "Excipite itaque illum cum omni gaudio in Domino, et ejusmodi cum honore habetote ;"
+  },
+  {
+    "chapter": 2,
+    "verse": 30,
+    "greek": "ὅτι διὰ τὸ ἔργον ⸀Χριστοῦ μέχρι θανάτου ἤγγισεν, ⸀παραβολευσάμενος τῇ ψυχῇ ἵνα ἀναπληρώσῃ τὸ ὑμῶν ὑστέρημα τῆς πρός με λειτουργίας.",
+    "hebrew": "כִּי בְעַד מַעֲשֵׂה הַמָּשִׁיחַ הִגִּיעַ עַד-מָוֶת וַתֵּקַל נַפְשׁוֹ בְּעֵינָיו לְמַעַן יְמַלֵּא אֶת-אֲשֶׁר חֲסַרְתֶּם בְּשָׁרֶתְכֶם אוֹתִי",
+    "latin": "quoniam propter opus Christi usque ad mortem accessit, tradens animam suam ut impleret id quod ex vobis deerat erga meum obsequium."
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "greek": "Τὸ λοιπόν, ἀδελφοί μου, χαίρετε ἐν κυρίῳ. τὰ αὐτὰ γράφειν ὑμῖν ἐμοὶ μὲν οὐκ ὀκνηρόν, ὑμῖν δὲ ἀσφαλές.",
+    "hebrew": "וְעוֹד אַחַי שִׂמְחוּ בַאֲדֹנֵינוּ הֵן-לִכְתֹּב וְלִשְׁנוֹת לָכֶם כָּזֹאת לֹא טֹרַח הוּא לִי וְלָכֶם הוּא לְחִזּוּק",
+    "latin": "De cetero, fratres mei, gaudete in Domino. Eadem vobis scribere, mihi quidem non pigrum, vobis autem necessarium."
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "greek": "Βλέπετε τοὺς κύνας, βλέπετε τοὺς κακοὺς ἐργάτας, βλέπετε τὴν κατατομήν.",
+    "hebrew": "הִזָּהֲרוּ מִן-הַכְּלָבִים הִזָּהֲרוּ מִן-הַפֹּעֲלִים הָרָעִים הִזָּהֲרוּ מִן-הַחִתּוּךְ",
+    "latin": "Videte canes, videte malos operarios, videte concisionem."
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "greek": "ἡμεῖς γάρ ἐσμεν ἡ περιτομή, οἱ πνεύματι θεοῦ λατρεύοντες καὶ καυχώμενοι ἐν Χριστῷ Ἰησοῦ καὶ οὐκ ἐν σαρκὶ πεποιθότες,",
+    "hebrew": "כִּי אֲנַחְנוּ בְּנֵי הַמִּילָה הָעֹבְדִים אֶת-הָאֱלֹהִים בָּרוּחַ וּמִתְפָּאֲרִים בַּמָּשִׁיחַ יֵשׁוּעַ וְאֵינֶנּוּ בֹטְחִים בַּבָּשָׂר",
+    "latin": "Nos enim sumus circumcisio, qui spiritu servimus Deo, et gloriamur in Christo Jesu, et non in carne fiduciam habentes,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "greek": "καίπερ ἐγὼ ἔχων πεποίθησιν καὶ ἐν σαρκί. Εἴ τις δοκεῖ ἄλλος πεποιθέναι ἐν σαρκί, ἐγὼ μᾶλλον·",
+    "hebrew": "אַף עַל-פִּי שֶׁגַּם-לִי יֵשׁ לִבְטֹחַ בַּבָּשָׂר וְאִם-יֹאמַר אִישׁ שֶׁיָּכֹל הוּא לִבְטֹחַ בַּבָּשָׂר אֲנִי עַל אַחַת כַּמָּה וְכַמָּה",
+    "latin": "quamquam ego habeam confidentiam et in carne. Si quis alius videtur confidere in carne, ego magis,"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "greek": "περιτομῇ ὀκταήμερος, ἐκ γένους Ἰσραήλ, φυλῆς Βενιαμίν, Ἑβραῖος ἐξ Ἑβραίων, κατὰ νόμον Φαρισαῖος,",
+    "hebrew": "שֶׁאֲנִי נִמּוֹל בֶּן-שְׁמוֹנַת יָמִים מִבְּנֵי יִשְׂרָאֵל מִשֵּׁבֶט בִּנְיָמִין עִבְרִי מִן הָעִבְרִים",
+    "latin": "circumcisus octavo die, ex genere Israël, de tribu Benjamin, Hebræus ex Hebræis, secundum legem pharisæus,"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "greek": "κατὰ ⸀ζῆλος διώκων τὴν ἐκκλησίαν, κατὰ δικαιοσύνην τὴν ἐν νόμῳ γενόμενος ἄμεμπτος.",
+    "hebrew": "לְתוֹרָה פָּרוּשׁ לְקִנְאָה רֹדֵף אֶת-הָעֵדָה וּלְצִדְקַת הַתּוֹרָה בְּלִי-דֹפִי",
+    "latin": "secundum æmulationem persequens Ecclesiam Dei, secundum justitiam, quæ in lege est, conversatus sine querela."
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "greek": "Ἀλλὰ ἅτινα ἦν μοι κέρδη, ταῦτα ἥγημαι διὰ τὸν Χριστὸν ζημίαν.",
+    "hebrew": "וְהַיִּתְרֹנוֹת הָאֵלֶּה חָשַׁבְתִּי לִי לְחֶסְרֹנוֹת לְמַעַן הַמָּשִׁיחַ",
+    "latin": "Sed quæ mihi fuerunt lucra, hæc arbitratus sum propter Christum detrimenta."
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "greek": "ἀλλὰ ⸀μενοῦνγε καὶ ἡγοῦμαι πάντα ζημίαν εἶναι διὰ τὸ ὑπερέχον τῆς γνώσεως Χριστοῦ Ἰησοῦ τοῦ κυρίου μου διʼ ὃν τὰ πάντα ἐζημιώθην, καὶ ἡγοῦμαι ⸀σκύβαλα ἵνα Χριστὸν κερδήσω",
+    "hebrew": "וְגַם אֲנִי חשֵׁב אֶת-הַכֹּל לְחֶסְרוֹן לְעֻמַּת מַעֲלַת דַּעַת יֵשׁוּעַ הַמָּשִׁיחַ אֲדֹנִי אֲשֶׁר בַּעֲבוּרוֹ חִסַּרְתִּי אֶת-נַפְשִׁי מִכָּל-אֵלֶּה וָאֶחְשְׁבֵם לִסְחִי לְהַרְוִיחַ אֶת-הַמָּשִׁיחַ וּלְהִמָּצֵא בוֹ",
+    "latin": "Verumtamen existimo omnia detrimentum esse propter eminentem scientiam Jesu Christi Domini mei : propter quem omnia detrimentum feci, et arbitror ut stercora, ut Christum lucrifaciam,"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "greek": "καὶ εὑρεθῶ ἐν αὐτῷ, μὴ ἔχων ἐμὴν δικαιοσύνην τὴν ἐκ νόμου ἀλλὰ τὴν διὰ πίστεως Χριστοῦ, τὴν ἐκ θεοῦ δικαιοσύνην ἐπὶ τῇ πίστει,",
+    "hebrew": "וְלֹא תִהְיֶה-לִּי צִדְקָתִי מִתּוֹךְ הַתּוֹרָה כִּי אִם-בֶּאֱמוּנַת הַמָּשִׁיחַ הַצְּדָקָה הַבָּאָה מֵאֵת הָאֱלֹהִים בָּאֱמוּנָה",
+    "latin": "et inveniar in illo non habens meam justitiam, quæ ex lege est, sed illam, quæ ex fide est Christi Jesu : quæ ex Deo est justitia in fide,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "greek": "τοῦ γνῶναι αὐτὸν καὶ τὴν δύναμιν τῆς ἀναστάσεως αὐτοῦ καὶ ⸀κοινωνίαν παθημάτων αὐτοῦ, ⸀συμμορφιζόμενος τῷ θανάτῳ αὐτοῦ,",
+    "hebrew": "לָדַעַת אֹתוֹ וְאֶת-גְּבוּרַת תְּחִיָּתוֹ וְחֶבְרַת עִנּוּיָיו וּלְהִדַּמּוֹת לְמוֹתוֹ",
+    "latin": "ad cognoscendum illum, et virtutem resurrectionis ejus, et societatem passionum illius : configuratus morti ejus :"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "greek": "εἴ πως καταντήσω εἰς τὴν ἐξανάστασιν ⸂τὴν ἐκ⸃ νεκρῶν.",
+    "hebrew": "אוּלַי אוּכַל לְהַגִּיעַ לִתְחִיַּת הַמֵּתִים",
+    "latin": "si quo modo occurram ad resurrectionem, quæ est ex mortuis :"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "greek": "Οὐχ ὅτι ἤδη ἔλαβον ἢ ἤδη τετελείωμαι, διώκω δὲ εἰ καὶ καταλάβω, ἐφʼ ᾧ καὶ κατελήμφθην ὑπὸ ⸀Χριστοῦ.",
+    "hebrew": "לֹא כְּאִלּוּ שֶׁהִשַׂגְתִּי אוֹ שֶׁהָשְׁלַמְתִּי אֲבָל אֶרְדֹּף אוּלַי אַשִׂיג כַּאֲשֶׁר גַּם-הִשִׂיגַנִי הַמָּשִׁיחַ יֵשׁוּעַ",
+    "latin": "non quod jam acceperim, aut jam perfectus sim : sequor autem, si quomodo comprehendam in quo et comprehensus sum a Christo Jesu."
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "greek": "ἀδελφοί, ἐγὼ ἐμαυτὸν ⸀οὐ λογίζομαι κατειληφέναι· ἓν δέ, τὰ μὲν ὀπίσω ἐπιλανθανόμενος τοῖς δὲ ἔμπροσθεν ἐπεκτεινόμενος,",
+    "hebrew": "אַחַי אֵינֶנִּי אֹמֵר שֶׁכְּבָר הִשַׂגְתִּי אַךְ-אַחַת דִּבַּרְתִּי כִּי-שֹׁכֵחַ אֲנִי אֶת-אֲשֶׁר מֵאַחֲרַי וְאֶשְׁתַּטֵּחַ אֶל-אֲשֶׁר לְפָנָי",
+    "latin": "Fratres, ego me non arbitror comprehendisse. Unum autem, quæ quidem retro sunt obliviscens, ad ea vero quæ sunt priora, extendens meipsum,"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "greek": "κατὰ σκοπὸν διώκω ⸀εἰς τὸ βραβεῖον τῆς ἄνω κλήσεως τοῦ θεοῦ ἐν Χριστῷ Ἰησοῦ.",
+    "hebrew": "וְאֶל-הַמַּטָּרָה אֶרְדֹּף אֶת-שְׂכַר הַנִּצָּחוֹן אֲשֶׁר הוּא בַּקְּרִיאָה שֶׁל-מַעְלָה מֵאֵת הָאֱלֹהִים בַּמָּשִׁיחַ יֵשׁוּעַ",
+    "latin": "ad destinatum persequor, ad bravium supernæ vocationis Dei in Christo Jesu."
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "greek": "ὅσοι οὖν τέλειοι, τοῦτο φρονῶμεν· καὶ εἴ τι ἑτέρως φρονεῖτε, καὶ τοῦτο ὁ θεὸς ὑμῖν ἀποκαλύψει·",
+    "hebrew": "לָכֵן מִי שֶׁהוּא שָׁלֵם בָּנוּ כֵּן יַחֲשֹׁב וְאִם-תַּחְשְׁבוּ מַחֲשָׁבָה אַחֶרֶת גַּם-זֹאת יְגַלֶּה לָכֶם הָאֱלֹהִים",
+    "latin": "Quicumque ergo perfecti sumus, hoc sentiamus : et si quid aliter sapitis, et hoc vobis Deus revelabit."
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "greek": "πλὴν εἰς ὃ ἐφθάσαμεν, τῷ αὐτῷ ⸀στοιχεῖν.",
+    "hebrew": "רַק אַחַר הִגַּעְנוּ עַד-הֵנָּה אַל-נֵט מִן-הַדָּרֶךְ",
+    "latin": "Verumtamen ad quod pervenimus ut idem sapiamus, et in eadem permaneamus regula."
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "greek": "Συμμιμηταί μου γίνεσθε, ἀδελφοί, καὶ σκοπεῖτε τοὺς οὕτω περιπατοῦντας καθὼς ἔχετε τύπον ἡμᾶς·",
+    "hebrew": "אַחַי הֱיוּ חֲבֵרִים לַהֹלְכִים אַחֲרָי וְהַבִּיטוּ אֶל-הַהֹלְכִים כֵּן כַּאֲשֶׁר אֲנַחְנוּ מוֹפֵת לָכֶם",
+    "latin": "Imitatores mei estote, fratres, et observate eos qui ita ambulant, sicut habetis formam nostram."
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "greek": "πολλοὶ γὰρ περιπατοῦσιν οὓς πολλάκις ἔλεγον ὑμῖν, νῦν δὲ καὶ κλαίων λέγω, τοὺς ἐχθροὺς τοῦ σταυροῦ τοῦ Χριστοῦ,",
+    "hebrew": "כִּי רַבִּים הַהֹלְכִים אֲשֶׁר אָמַרְתִּי לָכֶם פְּעָמִים רַבּוֹת וְעַתָּה גַּם-בִּבְכִי אֲנִי אֹמֵר כִּי-אֹיְבֵי צְלוּב הַמָּשִׁיחַ הֵם",
+    "latin": "Multi enim ambulant, quos sæpe dicebam vobis (nunc autem et flens dico) inimicos crucis Christi :"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "greek": "ὧν τὸ τέλος ἀπώλεια, ὧν ὁ θεὸς ἡ κοιλία καὶ ἡ δόξα ἐν τῇ αἰσχύνῃ αὐτῶν, οἱ τὰ ἐπίγεια φρονοῦντες.",
+    "hebrew": "אֲשֶׁר אַחֲרִיתָם הָאֲבַדּוֹן אֲשֶׁר כְּרֵסָם אֱלֹהֵיהֶם וּכְבוֹדָם בְּבָשְׁתָּם וְקִרְבָּם הַבְלֵי חָלֶד",
+    "latin": "quorum finis interitus : quorum Deus venter est : et gloria in confusione ipsorum, qui terrena sapiunt."
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "greek": "ἡμῶν γὰρ τὸ πολίτευμα ἐν οὐρανοῖς ὑπάρχει, ἐξ οὗ καὶ σωτῆρα ἀπεκδεχόμεθα κύριον Ἰησοῦν Χριστόν,",
+    "hebrew": "כִּי אֶזְרָחוּתֵנוּ בַּשָּׁמַיִם הִיא וּמִשָּׁם מְחַכִּים אֲנַחְנוּ לְמוֹשִׁיעֵנוּ אֲדֹנֵינוּ יֵשׁוּעַ הַמָּשִׁיחַ",
+    "latin": "Nostra autem conversatio in cælis est : unde etiam Salvatorem exspectamus Dominum nostrum Jesum Christum,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "greek": "ὃς μετασχηματίσει τὸ σῶμα τῆς ταπεινώσεως ⸀ἡμῶν σύμμορφον τῷ σώματι τῆς δόξης αὐτοῦ κατὰ τὴν ἐνέργειαν τοῦ δύνασθαι αὐτὸν καὶ ὑποτάξαι ⸀αὑτῷ τὰ πάντα.",
+    "hebrew": "אֲשֶׁר יַחֲלִיף אֶת-גּוּפֵנוּ הַשָּׁפֵל לִהְיֹתוֹ דוֹמֶה לְגוּף כְּבוֹדוֹ כְּפִי-פְעֻלַּת יְכָלְתּוֹ לִכְבּשׁ הַכֹּל תַּחְתָּיו",
+    "latin": "qui reformabit corpus humilitatis nostræ, configuratum corpori claritatis suæ, secundum operationem, qua etiam possit subjicere sibi omnia."
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "greek": "ὥστε, ἀδελφοί μου ἀγαπητοὶ καὶ ἐπιπόθητοι, χαρὰ καὶ στέφανός μου, οὕτως στήκετε ἐν κυρίῳ, ἀγαπητοί.",
+    "hebrew": "עַל-כֵּן אַחַי הַחֲבִיבִים וְהַנֶּחְמָדִים שִׂמְחָתִי וַעֲטֶרֶת רֹאשִׁי עִמְדוּ-נָא כֵן בַּאֲדֹנֵינוּ חֲבִיבָי",
+    "latin": "Itaque fratres mei carissimi, et desideratissimi, gaudium meum, et corona mea : sic state in Domino, carissimi."
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "greek": "Εὐοδίαν παρακαλῶ καὶ Συντύχην παρακαλῶ τὸ αὐτὸ φρονεῖν ἐν κυρίῳ.",
+    "hebrew": "אֶת-אַבְהוֹדִיָּה אֲנִי מַזְהִיר וְאֶת-סוּנְטִיכִי אֲנִי מַזְהִיר לִהְיוֹת לֵב-אֶחָד בַּאֲדֹנֵינוּ",
+    "latin": "Evodiam rogo, et Syntychen deprecor, idipsum sapere in Domino."
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "greek": "ναὶ ἐρωτῶ καὶ σέ, ⸂γνήσιε σύζυγε⸃, συλλαμβάνου αὐταῖς, αἵτινες ἐν τῷ εὐαγγελίῳ συνήθλησάν μοι μετὰ καὶ Κλήμεντος καὶ τῶν λοιπῶν συνεργῶν μου, ὧν τὰ ὀνόματα ἐν βίβλῳ ζωῆς.",
+    "hebrew": "וְאַתָּה חֲבֵרִי הַנִּצְמָד-לִי בֶאֱמֶת אַף-מִמְּךָ אֲנִי מְבַקֵּשׁ לִהְיוֹת לְעֵזֶר לְאֹתָם שֶׁיָּגְעוּ עִמָּדִי עַל-הַבְּשׂוֹרָה עִם-קְלִימִיס וְעִם-שְׁאָר תֹּמְכַי אֲשֶׁר שְׁמוֹתָם יַחַד בְּסֵפֶר הַחַיִּים",
+    "latin": "Etiam rogo et te, germane compar, adjuva illas, quæ mecum laboraverunt in Evangelio cum Clemente, et ceteris adjutoribus meis, quorum nomina sunt in libro vitæ."
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "greek": "Χαίρετε ἐν κυρίῳ πάντοτε· πάλιν ἐρῶ, χαίρετε.",
+    "hebrew": "שִׂמְחוּ בַאֲדֹנֵינוּ בְּכָל-עֵת וְעוֹד הַפַּעַם אֹמֵר אֲנִי שְׂמָחוּ",
+    "latin": "Gaudete in Domino semper : iterum dico gaudete."
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "greek": "τὸ ἐπιεικὲς ὑμῶν γνωσθήτω πᾶσιν ἀνθρώποις. ὁ κύριος ἐγγύς·",
+    "hebrew": "עַנְוַת רוּחֲכֶם תִּוָּדַע לְכָל-אִישׁ קָרֹב הוּא הָאָדוֹן",
+    "latin": "Modestia vestra nota sit omnibus hominibus : Dominus prope est."
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "greek": "μηδὲν μεριμνᾶτε, ἀλλʼ ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετʼ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν θεόν·",
+    "hebrew": "אַל-תִּדְאָגוּ כִּי אִם-בִּתְפִלָּה וּבְתַחֲנוּנִים עִם-תּוֹדָה תָּבֹאנָה מִשְׁאֲלוֹתֵיכֶם לְכָל-דָּבָר לִפְנֵי אֱלֹהֵינוּ",
+    "latin": "Nihil solliciti sitis : sed in omni oratione, et obsecratione, cum gratiarum actione petitiones vestræ innotescant apud Deum."
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "greek": "καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ.",
+    "hebrew": "וּשְׁלוֹם אֱלֹהִים הַנַּעֲלֶה עַל-כָּל-שֵׂכֶל יִנְצֹר אֶת-לְבַבְכֶם וְאֶת-מַחְשְׁבוֹתֵיכֶם בַּמָּשִׁיחַ יֵשׁוּעַ",
+    "latin": "Et pax Dei, quæ exuperat omnem sensum, custodiat corda vestra, et intelligentias vestras in Christo Jesu."
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "greek": "Τὸ λοιπόν, ἀδελφοί, ὅσα ἐστὶν ἀληθῆ, ὅσα σεμνά, ὅσα δίκαια, ὅσα ἁγνά, ὅσα προσφιλῆ, ὅσα εὔφημα, εἴ τις ἀρετὴ καὶ εἴ τις ἔπαινος, ταῦτα λογίζεσθε·",
+    "hebrew": "סוֹף דָּבָר אַחַי כָּל-אֲשֶׁר הוּא אֱמֶת וְנִכְבָּד וְיָשָׁר וְטָהוֹר וְנָעִים וַאֲשֶׁר שָׁמְעוֹ טוֹב כָּל-מַעֲשֵׂה צֶדֶק כָּל-מַעֲשֵׂה שֶׁבַח עַל-אֵלֶּה תָּשִׂימוּ לְבַבְכֶם",
+    "latin": "De cetero fratres, quæcumque sunt vera, quæcumque pudica, quæcumque justa, quæcumque sancta, quæcumque amabilia, quæcumque bonæ famæ, siqua virtus, siqua laus disciplinæ, hæc cogitate."
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "greek": "ἃ καὶ ἐμάθετε καὶ παρελάβετε καὶ ἠκούσατε καὶ εἴδετε ἐν ἐμοί, ταῦτα πράσσετε· καὶ ὁ θεὸς τῆς εἰρήνης ἔσται μεθʼ ὑμῶν.",
+    "hebrew": "אֲשֶׁר לְמַדְתֶּם וְקִבַּלְתֶּם וּשְׁמַעְתֶּם וּרְאִיתֶם בִּי אֶת-אֵלֶּה תַעֲשׂוּ וֵאלֹהֵי הַשָּׁלוֹם יִהְיֶה עִמָּכֶם",
+    "latin": "Quæ et didicistis, et accepistis, et audistis, et vidistis in me, hæc agite : et Deus pacis erit vobiscum."
+  },
+  {
+    "chapter": 4,
+    "verse": 10,
+    "greek": "Ἐχάρην δὲ ἐν κυρίῳ μεγάλως ὅτι ἤδη ποτὲ ἀνεθάλετε τὸ ὑπὲρ ἐμοῦ φρονεῖν, ἐφʼ ᾧ καὶ ἐφρονεῖτε ἠκαιρεῖσθε δέ.",
+    "hebrew": "וַאֲנִי שָׂמַחְתִּי מְאֹד בַּאֲדֹנֵינוּ כִּי-עַתָּה הַפַּעַם הֶחֱלַפְתֶּם כֹּחַ לְהַשְׁגִּיחַ עָלָי וְגַם-מַשְׁגִּיחִים הֱיִיתֶם עַד-כֹּה אֶלָּא שֶׁלּא-עָלְתָה בְיֶדְכֶם",
+    "latin": "Gavisus sum autem in Domino vehementer, quoniam tandem aliquando refloruistis pro me sentire, sicut et sentiebatis : occupati autem eratis."
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "greek": "οὐχ ὅτι καθʼ ὑστέρησιν λέγω, ἐγὼ γὰρ ἔμαθον ἐν οἷς εἰμι αὐτάρκης εἶναι·",
+    "hebrew": "וְלֹא מִמַּחְסוֹר אֲדַבֵּר כֵּן כִּי לָמַדְתִּי לְהִסְתַּפֵּק בְּמַה-שֶּׁיֵּשׁ לִי",
+    "latin": "Non quasi propter penuriam dico : ego enim didici, in quibus sum, sufficiens esse."
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "greek": "οἶδα καὶ ταπεινοῦσθαι, οἶδα καὶ περισσεύειν· ἐν παντὶ καὶ ἐν πᾶσιν μεμύημαι, καὶ χορτάζεσθαι καὶ πεινᾶν, καὶ περισσεύειν καὶ ὑστερεῖσθαι·",
+    "hebrew": "יֹדֵעַ אֲנִי לַעֲמֹד בְּעֹנִי וְיֹדֵעַ אֲנִי לְהוֹתִיר מֻרְגָּל אֲנִי לְכָל-דָּבָר וְאוֹפָן הֵן לִשְׂבֹּעַ הֵן לִרְעֹב הֵן לַעֲמֹד בְּשֶׁפַע הֵן לַחֲסֹר",
+    "latin": "Scio et humiliari, scio et abundare (ubique et in omnibus institutus sum) : et satiari, et esurire, et abundare, et penuriam pati."
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "greek": "πάντα ἰσχύω ἐν τῷ ἐνδυναμοῦντί ⸀με.",
+    "hebrew": "אֶת-כֹּל אוּכַל בְּעֶזְרַת [הַמָּשִׁיחַ] הַנּוֹתֵן לִי כֹּחַ",
+    "latin": "Omnia possum in eo qui me confortat."
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "greek": "πλὴν καλῶς ἐποιήσατε συγκοινωνήσαντές μου τῇ θλίψει.",
+    "hebrew": "אֲבָל הֵיטַבְתֶּם לַעֲשׂוֹת בְּהִתְחַבֶּרְכֶם אֵלַי בְּצָרָתִי",
+    "latin": "Verumtamen bene fecistis, communicantes tribulationi meæ."
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "greek": "Οἴδατε δὲ καὶ ὑμεῖς, Φιλιππήσιοι, ὅτι ἐν ἀρχῇ τοῦ εὐαγγελίου, ὅτε ἐξῆλθον ἀπὸ Μακεδονίας, οὐδεμία μοι ἐκκλησία ἐκοινώνησεν εἰς λόγον δόσεως καὶ λήμψεως εἰ μὴ ὑμεῖς μόνοι,",
+    "hebrew": "וְיֹדְעִים גַּם-אַתֶּם פִילִיפִּיִּים שֶׁבְּרֵאשִׁית הַבְּשׂוֹרָה כְּצֵאתִי מִמַּקְדּוֹנְיָא לֹא-הִתְחַבְּרָה לִי אַחַת מִן-הַקְּהִלּוֹת לְמַשָׂא וּמַתָּן כִּי אִם-אַתֶּם בִּלְבָד",
+    "latin": "Scitis autem et vos Philippenses, quod in principio Evangelii, quando profectus sum a Macedonia, nulla mihi ecclesia communicavit in ratione dati et accepti, nisi vos soli :"
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "greek": "ὅτι καὶ ἐν Θεσσαλονίκῃ καὶ ἅπαξ καὶ δὶς εἰς τὴν χρείαν μοι ἐπέμψατε.",
+    "hebrew": "כִּי-גַם בְּתַסְלוֹנִיקִי שְׁלַחְתֶּם לִי אֶת-צְרָכָי פַּעַם וּשְׁתָּיִם",
+    "latin": "quia et Thessalonicam semel et bis in usum mihi misistis."
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "greek": "οὐχ ὅτι ἐπιζητῶ τὸ δόμα, ἀλλὰ ἐπιζητῶ τὸν καρπὸν τὸν πλεονάζοντα εἰς λόγον ὑμῶν.",
+    "hebrew": "לֹא שֶׁאֲבַקֵּשׁ אֶת-הַמַּתָּן אֶלָּא אֲבַקֵּשׁ הַפְּרִי אֲשֶׁר-יִרְבֶּה בְּחֶשְׁבֹּנְכֶם",
+    "latin": "Non quia quæro datum, sed requiro fructum abundantem in ratione vestra."
+  },
+  {
+    "chapter": 4,
+    "verse": 18,
+    "greek": "ἀπέχω δὲ πάντα καὶ περισσεύω· πεπλήρωμαι δεξάμενος παρὰ Ἐπαφροδίτου τὰ παρʼ ὑμῶν, ὀσμὴν εὐωδίας, θυσίαν δεκτήν, εὐάρεστον τῷ θεῷ.",
+    "hebrew": "וַאֲנִי קִבַּלְתִּי אֶת-הַכֹּל וְיֶשׁ-לִי דַּי וְהוֹתֵר וַאֲנִי נִמְלֵאתִי בְּקַבְּלִי מִידֵי אֶפַּפְרוֹדִיטוֹס אֶת-כֹּל אֲשֶׁר-שְׁלַחְתֶּם רֵיחַ נִיחֹחַ זֶבַח עָרֵב וְרָצוּי לֵאלֹהִים",
+    "latin": "Habeo autem omnia, et abundo : repletus sum, acceptis ab Epaphrodito quæ misistis odorem suavitatis, hostiam acceptam, placentem Deo."
+  },
+  {
+    "chapter": 4,
+    "verse": 19,
+    "greek": "ὁ δὲ θεός μου πληρώσει πᾶσαν χρείαν ὑμῶν κατὰ ⸂τὸ πλοῦτος⸃ αὐτοῦ ἐν δόξῃ ἐν Χριστῷ Ἰησοῦ.",
+    "hebrew": "וֵאלֹהַי הוּא יְמַלֵּא אֶת-כָּל-צָרְכְּכֶם כְּעשֶׁר כְּבוֹדוֹ בַּמָּשִׁיחַ יֵשׁוּעַ",
+    "latin": "Deus autem meus impleat omne desiderium vestrum secundum divitias suas in gloria in Christo Jesu."
+  },
+  {
+    "chapter": 4,
+    "verse": 20,
+    "greek": "τῷ δὲ θεῷ καὶ πατρὶ ἡμῶν ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+    "hebrew": "וְלֵאלֹהִים אָבִינוּ הַכָּבוֹד לְעוֹלְמֵי עוֹלָמִים אָמֵן",
+    "latin": "Deo autem et Patri nostro gloria in sæcula sæculorum. Amen."
+  },
+  {
+    "chapter": 4,
+    "verse": 21,
+    "greek": "Ἀσπάσασθε πάντα ἅγιον ἐν Χριστῷ Ἰησοῦ. ἀσπάζονται ὑμᾶς οἱ σὺν ἐμοὶ ἀδελφοί.",
+    "hebrew": "שַׁאֲלוּ לִשְׁלוֹם כָּל-קָדוֹשׁ בַּמָּשִׁיחַ יֵשׁוּעַ הָאַחִים אֲשֶׁר עִמִּי שֹׁאֲלִים לִשְׁלוֹמְכֶם",
+    "latin": "Salutate omnem sanctum in Christo Jesu."
+  },
+  {
+    "chapter": 4,
+    "verse": 22,
+    "greek": "ἀσπάζονται ὑμᾶς πάντες οἱ ἅγιοι, μάλιστα δὲ οἱ ἐκ τῆς Καίσαρος οἰκίας.",
+    "hebrew": "כָּל-הַקְּדשִׁים שֹׁאֲלִים לִשְׁלוֹמְכֶם וּבְיוֹתֵר שֶׁל-בֵּית קֵיסָר",
+    "latin": "Salutant vos, qui mecum sunt, fratres. Salutant vos omnes sancti, maxime autem qui de Cæsaris domo sunt."
+  },
+  {
+    "chapter": 4,
+    "verse": 23,
+    "greek": "ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ μετὰ ⸂τοῦ πνεύματος⸃ ⸀ὑμῶν.",
+    "hebrew": "חֶסֶד יֵשׁוּעַ הַמָּשִׁיחַ אֲדֹנֵינוּ עִם רוּחֲכֶם אָמֵן",
+    "latin": "Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen."
+  }
+]

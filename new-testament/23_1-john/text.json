@@ -1,0 +1,737 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "greek": "Ὃ ἦν ἀπʼ ἀρχῆς, ὃ ἀκηκόαμεν, ὃ ἑωράκαμεν τοῖς ὀφθαλμοῖς ἡμῶν, ὃ ἐθεασάμεθα καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν, περὶ τοῦ λόγου τῆς ζωῆς—",
+    "hebrew": "אֵת אֲשֶׁר הָיָה מֵרֹאשׁ אֲשֶׁר שָׁמַעְנוּ וּבְעֵינֵינוּ רָאִינוּ אֲשֶׁר הִבַּטְנוּ וַאֲשֶׁר מִשֲׁשׁוּ יָדֵינוּ עַל-דְּבַר הַחַיִּים",
+    "latin": "Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de verbo vitæ :"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "greek": "καὶ ἡ ζωὴ ἐφανερώθη, καὶ ἑωράκαμεν καὶ μαρτυροῦμεν καὶ ἀπαγγέλλομεν ὑμῖν τὴν ζωὴν τὴν αἰώνιον ἥτις ἦν πρὸς τὸν πατέρα καὶ ἐφανερώθη ἡμῖν—",
+    "hebrew": "וְהַחַיִּים נִגְלוּ וַנֵּרֶא וּמְעִידִים אֲנַחְנוּ וּמוֹדִיעִים לָכֶם אֶת-חַיֵּי הָעוֹלָמִים אֲשֶׁר הָיוּ עִם-הָאָב וְנִגְלוּ לָנוּ",
+    "latin": "et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam æternam, quæ erat apud Patrem, et apparuit nobis :"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "greek": "ὃ ἑωράκαμεν καὶ ἀκηκόαμεν ἀπαγγέλλομεν ⸀καὶ ὑμῖν, ἵνα καὶ ὑμεῖς κοινωνίαν ἔχητε μεθʼ ἡμῶν· καὶ ἡ κοινωνία δὲ ἡ ἡμετέρα μετὰ τοῦ πατρὸς καὶ μετὰ τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ·",
+    "hebrew": "אֵת אֲשֶׁר רָאִינוּ וְשָׁמַעְנוּ נוֹדִיעָה לָכֶם לְמַעַן תִּתְחַבְּרוּ לָנוּ גַּם-אַתֶּם וְנִתְחַבַּרְנוּ עִם-הָאָב וְעִם-בְּנוֹ יֵשׁוּעַ הַמָּשִׁיחַ",
+    "latin": "quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio ejus Jesu Christo."
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "greek": "καὶ ταῦτα γράφομεν ⸀ἡμεῖς ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη.",
+    "hebrew": "וְזֹאת כֹּתְבִים אֲנַחְנוּ לָכֶם לְמַעַן תִּהְיֶה שִׂמְחַתְכֶם שְׁלֵמָה",
+    "latin": "Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum."
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "greek": "Καὶ ἔστιν αὕτη ἡ ἀγγελία ἣν ἀκηκόαμεν ἀπʼ αὐτοῦ καὶ ἀναγγέλλομεν ὑμῖν, ὅτι ὁ θεὸς φῶς ἐστιν καὶ σκοτία ⸂ἐν αὐτῷ οὐκ ἔστιν⸃ οὐδεμία.",
+    "hebrew": "וְזֹאת הַשְּׁמוּעָה אֲשֶׁר שָׁמַעְנוּ מִמֶּנּוּ וַנַּגֵּד לָכֶם שֶׁהָאֱלֹהִים אוֹר הוּא וְכָל-חֹשֶׁךְ אֵין בּוֹ",
+    "latin": "Et hæc est annuntiatio, quam audivimus ab eo, et annuntiamus vobis : quoniam Deus lux est, et tenebræ in eo non sunt ullæ."
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "greek": "ἐὰν εἴπωμεν ὅτι κοινωνίαν ἔχομεν μετʼ αὐτοῦ καὶ ἐν τῷ σκότει περιπατῶμεν, ψευδόμεθα καὶ οὐ ποιοῦμεν τὴν ἀλήθειαν·",
+    "hebrew": "אִם-נֹאמַר כִּי יֶשׁ-לָנוּ הִתְחַבְּרוּת עִמּוֹ וְנִתְהַלֵּךְ בַּחֹשֶׁךְ דֹּבְרֵי שֶׁקֶר אֲנַחְנוּ וְלֹא פֹּעֲלֵי הָאֱמֶת",
+    "latin": "Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus."
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "greek": "ἐὰν ⸀δὲ ἐν τῷ φωτὶ περιπατῶμεν ὡς αὐτός ἐστιν ἐν τῷ φωτί, κοινωνίαν ἔχομεν μετʼ ἀλλήλων καὶ τὸ αἷμα ⸀Ἰησοῦ τοῦ υἱοῦ αὐτοῦ καθαρίζει ἡμᾶς ἀπὸ πάσης ἁμαρτίας.",
+    "hebrew": "אֲבָל אִם-נִתְהַלֵּךְ בָּאוֹר כַּאֲשֶׁר הוּא בָאוֹר הִנֵּה נִתְחַבַּרְנוּ יָחַד וְדַם-יֵשׁוּעַ הַמָּשִׁיחַ בְּנוֹ יְטַהֲרֵנוּ מִכָּל-חֵטְא",
+    "latin": "Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Jesu Christi, Filii ejus, emundat nos ab omni peccato."
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "greek": "ἐὰν εἴπωμεν ὅτι ἁμαρτίαν οὐκ ἔχομεν, ἑαυτοὺς πλανῶμεν καὶ ἡ ἀλήθεια ⸂οὐκ ἔστιν ἐν ἡμῖν⸃.",
+    "hebrew": "אִם-נֹאמַר שֶׁאֵין-בָּנוּ חֵטְא מַתְעִים אֲנַחְנוּ נַפְשֵׁנוּ וְהָאֱמֶת אֵין בָּנוּ",
+    "latin": "Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est."
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "greek": "ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστιν καὶ δίκαιος ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας.",
+    "hebrew": "וְאִם-נִתְוַדֶּה אֶת-חַטֹּאתֵינוּ נֶאֱמָן הוּא וְצַדִּיק לִסְלֹחַ לְחַטֹּאתֵינוּ וּלְטַהֲרֵנוּ מִכָּל-עָוֹן",
+    "latin": "Si confiteamur peccata nostra : fidelis est, et justus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate."
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "greek": "ἐὰν εἴπωμεν ὅτι οὐχ ἡμαρτήκαμεν, ψεύστην ποιοῦμεν αὐτὸν καὶ ὁ λόγος αὐτοῦ οὐκ ἔστιν ἐν ἡμῖν.",
+    "hebrew": "וְאִם-נֹאמַר שֶׁלּא חָטָאנוּ לְכֹזֵב נְשִׂימֶנּוּ וּדְבָרוֹ אֵין בָּנוּ",
+    "latin": "Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis."
+  },
+  {
+    "chapter": 2,
+    "verse": 1,
+    "greek": "Τεκνία μου, ταῦτα γράφω ὑμῖν ἵνα μὴ ἁμάρτητε. καὶ ἐάν τις ἁμάρτῃ, παράκλητον ἔχομεν πρὸς τὸν πατέρα Ἰησοῦν Χριστὸν δίκαιον,",
+    "hebrew": "בָּנַי הִנְנִי כֹתֵב אֲלֵיכֶם אֶת-הַדְּבָרִים הָאֵלֶּה לְבִלְתִּי תֶחֱטָאוּ וְאִם-יֶחֱטָא אִישׁ יֶשׁ-לָנוּ לִפְנֵי אָבִינוּ מֵלִיץ יֵשׁוּעַ הַמָּשִׁיחַ הַצַּדִּיק",
+    "latin": "Filioli mei, hæc scribo vobis, ut non peccetis. Sed et si quis peccaverit, advocatum habemus apud Patrem, Jesum Christum justum :"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "greek": "καὶ αὐτὸς ἱλασμός ἐστιν περὶ τῶν ἁμαρτιῶν ἡμῶν, οὐ περὶ τῶν ἡμετέρων δὲ μόνον ἀλλὰ καὶ περὶ ὅλου τοῦ κόσμου.",
+    "hebrew": "וְהוּא כַּפָּרָה עַל-חַטֹּאתֵינוּ וְלֹא עַל-חַטֹּאתֵינוּ בִלְבַד כִּי גַּם-עַל-חַטֹּאת כָּל-הָעוֹלָם",
+    "latin": "et ipse est propitiatio pro peccatis nostris : non pro nostris autem tantum, sed etiam pro totius mundi."
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "greek": "Καὶ ἐν τούτῳ γινώσκομεν ὅτι ἐγνώκαμεν αὐτόν, ἐὰν τὰς ἐντολὰς αὐτοῦ τηρῶμεν.",
+    "hebrew": "וּבָזֹאת נֵדַע כִּי הִכַּרְנוּ אוֹתוֹ אִם-נִשְׁמֹר אֶת-מִצְוֹתָיו",
+    "latin": "Et in hoc scimus quoniam cognovimus eum, si mandata ejus observemus."
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "greek": "ὁ λέγων ⸀ὅτι Ἔγνωκα αὐτὸν καὶ τὰς ἐντολὰς αὐτοῦ μὴ τηρῶν ψεύστης ἐστίν, καὶ ἐν τούτῳ ἡ ἀλήθεια οὐκ ἔστιν·",
+    "hebrew": "הָאֹמֵר הִכַּרְתִּיו וְאֶת-מִצְוֹתָיו לֹא יִשְׁמֹר דֹּבֵר שֶׁקֶר הוּא וְהָאֱמֶת אֵין בּוֹ",
+    "latin": "Qui dicit se nosse eum, et mandata ejus non custodit, mendax est, et in hoc veritas non est."
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "greek": "ὃς δʼ ἂν τηρῇ αὐτοῦ τὸν λόγον, ἀληθῶς ἐν τούτῳ ἡ ἀγάπη τοῦ θεοῦ τετελείωται. ἐν τούτῳ γινώσκομεν ὅτι ἐν αὐτῷ ἐσμεν·",
+    "hebrew": "אֲבָל הַשֹּׁמֵר אֶת-דְּבָרוֹ בּוֹ נִשְׁלְמָה בֶאֱמֶת אַהֲבַת אֱלֹהִים וּבָזֹאת נֵדַע כִּי-בוֹ אֲנָחְנוּ",
+    "latin": "Qui autem servat verbum ejus, vere in hoc caritas Dei perfecta est : et in hoc scimus quoniam in ipso sumus."
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "greek": "ὁ λέγων ἐν αὐτῷ μένειν ὀφείλει καθὼς ἐκεῖνος περιεπάτησεν καὶ ⸀αὐτὸς περιπατεῖν.",
+    "hebrew": "הָאֹמֵר שֶׁהוּא עֹמֵד בּוֹ כַּאֲשֶׁר הִתְהַלֵּךְ הוּא כֵּן יִתְהַלָּךְ",
+    "latin": "Qui dicit se in ipso manere, debet, sicut ille ambulavit, et ipse ambulare."
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "greek": "⸀Ἀγαπητοί, οὐκ ἐντολὴν καινὴν γράφω ὑμῖν, ἀλλʼ ἐντολὴν παλαιὰν ἣν εἴχετε ἀπʼ ἀρχῆς· ἡ ἐντολὴ ἡ παλαιά ἐστιν ὁ λόγος ὃν ⸀ἠκούσατε.",
+    "hebrew": "אַחַי לֹא מִצְוָה חֲדָשָׁה כֹּתֵב אֲנִי לָכֶם כִּי אִם-מִצְוָה יְשָׁנָה אֲשֶׁר הָיְתָה לָכֶם מֵרֹאשׁ וְהַמִּצְוָה הַיְשָׁנָה הִיא הַדָּבָר אֲשֶׁר שְׁמַעְתֶּם",
+    "latin": "Carissimi, non mandatum novum scribo vobis, sed mandatum vetus, quod habuistis ab initio. Mandatum vetus est verbum, quod audistis."
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "greek": "πάλιν ἐντολὴν καινὴν γράφω ὑμῖν, ὅ ἐστιν ἀληθὲς ἐν αὐτῷ καὶ ἐν ὑμῖν, ὅτι ἡ σκοτία παράγεται καὶ τὸ φῶς τὸ ἀληθινὸν ἤδη φαίνει.",
+    "hebrew": "וְעוֹד מִצְוָה חֲדָשָׁה אֲנִי כֹתֵב לָכֶם וְהִיא נֶאֱמָנָה גַּם-בּוֹ גַּם-בָּכֶם מִפְּנֵי שֶׁהַחֹשֶׁךְ עֹבֵר וְהָאוֹר הָאֲמִתִּי כְּבָר זָרָח",
+    "latin": "Iterum mandatum novum scribo vobis, quod verum est et in ipso, et in vobis : quia tenebræ transierunt, et verum lumen jam lucet."
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "greek": "ὁ λέγων ἐν τῷ φωτὶ εἶναι καὶ τὸν ἀδελφὸν αὐτοῦ μισῶν ἐν τῇ σκοτίᾳ ἐστὶν ἕως ἄρτι.",
+    "hebrew": "הָאוֹמֵר בָּאוֹר אָנִי וְהוּא שׂנֵא אֶת-אָחִיו עוֹדֶנּוּ בַּחֹשֶׁךְ",
+    "latin": "Qui dicit se in luce esse, et fratrem suum odit, in tenebris est usque adhuc."
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "greek": "ὁ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ἐν τῷ φωτὶ μένει, καὶ σκάνδαλον ἐν αὐτῷ οὐκ ἔστιν·",
+    "hebrew": "הָאֹהֵב אֶת-אָחִיו עֹמֵד בָּאוֹר וּמִכְשׁוֹל אֵין בּוֹ",
+    "latin": "Qui diligit fratrem suum, in lumine manet, et scandalum in eo non est."
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "greek": "ὁ δὲ μισῶν τὸν ἀδελφὸν αὐτοῦ ἐν τῇ σκοτίᾳ ἐστὶν καὶ ἐν τῇ σκοτίᾳ περιπατεῖ, καὶ οὐκ οἶδεν ποῦ ὑπάγει, ὅτι ἡ σκοτία ἐτύφλωσεν τοὺς ὀφθαλμοὺς αὐτοῦ.",
+    "hebrew": "וְהַשּׂנֵא אֶת-אָחִיו בַּחֹשֶׁךְ הוּא וּבַחֹשֶׁךְ יִתְהַלֵּךְ וְלֹא יֵדַע אָנָה הוּא הֹלֵךְ כִּי הַחֹשֶׁךְ עִוֵּר אֶת-עֵינָיו",
+    "latin": "Qui autem odit fratrem suum, in tenebris est, et in tenebris ambulat, et nescit quo eat : quia tenebræ obcæcaverunt oculos ejus."
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "greek": "Γράφω ὑμῖν, τεκνία, ὅτι ἀφέωνται ὑμῖν αἱ ἁμαρτίαι διὰ τὸ ὄνομα αὐτοῦ·",
+    "hebrew": "הִנְנִי כֹתֵב אֲלֵיכֶם הַבָּנִים יַעַן כִּי-נִסְלְחוּ לָכֶם חַטֹּאתֵיכֶם לְמַעַן שְׁמוֹ",
+    "latin": "Scribo vobis, filioli, quoniam remittuntur vobis peccata propter nomen ejus."
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "greek": "γράφω ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπʼ ἀρχῆς· γράφω ὑμῖν, νεανίσκοι, ὅτι νενικήκατε τὸν πονηρόν.",
+    "hebrew": "כֹּתֵב אֲנִי אֲלֵיכֶם הָאָבוֹת יַעַן כִּי הִכַּרְתֶּם אֵת אֲשֶׁר-מֵרֹאשׁ כֹּתֵב אֲנִי אֲלֵיכֶם הַבַּחוּרִים יַעַן כִּי הִתְגַּבַּרְתֶּם עַל-הָרָע כָּתַבְתִּי אֲלֵיכֶם הַיְלָדִים יַעַן כִּי-הִכַּרְתֶּם אֶת-הָאָב",
+    "latin": "Scribo vobis, patres, quoniam cognovistis eum, qui ab initio est. Scribo vobis, adolescentes, quoniam vicistis malignum."
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "greek": "⸀ἔγραψα ὑμῖν, παιδία, ὅτι ἐγνώκατε τὸν πατέρα· ἔγραψα ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπʼ ἀρχῆς· ἔγραψα ὑμῖν, νεανίσκοι, ὅτι ἰσχυροί ἐστε καὶ ὁ λόγος τοῦ θεοῦ ἐν ὑμῖν μένει καὶ νενικήκατε τὸν πονηρόν.",
+    "hebrew": "כָּתַבְתִּי אֲלֵיכֶם הָאָבוֹת יַעַן כִּי הִכַּרְתֶּם אֵת אֲשֶׁר-מֵרֹאשׁ כָּתַבְתִּי אֲלֵיכֶם הַבַּחוּרִים יַעַן כִּי-חֲזַקְתֶּם וּדְבַר הָאֱלֹהִים שֹׁכֵן בְּקִרְבְּכֶם וְהִתְגַּבַּרְתֶּם עַל-הָרָע",
+    "latin": "Scribo vobis, infantes, quoniam cognovistis patrem. Scribo vobis juvenes, quoniam fortes estis, et verbum Dei manet in vobis, et vicistis malignum."
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "greek": "Μὴ ἀγαπᾶτε τὸν κόσμον μηδὲ τὰ ἐν τῷ κόσμῳ. ἐάν τις ἀγαπᾷ τὸν κόσμον, οὐκ ἔστιν ἡ ἀγάπη τοῦ πατρὸς ἐν αὐτῷ·",
+    "hebrew": "אַל תְּאֵהֲבוּ אֶת-הָעוֹלָם וְאֶת-דִּבְרֵי הָעוֹלָם אִישׁ כִּי-יֶאֱהַב אֶת-הָעוֹלָם אֵין-בּוֹ אַהֲבַת הָאָב",
+    "latin": "Nolite diligere mundum, neque ea quæ in mundo sunt. Si quis diligit mundum, non est caritas Patris in eo :"
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "greek": "ὅτι πᾶν τὸ ἐν τῷ κόσμῳ, ἡ ἐπιθυμία τῆς σαρκὸς καὶ ἡ ἐπιθυμία τῶν ὀφθαλμῶν καὶ ἡ ἀλαζονεία τοῦ βίου, οὐκ ἔστιν ἐκ τοῦ πατρός, ἀλλὰ ἐκ τοῦ κόσμου ἐστίν·",
+    "hebrew": "כִּי כֹּל אֲשֶׁר בָּעוֹלָם חֵשֶׁק הַבָּשָׂר וְתַאֲוַת הָעֵינַיִם וְגֵאוּת הַנְּכָסִים לֹא מִן-אָבִינוּ הוּא כִּי אִם-מִן-הָעוֹלָם",
+    "latin": "quoniam omne quod est in mundo, concupiscentia carnis est, et concupiscentia oculorum, et superbia vitæ : quæ non est ex Patre, sed ex mundo est."
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "greek": "καὶ ὁ κόσμος παράγεται καὶ ἡ ἐπιθυμία αὐτοῦ, ὁ δὲ ποιῶν τὸ θέλημα τοῦ θεοῦ μένει εἰς τὸν αἰῶνα.",
+    "hebrew": "וְהָעוֹלָם עָבוֹר יַעֲבֹר עִם-תַּאֲוֹתָיו וְהָעֹשֶׂה רְצוֹן אֱלֹהִים יַעֲמֹד לָעַד",
+    "latin": "Et mundus transit, et concupiscentia ejus : qui autem facit voluntatem Dei manet in æternum."
+  },
+  {
+    "chapter": 2,
+    "verse": 18,
+    "greek": "Παιδία, ἐσχάτη ὥρα ἐστίν, καὶ καθὼς ἠκούσατε ⸀ὅτι ἀντίχριστος ἔρχεται, καὶ νῦν ἀντίχριστοι πολλοὶ γεγόνασιν· ὅθεν γινώσκομεν ὅτι ἐσχάτη ὥρα ἐστίν.",
+    "hebrew": "יְלָדַי הִנֵּה הַשָּׁעָה הָאַחֲרוֹנָה בָּאָה וְכַאֲשֶׁר שְׁמַעְתֶּם שֶׁיָּבֹא שׂטֵן הַמָּשִׁיחַ כֵּן עַתָּה רַבּוּ שׂטְנֵי הַמָּשִׁיחַ וּבָזֹאת נֵדַע שֶׁהִיא הַשָּׁעָה הָאַחֲרוֹנָה",
+    "latin": "Filioli, novissima hora est : et sicut audistis quia antichristus venit, et nunc antichristi multi facti sunt ; unde scimus, quia novissima hora est."
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "greek": "ἐξ ἡμῶν ἐξῆλθαν, ἀλλʼ οὐκ ἦσαν ἐξ ἡμῶν· εἰ γὰρ ⸂ἐξ ἡμῶν ἦσαν⸃, μεμενήκεισαν ἂν μεθʼ ἡμῶν· ἀλλʼ ἵνα φανερωθῶσιν ὅτι οὐκ εἰσὶν πάντες ἐξ ἡμῶν.",
+    "hebrew": "מִקִּרְבֵּנוּ יָצְאוּ אֲבָל לֹא-מֵאִתָּנוּ הָיוּ כִּי לוּ הָיוּ מֵאִתָּנוּ כִּי אָז הָיוּ עֹמְדִים עִמָּנוּ אַךְ יָצְאוּ לְמַעַן יִוָּדַע כִּי לֹא כֻלָּם מֵאִתָּנוּ הֵמָּה",
+    "latin": "Ex nobis prodierunt, sed non erant ex nobis, nam, si fuissent ex nobis, permansissent utique nobiscum : sed ut manifesti sint quoniam non sunt omnes ex nobis."
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "greek": "καὶ ὑμεῖς χρῖσμα ἔχετε ἀπὸ τοῦ ἁγίου ⸀καὶ οἴδατε ⸀πάντες·",
+    "hebrew": "וְאַתֶּם לָכֶם הַמִּשְׁחָה מֵאֵת הַקָּדוֹשׁ וִידַעְתֶּם הַכֹּל",
+    "latin": "Sed vos unctionem habetis a Sancto, et nostis omnia."
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "greek": "οὐκ ἔγραψα ὑμῖν ὅτι οὐκ οἴδατε τὴν ἀλήθειαν, ἀλλʼ ὅτι οἴδατε αὐτήν, καὶ ὅτι πᾶν ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν.",
+    "hebrew": "לֹא כָתַבְתִּי אֲלֵיכֶם מִפְּנֵי שֶׁלּא-יְדַעְתֶּם אֶת-הָאֱמֶת כִּי-יְדַעְתֶּם אֹתָהּ וִידַעְתֶּם שֶׁכָּל-דְּבַר שֶׁקֶר לֹא מִן-הָאֱמֶת הוּא",
+    "latin": "Non scripsi vobis quasi ignorantibus veritatem, sed quasi scientibus eam : et quoniam omne mendacium ex veritate non est."
+  },
+  {
+    "chapter": 2,
+    "verse": 22,
+    "greek": "τίς ἐστιν ὁ ψεύστης εἰ μὴ ὁ ἀρνούμενος ὅτι Ἰησοῦς οὐκ ἔστιν ὁ χριστός; οὗτός ἐστιν ὁ ἀντίχριστος, ὁ ἀρνούμενος τὸν πατέρα καὶ τὸν υἱόν.",
+    "hebrew": "מִי הוּא הַדֹּבֵר שֶׁקֶר כִּי אִם-הַמְכַחֵשׁ בְּיֵשׁוּעַ לֵאמֹר לֹא הַמָּשִׁיחַ הוּא זֶה הוּא שׂוֹטֵן הַמָּשִׁיחַ הַמְכַחֵשׁ בָּאָב וּבַבֵּן",
+    "latin": "Quis est mendax, nisi is qui negat quoniam Jesus est Christus ? Hic est antichristus, qui negat Patrem, et Filium."
+  },
+  {
+    "chapter": 2,
+    "verse": 23,
+    "greek": "πᾶς ὁ ἀρνούμενος τὸν υἱὸν οὐδὲ τὸν πατέρα ἔχει· ⸂ὁ ὁμολογῶν τὸν υἱὸν καὶ τὸν πατέρα ἔχει⸃.",
+    "hebrew": "כָּל-הַמְכַחֵשׁ בַּבֵּן גַּם-הָאָב אֵין-לוֹ וְהַמּוֹדֶה בַבֵּן לוֹ גַּם-הָאָב",
+    "latin": "Omnis qui negat Filium, nec Patrem habet : qui confitetur Filium, et Patrem habet."
+  },
+  {
+    "chapter": 2,
+    "verse": 24,
+    "greek": "⸀ὑμεῖς ὃ ἠκούσατε ἀπʼ ἀρχῆς, ἐν ὑμῖν μενέτω· ἐὰν ἐν ὑμῖν μείνῃ ὃ ἀπʼ ἀρχῆς ἠκούσατε, καὶ ὑμεῖς ἐν τῷ υἱῷ καὶ ἐν τῷ πατρὶ μενεῖτε.",
+    "hebrew": "וְאַתֶּם יָקָם-נָא בָכֶם הַדָּבָר אֲשֶׁר שְׁמַעְתֶּם מֵרֹאשׁ וְאִם-יָקוּם בָּכֶם אֲשֶׁר שְׁמַעְתֶּם מֵרֹאשׁ גַּם-אַתֶּם תָּקוּמוּ בַּבֵּן וּבָאָב",
+    "latin": "Vos quod audistis ab initio, in vobis permaneat : si in vobis permanserit quod audistis ab initio, et vos in Filio et Patre manebitis."
+  },
+  {
+    "chapter": 2,
+    "verse": 25,
+    "greek": "καὶ αὕτη ἐστὶν ἡ ἐπαγγελία ἣν αὐτὸς ἐπηγγείλατο ἡμῖν, τὴν ζωὴν τὴν αἰώνιον.",
+    "hebrew": "וְהַהַבְטָחָה אֲשֶׁר הִבְטִיחָנוּ הִיא חַיֵּי הָעוֹלָמִים",
+    "latin": "Et hæc est repromissio, quam ipse pollicitus est nobis, vitam æternam."
+  },
+  {
+    "chapter": 2,
+    "verse": 26,
+    "greek": "Ταῦτα ἔγραψα ὑμῖν περὶ τῶν πλανώντων ὑμᾶς.",
+    "hebrew": "זֹאת כָּתַבְתִּי אֲלֵיכֶם מִפְּנֵי הַמַּתְעִים אֶתְכֶם",
+    "latin": "Hæc scripsi vobis de his, qui seducant vos."
+  },
+  {
+    "chapter": 2,
+    "verse": 27,
+    "greek": "καὶ ὑμεῖς τὸ χρῖσμα ὃ ἐλάβετε ἀπʼ αὐτοῦ ⸂μένει ἐν ὑμῖν⸃, καὶ οὐ χρείαν ἔχετε ἵνα τις διδάσκῃ ὑμᾶς· ἀλλʼ ὡς τὸ ⸀αὐτοῦ χρῖσμα διδάσκει ὑμᾶς περὶ πάντων, καὶ ἀληθές ἐστιν καὶ οὐκ ἔστιν ψεῦδος, καὶ καθὼς ἐδίδαξεν ὑμᾶς, ⸀μένετε ἐν αὐτῷ.",
+    "hebrew": "וְאַתֶּם הַמִּשְׁחָה אֲשֶׁר קִבַּלְתֶּם מֵאִתּוֹ עֹמֶדֶת בָּכֶם וְלֹא תִצְטָרֲכוּ לְאִישׁ שֶׁיְּלַמֵּד אֶתְכֶם כִּי אִם-כַּאֲשֶׁר תְּלַמֶּדְכֶם הַמִּשְׁחָה לְכָל-דָּבָר הוּא הָאֱמֶת וְלֹא שֶׁקֶר וְכַאֲשֶׁר לִמְּדָה אֶתְכֶם כֵּן תַּעַמְדוּ בוֹ",
+    "latin": "Et vos unctionem, quam accepistis ab eo, maneat in vobis. Et non necesse habetis ut aliquis doceat vos : sed sicut unctio ejus docet vos de omnibus, et verum est, et non est mendacium. Et sicut docuit vos : manete in eo."
+  },
+  {
+    "chapter": 2,
+    "verse": 28,
+    "greek": "Καὶ νῦν, τεκνία, μένετε ἐν αὐτῷ, ἵνα ⸀ἐὰν φανερωθῇ ⸀σχῶμεν παρρησίαν καὶ μὴ αἰσχυνθῶμεν ἀπʼ αὐτοῦ ἐν τῇ παρουσίᾳ αὐτοῦ.",
+    "hebrew": "וְעַתָּה בָנִים עִמְדוּ בוֹ לְמַעַן יֶאֱמַץ לִבֵּנוּ בְּהֵרָאוֹתוֹ וְלֹא-נֵבוֹשׁ מִפָּנָיו בְּבוֹאוֹ",
+    "latin": "Et nunc, filioli, manete in eo : ut cum apparuerit, habeamus fiduciam, et non confundamur ab eo in adventu ejus."
+  },
+  {
+    "chapter": 2,
+    "verse": 29,
+    "greek": "ἐὰν εἰδῆτε ὅτι δίκαιός ἐστιν, γινώσκετε ⸀ὅτι πᾶς ὁ ποιῶν τὴν δικαιοσύνην ἐξ αὐτοῦ γεγέννηται.",
+    "hebrew": "אִם-יְדַעְתֶּם כִּי-צַדִּיק הוּא דְּעוּ-נָא כִּי כָּל-עֹשֵׂה צְדָקָה נוֹלָד מִמֶּנּוּ",
+    "latin": "Si scitis quoniam justus est, scitote quoniam et omnis, qui facit justitiam, ex ipso natus est."
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "greek": "ἴδετε ποταπὴν ἀγάπην δέδωκεν ἡμῖν ὁ πατὴρ ἵνα τέκνα θεοῦ κληθῶμεν, ⸂καὶ ἐσμέν⸃. διὰ τοῦτο ὁ κόσμος οὐ γινώσκει ⸀ἡμᾶς ὅτι οὐκ ἔγνω αὐτόν.",
+    "hebrew": "רְאוּ מַה-גָּדְלָה אַהֲבַת הָאָב אֲשֶׁר נָתַן לָנוּ לְהִקָּרֵא בְּנֵי הָאֱלֹהִים וּבָנָיו אֲנָחְנוּ עַל-כֵּן הָעוֹלָם אֵינֶנּוּ יֹדֵעַ אֹתָנוּ יַעַן כִּי-אוֹתוֹ לֹא יָדָע",
+    "latin": "Videte qualem caritatem dedit nobis Pater, ut filii Dei nominemur et simus. Propter hoc mundus non novit nos : quia non novit eum."
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "greek": "ἀγαπητοί, νῦν τέκνα θεοῦ ἐσμεν, καὶ οὔπω ἐφανερώθη τί ἐσόμεθα. ⸀οἴδαμεν ὅτι ἐὰν φανερωθῇ ὅμοιοι αὐτῷ ἐσόμεθα, ὅτι ὀψόμεθα αὐτὸν καθώς ἐστιν.",
+    "hebrew": "יְדִידַי עַתָּה בָּנִים לֵאלֹהִים אֲנַחְנוּ וְעוֹד לֹא נִגְלָה מַה-נִּהְיֶה אֲבָל יָדַעְנוּ כִּי בְהִגָּלוֹתוֹ נִהְיֶה דֹמִים-לוֹ כִּי נִרְאֵהוּ כְּמוֹ שֶׁהוּא",
+    "latin": "Carissimi, nunc filii Dei sumus : et nondum apparuit quid erimus. Scimus quoniam cum apparuerit, similes ei erimus : quoniam videbimus eum sicuti est."
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "greek": "καὶ πᾶς ὁ ἔχων τὴν ἐλπίδα ταύτην ἐπʼ αὐτῷ ἁγνίζει ἑαυτὸν καθὼς ἐκεῖνος ἁγνός ἐστιν.",
+    "hebrew": "וְכָל-אֲשֶׁר לוֹ הַתִּקְוָה הַזֹּאת יְטַהֵר אֶת-עַצְמוֹ כַּאֲשֶׁר טָהוֹר גַּם-הוּא",
+    "latin": "Et omnis qui habet hanc spem in eo, sanctificat se, sicut et ille sanctus est."
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "greek": "Πᾶς ὁ ποιῶν τὴν ἁμαρτίαν καὶ τὴν ἀνομίαν ποιεῖ, καὶ ἡ ἁμαρτία ἐστὶν ἡ ἀνομία.",
+    "hebrew": "כָּל-חֹטֵא פֹּשֵׁעַ בַּתּוֹרָה הוּא וְהַחֵטְא פְּשִׁיעָה בַתּוֹרָה",
+    "latin": "Omnis qui facit peccatum, et iniquitatem facit : et peccatum est iniquitas."
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "greek": "καὶ οἴδατε ὅτι ἐκεῖνος ἐφανερώθη ἵνα τὰς ⸀ἁμαρτίας ἄρῃ, καὶ ἁμαρτία ἐν αὐτῷ οὐκ ἔστιν.",
+    "hebrew": "וִידַעְתֶּם כִּי הוּא נִגְלָה לָשֵׂאת אֶת-חֲטָאֵינוּ וּבוֹ אֵין חֵטְא",
+    "latin": "Et scitis quia ille apparuit ut peccata nostra tolleret : et peccatum in eo non est."
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "greek": "πᾶς ὁ ἐν αὐτῷ μένων οὐχ ἁμαρτάνει· πᾶς ὁ ἁμαρτάνων οὐχ ἑώρακεν αὐτὸν οὐδὲ ἔγνωκεν αὐτόν.",
+    "hebrew": "כָּל-הָעֹמֵד בּוֹ לֹא יֶחֱטָא כָּל-הַחוֹטֵא לֹא רָאָהוּ אַף-לֹא יְדָעוֹ",
+    "latin": "Omnis qui in eo manet, non peccat : et omnis qui peccat, non vidit eum, nec cognovit eum."
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "greek": "⸀τεκνία, μηδεὶς πλανάτω ὑμᾶς· ὁ ποιῶν τὴν δικαιοσύνην δίκαιός ἐστιν, καθὼς ἐκεῖνος δίκαιός ἐστιν·",
+    "hebrew": "בָּנַי אַל-יַתְעֶה אֶתְכֶם אִישׁ הָעֹשֶׂה צְדָקָה צַדִּיק הוּא כַּאֲשֶׁר הוּא צַדִּיק",
+    "latin": "Filioli, nemo vos seducat. Qui facit justitiam, justus est, sicut et ille justus est."
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "greek": "ὁ ποιῶν τὴν ἁμαρτίαν ἐκ τοῦ διαβόλου ἐστίν, ὅτι ἀπʼ ἀρχῆς ὁ διάβολος ἁμαρτάνει. εἰς τοῦτο ἐφανερώθη ὁ υἱὸς τοῦ θεοῦ ἵνα λύσῃ τὰ ἔργα τοῦ διαβόλου.",
+    "hebrew": "וְהַחֹטֵא מִן-הַשָּׂטָן הוּא כִּי הַשָּׂטָן רִאשׁוֹן לַחֹטְאִים וּבַעֲבוּר זֹאת נִגְלָה בֶן-הָאֱלֹהִים לְהָפֵר אֶת-פְּעֻלּוֹת הַשָּׂטָן",
+    "latin": "Qui facit peccatum, ex diabolo est : quoniam ab initio diabolus peccat. In hoc apparuit Filius Dei, ut dissolvat opera diaboli."
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "greek": "πᾶς ὁ γεγεννημένος ἐκ τοῦ θεοῦ ἁμαρτίαν οὐ ποιεῖ, ὅτι σπέρμα αὐτοῦ ἐν αὐτῷ μένει, καὶ οὐ δύναται ἁμαρτάνειν, ὅτι ἐκ τοῦ θεοῦ γεγέννηται.",
+    "hebrew": "כָּל-הַנּוֹלָד מֵאֱלֹהִים לֹא יֶחֱטָא כִּי זַרְעוֹ בּוֹ יִשָּׁאֵר וְלֹא יוּכַל לַחֲטֹא כִּי מֵאֱלֹהִים נוֹלַד",
+    "latin": "Omnis qui natus est ex Deo, peccatum non facit : quoniam semen ipsius in eo manet, et non potest peccare, quoniam ex Deo natus est."
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "greek": "ἐν τούτῳ φανερά ἐστιν τὰ τέκνα τοῦ θεοῦ καὶ τὰ τέκνα τοῦ διαβόλου· πᾶς ὁ μὴ ποιῶν δικαιοσύνην οὐκ ἔστιν ἐκ τοῦ θεοῦ, καὶ ὁ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ.",
+    "hebrew": "וּבָזֹאת נוֹדְעוּ בְּנֵי הָאֱלֹהִים וּבְנֵי הַשָּׂטָן כָּל-אִישׁ אֲשֶׁר לֹא-יַעֲשֶׂה צְדָקָה אֵינֶנּוּ מֵאֱלֹהִים וְכֵן כָּל-אֲשֶׁר לֹא-יֶאֱהַב אֶת-אָחִיו",
+    "latin": "In hoc manifesti sunt filii Dei, et filii diaboli. Omnis qui non est justus, non est ex Deo, et qui non diligit fratrem suum :"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "greek": "Ὅτι αὕτη ἐστὶν ἡ ἀγγελία ἣν ἠκούσατε ἀπʼ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους·",
+    "hebrew": "כִּי זֹאת הַשְּׁמוּעָה אֲשֶׁר שְׁמַעְתֶּם מֵרֹאשׁ לְאַהֲבָה אִישׁ אֶת-רֵעֵהוּ",
+    "latin": "quoniam hæc est annuntiatio, quam audistis ab initio, ut diligatis alterutrum."
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "greek": "οὐ καθὼς Κάϊν ἐκ τοῦ πονηροῦ ἦν καὶ ἔσφαξεν τὸν ἀδελφὸν αὐτοῦ· καὶ χάριν τίνος ἔσφαξεν αὐτόν; ὅτι τὰ ἔργα αὐτοῦ πονηρὰ ἦν, τὰ δὲ τοῦ ἀδελφοῦ αὐτοῦ δίκαια.",
+    "hebrew": "לֹא כְקַיִן אֲשֶׁר הָיָה מִן-הָרָע וְהָרַג אֶת-אָחִיו וּמַדּוּעַ הֲרָגוֹ יַעַן כִּי-מַעֲשָׂיו הָיוּ רָעִים וּמַעֲשֵׂי אָחִיו מַעֲשֵׂי-צֶדֶק",
+    "latin": "Non sicut Cain, qui ex maligno erat, et occidit fratrem suum. Et propter quid occidit eum ? Quoniam opera ejus maligna erant : fratris autem ejus, justa."
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "greek": "⸀μὴ θαυμάζετε, ⸀ἀδελφοί, εἰ μισεῖ ὑμᾶς ὁ κόσμος.",
+    "hebrew": "אַל-תִּתְמְהוּ אֶחָי אִם-יִשְׂנָא אֶתְכֶם הָעוֹלָם",
+    "latin": "Nolite mirari, fratres, si odit vos mundus."
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "greek": "ἡμεῖς οἴδαμεν ὅτι μεταβεβήκαμεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν, ὅτι ἀγαπῶμεν τοὺς ἀδελφούς· ὁ μὴ ⸀ἀγαπῶν μένει ἐν τῷ θανάτῳ.",
+    "hebrew": "אֲנַחְנוּ יָדַעְנוּ כִּי עָבַרְנוּ מִן-הַמָּוֶת אֶל-הַחַיִּים בַּאֲשֶׁר אָהַבְנוּ אֶת-אַחֵינוּ אִישׁ אֲשֶׁר לֹא-יֶאֱהַב יִשָּׁאֵר בַּמָּוֶת",
+    "latin": "Nos scimus quoniam translati sumus de morte ad vitam, quoniam diligimus fratres. Qui non diligit, manet in morte :"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "greek": "πᾶς ὁ μισῶν τὸν ἀδελφὸν αὐτοῦ ἀνθρωποκτόνος ἐστίν, καὶ οἴδατε ὅτι πᾶς ἀνθρωποκτόνος οὐκ ἔχει ζωὴν αἰώνιον ἐν ⸀αὐτῷ μένουσαν.",
+    "hebrew": "כָּל-הַשּׂנֵא אֶת אָחִיו רֹצֵחַ הוּא וִידַעְתֶּם כִּי כָל-רֹצֵחַ לֹא יִתְקַיְּמוּ-בוֹ חַיֵּי עוֹלָם",
+    "latin": "omnis qui odit fratrem suum, homicida est. Et scitis quoniam omnis homicida non habet vitam æternam in semetipso manentem."
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "greek": "ἐν τούτῳ ἐγνώκαμεν τὴν ἀγάπην, ὅτι ἐκεῖνος ὑπὲρ ἡμῶν τὴν ψυχὴν αὐτοῦ ἔθηκεν· καὶ ἡμεῖς ὀφείλομεν ὑπὲρ τῶν ἀδελφῶν τὰς ψυχὰς ⸀θεῖναι.",
+    "hebrew": "בָּזֹאת יָדַעְנוּ אֶת-הָאַהֲבָה כִּי הוּא נָתַן אֶת-נַפְשׁוֹ בַּעֲדֵנוּ גַּם-אֲנַחְנוּ חַיָּבִים לָתֵת אֶת-נַפְשֹׁתֵינוּ בְּעַד אַחֵינוּ",
+    "latin": "In hoc cognovimus caritatem Dei, quoniam ille animam suam pro nobis posuit : et nos debemus pro fratribus animas ponere."
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "greek": "ὃς δʼ ἂν ἔχῃ τὸν βίον τοῦ κόσμου καὶ θεωρῇ τὸν ἀδελφὸν αὐτοῦ χρείαν ἔχοντα καὶ κλείσῃ τὰ σπλάγχνα αὐτοῦ ἀπʼ αὐτοῦ, πῶς ἡ ἀγάπη τοῦ θεοῦ μένει ἐν αὐτῷ;",
+    "hebrew": "וְאִישׁ אֲשֶׁר-לוֹ נִכְסֵי הָעוֹלָם הַזֶּה וְהוּא רֹאֶה אֶת-אָחִיו חֲסַר-לֶחֶם וְקֹפֵץ אֶת-רַחֲמָיו מִמֶּנּוּ אֵיךְ תַּעֲמָד-בּוֹ אַהֲבַת אֱלֹהִים",
+    "latin": "Qui habuerit substantiam hujus mundi, et viderit fratrem suum necessitatem habere, et clauserit viscera sua ab eo : quomodo caritas Dei manet in eo ?"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "greek": "⸀Τεκνία, μὴ ἀγαπῶμεν λόγῳ μηδὲ τῇ γλώσσῃ ἀλλὰ ἐν ἔργῳ καὶ ἀληθείᾳ.",
+    "hebrew": "בָּנַי אַל-נָא נֶאֱהַב בְּמִלִּין וּבַלָּשׁוֹן כִּי אִם-בְּפֹעַל וּבֶאֱמֶת",
+    "latin": "Filioli mei, non diligamus verbo neque lingua, sed opere et veritate :"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "greek": "⸀ἐν τούτῳ ⸀γνωσόμεθα ὅτι ἐκ τῆς ἀληθείας ἐσμέν, καὶ ἔμπροσθεν αὐτοῦ πείσομεν ⸂τὴν καρδίαν⸃ ἡμῶν",
+    "hebrew": "וּבָזֹאת נֵדְעָה כִּי מִן-הָאֱמֶת אֲנָחְנוּ וּלְפָנָיו נַשְׁקִיט אֶת-לִבּוֹתֵינוּ",
+    "latin": "in hoc cognoscimus quoniam ex veritate sumus : et in conspectu ejus suadebimus corda nostra."
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "greek": "ὅτι ἐὰν καταγινώσκῃ ἡμῶν ἡ καρδία, ὅτι μείζων ἐστὶν ὁ θεὸς τῆς καρδίας ἡμῶν καὶ γινώσκει πάντα.",
+    "hebrew": "כִּי אִם-לִבֵּנוּ יַרְשִׁיעַ אֹתָנוּ הָאֱלֹהִים נִשְׂגָּב הוּא מִלִּבֵּנוּ וְיֹדֵעַ אֶת-כֹּל",
+    "latin": "Quoniam si reprehenderit nos cor nostrum : major est Deus corde nostro, et novit omnia."
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "greek": "ἀγαπητοί, ἐὰν ἡ καρδία ⸂μὴ καταγινώσκῃ ἡμῶν⸃, παρρησίαν ἔχομεν πρὸς τὸν θεόν,",
+    "hebrew": "יְדִידַי אִם-לִבֵּנוּ לֹא-יַרְשִׁיעֵנוּ עֹז לָנוּ בֵּאלֹהִים",
+    "latin": "Carissimi, si cor nostrum non reprehenderit nos, fiduciam habemus ad Deum :"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "greek": "καὶ ὃ ⸀ἐὰν αἰτῶμεν λαμβάνομεν ⸀ἀπʼ αὐτοῦ, ὅτι τὰς ἐντολὰς αὐτοῦ τηροῦμεν καὶ τὰ ἀρεστὰ ἐνώπιον αὐτοῦ ποιοῦμεν.",
+    "hebrew": "וְכָל-אֲשֶׁר נִשְׁאַל מֵאִתּוֹ יִנָּתֶן-לָנוּ כִּי-נִשְׁמֹר אֶת-מִצְוֹתָיו וְנַעֲשֶׂה אֶת-הַיָּשָׁר בְּעֵינָיו",
+    "latin": "et quidquid petierimus, accipiemus ab eo : quoniam mandata ejus custodimus, et ea, quæ sunt placita coram eo, facimus."
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "greek": "καὶ αὕτη ἐστὶν ἡ ἐντολὴ αὐτοῦ, ἵνα ⸀πιστεύσωμεν τῷ ὀνόματι τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ καὶ ἀγαπῶμεν ἀλλήλους, καθὼς ἔδωκεν ἐντολὴν ⸀ἡμῖν.",
+    "hebrew": "וְזֹאת מִצְוָתוֹ לְהַאֲמִין בְּשֶׁם-בְּנוֹ יֵשׁוּעַ הַמָּשִׁיחַ וּלְאַהֲבָה אִישׁ אֶת-רֵעֵהוּ כַּאֲשֶׁר צִוָּנוּ",
+    "latin": "Et hoc est mandatum ejus : ut credamus in nomine Filii ejus Jesu Christi : et diligamus alterutrum, sicut dedit mandatum nobis."
+  },
+  {
+    "chapter": 3,
+    "verse": 24,
+    "greek": "καὶ ὁ τηρῶν τὰς ἐντολὰς αὐτοῦ ἐν αὐτῷ μένει καὶ αὐτὸς ἐν αὐτῷ· καὶ ἐν τούτῳ γινώσκομεν ὅτι μένει ἐν ἡμῖν, ἐκ τοῦ πνεύματος οὗ ἡμῖν ἔδωκεν.",
+    "hebrew": "וְהַשֹּׁמֵר אֶת-מִצְוֹתָיו יָקוּם בּוֹ וְהוּא בוֹ וּבָזֹאת נֵדַע כִּי-הוּא שֹׁכֵן בָּנוּ בָּרוּחַ אֲשֶׁר-נָתַן לָנוּ",
+    "latin": "Et qui servat mandata ejus, in illo manet, et ipse in eo : et in hoc scimus quoniam manet in nobis, de Spiritu quem dedit nobis."
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "greek": "Ἀγαπητοί, μὴ παντὶ πνεύματι πιστεύετε, ἀλλὰ δοκιμάζετε τὰ πνεύματα εἰ ἐκ τοῦ θεοῦ ἐστιν, ὅτι πολλοὶ ψευδοπροφῆται ἐξεληλύθασιν εἰς τὸν κόσμον.",
+    "hebrew": "יְדִידַי אַל-תַּאֲמִינוּ לְכָל-רוּחַ כִּי אִם-בַּחֲנוּ הָרוּחוֹת אִם-מֵאֱלֹהִים הֵמָּה כִּי נְבִיאֵי שֶׁקֶר רַבִּים בָּאוּ לָעוֹלָם",
+    "latin": "Carissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint : quoniam multi pseudoprophetæ exierunt in mundum."
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "greek": "ἐν τούτῳ ⸀γινώσκετε τὸ πνεῦμα τοῦ θεοῦ· πᾶν πνεῦμα ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ ἐστιν,",
+    "hebrew": "בָּזֹאת תַּכִּירוּ אֶת-רוּחַ אֱלֹהִים כָּל-רוּחַ הַמּוֹדֶה בְּיֵשׁוּעַ הַמָּשִׁיחַ הַבָּא בַבָּשָׂר מֵאֱלֹהִים הוּא",
+    "latin": "In hoc cognoscitur Spiritus Dei : omnis spiritus qui confitetur Jesum Christum in carne venisse, ex Deo est :"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "greek": "καὶ πᾶν πνεῦμα ὃ μὴ ὁμολογεῖ ⸀τὸν ⸀Ἰησοῦν ἐκ τοῦ θεοῦ οὐκ ἔστιν· καὶ τοῦτό ἐστιν τὸ τοῦ ἀντιχρίστου, ὃ ἀκηκόατε ὅτι ἔρχεται, καὶ νῦν ἐν τῷ κόσμῳ ἐστὶν ἤδη.",
+    "hebrew": "וְכָל-רוּחַ אֲשֶׁר אֵינֶנּוּ מוֹדֶה בְּיֵשׁוּעַ [הַמָּשִׁיחַ הַבָּא בַבָּשָׂר] לֹא מֵאֱלֹהִים הוּא וְזֶה הוּא רוּחַ שׂוֹטֵן הַמָּשִׁיחַ אֲשֶׁר שְׁמַעְתֶּם כִּי-יָבֹא וְעַתָּה הִנֵּה-הוּא בָעוֹלָם",
+    "latin": "et omnis spiritus qui solvit Jesum, ex Deo non est, et hic est antichristus, de quo audistis quoniam venit, et nunc jam in mundo est."
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "greek": "ὑμεῖς ἐκ τοῦ θεοῦ ἐστε, τεκνία, καὶ νενικήκατε αὐτούς, ὅτι μείζων ἐστὶν ὁ ἐν ὑμῖν ἢ ὁ ἐν τῷ κόσμῳ·",
+    "hebrew": "אַתֶּם הַבָּנִים מֵאֱלֹהִים אַתֶּם וְנִצַּחְתֶּם אֹתָם כִּי-אֲשֶׁר בָּכֶם גָּדוֹל הוּא מֵאֲשֶׁר בָּעוֹלָם",
+    "latin": "Vos ex Deo estis filioli, et vicistis eum, quoniam major est qui in vobis est, quam qui in mundo."
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "greek": "αὐτοὶ ἐκ τοῦ κόσμου εἰσίν· διὰ τοῦτο ἐκ τοῦ κόσμου λαλοῦσιν καὶ ὁ κόσμος αὐτῶν ἀκούει.",
+    "hebrew": "הֵמָּה מִן-הָעוֹלָם עַל-כֵּן מֵהָעוֹלָם יְדַבֵּרוּ וְהָעוֹלָם יִשְׁמַע אֲלֵיהֶם",
+    "latin": "Ipsi de mundo sunt : ideo de mundo loquuntur, et mundus eos audit."
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "greek": "ἡμεῖς ἐκ τοῦ θεοῦ ἐσμεν· ὁ γινώσκων τὸν θεὸν ἀκούει ἡμῶν, ὃς οὐκ ἔστιν ἐκ τοῦ θεοῦ οὐκ ἀκούει ἡμῶν. ἐκ τούτου γινώσκομεν τὸ πνεῦμα τῆς ἀληθείας καὶ τὸ πνεῦμα τῆς πλάνης.",
+    "hebrew": "וַאֲנַחְנוּ מֵאֱלֹהִים הַיּוֹדֵעַ אֶת-הָאֱלֹהִים יִשְׁמַע אֵלֵינוּ וַאֲשֶׁר אֵינֶנּוּ מֵאֱלֹהִים לֹא יִשְׁמַע אֵלֵינוּ בָּזֹאת נַכִּיר אֶת-רוּחַ הָאֱמֶת וְאֶת-רוּחַ הַתּוֹעָה",
+    "latin": "Nos ex Deo sumus. Qui novit Deum, audit nos ; qui non est ex Deo, non audit nos : in hoc cognoscimus Spiritum veritatis, et spiritum erroris."
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "greek": "Ἀγαπητοί, ἀγαπῶμεν ἀλλήλους, ὅτι ἡ ἀγάπη ἐκ τοῦ θεοῦ ἐστιν, καὶ πᾶς ὁ ἀγαπῶν ἐκ τοῦ θεοῦ γεγέννηται καὶ γινώσκει τὸν θεόν.",
+    "hebrew": "יְדִידַי נֶאֱהַב-נָא אִישׁ אֶת-רֵעֵהוּ כִּי הָאַהֲבָה מֵאֱלֹהִים הִיא וְכָל-אֲשֶׁר יֶאֱהַב נוֹלָד מֵאֱלֹהִים וְיֹדֵעַ אֵת הָאֱלֹהִים",
+    "latin": "Carissimi, diligamus nos invicem : quia caritas ex Deo est. Et omnis qui diligit, ex Deo natus est, et cognoscit Deum."
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "greek": "ὁ μὴ ἀγαπῶν οὐκ ἔγνω τὸν θεόν, ὅτι ὁ θεὸς ἀγάπη ἐστίν.",
+    "hebrew": "וַאֲשֶׁר אֵינֶנּוּ אֹהֵב לֹא יָדַע אֶת-הָאֱלֹהִים כִּי הָאֱלֹהִים הוּא אַהֲבָה",
+    "latin": "Qui non diligit, non novit Deum : quoniam Deus caritas est."
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "greek": "ἐν τούτῳ ἐφανερώθη ἡ ἀγάπη τοῦ θεοῦ ἐν ἡμῖν, ὅτι τὸν υἱὸν αὐτοῦ τὸν μονογενῆ ἀπέσταλκεν ὁ θεὸς εἰς τὸν κόσμον ἵνα ζήσωμεν διʼ αὐτοῦ.",
+    "hebrew": "בָּזֹאת נִרְאֲתָה אַהֲבַת הָאֱלֹהִים לָנוּ אֲשֶׁר-שָׁלַח הָאֱלֹהִים אֶת-בְּנוֹ אֶת-יְחִידוֹ לָעוֹלָם לְמַעַן נִחְיֶה עַל-יָדוֹ",
+    "latin": "In hoc apparuit caritas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum."
+  },
+  {
+    "chapter": 4,
+    "verse": 10,
+    "greek": "ἐν τούτῳ ἐστὶν ἡ ἀγάπη, οὐχ ὅτι ἡμεῖς ⸀ἠγαπήκαμεν τὸν θεόν, ἀλλʼ ὅτι αὐτὸς ἠγάπησεν ἡμᾶς καὶ ἀπέστειλεν τὸν υἱὸν αὐτοῦ ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν.",
+    "hebrew": "זֹאת הִיא הָאַהֲבָה לֹא שֶׁאֲנַחְנוּ אָהַבְנוּ אֶת-הָאֱלֹהִים כִּי אִם-הוּא אָהַב אוֹתָנוּ וַיִּשְׁלַח אֶת-בְּנוֹ לְכַפָּרָה עַל-חַטֹּאתֵינוּ",
+    "latin": "In hoc est caritas : non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos, et misit Filium suum propitiationem pro peccatis nostris."
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "greek": "ἀγαπητοί, εἰ οὕτως ὁ θεὸς ἠγάπησεν ἡμᾶς, καὶ ἡμεῖς ὀφείλομεν ἀλλήλους ἀγαπᾶν.",
+    "hebrew": "יְדִידַי אִם-כָּכָה אָהַב אֹתָנוּ הָאֱלֹהִים גַּם-אֲנַחְנוּ חַיָּבִים לְאַהֲבָה אִישׁ אֶת-רֵעֵהוּ",
+    "latin": "Carissimi, si sic Deus dilexit nos : et nos debemus alterutrum diligere."
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "greek": "θεὸν οὐδεὶς πώποτε τεθέαται· ἐὰν ἀγαπῶμεν ἀλλήλους, ὁ θεὸς ἐν ἡμῖν μένει καὶ ἡ ἀγάπη αὐτοῦ ⸂ἐν ἡμῖν τετελειωμένη ἐστιν⸃.",
+    "hebrew": "אֶת-הָאֱלֹהִים לֹא-רָאָה אִישׁ מֵעוֹלָם וְאִם-נֶאֱהַב אִישׁ אֶת-רֵעֵהוּ הָאֱלֹהִים יַעֲמֹד בְּקִרְבֵּנוּ וְאַהֲבָתוֹ נִשְׁלְמָה-בָּנוּ",
+    "latin": "Deum nemo vidit umquam. Si diligamus invicem, Deus in nobis manet, et caritas ejus in nobis perfecta est."
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "greek": "Ἐν τούτῳ γινώσκομεν ὅτι ἐν αὐτῷ μένομεν καὶ αὐτὸς ἐν ἡμῖν, ὅτι ἐκ τοῦ πνεύματος αὐτοῦ δέδωκεν ἡμῖν.",
+    "hebrew": "בָּזֹאת נֵדַע אֲשֶׁר-בּוֹ נִשְׁכֹּן וְהוּא בָנוּ כִּי-נָתַן לָנוּ מֵרוּחוֹ",
+    "latin": "In hoc cognoscimus quoniam in eo manemus, et ipse in nobis : quoniam de Spiritu suo dedit nobis."
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "greek": "καὶ ἡμεῖς τεθεάμεθα καὶ μαρτυροῦμεν ὅτι ὁ πατὴρ ἀπέσταλκεν τὸν υἱὸν σωτῆρα τοῦ κόσμου.",
+    "hebrew": "וַאֲנַחְנוּ חָזִינוּ וַנָּעִידָה כִּי הָאָב שָׁלַח אֶת-הַבֵּן מוֹשִׁיעַ הָעוֹלָם",
+    "latin": "Et nos vidimus, et testificamur quoniam Pater misit Filium suum Salvatorem mundi."
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "greek": "ὃς ⸀ἐὰν ὁμολογήσῃ ὅτι ⸀Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ, ὁ θεὸς ἐν αὐτῷ μένει καὶ αὐτὸς ἐν τῷ θεῷ.",
+    "hebrew": "כָּל-הַמּוֹדֶה כִּי יֵשׁוּעַ הוּא בֶן-הָאֱלֹהִים הָאֱלֹהִים שֹׁכֵן בּוֹ וְהוּא בֵּאלֹהִים",
+    "latin": "Quisquis confessus fuerit quoniam Jesus est Filius Dei, Deus in eo manet, et ipse in Deo."
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "greek": "καὶ ἡμεῖς ἐγνώκαμεν καὶ πεπιστεύκαμεν τὴν ἀγάπην ἣν ἔχει ὁ θεὸς ἐν ἡμῖν. Ὁ θεὸς ἀγάπη ἐστίν, καὶ ὁ μένων ἐν τῇ ἀγάπῃ ἐν τῷ θεῷ μένει καὶ ὁ θεὸς ἐν αὐτῷ ⸀μένει.",
+    "hebrew": "וַאֲנַחְנוּ יָדַעְנוּ וַנַּאֲמֵן בָּאַהֲבָה אֲשֶׁר אֱלֹהִים אָהַב אֹתָנוּ הָאֱלֹהִים הוּא אַהֲבָה וְהָעֹמֵד בָּאַהֲבָה עֹמֵד בֵּאלֹהִים וְהָאֱלֹהִים עֹמֵד בּוֹ",
+    "latin": "Et nos cognovimus, et credidimus caritati, quam habet Deus in nobis. Deus caritas est : et qui manet in caritate, in Deo manet, et Deus in eo."
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "greek": "ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθʼ ἡμῶν, ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως, ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ.",
+    "hebrew": "וּבָזֹאת נִשְׁלְמָה-בָּנוּ הָאַהֲבָה בִּהְיוֹת לָנוּ פִּתְחוֹן פֶּה לְיוֹם הַדִּין כִּי כָמֹהוּ כֵּן גַּם-אֲנַחְנוּ בָּעוֹלָם הַזֶּה",
+    "latin": "In hoc perfecta est caritas Dei nobiscum, ut fiduciam habeamus in die judicii : quia sicut ille est, et nos sumus in hoc mundo."
+  },
+  {
+    "chapter": 4,
+    "verse": 18,
+    "greek": "φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ, ἀλλʼ ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον, ὅτι ὁ φόβος κόλασιν ἔχει, ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ.",
+    "hebrew": "אֵין פַּחַד לָאַהֲבָה כִּי הָאַהֲבָה הַשְּׁלֵמָה תְּגָרֵשׁ אֶת-הַפָּחַד כִּי הַפַּחַד הוּא פַחַד מִן-הָעֹנֶשׁ וְהַמְפַחֵד אֵינֶנּוּ שָׁלֵם בָּאַהֲבָה",
+    "latin": "Timor non est in caritate : sed perfecta caritas foras mittit timorem, quoniam timor pœnam habet : qui autem timet, non est perfectus in caritate."
+  },
+  {
+    "chapter": 4,
+    "verse": 19,
+    "greek": "ἡμεῖς ⸀ἀγαπῶμεν, ὅτι αὐτὸς πρῶτος ἠγάπησεν ἡμᾶς.",
+    "hebrew": "אֲנַחְנוּ אֹהֲבִים אֹתוֹ כִּי הוּא קִדֵּם לְאַהֲבָה אֹתָנוּ",
+    "latin": "Nos ergo diligamus Deum, quoniam Deus prior dilexit nos."
+  },
+  {
+    "chapter": 4,
+    "verse": 20,
+    "greek": "ἐάν τις εἴπῃ ὅτι Ἀγαπῶ τὸν θεόν, καὶ τὸν ἀδελφὸν αὐτοῦ μισῇ, ψεύστης ἐστίν· ὁ γὰρ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ὃν ἑώρακεν, τὸν θεὸν ὃν οὐχ ἑώρακεν ⸀οὐ δύναται ἀγαπᾶν.",
+    "hebrew": "כִּי-יֹאמַר אִישׁ אֹהֵב אֲנִי אֶת-הָאֱלֹהִים וְהוּא שֹׂנֵא אֶת-אָחִיו שֶׁקֶר הוּא מְדַבֵּר כִּי אֲשֶׁר לֹא יֶאֱהַב אֶת-אָחִיו אֲשֶׁר הוּא רֹאֶה אֵיכָכָה יוּכַל לֶאֱהֹב אֶת-הָאֱלֹהִים אֲשֶׁר הוּא אֵינֶנּוּ רֹאֶה אֹתוֹ",
+    "latin": "Si quis dixerit : Quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem vidit, Deum, quem non vidit, quomodo potest diligere ?"
+  },
+  {
+    "chapter": 4,
+    "verse": 21,
+    "greek": "καὶ ταύτην τὴν ἐντολὴν ἔχομεν ἀπʼ αὐτοῦ, ἵνα ὁ ἀγαπῶν τὸν θεὸν ἀγαπᾷ καὶ τὸν ἀδελφὸν αὐτοῦ.",
+    "hebrew": "וְזֹאת הַמִּצְוָה מֵאִתּוֹ לָנוּ כִּי הָאֹהֵב אֶת-הָאֱלֹהִים יֶאֱהַב גַּם-אֶת-אָחִיו",
+    "latin": "Et hoc mandatum habemus a Deo : ut qui diligit Deum, diligat et fratrem suum."
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "greek": "Πᾶς ὁ πιστεύων ὅτι Ἰησοῦς ἐστιν ὁ χριστὸς ἐκ τοῦ θεοῦ γεγέννηται, καὶ πᾶς ὁ ἀγαπῶν τὸν γεννήσαντα ἀγαπᾷ ⸀καὶ τὸν γεγεννημένον ἐξ αὐτοῦ.",
+    "hebrew": "כָּל-הַמַּאֲמִין כִּי יֵשׁוּעַ הוּא הַמָּשִׁיחַ הוּא נוֹלָד מֵאֱלֹהִים וְכָל-הָאֹהֵב אֶת-מוֹלִידוֹ יֶאֱהַב גַּם אֶת-הַנּוֹלָד מֵאִתּוֹ",
+    "latin": "Omnis qui credit quoniam Jesus est Christus, ex Deo natus est. Et omnis qui diligit eum qui genuit, diligit et eum qui natus est ex eo."
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "greek": "ἐν τούτῳ γινώσκομεν ὅτι ἀγαπῶμεν τὰ τέκνα τοῦ θεοῦ, ὅταν τὸν θεὸν ἀγαπῶμεν καὶ τὰς ἐντολὰς αὐτοῦ ⸀ποιῶμεν·",
+    "hebrew": "בְּזֹאת נֵדַע כִּי נֶאֱהַב אֶת-בְּנֵי הָאֱלֹהִים בְּאַהֲבָתֵנוּ אֶת-הָאֱלֹהִים וּבְשָׁמְרֵנוּ אֶת-מִצְוֹתָיו",
+    "latin": "In hoc cognoscimus quoniam diligimus natos Dei, cum Deum diligamus, et mandata ejus faciamus."
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "greek": "αὕτη γάρ ἐστιν ἡ ἀγάπη τοῦ θεοῦ ἵνα τὰς ἐντολὰς αὐτοῦ τηρῶμεν, καὶ αἱ ἐντολαὶ αὐτοῦ βαρεῖαι οὐκ εἰσίν,",
+    "hebrew": "כִּי זֹאת אַהֲבַת אֱלֹהִים אֲשֶׁר נִשְׁמֹר אֶת-מִצְוֹתָיו וּמִצְוֹתָיו בִּלְתִּי קָשׁוֹת הֵנָּה",
+    "latin": "Hæc est enim caritas Dei, ut mandata ejus custodiamus : et mandata ejus gravia non sunt."
+  },
+  {
+    "chapter": 5,
+    "verse": 4,
+    "greek": "ὅτι πᾶν τὸ γεγεννημένον ἐκ τοῦ θεοῦ νικᾷ τὸν κόσμον. καὶ αὕτη ἐστὶν ἡ νίκη ἡ νικήσασα τὸν κόσμον, ἡ πίστις ἡμῶν·",
+    "hebrew": "כִּי-כֹל הַנּוֹלָד מֵאֵת הָאֱלֹהִים מְנַצֵּחַ אֶת-הָעוֹלָם וֶאֱמוּנָתֵנוּ הִיא הַנִּצָּחוֹן הַמְּנַצֵּחַ אֶת-הָעוֹלָם",
+    "latin": "Quoniam omne quod natum est ex Deo, vincit mundum : et hæc est victoria, quæ vincit mundum, fides nostra."
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "greek": "τίς ⸂δέ ἐστιν⸃ ὁ νικῶν τὸν κόσμον εἰ μὴ ὁ πιστεύων ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ;",
+    "hebrew": "מִי הַמְּנַצֵּחַ אֶת-הָעוֹלָם כִּי אִם-הַמַּאֲמִין בְּיֵשׁוּעַ שֶׁהוּא בֶּן-הָאֱלֹהִים",
+    "latin": "Quis est, qui vincit mundum, nisi qui credit quoniam Jesus est Filius Dei ?"
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "greek": "Οὗτός ἐστιν ὁ ἐλθὼν διʼ ὕδατος καὶ αἵματος, Ἰησοῦς Χριστός· οὐκ ἐν τῷ ὕδατι μόνον ἀλλʼ ἐν τῷ ὕδατι καὶ ⸀ἐν τῷ αἵματι· καὶ τὸ πνεῦμά ἐστιν τὸ μαρτυροῦν, ὅτι τὸ πνεῦμά ἐστιν ἡ ἀλήθεια.",
+    "hebrew": "זֶה הוּא אֲשֶׁר-בָּא בְּמַיִם וּבְדָם [וּבְרוּחַ] יֵשׁוּעַ הַמָּשִׁיחַ לֹא בְּמַיִם בִּלְבַד כִּי אִם-בַּמַּיִם וּבַדָּם וְהָרוּחַ הוּא הַמֵּעִיד כִּי הָרוּחַ הוּא הָאֱמֶת",
+    "latin": "Hic est, qui venit per aquam et sanguinem, Jesus Christus : non in aqua solum, sed in aqua et sanguine. Et Spiritus est, qui testificatur quoniam Christus est veritas."
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "greek": "ὅτι τρεῖς εἰσιν οἱ μαρτυροῦντες,",
+    "hebrew": "כִּי שְׁלֹשָׁה הַמְּעִידִים בַּשָּׁמַיִם הָאָב הַדָּבָר וְרוּחַ הַקֹּדֶשׁ וּשְׁלָשְׁתָּם אֶחָד הֵמָּה",
+    "latin": "Quoniam tres sunt, qui testimonium dant in cælo : Pater, Verbum, et Spiritus Sanctus : et hi tres unum sunt."
+  },
+  {
+    "chapter": 5,
+    "verse": 8,
+    "greek": "τὸ πνεῦμα καὶ τὸ ὕδωρ καὶ τὸ αἷμα, καὶ οἱ τρεῖς εἰς τὸ ἕν εἰσιν.",
+    "hebrew": "וּשְׁלֹשָׁה הֵמָּה הַמְּעִידִים בָּאָרֶץ הָרוּחַ הַמַּיִם וְהַדָּם וּשְׁלָשְׁתָּם עֵדוּת אֶחָת",
+    "latin": "Et tres sunt, qui testimonium dant in terra : spiritus, et aqua, et sanguis : et hi tres unum sunt."
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "greek": "εἰ τὴν μαρτυρίαν τῶν ἀνθρώπων λαμβάνομεν, ἡ μαρτυρία τοῦ θεοῦ μείζων ἐστίν, ὅτι αὕτη ἐστὶν ἡ μαρτυρία τοῦ θεοῦ ⸀ὅτι μεμαρτύρηκεν περὶ τοῦ υἱοῦ αὐτοῦ.",
+    "hebrew": "הֵן-נְקַבֵּל עֵדוּת בְּנֵי אָדָם וְעֵדוּת הָאֱלֹהִים הֲלֹא גְדוֹלָה מִמֶּנָּה כִּי זֹאת הִיא עֵדוּת הָאֱלֹהִים אֲשֶׁר הֵעִיד עַל-בְּנוֹ",
+    "latin": "Si testimonium hominum accipimus, testimonium Dei majus est : quoniam hoc est testimonium Dei, quod majus est, quoniam testificatus est de Filio suo."
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "greek": "ὁ πιστεύων εἰς τὸν υἱὸν τοῦ θεοῦ ἔχει τὴν μαρτυρίαν ἐν ⸀αὑτῷ· ὁ μὴ πιστεύων τῷ θεῷ ψεύστην πεποίηκεν αὐτόν, ὅτι οὐ πεπίστευκεν εἰς τὴν μαρτυρίαν ἣν μεμαρτύρηκεν ὁ θεὸς περὶ τοῦ υἱοῦ αὐτοῦ.",
+    "hebrew": "הַמַּאֲמִין בְּבֶן-הָאֱלֹהִים יֶשׁ-לוֹ עֵדוּת בְּנַפְשׁוֹ וַאֲשֶׁר לֹא יַאֲמִין לֵאלֹהִים לְכֹזֵב שָׂמָהוּ יַעַן לֹא-הֶאֱמִין בָּעֵדוּת אֲשֶׁר הֵעִיד הָאֱלֹהִים עַל-בְּנוֹ",
+    "latin": "Qui credit in Filium Dei, habet testimonium Dei in se. Qui non credit Filio, mendacem facit eum : quia non credit in testimonium quod testificatus est Deus de Filio suo."
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "greek": "καὶ αὕτη ἐστὶν ἡ μαρτυρία, ὅτι ζωὴν αἰώνιον ἔδωκεν ⸂ὁ θεὸς ἡμῖν⸃, καὶ αὕτη ἡ ζωὴ ἐν τῷ υἱῷ αὐτοῦ ἐστιν.",
+    "hebrew": "וְזֹאת הִיא הָעֵדוּת כִּי חַיֵּי עוֹלָם נָתַן לָנוּ הָאֱלֹהִים וְהַחַיִּים הָאֵלֶּה בִּבְנוֹ הֵמָּה",
+    "latin": "Et hoc est testimonium, quoniam vitam æternam dedit nobis Deus : et hæc vita in Filio ejus est."
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "greek": "ὁ ἔχων τὸν υἱὸν ἔχει τὴν ζωήν· ὁ μὴ ἔχων τὸν υἱὸν τοῦ θεοῦ τὴν ζωὴν οὐκ ἔχει.",
+    "hebrew": "אֲשֶׁר יֶשׁ-לוֹ הַבֵּן יֶשׁ-לוֹ הַחַיִּים וַאֲשֶׁר אֵין-לוֹ בֶּן-הָאֱלֹהִים אֵין לוֹ הַחַיִּים",
+    "latin": "Qui habet Filium, habet vitam : qui non habet Filium, vitam non habet."
+  },
+  {
+    "chapter": 5,
+    "verse": 13,
+    "greek": "Ταῦτα ἔγραψα ⸀ὑμῖν ἵνα εἰδῆτε ὅτι ζωὴν ⸂ἔχετε αἰώνιον⸃, ⸂τοῖς πιστεύουσιν⸃ εἰς τὸ ὄνομα τοῦ υἱοῦ τοῦ θεοῦ.",
+    "hebrew": "זֹאת כָּתַבְתִּי אֲלֵיכֶם לְמַעַן תֵּדְעוּן שֶׁחַיֵּי עוֹלָם לָכֶם הַמַּאֲמִינִים בְּשֵׁם בֶּן-הָאֱלֹהִים",
+    "latin": "Hæc scribo vobis ut sciatis quoniam vitam habetis æternam, qui creditis in nomine Filii Dei."
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "greek": "καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν, ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ ἀκούει ἡμῶν.",
+    "hebrew": "וּבִטְחוֹנֵנוּ בוֹ שֶׁאִם-נִשְׁאַל דָּבָר כִּרְצוֹנוֹ יִשְׁמַע בְּקוֹלֵנוּ",
+    "latin": "Et hæc est fiducia, quam habemus ad eum : quia quodcumque petierimus, secundum voluntatem ejus, audit nos."
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "greek": "καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν ὃ ⸀ἐὰν αἰτώμεθα, οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν ⸀ἀπʼ αὐτοῦ.",
+    "hebrew": "וּלְפִי שֶׁיֹּדְעִים אֲנַחְנוּ כִּי יִשְׁמַע בְּקוֹלֵנוּ לְכָל-אֲשֶׁר נִשְׁאָל נֵדַע גַּם-זֹאת כִּי הוּא מְמַלֵּא מִשְׁאֲלוֹתֵינוּ",
+    "latin": "Et scimus quia audit nos quidquid petierimus : scimus quoniam habemus petitiones quas postulamus ab eo."
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "greek": "ἐάν τις ἴδῃ τὸν ἀδελφὸν αὐτοῦ ἁμαρτάνοντα ἁμαρτίαν μὴ πρὸς θάνατον, αἰτήσει, καὶ δώσει αὐτῷ ζωήν, τοῖς ἁμαρτάνουσιν μὴ πρὸς θάνατον. ἔστιν ἁμαρτία πρὸς θάνατον· οὐ περὶ ἐκείνης λέγω ἵνα ἐρωτήσῃ.",
+    "hebrew": "אִישׁ כִּי-יִרְאֶה אֶת-אָחִיו חוֹטֵא חַטָּאת אֲשֶׁר אֵינֶנָּה לַמָּוֶת שָׁאֹל יִשְׁאַל בַּעֲדוֹ וְיִתֶּן-לוֹ חַיִּים לְכָל-אֲשֶׁר חָטְאוּ וְלֹא לַמָּוֶת הֶן-יֵשׁ חֵטְא מָוֶת עַל-זֶה לֹא אֹמַר לִשְׁאוֹל בַּעֲדוֹ",
+    "latin": "Qui scit fratrem suum peccare peccatum non ad mortem, petat, et dabitur ei vita peccanti non ad mortem. Est peccatum ad mortem : non pro illo dico ut roget quis."
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "greek": "πᾶσα ἀδικία ἁμαρτία ἐστίν, καὶ ἔστιν ἁμαρτία οὐ πρὸς θάνατον.",
+    "hebrew": "כָּל-מַעֲשֵׂה עָוֶל חֵטְא הִיא וְיֵשׁ חַטָּאת אֲשֶׁר אֵינֶנָּהּ לַמָּוֶת",
+    "latin": "Omnis iniquitas, peccatum est : et est peccatum ad mortem."
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "greek": "Οἴδαμεν ὅτι πᾶς ὁ γεγεννημένος ἐκ τοῦ θεοῦ οὐχ ἁμαρτάνει, ἀλλʼ ὁ γεννηθεὶς ἐκ τοῦ θεοῦ τηρεῖ ⸀αὐτόν, καὶ ὁ πονηρὸς οὐχ ἅπτεται αὐτοῦ.",
+    "hebrew": "יָדַעְנוּ כִּי כָל-הַנּוֹלָד מֵאֵת הָאֱלֹהִים לֹא יֶחֱטָא כִּי אֲשֶׁר יֻלַּד מֵאֵת הָאֱלֹהִים יִשְׁמֹר אֶת-נַפְשׁוֹ וְהָרַע לֹא-יִגַּע בּוֹ",
+    "latin": "Scimus quia omnis qui natus est ex Deo, non peccat : sed generatio Dei conservat eum, et malignus non tangit eum."
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "greek": "οἴδαμεν ὅτι ἐκ τοῦ θεοῦ ἐσμεν, καὶ ὁ κόσμος ὅλος ἐν τῷ πονηρῷ κεῖται.",
+    "hebrew": "יָדַעְנוּ כִּי מֵאֱלֹהִים אֲנָחְנוּ וְכָל-הָעוֹלָם בְּרָע הוּא",
+    "latin": "Scimus quoniam ex Deo sumus : et mundus totus in maligno positus est."
+  },
+  {
+    "chapter": 5,
+    "verse": 20,
+    "greek": "οἴδαμεν δὲ ὅτι ὁ υἱὸς τοῦ θεοῦ ἥκει, καὶ δέδωκεν ἡμῖν διάνοιαν ἵνα ⸀γινώσκωμεν τὸν ἀληθινόν· καὶ ἐσμὲν ἐν τῷ ἀληθινῷ, ἐν τῷ υἱῷ αὐτοῦ Ἰησοῦ Χριστῷ. οὗτός ἐστιν ὁ ἀληθινὸς θεὸς καὶ ζωὴ αἰώνιος.",
+    "hebrew": "וְיָדַעְנוּ כִּי בָא בֶּן-אֱלֹהִים וַיִּתֶּן-לָנוּ בִינָה לָדַעַת אֶת-הָאֲמִתִּי וּבָאֲמִתִּי אֲנַחְנוּ בִּבְנוֹ יֵשׁוּעַ הַמָּשִׁיחַ זֶה הוּא הָאֵל הָאֲמִתִּי וְחַיֵּי הָעוֹלָמִים",
+    "latin": "Et scimus quoniam Filius Dei venit, et dedit nobis sensum ut cognoscamus verum Deum, et simus in vero Filio ejus. Hic est verus Deus, et vita æterna."
+  },
+  {
+    "chapter": 5,
+    "verse": 21,
+    "greek": "Τεκνία, φυλάξατε ἑαυτὰ ἀπὸ τῶν ⸀εἰδώλων.",
+    "hebrew": "בָּנַי הִשָּׁמְרוּ לָכֶם מִן-הָאֱלִילִים אָמֵן",
+    "latin": "Filioli, custodite vos a simulacris. Amen."
+  }
+]
