@@ -189,7 +189,7 @@ const html = `<!DOCTYPE html>
 
     body {
       font-family: "Noto Sans Phoenician", "Segoe UI Historic", serif;
-      font-size: 14px;
+      font-size: 18px;
       line-height: 1.8;
       color: #1a1a1a;
       background: #e8e4de;
@@ -259,10 +259,10 @@ const html = `<!DOCTYPE html>
     }
 
     .book-viewport {
-      width: 9.8in;
+      width: 12.75in;
       max-width: calc(100vw - 1em);
       height: calc(100vh - 7em);
-      max-height: 7.5in;
+      max-height: 9.75in;
       overflow: hidden;
       position: relative;
       background: #faf8f4;
@@ -278,7 +278,7 @@ const html = `<!DOCTYPE html>
       bottom: 0;
       left: 50%;
       transform: translateX(-50%);
-      width: 20px;
+      width: 26px;
       background: linear-gradient(to right,
         transparent,
         rgba(0,0,0,0.04) 30%,
@@ -290,11 +290,11 @@ const html = `<!DOCTYPE html>
     }
 
     .book-content {
-      column-width: 4.2in;
-      column-gap: 0.8in;
+      column-width: 5.46in;
+      column-gap: 1.04in;
       column-fill: auto;
       height: 100%;
-      padding: 0.4in 0.3in;
+      padding: 0.52in 0.39in;
       box-sizing: border-box;
       transition: transform 0.35s ease;
       direction: ltr;
@@ -325,11 +325,13 @@ const html = `<!DOCTYPE html>
       justify-content: center;
       height: 100%;
       direction: ltr;
+      margin: 0 auto;
     }
 
     .map-container {
       width: 100%;
       max-height: 100%;
+      padding: 0 0.13in;
     }
 
     .map-container svg {
@@ -391,7 +393,7 @@ const html = `<!DOCTYPE html>
     }
 
     .chapter h2 {
-      font-size: 16px;
+      font-size: 21px;
       margin-bottom: 0.6em;
       padding-bottom: 0.25em;
       border-bottom: 1px solid #ccc;
@@ -409,7 +411,7 @@ const html = `<!DOCTYPE html>
       position: absolute;
       right: 0;
       top: 0;
-      font-size: 10px;
+      font-size: 13px;
       color: #999;
       font-family: "Georgia", serif;
       min-width: 1.8em;
@@ -418,7 +420,7 @@ const html = `<!DOCTYPE html>
 
     .old-hebrew {
       display: block;
-      font-size: 15px;
+      font-size: 19.5px;
       line-height: 1.9;
       direction: rtl;
     }
@@ -429,7 +431,7 @@ const html = `<!DOCTYPE html>
 
     .verse-num-inline {
       font-family: "Georgia", serif;
-      font-size: 9px;
+      font-size: 12px;
       color: #999;
       margin: 0 0.15em;
       vertical-align: super;
@@ -713,6 +715,155 @@ const html = `<!DOCTYPE html>
 
     body.night .letter-glyph { color: #e8dfc0; }
 
+    /* ── Mobile / narrow screens ── */
+    @media (max-width: 768px) {
+      body {
+        overflow: auto;
+        height: auto;
+        display: block;
+        background: #faf8f4;
+      }
+
+      .toolbar {
+        position: sticky;
+        top: 0;
+        z-index: 50;
+        padding: 0.4em 0.6em 0.3em;
+      }
+
+      .toolbar h1 {
+        font-size: 16px;
+      }
+
+      .toolbar .subtitle {
+        font-size: 10px;
+      }
+
+      .toggle-btn {
+        font-size: 11px;
+        padding: 0.2em 0.7em;
+      }
+
+      .book-wrapper {
+        display: block;
+        padding: 0;
+        overflow: visible;
+      }
+
+      .book-viewport {
+        width: 100%;
+        max-width: none;
+        height: auto;
+        max-height: none;
+        overflow: visible;
+        border-radius: 0;
+        box-shadow: none;
+      }
+
+      .book-viewport::after {
+        display: none;
+      }
+
+      .book-content {
+        columns: unset;
+        column-width: unset;
+        column-gap: unset;
+        height: auto;
+        padding: 0.8em;
+        transform: none !important;
+        transition: none !important;
+      }
+
+      .nav-bar {
+        display: none;
+      }
+
+      .chapter-spacer {
+        display: none;
+      }
+
+      .chapter {
+        break-before: unset;
+        -webkit-column-break-before: unset;
+        margin-bottom: 2em;
+        padding-bottom: 1.5em;
+        border-bottom: 1px solid #e0dcd4;
+      }
+
+      .chapter:first-child {
+        break-before: unset;
+      }
+
+      .chapter h2 {
+        font-size: 15px;
+        position: sticky;
+        top: 3.5em;
+        background: #faf8f4;
+        z-index: 5;
+        padding: 0.3em 0 0.25em;
+        margin-bottom: 0.5em;
+      }
+
+      body.night .chapter h2 {
+        background: #2a2820;
+      }
+
+      .old-hebrew {
+        font-size: 14px;
+        line-height: 1.8;
+      }
+
+      .verse {
+        margin-bottom: 0.4em;
+        padding-right: 1.6em;
+      }
+
+      .verse-num {
+        min-width: 1.4em;
+        font-size: 9px;
+      }
+
+      /* Maps on mobile */
+      .map-page {
+        break-before: unset;
+        -webkit-column-break-before: unset;
+        break-after: unset;
+        -webkit-column-break-after: unset;
+        height: auto;
+        margin: 1.5em 0;
+        padding: 0;
+      }
+
+      .map-container svg {
+        border-radius: 4px;
+      }
+
+      .map-caption {
+        margin-top: 0.5em;
+      }
+
+      .map-caption-item {
+        font-size: 9px;
+      }
+
+      /* Popover on mobile */
+      .popover {
+        left: 0.5em !important;
+        right: 0.5em;
+        max-width: none;
+        width: auto;
+      }
+
+      /* Night mode adjustments for mobile */
+      body.night {
+        background: #2a2820;
+      }
+
+      body.night .toolbar {
+        background: #252420;
+      }
+    }
+
     /* ── Print ── */
     @media print {
       .toolbar, .nav-bar, .popover {
@@ -846,6 +997,11 @@ ${chapterHtml.join("\n")}
       '\\u{10915}': ['Taw',     'mark',        'sign, covenant, seal'],
     };
 
+    /* ── Mobile detection ── */
+    function isMobile() {
+      return window.matchMedia('(max-width: 768px)').matches;
+    }
+
     /* ── Pagination ── */
     var content = document.getElementById('book-content');
     var viewportEl = document.querySelector('.book-viewport');
@@ -858,6 +1014,7 @@ ${chapterHtml.join("\n")}
     var colGap = 0;
 
     function recalcPagination() {
+      if (isMobile()) return;
       // Reset transform to measure natural layout
       content.style.transition = 'none';
       content.style.transform = 'translateX(0)';
@@ -933,8 +1090,9 @@ ${chapterHtml.join("\n")}
     nextBtn.addEventListener('click', nextSpread);
     prevBtn.addEventListener('click', prevSpread);
 
-    // Keyboard: right=next, left=prev, Home/End
+    // Keyboard: right=next, left=prev, Home/End (desktop only)
     document.addEventListener('keydown', function(e) {
+      if (isMobile()) return;
       if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
       if (e.key === 'ArrowRight') { nextSpread(); e.preventDefault(); }
       else if (e.key === 'ArrowLeft')  { prevSpread(); e.preventDefault(); }

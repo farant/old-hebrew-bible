@@ -172,9 +172,30 @@ async function fetchTile(z: number, x: number, y: number): Promise<Buffer> {
 // ─── SVG generation ─────────────────────────────────────────────────────────
 
 const MAP_W = 760;
-const MAP_H = 780;
-const TITLE_H = 36;
-const ATTR_H = 14;
+const BASE_MAP_H = 780;
+const TITLE_LINE_H = 22;
+const TITLE_PAD = 14; // top + bottom padding for title bar
+const ATTR_H = 18;
+
+// Word-wrap title text into lines that fit within maxWidth at given font size
+function wrapTitle(text: string, maxWidth: number, fontSize: number): string[] {
+  const charWidth = fontSize * 0.55; // approximate
+  const maxChars = Math.floor(maxWidth / charWidth);
+  const words = text.split(' ');
+  const lines: string[] = [];
+  let current = '';
+  for (const word of words) {
+    const test = current ? current + ' ' + word : word;
+    if (test.length > maxChars && current) {
+      lines.push(current);
+      current = word;
+    } else {
+      current = test;
+    }
+  }
+  if (current) lines.push(current);
+  return lines;
+}
 
 function escSvg(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -213,6 +234,11 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
   }
 
   if (allCoords.length === 0) return null;
+
+  // Wrap title and compute dynamic title height
+  const titleLines = wrapTitle(spec.title, MAP_W - 60, 18);
+  const TITLE_H = TITLE_PAD + titleLines.length * TITLE_LINE_H;
+  const MAP_H = BASE_MAP_H + (titleLines.length - 1) * TITLE_LINE_H; // grow map if title is multi-line
 
   // Compute bounds and zoom
   const bbox = computeBBox(allCoords);
@@ -318,14 +344,14 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
   // Candidate positions relative to marker: [dx, dy, anchor]
   // Each places the label group (hebrew above english) at different offsets from the marker
   const candidateOffsets: Array<{ dx: number; dy: number; anchor: string }> = [
-    { dx: 0, dy: -10, anchor: "middle" },    // above (default)
-    { dx: 0, dy: 22, anchor: "middle" },      // below
-    { dx: 12, dy: -4, anchor: "start" },      // right-above
-    { dx: -12, dy: -4, anchor: "end" },        // left-above
-    { dx: 12, dy: 12, anchor: "start" },       // right-below
-    { dx: -12, dy: 12, anchor: "end" },        // left-below
-    { dx: 0, dy: -26, anchor: "middle" },      // far above
-    { dx: 0, dy: 36, anchor: "middle" },       // far below
+    { dx: 0, dy: -12, anchor: "middle" },     // above (default)
+    { dx: 0, dy: 26, anchor: "middle" },       // below
+    { dx: 14, dy: -6, anchor: "start" },       // right-above
+    { dx: -14, dy: -6, anchor: "end" },        // left-above
+    { dx: 14, dy: 14, anchor: "start" },       // right-below
+    { dx: -14, dy: 14, anchor: "end" },        // left-below
+    { dx: 0, dy: -32, anchor: "middle" },      // far above
+    { dx: 0, dy: 44, anchor: "middle" },       // far below
   ];
 
   // Get bounding rect for a label group at a candidate position
@@ -334,10 +360,10 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
     hebrewText: string, englishText: string,
     offset: { dx: number; dy: number; anchor: string }
   ): Rect {
-    const hebrewW = hebrewText ? estimateTextWidth(hebrewText, 11) : 0;
-    const englishW = estimateTextWidth(englishText, 9);
-    const totalW = Math.max(hebrewW, englishW) + 6; // padding
-    const totalH = hebrewText ? 28 : 14; // two lines or one
+    const hebrewW = hebrewText ? estimateTextWidth(hebrewText, 15) : 0;
+    const englishW = estimateTextWidth(englishText, 12);
+    const totalW = Math.max(hebrewW, englishW) + 8; // padding
+    const totalH = hebrewText ? 36 : 18; // two lines or one
 
     let cx = markerX + offset.dx;
     let baseY = markerY + offset.dy;
@@ -364,14 +390,14 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
     if (!loc) continue;
     const { x, y } = toSvgXY(loc.lat, loc.lon);
     markerPositions.push({ id: coord.id, x, y });
-    occupiedRects.push({ x: x - 5, y: y - 5, w: 10, h: 10 }); // marker dot
+    occupiedRects.push({ x: x - 6, y: y - 6, w: 12, h: 12 }); // marker dot
   }
 
   // Generate markers
   const markerSvg: string[] = [];
   for (const mp of markerPositions) {
     markerSvg.push(
-      `    <circle cx="${mp.x.toFixed(1)}" cy="${mp.y.toFixed(1)}" r="4.5" fill="${markerFill}" stroke="${markerStroke}" stroke-width="1.5"/>`
+      `    <circle cx="${mp.x.toFixed(1)}" cy="${mp.y.toFixed(1)}" r="5.5" fill="${markerFill}" stroke="${markerStroke}" stroke-width="2"/>`
     );
   }
 
@@ -417,13 +443,13 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
     if (hebrewLabel) {
       const hy = mp.y + bestOffset.dy - 2;
       labelSvg.push(
-        `    <text x="${lx.toFixed(1)}" y="${hy.toFixed(1)}" text-anchor="${anchor}" font-family="'Noto Sans Phoenician', 'Segoe UI Historic', serif" font-size="11" fill="${hebrewFill}" stroke="${hebrewStroke}" stroke-width="3" paint-order="stroke">${escSvg(hebrewLabel)}</text>`
+        `    <text x="${lx.toFixed(1)}" y="${hy.toFixed(1)}" text-anchor="${anchor}" font-family="'Noto Sans Phoenician', 'Segoe UI Historic', serif" font-size="15" fill="${hebrewFill}" stroke="${hebrewStroke}" stroke-width="4" paint-order="stroke">${escSvg(hebrewLabel)}</text>`
       );
     }
 
-    const ey = mp.y + bestOffset.dy + (hebrewLabel ? 12 : 0);
+    const ey = mp.y + bestOffset.dy + (hebrewLabel ? 16 : 0);
     labelSvg.push(
-      `    <text x="${lx.toFixed(1)}" y="${ey.toFixed(1)}" text-anchor="${anchor}" font-family="Georgia, 'Times New Roman', serif" font-size="9" fill="${englishFill}" stroke="${englishStroke}" stroke-width="3" paint-order="stroke">${escSvg(loc.name)}</text>`
+      `    <text x="${lx.toFixed(1)}" y="${ey.toFixed(1)}" text-anchor="${anchor}" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="${englishFill}" stroke="${englishStroke}" stroke-width="4" paint-order="stroke">${escSvg(loc.name)}</text>`
     );
   }
 
@@ -437,7 +463,9 @@ ${arrowDefs.join("\n")}
   </defs>
   <!-- Title bar -->
   <rect x="0" y="0" width="${MAP_W}" height="${TITLE_H}" fill="#faf8f4"/>
-  <text x="${MAP_W / 2}" y="${TITLE_H - 10}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="bold" fill="#1a1a1a">${escSvg(spec.title)}</text>
+  <text x="${MAP_W / 2}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="bold" fill="#1a1a1a">
+${titleLines.map((line, i) => `    <tspan x="${MAP_W / 2}" y="${TITLE_PAD / 2 + 16 + i * TITLE_LINE_H}">${escSvg(line)}</tspan>`).join("\n")}
+  </text>
   <line x1="20" y1="${TITLE_H - 2}" x2="${MAP_W - 20}" y2="${TITLE_H - 2}" stroke="#d5d0c8" stroke-width="0.5"/>
   <!-- Tile grid -->
   <g clip-path="url(#mapclip-${spec.id})">
@@ -452,7 +480,7 @@ ${markerSvg.join("\n")}
   <!-- Labels -->
 ${labelSvg.join("\n")}
   <!-- Attribution -->
-  <text x="${MAP_W - 5}" y="${MAP_H - 3}" text-anchor="end" font-family="Arial, sans-serif" font-size="7" fill="#999">Map data \u00A9 OpenStreetMap contributors</text>
+  <text x="${MAP_W - 5}" y="${MAP_H - 4}" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#999">Map data \u00A9 OpenStreetMap contributors</text>
 </svg>`;
 
   return { svg, journeyColors };
