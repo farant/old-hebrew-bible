@@ -3,6 +3,7 @@
     {
       "id": "eden",
       "name": "Garden of Eden",
+      "hebrew": "עדן",
       "aliases": ["Eden", "the garden", "garden of Eden", "gan-eden"],
       "lat": 30.96,
       "lon": 47.41,
@@ -13,6 +14,7 @@
     {
       "id": "pishon",
       "name": "Pishon River",
+      "hebrew": "פישון",
       "aliases": ["Pishon"],
       "lat": 30.5,
       "lon": 47.0,
@@ -23,6 +25,7 @@
     {
       "id": "havilah",
       "name": "Land of Havilah",
+      "hebrew": "חוילה",
       "aliases": ["Havilah"],
       "lat": 25.0,
       "lon": 45.0,
@@ -33,6 +36,7 @@
     {
       "id": "gihon-river",
       "name": "Gihon River",
+      "hebrew": "גיחון",
       "aliases": ["Gihon"],
       "lat": 15.5,
       "lon": 32.5,
@@ -43,6 +47,7 @@
     {
       "id": "cush",
       "name": "Cush",
+      "hebrew": "כוש",
       "aliases": ["Cush", "Ethiopia", "Kush"],
       "lat": 18.0,
       "lon": 33.0,
@@ -53,6 +58,7 @@
     {
       "id": "tigris",
       "name": "Tigris River",
+      "hebrew": "חדקל",
       "aliases": ["Tigris", "Hiddekel"],
       "lat": 33.3,
       "lon": 44.4,
@@ -63,6 +69,7 @@
     {
       "id": "assyria",
       "name": "Assyria",
+      "hebrew": "אשור",
       "aliases": ["Assyria", "Asshur", "Ashur"],
       "lat": 36.34,
       "lon": 43.13,
@@ -73,6 +80,7 @@
     {
       "id": "euphrates",
       "name": "Euphrates River",
+      "hebrew": "פרת",
       "aliases": ["Euphrates", "Perat", "the great river"],
       "lat": 35.2,
       "lon": 38.0,
@@ -83,6 +91,7 @@
     {
       "id": "nod",
       "name": "Land of Nod",
+      "hebrew": "נוד",
       "aliases": ["Nod"],
       "lat": 31.5,
       "lon": 48.0,
@@ -93,6 +102,7 @@
     {
       "id": "ararat",
       "name": "Mountains of Ararat",
+      "hebrew": "אררט",
       "aliases": ["Ararat"],
       "lat": 39.70,
       "lon": 44.30,
@@ -103,6 +113,7 @@
     {
       "id": "shinar",
       "name": "Land of Shinar",
+      "hebrew": "שנער",
       "aliases": ["Shinar"],
       "lat": 32.5,
       "lon": 44.4,
@@ -113,6 +124,7 @@
     {
       "id": "babel",
       "name": "Babel / Babylon",
+      "hebrew": "בבל",
       "aliases": ["Babel", "Babylon"],
       "lat": 32.54,
       "lon": 44.42,
@@ -123,6 +135,7 @@
     {
       "id": "erech",
       "name": "Erech / Uruk",
+      "hebrew": "ארך",
       "aliases": ["Erech", "Uruk"],
       "lat": 31.32,
       "lon": 45.64,
@@ -133,6 +146,7 @@
     {
       "id": "akkad",
       "name": "Akkad / Accad",
+      "hebrew": "אכד",
       "aliases": ["Akkad", "Accad"],
       "lat": 33.1,
       "lon": 44.1,
@@ -143,6 +157,7 @@
     {
       "id": "calneh",
       "name": "Calneh",
+      "hebrew": "כלנה",
       "aliases": ["Calneh"],
       "lat": 33.73,
       "lon": 44.60,
@@ -153,6 +168,7 @@
     {
       "id": "nineveh",
       "name": "Nineveh",
+      "hebrew": "נינוה",
       "aliases": ["Nineveh"],
       "lat": 36.36,
       "lon": 43.15,
@@ -163,6 +179,7 @@
     {
       "id": "rehoboth-ir",
       "name": "Rehoboth-Ir",
+      "hebrew": "רחבות עיר",
       "aliases": ["Rehoboth-Ir", "Rehoboth Ir"],
       "lat": 36.30,
       "lon": 43.20,
@@ -173,6 +190,7 @@
     {
       "id": "calah",
       "name": "Calah / Nimrud",
+      "hebrew": "כלח",
       "aliases": ["Calah", "Nimrud", "Kalhu"],
       "lat": 36.10,
       "lon": 43.33,
@@ -183,6 +201,7 @@
     {
       "id": "resen",
       "name": "Resen",
+      "hebrew": "רסן",
       "aliases": ["Resen"],
       "lat": 36.23,
       "lon": 43.24,
@@ -193,6 +212,7 @@
     {
       "id": "sidon",
       "name": "Sidon",
+      "hebrew": "צידון",
       "aliases": ["Sidon", "Tsidon"],
       "lat": 33.56,
       "lon": 35.37,
@@ -203,6 +223,7 @@
     {
       "id": "sodom",
       "name": "Sodom",
+      "hebrew": "סדום",
       "aliases": ["Sodom"],
       "lat": 31.05,
       "lon": 35.39,
@@ -213,6 +234,7 @@
     {
       "id": "gomorrah",
       "name": "Gomorrah",
+      "hebrew": "עמרה",
       "aliases": ["Gomorrah", "Amorah"],
       "lat": 31.03,
       "lon": 35.40,
@@ -223,6 +245,7 @@
     {
       "id": "admah",
       "name": "Admah",
+      "hebrew": "אדמה",
       "aliases": ["Admah"],
       "lat": 31.10,
       "lon": 35.40,
@@ -233,6 +256,7 @@
     {
       "id": "zeboiim",
       "name": "Zeboiim",
+      "hebrew": "צבוים",
       "aliases": ["Zeboiim", "Tsevoyim"],
       "lat": 31.08,
       "lon": 35.40,
@@ -243,6 +267,7 @@
     {
       "id": "zoar",
       "name": "Zoar",
+      "hebrew": "צוער",
       "aliases": ["Zoar", "Bela", "Tsoar"],
       "lat": 31.05,
       "lon": 35.44,
@@ -253,6 +278,7 @@
     {
       "id": "lasha",
       "name": "Lasha",
+      "hebrew": "לשע",
       "aliases": ["Lasha"],
       "lat": 31.45,
       "lon": 35.48,
@@ -263,6 +289,7 @@
     {
       "id": "canaan",
       "name": "Land of Canaan",
+      "hebrew": "כנען",
       "aliases": ["Canaan", "the land", "land of Canaan"],
       "lat": 31.78,
       "lon": 35.21,
@@ -273,6 +300,7 @@
     {
       "id": "egypt",
       "name": "Egypt",
+      "hebrew": "מצרים",
       "aliases": ["Egypt", "Mizraim", "Mitsrayim", "land of Egypt"],
       "lat": 30.05,
       "lon": 31.23,
@@ -283,6 +311,7 @@
     {
       "id": "ur",
       "name": "Ur of the Chaldeans",
+      "hebrew": "אור כשדים",
       "aliases": ["Ur", "Ur of the Chaldeans", "Ur Kasdim"],
       "lat": 30.96,
       "lon": 46.10,
@@ -293,6 +322,7 @@
     {
       "id": "haran",
       "name": "Haran",
+      "hebrew": "חרן",
       "aliases": ["Haran", "Charan"],
       "lat": 36.86,
       "lon": 39.03,
@@ -303,6 +333,7 @@
     {
       "id": "shechem",
       "name": "Shechem",
+      "hebrew": "שכם",
       "aliases": ["Shechem", "Shekhem"],
       "lat": 32.21,
       "lon": 35.28,
@@ -313,6 +344,7 @@
     {
       "id": "moreh",
       "name": "Oak/Terebinth of Moreh",
+      "hebrew": "מורה",
       "aliases": ["Moreh", "oak of Moreh", "terebinth of Moreh", "elon Moreh"],
       "lat": 32.22,
       "lon": 35.28,
@@ -323,6 +355,7 @@
     {
       "id": "bethel",
       "name": "Bethel",
+      "hebrew": "בית אל",
       "aliases": ["Bethel", "Luz", "Beth-El", "Beit-El"],
       "lat": 31.93,
       "lon": 35.24,
@@ -333,6 +366,7 @@
     {
       "id": "ai",
       "name": "Ai",
+      "hebrew": "העי",
       "aliases": ["Ai", "ha-Ai"],
       "lat": 31.92,
       "lon": 35.26,
@@ -343,6 +377,7 @@
     {
       "id": "negev",
       "name": "The Negev",
+      "hebrew": "נגב",
       "aliases": ["Negev", "the Negev", "the south", "Negeb"],
       "lat": 30.85,
       "lon": 34.78,
@@ -353,6 +388,7 @@
     {
       "id": "jordan",
       "name": "Jordan River / Valley",
+      "hebrew": "ירדן",
       "aliases": ["Jordan", "the Jordan", "Jordan Valley", "plain of Jordan", "kikkar of the Jordan"],
       "lat": 31.76,
       "lon": 35.52,
@@ -363,6 +399,7 @@
     {
       "id": "valley-of-siddim",
       "name": "Valley of Siddim",
+      "hebrew": "עמק השדים",
       "aliases": ["Valley of Siddim", "Salt Sea"],
       "lat": 31.20,
       "lon": 35.40,
@@ -373,6 +410,7 @@
     {
       "id": "salem",
       "name": "Salem",
+      "hebrew": "שלם",
       "aliases": ["Salem"],
       "lat": 31.78,
       "lon": 35.23,
@@ -383,6 +421,7 @@
     {
       "id": "dan",
       "name": "Dan",
+      "hebrew": "דן",
       "aliases": ["Dan", "Laish"],
       "lat": 33.25,
       "lon": 35.65,
@@ -393,6 +432,7 @@
     {
       "id": "hobah",
       "name": "Hobah",
+      "hebrew": "חובה",
       "aliases": ["Hobah"],
       "lat": 33.60,
       "lon": 36.30,
@@ -403,6 +443,7 @@
     {
       "id": "damascus",
       "name": "Damascus",
+      "hebrew": "דמשק",
       "aliases": ["Damascus", "Dammesek"],
       "lat": 33.51,
       "lon": 36.29,
@@ -413,6 +454,7 @@
     {
       "id": "el-paran",
       "name": "El-Paran",
+      "hebrew": "איל פארן",
       "aliases": ["El-Paran"],
       "lat": 29.50,
       "lon": 34.92,
@@ -423,6 +465,7 @@
     {
       "id": "kadesh",
       "name": "Kadesh / En-Mishpat",
+      "hebrew": "קדש",
       "aliases": ["Kadesh", "En-Mishpat", "Kadesh-Barnea"],
       "lat": 30.66,
       "lon": 34.40,
@@ -433,6 +476,7 @@
     {
       "id": "hazazon-tamar",
       "name": "Hazazon-Tamar",
+      "hebrew": "חצצון תמר",
       "aliases": ["Hazazon-Tamar"],
       "lat": 31.45,
       "lon": 35.38,
@@ -443,6 +487,7 @@
     {
       "id": "shur",
       "name": "Wilderness of Shur",
+      "hebrew": "שור",
       "aliases": ["Shur", "wilderness of Shur"],
       "lat": 30.50,
       "lon": 33.50,
@@ -453,6 +498,7 @@
     {
       "id": "beer-lahai-roi",
       "name": "Beer-lahai-roi",
+      "hebrew": "באר לחי ראי",
       "aliases": ["Beer-lahai-roi", "the well of the Living One who sees me"],
       "lat": 30.85,
       "lon": 34.39,
@@ -463,6 +509,7 @@
     {
       "id": "bered",
       "name": "Bered",
+      "hebrew": "ברד",
       "aliases": ["Bered"],
       "lat": 30.90,
       "lon": 34.35,
@@ -473,6 +520,7 @@
     {
       "id": "mamre",
       "name": "Mamre / Oaks of Mamre",
+      "hebrew": "ממרא",
       "aliases": ["Mamre", "oaks of Mamre", "terebinths of Mamre", "Elonei Mamre"],
       "lat": 31.53,
       "lon": 35.10,
@@ -483,6 +531,7 @@
     {
       "id": "hebron",
       "name": "Hebron",
+      "hebrew": "חברון",
       "aliases": ["Hebron", "Kirjath-arba", "Kiryat Arba"],
       "lat": 31.53,
       "lon": 35.10,
@@ -493,6 +542,7 @@
     {
       "id": "machpelah",
       "name": "Cave of Machpelah",
+      "hebrew": "מכפלה",
       "aliases": ["Machpelah", "cave of Machpelah", "field of Machpelah"],
       "lat": 31.52,
       "lon": 35.11,
@@ -503,6 +553,7 @@
     {
       "id": "gerar",
       "name": "Gerar",
+      "hebrew": "גרר",
       "aliases": ["Gerar"],
       "lat": 31.39,
       "lon": 34.45,
@@ -513,6 +564,7 @@
     {
       "id": "beer-sheba",
       "name": "Beer-sheba",
+      "hebrew": "באר שבע",
       "aliases": ["Beer-sheba", "Beersheba", "Be'er Sheva"],
       "lat": 31.25,
       "lon": 34.79,
@@ -523,6 +575,7 @@
     {
       "id": "paran",
       "name": "Wilderness of Paran",
+      "hebrew": "פארן",
       "aliases": ["Paran", "wilderness of Paran"],
       "lat": 29.50,
       "lon": 34.50,
@@ -533,6 +586,7 @@
     {
       "id": "moriah",
       "name": "Mount Moriah",
+      "hebrew": "מוריה",
       "aliases": ["Moriah", "land of Moriah"],
       "lat": 31.78,
       "lon": 35.24,
@@ -543,6 +597,7 @@
     {
       "id": "aram-naharaim",
       "name": "Aram-Naharaim",
+      "hebrew": "ארם נהרים",
       "aliases": ["Aram-Naharaim", "Mesopotamia", "Aram of the two rivers"],
       "lat": 36.50,
       "lon": 39.00,
@@ -553,6 +608,7 @@
     {
       "id": "paddan-aram",
       "name": "Paddan-Aram",
+      "hebrew": "פדן ארם",
       "aliases": ["Paddan-Aram", "Padan-Aram", "Paddan Aram"],
       "lat": 36.86,
       "lon": 39.03,
@@ -563,6 +619,7 @@
     {
       "id": "esek",
       "name": "Esek",
+      "hebrew": "עשק",
       "aliases": ["Esek"],
       "lat": 31.30,
       "lon": 34.60,
@@ -573,6 +630,7 @@
     {
       "id": "sitnah",
       "name": "Sitnah",
+      "hebrew": "שטנה",
       "aliases": ["Sitnah"],
       "lat": 31.30,
       "lon": 34.60,
@@ -583,6 +641,7 @@
     {
       "id": "rehoboth-well",
       "name": "Rehoboth (well)",
+      "hebrew": "רחובות",
       "aliases": ["Rehoboth"],
       "lat": 31.30,
       "lon": 34.70,
@@ -593,6 +652,7 @@
     {
       "id": "gilead",
       "name": "Gilead",
+      "hebrew": "גלעד",
       "aliases": ["Gilead", "hill country of Gilead", "mount Gilead"],
       "lat": 32.30,
       "lon": 35.85,
@@ -603,6 +663,7 @@
     {
       "id": "mizpah-gilead",
       "name": "Mizpah of Gilead",
+      "hebrew": "מצפה",
       "aliases": ["Mizpah", "Galeed", "Jegar-Sahadutha"],
       "lat": 32.30,
       "lon": 35.90,
@@ -613,6 +674,7 @@
     {
       "id": "mahanaim",
       "name": "Mahanaim",
+      "hebrew": "מחנים",
       "aliases": ["Mahanaim"],
       "lat": 32.33,
       "lon": 35.78,
@@ -623,6 +685,7 @@
     {
       "id": "seir",
       "name": "Mount Seir / Land of Seir",
+      "hebrew": "שעיר",
       "aliases": ["Seir", "land of Seir", "mount Seir", "field of Edom"],
       "lat": 30.50,
       "lon": 35.30,
@@ -633,6 +696,7 @@
     {
       "id": "edom",
       "name": "Edom",
+      "hebrew": "אדום",
       "aliases": ["Edom"],
       "lat": 30.50,
       "lon": 35.30,
@@ -643,6 +707,7 @@
     {
       "id": "peniel",
       "name": "Peniel / Penuel",
+      "hebrew": "פניאל",
       "aliases": ["Peniel", "Penuel"],
       "lat": 32.19,
       "lon": 35.73,
@@ -653,6 +718,7 @@
     {
       "id": "jabbok",
       "name": "Jabbok River",
+      "hebrew": "יבוק",
       "aliases": ["Jabbok", "the Jabbok", "ford of Jabbok"],
       "lat": 32.19,
       "lon": 35.73,
@@ -663,6 +729,7 @@
     {
       "id": "succoth",
       "name": "Succoth",
+      "hebrew": "סכות",
       "aliases": ["Succoth", "Sukkot"],
       "lat": 32.19,
       "lon": 35.58,
@@ -673,6 +740,7 @@
     {
       "id": "shalem",
       "name": "Shalem",
+      "hebrew": "שלם",
       "aliases": ["Shalem"],
       "lat": 32.21,
       "lon": 35.28,
@@ -683,6 +751,7 @@
     {
       "id": "ephrath",
       "name": "Ephrath / Bethlehem",
+      "hebrew": "אפרת",
       "aliases": ["Ephrath", "Ephrathah", "Bethlehem"],
       "lat": 31.70,
       "lon": 35.21,
@@ -693,6 +762,7 @@
     {
       "id": "migdal-eder",
       "name": "Migdal-Eder",
+      "hebrew": "מגדל עדר",
       "aliases": ["Migdal-Eder", "tower of Eder", "tower of the flock"],
       "lat": 31.69,
       "lon": 35.21,
@@ -703,6 +773,7 @@
     {
       "id": "dothan",
       "name": "Dothan",
+      "hebrew": "דותן",
       "aliases": ["Dothan"],
       "lat": 32.41,
       "lon": 35.24,
@@ -713,6 +784,7 @@
     {
       "id": "adullam",
       "name": "Adullam",
+      "hebrew": "עדלם",
       "aliases": ["Adullam"],
       "lat": 31.62,
       "lon": 35.01,
@@ -723,6 +795,7 @@
     {
       "id": "timnah",
       "name": "Timnah",
+      "hebrew": "תמנה",
       "aliases": ["Timnah", "Timnath"],
       "lat": 31.78,
       "lon": 34.96,
@@ -733,6 +806,7 @@
     {
       "id": "enaim",
       "name": "Enaim",
+      "hebrew": "עינים",
       "aliases": ["Enaim", "Eynayim", "the entrance to Enaim"],
       "lat": 31.70,
       "lon": 35.00,
@@ -743,6 +817,7 @@
     {
       "id": "goshen",
       "name": "Land of Goshen",
+      "hebrew": "גושן",
       "aliases": ["Goshen", "land of Goshen"],
       "lat": 30.77,
       "lon": 31.90,
@@ -753,6 +828,7 @@
     {
       "id": "rameses",
       "name": "Rameses",
+      "hebrew": "רעמסס",
       "aliases": ["Rameses", "Raamses"],
       "lat": 30.79,
       "lon": 31.83,
@@ -763,6 +839,7 @@
     {
       "id": "abel-mizraim",
       "name": "Abel-Mizraim",
+      "hebrew": "אבל מצרים",
       "aliases": ["Abel-Mizraim", "the threshing floor of Atad"],
       "lat": 31.80,
       "lon": 35.60,
@@ -773,6 +850,7 @@
     {
       "id": "philistia",
       "name": "Land of the Philistines",
+      "hebrew": "פלשת",
       "aliases": ["Philistia", "land of the Philistines"],
       "lat": 31.60,
       "lon": 34.55,
@@ -783,6 +861,7 @@
     {
       "id": "river-of-egypt",
       "name": "River of Egypt",
+      "hebrew": "נחל מצרים",
       "aliases": ["river of Egypt", "brook of Egypt", "Wadi el-Arish"],
       "lat": 31.13,
       "lon": 33.80,
@@ -793,6 +872,7 @@
     {
       "id": "shaveh-kiriathaim",
       "name": "Shaveh-Kiriathaim",
+      "hebrew": "שוה קריתים",
       "aliases": ["Shaveh-Kiriathaim"],
       "lat": 31.52,
       "lon": 35.72,
@@ -803,6 +883,7 @@
     {
       "id": "kings-valley",
       "name": "King's Valley / Valley of Shaveh",
+      "hebrew": "עמק שוה",
       "aliases": ["King's Valley", "Valley of Shaveh"],
       "lat": 31.77,
       "lon": 35.24,
@@ -813,6 +894,7 @@
     {
       "id": "on",
       "name": "On / Heliopolis",
+      "hebrew": "און",
       "aliases": ["On", "Heliopolis"],
       "lat": 30.13,
       "lon": 31.31,

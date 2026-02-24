@@ -10,6 +10,26 @@ const bookConfig = await Bun.file(path.join(bookDir, "book.json")).json();
 const json = await Bun.file(path.join(bookDir, "output/old-hebrew.json")).json();
 const dialogueData = await Bun.file(path.join(bookDir, "output/dialogue.json")).json();
 
+// Load maps (optional — graceful fallback if no maps exist)
+interface MapEntry { id: string; title: string; insertBefore: number; svg: string; caption?: { traveler: string; description: string; color: string }[] }
+let mapsData: { maps: MapEntry[] } = { maps: [] };
+try {
+  const mapsFile = Bun.file(path.join(bookDir, "output/maps.json"));
+  if (await mapsFile.exists()) {
+    mapsData = await mapsFile.json();
+    console.log(`Loaded ${mapsData.maps.length} maps for insertion`);
+  }
+} catch {
+  // No maps — that's fine
+}
+
+// Build map lookup: chapter number → maps to insert before that chapter
+const mapsByChapter = new Map<number, MapEntry[]>();
+for (const m of mapsData.maps) {
+  if (!mapsByChapter.has(m.insertBefore)) mapsByChapter.set(m.insertBefore, []);
+  mapsByChapter.get(m.insertBefore)!.push(m);
+}
+
 // Divine speakers get red text
 const divineSpeakers = new Set(dialogueData.divineSpeakers);
 
@@ -116,8 +136,25 @@ for (const [num, chVerses] of chapters) {
     )
     .join(" ");
 
+  // Insert map pages before this chapter (if any)
+  const chapterMaps = mapsByChapter.get(num) || [];
+  for (const m of chapterMaps) {
+    let captionHtml = "";
+    if (m.caption && m.caption.length > 0) {
+      const items = m.caption.map((c) =>
+        `<div class="map-caption-item"><span class="map-caption-dot" style="background:${c.color}"></span><span class="map-caption-traveler">${escapeHtml(c.traveler)}</span> <span class="map-caption-desc">${escapeHtml(c.description)}</span></div>`
+      ).join("\n          ");
+      captionHtml = `\n      <div class="map-caption">\n          ${items}\n      </div>`;
+    }
+    chapterHtml.push(`    <section class="map-page">
+      <div class="map-container">
+        ${m.svg}
+      </div>${captionHtml}
+    </section>`);
+  }
+
   // Add spacer before each chapter except the first (for right-page alignment)
-  if (num > 1) {
+  if (num > 1 && chapterMaps.length === 0) {
     chapterHtml.push(`    <div class="chapter-spacer" aria-hidden="true"></div>`);
   }
 
@@ -272,6 +309,74 @@ const html = `<!DOCTYPE html>
     .chapter-spacer.active {
       break-after: column;
       -webkit-column-break-after: always;
+    }
+
+    /* ── Map pages ── */
+    .map-page {
+      break-before: column;
+      -webkit-column-break-before: always;
+      break-after: column;
+      -webkit-column-break-after: always;
+      break-inside: avoid;
+      -webkit-column-break-inside: avoid;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      direction: ltr;
+    }
+
+    .map-container {
+      width: 100%;
+      max-height: 100%;
+    }
+
+    .map-container svg {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 3px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .map-caption {
+      margin-top: 0.6em;
+      padding: 0 0.3em;
+      direction: ltr;
+    }
+
+    .map-caption-item {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 10px;
+      line-height: 1.5;
+      color: #666;
+      margin-bottom: 0.2em;
+      display: flex;
+      align-items: baseline;
+      gap: 0.4em;
+    }
+
+    .map-caption-dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      position: relative;
+      top: 1px;
+    }
+
+    .map-caption-traveler {
+      font-weight: bold;
+      color: #444;
+      text-transform: uppercase;
+      font-size: 9px;
+      letter-spacing: 0.05em;
+    }
+
+    .map-caption-desc {
+      font-style: italic;
     }
 
     /* ── Chapters ── */
@@ -583,6 +688,9 @@ const html = `<!DOCTYPE html>
 
     body.night .word.red-text { color: #e05555; }
 
+    body.night .map-caption-item { color: #888; }
+    body.night .map-caption-traveler { color: #aaa; }
+
     body.night .nav-bar {
       background: #252420;
       border-top-color: #3a3835;
@@ -648,6 +756,19 @@ const html = `<!DOCTYPE html>
       }
 
       .chapter-spacer { display: none; }
+
+      .map-page {
+        break-before: page;
+        page-break-before: always;
+        break-after: page;
+        page-break-after: always;
+        height: auto;
+      }
+
+      .map-container svg {
+        max-width: 100%;
+        box-shadow: none;
+      }
 
       .chapter {
         break-before: auto;
