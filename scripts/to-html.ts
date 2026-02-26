@@ -1,4 +1,5 @@
 import path from "path";
+import { mkdirSync } from "fs";
 
 const bookDir = process.argv[2];
 if (!bookDir) {
@@ -11,13 +12,13 @@ const json = await Bun.file(path.join(bookDir, "output/old-hebrew.json")).json()
 const dialogueData = await Bun.file(path.join(bookDir, "output/dialogue.json")).json();
 
 // Load maps (optional — graceful fallback if no maps exist)
-interface MapEntry { id: string; title: string; insertBefore: number; svg: string; caption?: { traveler: string; description: string; color: string }[] }
+interface MapEntry { id: string; title: string; insertBefore: number; svg: string; caption?: { traveler: string; description: string; color: string }[]; details?: Record<string, string> }
 let mapsData: { maps: MapEntry[] } = { maps: [] };
 try {
   const mapsFile = Bun.file(path.join(bookDir, "output/maps.json"));
   if (await mapsFile.exists()) {
     mapsData = await mapsFile.json();
-    console.log(`Loaded ${mapsData.maps.length} maps for insertion`);
+    console.log(`Loaded ${mapsData.maps.length} maps for extraction`);
   }
 } catch {
   // No maps — that's fine
@@ -58,7 +59,23 @@ interface Verse {
 const verses: Verse[] = json;
 
 function escapeHtml(s: string): string {
-  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
+// ── Word data extraction ──
+// Sequential IDs, deduplicated across verse-view and para-view renders
+const wordDataArray: Array<{ t: string; d: string }> = [];
+const wordIdMap = new Map<string, number>();
+let nextWordId = 0;
+
+function getWordId(chapter: number, verse: number, wordIndex: number, word: Word): number {
+  const key = `${chapter}:${verse}:${wordIndex}`;
+  if (!wordIdMap.has(key)) {
+    const id = nextWordId++;
+    wordIdMap.set(key, id);
+    wordDataArray.push({ t: word.transliteration, d: word.definition });
+  }
+  return wordIdMap.get(key)!;
 }
 
 function renderWords(words: Word[], chapter: number, verse: number): string {
@@ -66,6 +83,7 @@ function renderWords(words: Word[], chapter: number, verse: number): string {
 
   // For each word, determine its speech info
   const wordInfos = words.map((w, i) => {
+    const wid = getWordId(chapter, verse, i, w);
     const speech = speeches.find((s) => i >= s.startWord && i <= s.endWord);
     const isDivine = !!(speech && divineSpeakers.has(speech.speaker));
     const classes = ["word"];
@@ -75,7 +93,7 @@ function renderWords(words: Word[], chapter: number, verse: number): string {
       ? ` data-speaker="${escapeHtml(speech.speaker)}"`
       : "";
     return {
-      html: `<span class="${classes.join(" ")}" data-t="${escapeHtml(w.transliteration)}" data-d="${escapeHtml(w.definition)}"${speakerAttr}>${escapeHtml(w.oldHebrew)}</span>`,
+      html: `<span class="${classes.join(" ")}" data-w="${wid}"${speakerAttr}>${escapeHtml(w.oldHebrew)}</span>`,
       speaker: speech ? speech.speaker : null,
       isDivine,
     };
@@ -116,7 +134,16 @@ for (const v of verses) {
   chapters.get(v.chapter)!.push(v);
 }
 
-const chapterHtml: string[] = [];
+// ── Create output directories ──
+const assetsDir = path.join(bookDir, "output/assets");
+const mapsDir = path.join(assetsDir, "maps");
+const chunksDir = path.join(assetsDir, "chapters");
+mkdirSync(mapsDir, { recursive: true });
+mkdirSync(chunksDir, { recursive: true });
+
+// ── Build chapter blocks ──
+interface ChapterBlock { chapterNum: number; html: string; }
+const allBlocks: ChapterBlock[] = [];
 
 for (const [num, chVerses] of chapters) {
   const verseLines = chVerses
@@ -139,26 +166,47 @@ for (const [num, chVerses] of chapters) {
   // Insert map pages before this chapter (if any)
   const chapterMaps = mapsByChapter.get(num) || [];
   for (const m of chapterMaps) {
+    // Write SVG to separate file
+    await Bun.write(path.join(mapsDir, `${m.id}.svg`), m.svg);
+
+    // Write detail SVGs for multi-journey maps
+    if (m.details) {
+      for (const [journeyId, detailSvg] of Object.entries(m.details)) {
+        await Bun.write(path.join(mapsDir, `${m.id}--${journeyId}.svg`), detailSvg);
+      }
+    }
+
+    // Build caption HTML inline (skip for multi-journey maps — info is in the cards)
     let captionHtml = "";
-    if (m.caption && m.caption.length > 0) {
+    if (!m.details && m.caption && m.caption.length > 0) {
       const items = m.caption.map((c) =>
         `<div class="map-caption-item"><span class="map-caption-dot" style="background:${c.color}"></span><span class="map-caption-traveler">${escapeHtml(c.traveler)}</span> <span class="map-caption-desc">${escapeHtml(c.description)}</span></div>`
       ).join("\n          ");
       captionHtml = `\n      <div class="map-caption">\n          ${items}\n      </div>`;
     }
-    chapterHtml.push(`    <section class="map-page">
+
+    // Emit placeholder with data-map attribute (SVG loaded at runtime)
+    allBlocks.push({
+      chapterNum: num,
+      html: `    <section class="map-page" data-map="${m.id}">
       <div class="map-container">
-        ${m.svg}
+        <div class="map-loading">Loading map\u2026</div>
       </div>${captionHtml}
-    </section>`);
+    </section>`
+    });
   }
 
   // Add spacer before each chapter except the first (for right-page alignment)
   if (num > 1 && chapterMaps.length === 0) {
-    chapterHtml.push(`    <div class="chapter-spacer" aria-hidden="true"></div>`);
+    allBlocks.push({
+      chapterNum: num,
+      html: `    <div class="chapter-spacer" aria-hidden="true"></div>`
+    });
   }
 
-  chapterHtml.push(`    <section class="chapter">
+  allBlocks.push({
+    chapterNum: num,
+    html: `    <section class="chapter">
       <h2>Chapter ${num}</h2>
       <div class="verse-view">
 ${verseLines}
@@ -166,9 +214,54 @@ ${verseLines}
       <div class="para-view" hidden>
         <p class="paragraph old-hebrew">${paraSpans}</p>
       </div>
-    </section>`);
+    </section>`
+  });
 }
 
+// ── Chunk chapters ──
+const CHUNK_SIZE = 10;
+const totalChapters = chapters.size;
+const chunkRanges: [number, number][] = [];
+for (let start = 1; start <= totalChapters; start += CHUNK_SIZE) {
+  const end = Math.min(start + CHUNK_SIZE - 1, totalChapters);
+  chunkRanges.push([start, end]);
+}
+
+function chunkName(start: number, end: number): string {
+  return `ch-${String(start).padStart(2, '0')}-${String(end).padStart(2, '0')}`;
+}
+
+function getBlocksForRange(start: number, end: number): string {
+  return allBlocks
+    .filter(b => b.chapterNum >= start && b.chapterNum <= end)
+    .map(b => b.html)
+    .join("\n");
+}
+
+// Write chunk files (skip first chunk — it goes inline in the shell)
+for (let i = 1; i < chunkRanges.length; i++) {
+  const [start, end] = chunkRanges[i];
+  const name = chunkName(start, end);
+  const content = getBlocksForRange(start, end);
+  await Bun.write(path.join(chunksDir, `${name}.html`), content);
+  console.log(`Wrote chunk ${name} (chapters ${start}-${end})`);
+}
+
+// First chunk content (inline in shell)
+const firstChunkHtml = getBlocksForRange(chunkRanges[0][0], chunkRanges[0][1]);
+
+// Placeholders for remaining chunks
+const chunkPlaceholders = chunkRanges.slice(1).map(([start, end]) => {
+  const name = chunkName(start, end);
+  return `    <div class="chapter-chunk" data-chunk="${name}"></div>`;
+}).join("\n");
+
+// ── Write word data ──
+await Bun.write(path.join(assetsDir, "word-data.json"), JSON.stringify(wordDataArray));
+console.log(`Wrote word-data.json (${wordDataArray.length} words)`);
+console.log(`Wrote ${mapsData.maps.length} map SVG files`);
+
+// ── Build shell HTML ──
 const html = `<!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
@@ -329,17 +422,47 @@ const html = `<!DOCTYPE html>
     }
 
     .map-container {
+      position: relative;
       width: 100%;
-      max-height: 100%;
+      flex: 1;
+      min-height: 0;
       padding: 0 0.13in;
     }
 
+    .map-back-btn {
+      position: absolute;
+      top: 46px;
+      left: 10px;
+      font-family: Georgia, serif;
+      font-size: 13px;
+      padding: 5px 14px;
+      border: 1px solid rgba(255,255,255,0.4);
+      background: rgba(0,0,0,0.5);
+      color: #fff;
+      cursor: pointer;
+      border-radius: 4px;
+      z-index: 5;
+    }
+
+    .map-back-btn:hover {
+      background: rgba(0,0,0,0.7);
+    }
+
     .map-container svg {
-      width: 100%;
-      height: auto;
+      max-width: 100%;
+      max-height: 100%;
       display: block;
+      margin: 0 auto;
       border-radius: 3px;
       box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .map-loading {
+      padding: 3em;
+      text-align: center;
+      color: #999;
+      font-family: Georgia, serif;
+      font-size: 14px;
     }
 
     .map-caption {
@@ -692,6 +815,7 @@ const html = `<!DOCTYPE html>
 
     body.night .map-caption-item { color: #888; }
     body.night .map-caption-traveler { color: #aaa; }
+    body.night .map-loading { color: #666; }
 
     body.night .nav-bar {
       background: #252420;
@@ -960,7 +1084,8 @@ const html = `<!DOCTYPE html>
   <div class="book-wrapper">
     <div class="book-viewport">
       <div class="book-content" id="book-content">
-${chapterHtml.join("\n")}
+${firstChunkHtml}
+${chunkPlaceholders}
       </div>
     </div>
   </div>
@@ -1002,6 +1127,115 @@ ${chapterHtml.join("\n")}
       return window.matchMedia('(max-width: 768px)').matches;
     }
 
+    /* ── Lazy loading state ── */
+    var wordDataCache = null;
+
+    function loadWordData() {
+      if (wordDataCache) return Promise.resolve(wordDataCache);
+      return fetch('assets/word-data.json')
+        .then(function(r) { return r.json(); })
+        .then(function(data) { wordDataCache = data; return data; });
+    }
+
+    function loadMap(section) {
+      if (section.dataset.loaded) return;
+      section.dataset.loaded = '1';
+      var mapId = section.dataset.map;
+      fetch('assets/maps/' + mapId + '.svg')
+        .then(function(r) { return r.text(); })
+        .then(function(svg) {
+          var container = section.querySelector('.map-container');
+          container.innerHTML = svg;
+          // Cache index SVG and set up interactivity if multi-journey
+          section._indexSvg = svg;
+          setupInteractiveMap(section, mapId);
+        });
+    }
+
+    function setupInteractiveMap(section, mapId) {
+      var container = section.querySelector('.map-container');
+      var svgEl = container.querySelector('svg');
+      if (!svgEl || !svgEl.querySelector('[data-journey]')) return;
+
+      container.onclick = function(e) {
+        var el = e.target;
+        while (el && el.tagName !== 'svg' && el !== container) {
+          if (el.getAttribute && el.getAttribute('data-journey')) {
+            loadJourneyDetail(section, mapId, el.getAttribute('data-journey'));
+            return;
+          }
+          el = el.parentElement;
+        }
+      };
+    }
+
+    function loadJourneyDetail(section, mapId, journeyId) {
+      var container = section.querySelector('.map-container');
+      container.onclick = null;
+      fetch('assets/maps/' + mapId + '--' + journeyId + '.svg')
+        .then(function(r) { return r.text(); })
+        .then(function(svg) {
+          container.innerHTML = '<button class="map-back-btn">&larr; All journeys</button>' + svg;
+          container.querySelector('.map-back-btn').onclick = function(e) {
+            e.stopPropagation();
+            container.innerHTML = section._indexSvg;
+            setupInteractiveMap(section, mapId);
+          };
+        });
+    }
+
+    function loadChunk(placeholder) {
+      if (placeholder.classList.contains('chunk-loading')) return;
+      placeholder.classList.add('chunk-loading');
+      var name = placeholder.dataset.chunk;
+      fetch('assets/chapters/' + name + '.html')
+        .then(function(r) { return r.text(); })
+        .then(function(html) {
+          var temp = document.createElement('div');
+          temp.innerHTML = html;
+          // Apply current view mode to new content
+          var paraBtn = document.querySelector('.toggle-btn[data-mode="para"]');
+          var paraActive = paraBtn && paraBtn.classList.contains('active');
+          var vvs = temp.querySelectorAll('.verse-view');
+          var pvs = temp.querySelectorAll('.para-view');
+          for (var i = 0; i < vvs.length; i++) vvs[i].hidden = !!paraActive;
+          for (var i = 0; i < pvs.length; i++) pvs[i].hidden = !paraActive;
+          // Insert all children before placeholder, then remove placeholder
+          while (temp.firstChild) {
+            placeholder.parentNode.insertBefore(temp.firstChild, placeholder);
+          }
+          placeholder.remove();
+          requestAnimationFrame(function() {
+            recalcPagination();
+            checkMaps();
+            observeNewContent();
+          });
+        });
+    }
+
+    /* ── Check maps near current view (desktop) ── */
+    function checkMaps() {
+      if (isMobile()) return;
+      var vr = viewportEl.getBoundingClientRect();
+      var margin = vr.width * 2;
+      var maps = document.querySelectorAll('.map-page[data-map]:not([data-loaded])');
+      for (var i = 0; i < maps.length; i++) {
+        var mr = maps[i].getBoundingClientRect();
+        if (mr.right > vr.left - margin && mr.left < vr.right + margin) {
+          loadMap(maps[i]);
+        }
+      }
+    }
+
+    /* ── Check chunks near end (desktop) ── */
+    function checkChunks() {
+      if (isMobile()) return;
+      if (currentSpread >= totalSpreads - 3) {
+        var next = document.querySelector('.chapter-chunk:not(.chunk-loading)');
+        if (next) loadChunk(next);
+      }
+    }
+
     /* ── Pagination ── */
     var content = document.getElementById('book-content');
     var viewportEl = document.querySelector('.book-viewport');
@@ -1021,11 +1255,16 @@ ${chapterHtml.join("\n")}
       void content.scrollWidth; // force reflow
 
       var cs = getComputedStyle(content);
-      colW = parseFloat(cs.columnWidth) || (content.offsetWidth / 2);
       colGap = parseFloat(cs.columnGap) || 0;
-      var totalW = content.scrollWidth;
+      // Derive actual column width from rendered content area, not CSS hint
+      // (column-width is a suggestion; browser may widen columns to fill space)
+      var padL = parseFloat(cs.paddingLeft) || 0;
+      var padR = parseFloat(cs.paddingRight) || 0;
+      var contentArea = content.clientWidth - padL - padR;
+      colW = (contentArea - colGap) / 2;
 
-      var totalCols = Math.max(1, Math.round((totalW + colGap) / (colW + colGap)));
+      var totalColumnsArea = content.scrollWidth - padL - padR;
+      var totalCols = Math.max(1, Math.round((totalColumnsArea + colGap) / (colW + colGap)));
       totalSpreads = Math.max(1, Math.ceil(totalCols / 2));
 
       if (currentSpread >= totalSpreads) currentSpread = totalSpreads - 1;
@@ -1049,7 +1288,8 @@ ${chapterHtml.join("\n")}
         content.style.transition = 'transform 0.35s ease';
       }
 
-      pageNumEl.textContent = (currentSpread + 1) + ' / ' + totalSpreads;
+      var hasMore = document.querySelector('.chapter-chunk');
+      pageNumEl.textContent = (currentSpread + 1) + ' / ' + totalSpreads + (hasMore ? '+' : '');
       prevBtn.disabled = currentSpread === 0;
       nextBtn.disabled = currentSpread >= totalSpreads - 1;
 
@@ -1059,6 +1299,10 @@ ${chapterHtml.join("\n")}
         activeWord = null;
       }
       popover.classList.remove('visible');
+
+      // Preload nearby chunks and maps
+      checkChunks();
+      checkMaps();
     }
 
     function nextSpread() {
@@ -1077,10 +1321,12 @@ ${chapterHtml.join("\n")}
     buttons.forEach(function(btn) {
       btn.addEventListener('click', function() {
         var mode = btn.dataset.mode;
-        buttons.forEach(function(b) { b.classList.remove('active'); });
+        if (!mode) return; // night toggle
+        buttons.forEach(function(b) { if (b.dataset.mode) b.classList.remove('active'); });
         btn.classList.add('active');
-        verseViews.forEach(function(el) { el.hidden = mode === 'para'; });
-        paraViews.forEach(function(el) { el.hidden = mode === 'verse'; });
+        // Apply to ALL verse/para views (including lazy-loaded ones)
+        document.querySelectorAll('.verse-view').forEach(function(el) { el.hidden = mode === 'para'; });
+        document.querySelectorAll('.para-view').forEach(function(el) { el.hidden = mode === 'verse'; });
         currentSpread = 0;
         requestAnimationFrame(recalcPagination);
       });
@@ -1112,19 +1358,18 @@ ${chapterHtml.join("\n")}
     var activeWord = null;
 
     function isWordVisible(word) {
+      if (isMobile()) return true;
       var wr = word.getBoundingClientRect();
       var vr = viewportEl.getBoundingClientRect();
-      // Check the word is substantially within the viewport
       return wr.right > vr.left + 5 && wr.left < vr.right - 5 &&
              wr.bottom > vr.top + 5 && wr.top < vr.bottom - 5;
     }
 
-    function buildPopoverContent(word) {
-      var pronunciation = word.dataset.t;
+    function buildPopoverContent(wd, word) {
+      var pronunciation = wd.t;
       var chars = Array.from(word.textContent);
       var sepChar = '\\u{1091F}';
-
-      var definition = word.dataset.d;
+      var definition = wd.d;
       var speaker = word.dataset.speaker;
 
       var h = '';
@@ -1158,6 +1403,50 @@ ${chapterHtml.join("\n")}
       return h;
     }
 
+    function positionPopover(word) {
+      var rect = word.getBoundingClientRect();
+      // First pass: place to measure
+      popover.style.top = '0px';
+      popover.style.left = '0px';
+      var popRect = popover.getBoundingClientRect();
+      // Center horizontally on the word
+      var left = rect.left + (rect.width - popRect.width) / 2;
+      if (left < 8) left = 8;
+      var maxLeft = window.innerWidth - popRect.width - 8;
+      if (left > maxLeft) left = maxLeft;
+      var top = rect.bottom + 8;
+      // If it would go off the bottom, try above
+      if (top + popRect.height + 8 > window.innerHeight) {
+        top = rect.top - popRect.height - 8;
+      }
+      popover.style.top = top + 'px';
+      popover.style.left = left + 'px';
+    }
+
+    function showPopover(word) {
+      if (wordDataCache) {
+        var wd = wordDataCache[word.dataset.w];
+        if (wd) {
+          popover.innerHTML = buildPopoverContent(wd, word);
+          popover.classList.add('visible');
+          positionPopover(word);
+        }
+      } else {
+        popover.innerHTML = '<div style="padding:0.5em;color:#999;font-size:13px">Loading\\u2026</div>';
+        popover.classList.add('visible');
+        positionPopover(word);
+        loadWordData().then(function(data) {
+          if (activeWord === word) {
+            var wd = data[word.dataset.w];
+            if (wd) {
+              popover.innerHTML = buildPopoverContent(wd, word);
+              positionPopover(word);
+            }
+          }
+        });
+      }
+    }
+
     document.addEventListener('click', function(e) {
       var word = e.target.closest('.word');
 
@@ -1174,36 +1463,10 @@ ${chapterHtml.join("\n")}
         activeWord.classList.remove('active');
       }
 
-      if (word && word.dataset.t && isWordVisible(word)) {
+      if (word && word.dataset.w !== undefined && isWordVisible(word)) {
         word.classList.add('active');
         activeWord = word;
-
-        popover.innerHTML = buildPopoverContent(word);
-        popover.classList.add('visible');
-
-        // Position below the word (fixed positioning)
-        var rect = word.getBoundingClientRect();
-
-        // First pass: place to measure
-        popover.style.top = '0px';
-        popover.style.left = '0px';
-        var popRect = popover.getBoundingClientRect();
-
-        // Center horizontally on the word
-        var left = rect.left + (rect.width - popRect.width) / 2;
-        if (left < 8) left = 8;
-        var maxLeft = window.innerWidth - popRect.width - 8;
-        if (left > maxLeft) left = maxLeft;
-
-        var top = rect.bottom + 8;
-
-        // If it would go off the bottom, try above
-        if (top + popRect.height + 8 > window.innerHeight) {
-          top = rect.top - popRect.height - 8;
-        }
-
-        popover.style.top = top + 'px';
-        popover.style.left = left + 'px';
+        showPopover(word);
       } else {
         popover.classList.remove('visible');
         activeWord = null;
@@ -1222,8 +1485,47 @@ ${chapterHtml.join("\n")}
       nightBtn.textContent = document.body.classList.contains('night') ? 'Day' : 'Night';
     });
 
+    /* ── Mobile IntersectionObserver ── */
+    var mapObserver, chunkObserver;
+
+    function observeNewContent() {
+      if (!isMobile()) return;
+      document.querySelectorAll('.map-page[data-map]:not([data-loaded])').forEach(function(el) {
+        mapObserver.observe(el);
+      });
+      document.querySelectorAll('.chapter-chunk:not(.chunk-loading)').forEach(function(el) {
+        chunkObserver.observe(el);
+      });
+    }
+
+    function setupMobileObservers() {
+      if (!isMobile()) return;
+      mapObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting && !entry.target.dataset.loaded) {
+            loadMap(entry.target);
+          }
+        });
+      }, { rootMargin: '500px' });
+
+      chunkObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting && !entry.target.classList.contains('chunk-loading')) {
+            loadChunk(entry.target);
+            chunkObserver.unobserve(entry.target);
+          }
+        });
+      }, { rootMargin: '1000px' });
+
+      observeNewContent();
+    }
+
     /* ── Initialize ── */
-    requestAnimationFrame(recalcPagination);
+    requestAnimationFrame(function() {
+      recalcPagination();
+      checkMaps();
+      setupMobileObservers();
+    });
   </script>
 </body>
 </html>
@@ -1231,4 +1533,26 @@ ${chapterHtml.join("\n")}
 
 const outPath = path.join(bookDir, "output/old-hebrew.html");
 await Bun.write(outPath, html);
-console.log(`Wrote ${verses.length} verses across ${chapters.size} chapters to ${outPath}`);
+
+const htmlSize = (Buffer.byteLength(html) / 1024).toFixed(0);
+console.log(`Wrote shell HTML (${htmlSize}KB) to ${outPath}`);
+console.log(`  ${verses.length} verses across ${chapters.size} chapters`);
+console.log(`  First chunk: chapters ${chunkRanges[0][0]}-${chunkRanges[0][1]} (inline)`);
+if (chunkRanges.length > 1) {
+  console.log(`  Lazy chunks: ${chunkRanges.slice(1).map(([s,e]) => chunkName(s,e)).join(', ')}`);
+}
+
+// ── Deploy to project root for GitHub Pages ──
+const projectRoot = path.resolve(bookDir, "../..");
+const deployHtml = path.join(projectRoot, "index.html");
+const deployAssets = path.join(projectRoot, "assets");
+
+await Bun.write(deployHtml, html);
+
+// Copy assets directory to project root
+const { execSync } = await import("child_process");
+execSync(`rm -rf "${deployAssets}" && cp -r "${assetsDir}" "${deployAssets}"`);
+
+console.log(`\nDeployed to project root:`);
+console.log(`  ${deployHtml}`);
+console.log(`  ${deployAssets}/`);

@@ -20,7 +20,7 @@ const TILE_URLS: Record<string, string> = {
   osm: "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
 };
 
-const MAX_ZOOM = 7;
+const MAX_ZOOM = 10;
 
 if (!TILE_URLS[tileSource]) {
   console.error(`Unknown tile source: ${tileSource}. Use: satellite, nolabels, or osm`);
@@ -57,6 +57,7 @@ interface Journey {
   traveler: string;
   description: string;
   waypoints: Waypoint[];
+  zoom?: number;
 }
 
 const gazetteer: { locations: Location[] } = await Bun.file(
@@ -100,13 +101,15 @@ interface BBox {
   maxLon: number;
 }
 
-function fitZoom(bounds: BBox, targetW: number, targetH: number): number {
-  for (let z = MAX_ZOOM; z >= 1; z--) {
+const INDEX_MAX_ZOOM = 7; // index overview maps stay more zoomed out
+
+function fitZoom(bounds: BBox, targetW: number, targetH: number, maxZoom: number = MAX_ZOOM): number {
+  for (let z = maxZoom; z >= 1; z--) {
     const tl = latLonToPixel(bounds.maxLat, bounds.minLon, z);
     const br = latLonToPixel(bounds.minLat, bounds.maxLon, z);
     const w = br.px - tl.px;
     const h = br.py - tl.py;
-    if (w <= targetW * 0.85 && h <= targetH * 0.85) return z;
+    if (w <= targetW * 0.95 && h <= targetH * 0.95) return z;
   }
   return 1;
 }
@@ -120,8 +123,8 @@ function computeBBox(coords: { lat: number; lon: number }[]): BBox {
     if (c.lon > maxLon) maxLon = c.lon;
   }
   // Add padding (15%)
-  const latPad = (maxLat - minLat) * 0.15 || 0.5;
-  const lonPad = (maxLon - minLon) * 0.15 || 0.5;
+  const latPad = (maxLat - minLat) * 0.08 || 0.3;
+  const lonPad = (maxLon - minLon) * 0.08 || 0.3;
   return {
     minLat: minLat - latPad,
     maxLat: maxLat + latPad,
@@ -172,8 +175,9 @@ async function fetchTile(z: number, x: number, y: number): Promise<Buffer> {
 // ─── SVG generation ─────────────────────────────────────────────────────────
 
 const MAP_W = 760;
-const BASE_MAP_H = 780;
-const TITLE_LINE_H = 22;
+const BASE_MAP_H = 1200; // portrait aspect ratio for all maps
+const INDEX_MAP_H = 1200; // index overview maps (same height)
+const TITLE_LINE_H = 26;
 const TITLE_PAD = 14; // top + bottom padding for title bar
 const ATTR_H = 18;
 
@@ -236,14 +240,16 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
   if (allCoords.length === 0) return null;
 
   // Wrap title and compute dynamic title height
-  const titleLines = wrapTitle(spec.title, MAP_W - 60, 18);
+  const titleLines = wrapTitle(spec.title, MAP_W - 60, 22);
   const TITLE_H = TITLE_PAD + titleLines.length * TITLE_LINE_H;
   const MAP_H = BASE_MAP_H + (titleLines.length - 1) * TITLE_LINE_H; // grow map if title is multi-line
 
   // Compute bounds and zoom
   const bbox = computeBBox(allCoords);
   const mapContentH = MAP_H - TITLE_H - ATTR_H;
-  const zoom = fitZoom(bbox, MAP_W, mapContentH);
+  // Use explicit zoom from journey if set, otherwise auto-fit
+  const journeyZooms = journeyObjs.map(j => j.zoom).filter(z => z !== undefined) as number[];
+  const zoom = journeyZooms.length > 0 ? Math.min(...journeyZooms) : fitZoom(bbox, MAP_W, mapContentH);
 
   // Compute pixel origin (top-left of the map area)
   const centerLat = (bbox.minLat + bbox.maxLat) / 2;
@@ -303,7 +309,7 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
     journeyColors.push(color);
     const arrowId = `arrow-${spec.id}-${ji}`;
     arrowDefs.push(
-      `    <marker id="${arrowId}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">\n      <path d="M 0 0 L 10 5 L 0 10 z" fill="${color}"/>\n    </marker>`
+      `    <marker id="${arrowId}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">\n      <path d="M 0 0 L 10 5 L 0 10 z" fill="${color}"/>\n    </marker>`
     );
     const points: string[] = [];
     for (const wp of j.waypoints) {
@@ -316,7 +322,7 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
     }
     if (points.length >= 2) {
       routeSvg.push(
-        `    <polyline points="${points.join(" ")}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-mid="url(#${arrowId})" marker-end="url(#${arrowId})"/>`
+        `    <polyline points="${points.join(" ")}" fill="none" stroke="${color}" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" marker-mid="url(#${arrowId})" marker-end="url(#${arrowId})"/>`
       );
     }
   }
@@ -344,14 +350,14 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
   // Candidate positions relative to marker: [dx, dy, anchor]
   // Each places the label group (hebrew above english) at different offsets from the marker
   const candidateOffsets: Array<{ dx: number; dy: number; anchor: string }> = [
-    { dx: 0, dy: -12, anchor: "middle" },     // above (default)
-    { dx: 0, dy: 26, anchor: "middle" },       // below
-    { dx: 14, dy: -6, anchor: "start" },       // right-above
-    { dx: -14, dy: -6, anchor: "end" },        // left-above
-    { dx: 14, dy: 14, anchor: "start" },       // right-below
-    { dx: -14, dy: 14, anchor: "end" },        // left-below
-    { dx: 0, dy: -32, anchor: "middle" },      // far above
-    { dx: 0, dy: 44, anchor: "middle" },       // far below
+    { dx: 0, dy: -18, anchor: "middle" },     // above (default)
+    { dx: 0, dy: 38, anchor: "middle" },       // below
+    { dx: 20, dy: -10, anchor: "start" },      // right-above
+    { dx: -20, dy: -10, anchor: "end" },       // left-above
+    { dx: 20, dy: 22, anchor: "start" },       // right-below
+    { dx: -20, dy: 22, anchor: "end" },        // left-below
+    { dx: 0, dy: -48, anchor: "middle" },      // far above
+    { dx: 0, dy: 62, anchor: "middle" },       // far below
   ];
 
   // Get bounding rect for a label group at a candidate position
@@ -360,10 +366,10 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
     hebrewText: string, englishText: string,
     offset: { dx: number; dy: number; anchor: string }
   ): Rect {
-    const hebrewW = hebrewText ? estimateTextWidth(hebrewText, 15) : 0;
-    const englishW = estimateTextWidth(englishText, 12);
-    const totalW = Math.max(hebrewW, englishW) + 8; // padding
-    const totalH = hebrewText ? 36 : 18; // two lines or one
+    const hebrewW = hebrewText ? estimateTextWidth(hebrewText, 26) : 0;
+    const englishW = estimateTextWidth(englishText, 21);
+    const totalW = Math.max(hebrewW, englishW) + 12; // padding
+    const totalH = hebrewText ? 58 : 28; // two lines or one
 
     let cx = markerX + offset.dx;
     let baseY = markerY + offset.dy;
@@ -390,14 +396,14 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
     if (!loc) continue;
     const { x, y } = toSvgXY(loc.lat, loc.lon);
     markerPositions.push({ id: coord.id, x, y });
-    occupiedRects.push({ x: x - 6, y: y - 6, w: 12, h: 12 }); // marker dot
+    occupiedRects.push({ x: x - 10, y: y - 10, w: 20, h: 20 }); // marker dot
   }
 
   // Generate markers
   const markerSvg: string[] = [];
   for (const mp of markerPositions) {
     markerSvg.push(
-      `    <circle cx="${mp.x.toFixed(1)}" cy="${mp.y.toFixed(1)}" r="5.5" fill="${markerFill}" stroke="${markerStroke}" stroke-width="2"/>`
+      `    <circle cx="${mp.x.toFixed(1)}" cy="${mp.y.toFixed(1)}" r="7" fill="${markerFill}" stroke="${markerStroke}" stroke-width="2.5"/>`
     );
   }
 
@@ -441,15 +447,15 @@ async function generateMapSvg(spec: MapSpec): Promise<{ svg: string; journeyColo
     const anchor = bestOffset.anchor;
 
     if (hebrewLabel) {
-      const hy = mp.y + bestOffset.dy - 2;
+      const hy = mp.y + bestOffset.dy - 4;
       labelSvg.push(
-        `    <text x="${lx.toFixed(1)}" y="${hy.toFixed(1)}" text-anchor="${anchor}" font-family="'Noto Sans Phoenician', 'Segoe UI Historic', serif" font-size="15" fill="${hebrewFill}" stroke="${hebrewStroke}" stroke-width="4" paint-order="stroke">${escSvg(hebrewLabel)}</text>`
+        `    <text x="${lx.toFixed(1)}" y="${hy.toFixed(1)}" text-anchor="${anchor}" font-family="'Noto Sans Phoenician', 'Segoe UI Historic', serif" font-size="26" fill="${hebrewFill}" stroke="${hebrewStroke}" stroke-width="5" paint-order="stroke">${escSvg(hebrewLabel)}</text>`
       );
     }
 
-    const ey = mp.y + bestOffset.dy + (hebrewLabel ? 16 : 0);
+    const ey = mp.y + bestOffset.dy + (hebrewLabel ? 26 : 0);
     labelSvg.push(
-      `    <text x="${lx.toFixed(1)}" y="${ey.toFixed(1)}" text-anchor="${anchor}" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="${englishFill}" stroke="${englishStroke}" stroke-width="4" paint-order="stroke">${escSvg(loc.name)}</text>`
+      `    <text x="${lx.toFixed(1)}" y="${ey.toFixed(1)}" text-anchor="${anchor}" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="${englishFill}" stroke="${englishStroke}" stroke-width="5" paint-order="stroke">${escSvg(loc.name)}</text>`
     );
   }
 
@@ -463,7 +469,7 @@ ${arrowDefs.join("\n")}
   </defs>
   <!-- Title bar -->
   <rect x="0" y="0" width="${MAP_W}" height="${TITLE_H}" fill="#faf8f4"/>
-  <text x="${MAP_W / 2}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="bold" fill="#1a1a1a">
+  <text x="${MAP_W / 2}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#1a1a1a">
 ${titleLines.map((line, i) => `    <tspan x="${MAP_W / 2}" y="${TITLE_PAD / 2 + 16 + i * TITLE_LINE_H}">${escSvg(line)}</tspan>`).join("\n")}
   </text>
   <line x1="20" y1="${TITLE_H - 2}" x2="${MAP_W - 20}" y2="${TITLE_H - 2}" stroke="#d5d0c8" stroke-width="0.5"/>
@@ -480,6 +486,170 @@ ${markerSvg.join("\n")}
   <!-- Labels -->
 ${labelSvg.join("\n")}
   <!-- Attribution -->
+  <text x="${MAP_W - 5}" y="${MAP_H - 4}" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#999">Map data \u00A9 OpenStreetMap contributors</text>
+</svg>`;
+
+  return { svg, journeyColors };
+}
+
+// ─── Index SVG for multi-journey maps ────────────────────────────────────────
+
+async function generateIndexSvg(spec: MapSpec): Promise<{ svg: string; journeyColors: string[] } | null> {
+  const allCoords: { lat: number; lon: number; id: string }[] = [];
+  const journeyObjs: Journey[] = [];
+
+  for (const locId of spec.locations) {
+    const loc = locLookup.get(locId);
+    if (loc) allCoords.push({ lat: loc.lat, lon: loc.lon, id: loc.id });
+  }
+
+  for (const jId of spec.journeys) {
+    const j = journeysData.journeys.find((jj) => jj.id === jId);
+    if (!j) continue;
+    journeyObjs.push(j);
+    for (const wp of j.waypoints) {
+      const loc = locLookup.get(wp.location);
+      if (loc && !allCoords.find((c) => c.id === loc.id)) {
+        allCoords.push({ lat: loc.lat, lon: loc.lon, id: loc.id });
+      }
+    }
+  }
+
+  if (allCoords.length === 0) return null;
+
+  const titleLines = wrapTitle(spec.title, MAP_W - 60, 22);
+  const TITLE_H = TITLE_PAD + titleLines.length * TITLE_LINE_H;
+  const MAP_H = INDEX_MAP_H + (titleLines.length - 1) * TITLE_LINE_H;
+
+  const bbox = computeBBox(allCoords);
+  const mapContentH = MAP_H - TITLE_H - ATTR_H;
+  const journeyZooms = journeyObjs.map(j => j.zoom).filter(z => z !== undefined) as number[];
+  const zoom = journeyZooms.length > 0 ? Math.min(...journeyZooms) : fitZoom(bbox, MAP_W, mapContentH, INDEX_MAX_ZOOM);
+
+  const centerLat = (bbox.minLat + bbox.maxLat) / 2;
+  const centerLon = (bbox.minLon + bbox.maxLon) / 2;
+  const centerPx = latLonToPixel(centerLat, centerLon, zoom);
+  const originPx = centerPx.px - MAP_W / 2;
+  const originPy = centerPx.py - mapContentH / 2;
+
+  const tileMinX = Math.floor(originPx / TILE_SIZE);
+  const tileMaxX = Math.floor((originPx + MAP_W) / TILE_SIZE);
+  const tileMinY = Math.floor(originPy / TILE_SIZE);
+  const tileMaxY = Math.floor((originPy + mapContentH) / TILE_SIZE);
+
+  const tileImages: string[] = [];
+  for (let ty = tileMinY; ty <= tileMaxY; ty++) {
+    for (let tx = tileMinX; tx <= tileMaxX; tx++) {
+      const buf = await fetchTile(zoom, tx, ty);
+      if (buf.length === 0) continue;
+      const b64 = buf.toString("base64");
+      const imgX = tx * TILE_SIZE - originPx;
+      const imgY = ty * TILE_SIZE - originPy + TITLE_H;
+      tileImages.push(
+        `    <image href="data:image/png;base64,${b64}" x="${imgX}" y="${imgY}" width="${TILE_SIZE}" height="${TILE_SIZE}"/>`
+      );
+    }
+  }
+
+  function toSvgXY(lat: number, lon: number): { x: number; y: number } {
+    const p = latLonToPixel(lat, lon, zoom);
+    return { x: p.px - originPx, y: p.py - originPy + TITLE_H };
+  }
+
+  const isSatellite = tileSource === "satellite";
+  const routePalette = isSatellite
+    ? ["#FFD700", "#FF6B6B", "#7FDBFF", "#2ECC40", "#FF851B", "#F012BE", "#01FF70"]
+    : ["#8B0000", "#1a5276", "#7d6608", "#1e8449", "#6c3483", "#b9770e", "#2e4053"];
+
+  // Thin route preview lines + clickable journey cards
+  const routeSvg: string[] = [];
+  const cardSvg: string[] = [];
+  const journeyColors: string[] = [];
+  const placedCards: Array<{ x: number; y: number; w: number; h: number }> = [];
+
+  for (let ji = 0; ji < journeyObjs.length; ji++) {
+    const j = journeyObjs[ji];
+    const color = routePalette[ji % routePalette.length];
+    journeyColors.push(color);
+
+    // Thin route preview
+    const points: string[] = [];
+    for (const wp of j.waypoints) {
+      const loc = locLookup.get(wp.location);
+      if (!loc) continue;
+      const { x, y } = toSvgXY(loc.lat, loc.lon);
+      const pt = `${x.toFixed(1)},${y.toFixed(1)}`;
+      if (pt !== points[points.length - 1]) points.push(pt);
+    }
+    if (points.length >= 2) {
+      routeSvg.push(
+        `    <polyline points="${points.join(" ")}" fill="none" stroke="${color}" stroke-width="2" stroke-opacity="0.4" stroke-linecap="round" stroke-linejoin="round"/>`
+      );
+    }
+
+    // Centroid of journey waypoints
+    let sumX = 0, sumY = 0, count = 0;
+    for (const wp of j.waypoints) {
+      const loc = locLookup.get(wp.location);
+      if (!loc) continue;
+      const { x, y } = toSvgXY(loc.lat, loc.lon);
+      sumX += x; sumY += y; count++;
+    }
+    if (count === 0) continue;
+    const cx = sumX / count;
+    const cy = sumY / count;
+
+    // Card label
+    const travelerName = j.traveler.charAt(0).toUpperCase() + j.traveler.slice(1).replace(/-/g, " ");
+    const descLines = wrapTitle(j.description, 420, 26);
+    if (descLines.length > 2) descLines.length = 2;
+
+    const CARD_W = 460;
+    const LINE_H = 34;
+    const CARD_H = 52 + descLines.length * LINE_H;
+
+    // Position card at centroid, clamp to map bounds
+    let rx = cx - CARD_W / 2;
+    let ry = cy - CARD_H / 2;
+    if (rx < 4) rx = 4;
+    if (rx + CARD_W > MAP_W - 4) rx = MAP_W - CARD_W - 4;
+    if (ry < TITLE_H + 4) ry = TITLE_H + 4;
+    if (ry + CARD_H > MAP_H - ATTR_H - CARD_H - 4) ry = MAP_H - ATTR_H - CARD_H - 4;
+
+    // Nudge down if overlapping a previous card
+    for (const pr of placedCards) {
+      const overlap = !(rx + CARD_W < pr.x || rx > pr.x + pr.w || ry + CARD_H < pr.y || ry > pr.y + pr.h);
+      if (overlap) ry = pr.y + pr.h + 8;
+    }
+    placedCards.push({ x: rx, y: ry, w: CARD_W, h: CARD_H });
+
+    // Draw clickable card
+    cardSvg.push(`    <g data-journey="${j.id}" style="cursor:pointer">`);
+    cardSvg.push(`      <rect x="${rx}" y="${ry}" width="${CARD_W}" height="${CARD_H}" rx="10" ry="10" fill="rgba(0,0,0,0.6)" stroke="${color}" stroke-width="3"/>`);
+    cardSvg.push(`      <text x="${rx + CARD_W / 2}" y="${ry + 40}" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="bold" fill="${color}">${escSvg(travelerName)}</text>`);
+    for (let li = 0; li < descLines.length; li++) {
+      cardSvg.push(`      <text x="${rx + CARD_W / 2}" y="${ry + 40 + (li + 1) * LINE_H}" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#ddd">${escSvg(descLines[li])}</text>`);
+    }
+    cardSvg.push(`    </g>`);
+  }
+
+  const svg = `<svg viewBox="0 0 ${MAP_W} ${MAP_H}" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width:100%;height:auto;">
+  <defs>
+    <clipPath id="mapclip-${spec.id}">
+      <rect x="0" y="${TITLE_H}" width="${MAP_W}" height="${mapContentH}"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="${MAP_W}" height="${TITLE_H}" fill="#faf8f4"/>
+  <text x="${MAP_W / 2}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#1a1a1a">
+${titleLines.map((line, i) => `    <tspan x="${MAP_W / 2}" y="${TITLE_PAD / 2 + 16 + i * TITLE_LINE_H}">${escSvg(line)}</tspan>`).join("\n")}
+  </text>
+  <line x1="20" y1="${TITLE_H - 2}" x2="${MAP_W - 20}" y2="${TITLE_H - 2}" stroke="#d5d0c8" stroke-width="0.5"/>
+  <g clip-path="url(#mapclip-${spec.id})">
+${tileImages.join("\n")}
+    <rect x="0" y="${TITLE_H}" width="${MAP_W}" height="${mapContentH}" fill="${isSatellite ? "rgba(0,0,0,0.25)" : "rgba(255,255,255,0.1)"}"/>
+  </g>
+${routeSvg.join("\n")}
+${cardSvg.join("\n")}
   <text x="${MAP_W - 5}" y="${MAP_H - 4}" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#999">Map data \u00A9 OpenStreetMap contributors</text>
 </svg>`;
 
@@ -575,33 +745,58 @@ interface MapOutput {
   insertBefore: number;
   svg: string;
   caption: { traveler: string; description: string; color: string }[];
+  details?: Record<string, string>;
 }
 
 const mapsOutput: MapOutput[] = [];
 
 for (const spec of mapPlan) {
   console.log(`Generating map: ${spec.id}...`);
-  const result = await generateMapSvg(spec);
-  if (result) {
-    // Build caption from journey details with route colors
+
+  function buildCaption(journeyIds: string[], colors: string[]): { traveler: string; description: string; color: string }[] {
     const caption: { traveler: string; description: string; color: string }[] = [];
     let ci = 0;
-    for (const jId of spec.journeys) {
+    for (const jId of journeyIds) {
       const j = journeysData.journeys.find((jj) => jj.id === jId);
       if (j) {
         const traveler = j.traveler.charAt(0).toUpperCase() + j.traveler.slice(1).replace(/-/g, " ");
-        caption.push({ traveler, description: j.description, color: result.journeyColors[ci] || "#888" });
+        caption.push({ traveler, description: j.description, color: colors[ci] || "#888" });
       }
       ci++;
     }
-    mapsOutput.push({
-      id: spec.id,
-      title: spec.title,
-      insertBefore: spec.insertBefore,
-      svg: result.svg,
-      caption,
-    });
+    return caption;
   }
+
+  // All maps use index+detail pattern: zoomed-out overview with clickable cards,
+  // click to zoom into individual journey detail
+  const indexResult = await generateIndexSvg(spec);
+  if (!indexResult) continue;
+
+  const details: Record<string, string> = {};
+  for (const jId of spec.journeys) {
+    const j = journeysData.journeys.find((jj) => jj.id === jId);
+    if (!j) continue;
+    const locs = [...new Set(j.waypoints.map((wp) => wp.location))];
+    const detailSpec: MapSpec = {
+      id: `${spec.id}--${jId}`,
+      title: j.description,
+      insertBefore: spec.insertBefore,
+      journeys: [jId],
+      locations: locs,
+    };
+    console.log(`  detail: ${jId}`);
+    const detailResult = await generateMapSvg(detailSpec);
+    if (detailResult) details[jId] = detailResult.svg;
+  }
+
+  mapsOutput.push({
+    id: spec.id,
+    title: spec.title,
+    insertBefore: spec.insertBefore,
+    svg: indexResult.svg,
+    caption: buildCaption(spec.journeys, indexResult.journeyColors),
+    details,
+  });
 }
 
 // Write output
